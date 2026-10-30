@@ -1,11 +1,14 @@
 name: daily-nba
 on:
   schedule:
-    - cron: "30 13 * * *"   # 8:30 AM CT: pull box scores + grade yesterday
+    - cron: "30 13 * * *"   # 8:30 AM CT: grade yesterday's card
   workflow_dispatch:
     inputs:
-      date: {description: "slate date YYYY-MM-DD (builds card if lines are committed)", required: false}
+      date: {description: "slate date YYYY-MM-DD (needs slate/MMDD/lines.json + props_p1.txt committed)", required: false}
+      test: {description: "test mode: build that date's card AND grade it, without touching graded_log", type: boolean, default: false}
 permissions: {contents: write}
+env:
+  NBA_DATA: ${{ github.workspace }}/repo/nba
 jobs:
   run:
     runs-on: ubuntu-latest
@@ -17,13 +20,18 @@ jobs:
       - name: hoopR data
         run: |
           git clone --depth 1 --filter=blob:none --no-checkout https://github.com/sportsdataverse/hoopr-nba-data repo
-          cd repo && git checkout HEAD -- nba/player_box/parquet/player_box_2027.parquet nba/player_box/parquet/player_box_2026.parquet nba/team_box/parquet nba/schedules/parquet/nba_schedule_2027.parquet nba/rosters/parquet/rosters_2027.parquet nba/pbp/parquet/play_by_play_2027.parquet
+          cd repo && git checkout HEAD -- nba/player_box/parquet/player_box_2025.parquet nba/player_box/parquet/player_box_2026.parquet nba/player_box/parquet/player_box_2027.parquet nba/team_box/parquet/team_box_2025.parquet nba/team_box/parquet/team_box_2026.parquet nba/team_box/parquet/team_box_2027.parquet nba/schedules/parquet/nba_schedule_2027.parquet nba/rosters/parquet/rosters_2027.parquet
       - name: grade yesterday
+        if: ${{ github.event_name == 'schedule' }}
         run: python3 grade_day.py $(TZ=America/Chicago date -d yesterday +%F) || true
-      - name: build card (manual run with date)
+      - name: build card
         if: ${{ github.event.inputs.date != '' }}
         run: python3 run_day.py ${{ github.event.inputs.date }}
+      - name: test grade
+        if: ${{ github.event.inputs.test == 'true' }}
+        run: python3 grade_day.py ${{ github.event.inputs.date }} --no-log
       - name: commit results
+        if: ${{ github.event.inputs.test != 'true' }}
         run: |
           git config user.name "nba-bot"; git config user.email "nba-bot@users.noreply.github.com"
           git add graded_log.csv slate || true

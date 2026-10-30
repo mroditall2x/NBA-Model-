@@ -1,0 +1,66 @@
+game,team,player,stat,tier,line,side,p,mean,min,gap,where
+SA@UTAH,SA,Stephon Castle,AST,goblin,3.5,More,0.911,7.32,30.0,0.6,PrizePicks (goblin)
+DEN@NO,DEN,Nikola Jokić,PRA,goblin,34.5,More,0.884,48.63,37.2,0.8,PrizePicks (goblin)
+NY@CHI,NY,Jalen Brunson,RA,goblin,6.5,More,0.881,10.63,34.4,0.4,PrizePicks (goblin)
+MIA@ATL,ATL,Dyson Daniels,AST,goblin,2.5,More,0.881,5.43,29.7,0.7,PrizePicks (goblin)
+MIA@ATL,MIA,Pelle Larsson,PR,goblin,7.5,More,0.88,14.88,29.3,0.3,PrizePicks (goblin)
+MIA@ATL,MIA,Bam Adebayo,REB,goblin,5.5,More,0.868,9.32,31.1,-1.1,PrizePicks (goblin)
+NY@CHI,NY,Karl-Anthony Towns,PR,goblin,24.5,More,0.866,34.5,32.5,2.7,PrizePicks (goblin)
+SA@UTAH,UTAH,Keyonte George,AST,goblin,3.5,More,0.865,6.76,35.5,-1.7,PrizePicks (goblin)
+DEN@NO,DEN,Nikola Jokić,PA,goblin,24.5,More,0.864,35.83,37.2,0.8,PrizePicks (goblin)
+MIA@ATL,ATL,CJ McCollum,RA,goblin,3.5,More,0.863,6.63,26.2,-1.3,PrizePicks (goblin)
+MIA@ATL,ATL,CJ McCollum,AST,goblin,1.5,More,0.861,3.76,26.2,-1.3,PrizePicks (goblin)
+ORL@TOR,TOR,Jamal Shead,RA,goblin,3.5,More,0.858,6.68,22.9,-1.1,PrizePicks (goblin)
+SA@UTAH,UTAH,Keyonte George,RA,goblin,6.5,More,0.856,10.86,35.5,-1.7,PrizePicks (goblin)
+MIA@ATL,MIA,Pelle Larsson,REB,goblin,1.5,More,0.855,3.79,29.3,0.3,PrizePicks (goblin)
+ORL@TOR,TOR,Scottie Barnes,AST,goblin,3.5,More,0.853,6.29,36.2,2.9,PrizePicks (goblin)
+OKC@DAL,OKC,Ajay Mitchell,RA,goblin,5.5,More,0.853,9.06,37.3,0.6,PrizePicks (goblin)
+MIA@ATL,ATL,Dyson Daniels,RA,goblin,7.5,More,0.851,11.56,29.7,0.7,PrizePicks (goblin)
+SA@UTAH,SA,Stephon Castle,RA,goblin,8.5,More,0.85,12.78,30.0,0.6,PrizePicks (goblin)
+MIA@ATL,MIA,Davion Mitchell,RA,goblin,6.5,More,0.849,10.28,33.1,2.2,PrizePicks (goblin)
+MIA@ATL,ATL,Jalen Johnson,AST,goblin,4.5,More,0.848,7.62,33.7,2.3,PrizePicks (goblin)
+ORL@TOR,TOR,Scottie Barnes,RA,goblin,9.5,More,0.848,13.74,36.2,2.9,PrizePicks (goblin)
+GS@MIN,GS,Stephen Curry,RA,goblin,4.5,More,0.848,7.69,28.4,3.9,PrizePicks (goblin)
+CHA@DET,CHA,Brandon Miller,REB,goblin,2.5,More,0.847,5.04,34.2,3.1,PrizePicks (goblin)
+NY@CHI,NY,Karl-Anthony Towns,RA,goblin,11.5,More,0.847,16.1,32.5,2.7,PrizePicks (goblin)
+WSH@CLE,CLE,Evan Mobley,PR,goblin,19.5,More,0.847,28.31,33.6,-0.1,PrizePicks (goblin)
+SA@UTAH,SA,De'Aaron Fox,PTS,goblin,9.5,More,0.846,17.16,29.9,-0.5,PrizePicks (goblin)
+NY@CHI,NY,Josh Hart,AST,goblin,2.5,More,0.845,4.89,31.4,1.0,PrizePicks (goblin)
+SA@UTAH,UTAH,Ace Bailey,AST,goblin,0.5,More,0.845,2.12,30.5,-0.9,PrizePicks (goblin)
+SA@UTAH,SA,Dylan Harper,AST,goblin,2.5,More,0.843,4.86,30.0,3.9,PrizePicks (goblin)
+ORL@TOR,ORL,Franz Wagner,PR,goblin,21.5,More,0.841,31.34,37.7,0.5,PrizePicks (goblin)
+WSH@CLE,CLE,Jarrett Allen,PR,goblin,15.5,More,0.841,23.05,27.2,0.3,PrizePicks (goblin)
+NY@CHI,NY,Josh Hart,RA,goblin,8.5,More,0.84,12.49,31.4,1.0,PrizePicks (goblin)
+OKC@DAL,DAL,Daniel Gafford,REB,standard,3.5,More,0.7286,7.1,21.6,1.7,Kalshi / Underdog
+SA@UTAH,SA,Devin Vassell,AST,standard,3.5,Less,0.6608,2.39,30.2,-0.5,Kalshi / Underdog
+ORL@TOR,TOR,Jamal Shead,REB,standard,2.5,Less,0.6577999999999999,1.65,22.9,-1.1,Kalshi / Underdog
+ORL@TOR,ORL,Franz Wagner,AST,standard,6.0,Less,0.6512,4.71,37.7,0.5,PrizePicks / Underdog
+SA@UTAH,SA,Devin Vassell,RA,standard,8.0,Less,0.6446,6.53,30.2,-0.5,PrizePicks / Underdog
+WSH@CLE,WSH,Alex Sarr,AST,standard,2.5,Less,0.6362,1.8,25.3,-3.3,Kalshi / Underdog
+HOU@MIL,MIL,Myles Turner,RA,standard,7.5,Less,0.6308,6.06,26.3,-1.4,Kalshi / Underdog
+HOU@MIL,MIL,Kyle Kuzma,REB,standard,5.5,Less,0.62,4.43,29.1,1.6,Kalshi / Underdog
+DEN@NO,NO,Jeremiah Fears,REB,standard,3.5,Less,0.6182,2.71,21.4,0.8,Kalshi / Underdog
+OKC@DAL,DAL,Daniel Gafford,AST,standard,1.5,Less,0.6182,1.13,21.6,1.7,Kalshi / Underdog
+PHI@IND,IND,Pascal Siakam,AST,standard,3.5,Less,0.6122000000000001,2.8,30.1,-0.4,Kalshi / Underdog
+HOU@MIL,MIL,Kyle Kuzma,RA,standard,8.5,Less,0.608,7.22,29.1,1.6,Kalshi / Underdog
+HOU@MIL,HOU,Reed Sheppard,AST,standard,3.5,Less,0.608,2.83,22.1,-1.8,Kalshi / Underdog
+OKC@DAL,DAL,Daniel Gafford,RA,standard,9.5,Less,0.6038,8.23,21.6,1.7,Kalshi / Underdog
+MIA@ATL,ATL,Dyson Daniels,REB,standard,7.0,Less,0.6032000000000001,6.12,29.7,0.7,PrizePicks / Underdog
+DEN@NO,NO,Trey Murphy III,REB,standard,5.0,Less,0.6032000000000001,4.32,31.0,0.5,PrizePicks / Underdog
+HOU@MIL,MIL,Myles Turner,AST,standard,1.5,Less,0.602,1.21,26.3,-1.4,Kalshi / Underdog
+DEN@NO,NO,Jordan Poole,AST,standard,2.5,Less,0.5984,2.05,16.7,-3.8,Kalshi / Underdog
+MIA@ATL,ATL,Jock Landale,REB,standard,5.5,Less,0.5978,4.64,18.6,-0.7,Kalshi / Underdog
+LAL@LAC,LAC,Derrick Jones Jr.,RA,standard,6.5,Less,0.5966,5.59,29.7,-1.2,Kalshi / Underdog
+PHI@IND,IND,Pascal Siakam,RA,standard,10.5,Less,0.593,9.29,30.1,-0.4,Kalshi / Underdog
+OKC@DAL,DAL,Daniel Gafford,PA,standard,11.5,Less,0.5912000000000001,9.93,21.6,1.7,Kalshi / Underdog
+LAL@LAC,LAC,Isaiah Jackson,RA,standard,8.5,Less,0.5906,7.49,20.2,-0.4,Kalshi / Underdog
+PHI@IND,IND,Obi Toppin,RA,standard,7.5,Less,0.5882000000000001,6.6,20.0,0.4,Kalshi / Underdog
+LAL@LAC,LAC,Darius Garland,AST,standard,8.0,Less,0.5876,7.22,32.8,-0.5,PrizePicks / Underdog
+LAL@LAC,LAC,Isaiah Jackson,PR,standard,18.5,Less,0.5846,16.62,20.2,-0.4,Kalshi / Underdog
+LAL@LAC,LAC,Isaiah Jackson,REB,standard,7.0,Less,0.584,6.3,20.2,-0.4,PrizePicks / Underdog
+HOU@MIL,MIL,Myles Turner,REB,standard,5.5,Less,0.5834,4.85,26.3,-1.4,Kalshi / Underdog
+DEN@NO,NO,Trey Murphy III,RA,standard,8.0,Less,0.5828,7.28,31.0,0.5,PrizePicks / Underdog
+LAL@LAC,LAC,Derrick Jones Jr.,AST,standard,1.5,Less,0.5822,1.3,29.7,-1.2,Kalshi / Underdog
+SA@UTAH,SA,De'Aaron Fox,AST,standard,6.5,Less,0.5822,5.79,29.9,-0.5,Kalshi / Underdog
+LAL@LAC,LAC,Darius Garland,RA,standard,11.0,Less,0.581,10.09,32.8,-0.5,PrizePicks / Underdog
+SA@UTAH,SA,De'Aaron Fox,RA,standard,10.5,Less,0.581,9.49,29.9,-0.5,Kalshi / Underdog

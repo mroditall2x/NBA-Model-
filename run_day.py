@@ -6,14 +6,18 @@ import sys, os, json, subprocess, urllib.request
 import pandas as pd
 DATE=sys.argv[1]; MMDD=DATE[5:7]+DATE[8:10]; D=f'slate/{MMDD}'
 def sh(c): print('$',c); subprocess.run(c,shell=True,check=True)
-sh('cd repo && git pull -q')
+if os.path.isdir('repo/.git') and not os.environ.get('CI'): sh('cd repo && git pull -q')
+os.makedirs(D, exist_ok=True)
 # injuries (ESPN public feed) -> outs + questionable
 try:
     j=json.load(urllib.request.urlopen('https://site.api.espn.com/apis/site/v2/sports/basketball/nba/injuries',timeout=30))
     outs=[i['athlete']['displayName'] for t in j['injuries'] for i in t['injuries'] if i['status']=='Out']
     gtd=[i['athlete']['displayName'] for t in j['injuries'] for i in t['injuries'] if i['status']!='Out']
     json.dump(outs,open(f'slate/{DATE}_out.json','w')); json.dump(gtd,open(f'{D}/gtd.json','w'))
-except Exception as e: print('injury feed failed:',e)
+except Exception as e:
+    print('injury feed failed:',e)
+    if not os.path.exists(f'slate/{DATE}_out.json'): json.dump([],open(f'slate/{DATE}_out.json','w'))
+    if not os.path.exists(f'{D}/gtd.json'): json.dump([],open(f'{D}/gtd.json','w'))
 sh(f'python3 auto_minutes.py {DATE} slate/{DATE}_rot_last.json > /dev/null')
 sh(f'python3 rot_blend.py {DATE} 0.6')
 os.environ['NO_OUTGUESS']='1'; os.environ['SAVE_SIM']='1'

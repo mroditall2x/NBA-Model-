@@ -21,4 +21,4 @@ G=C[C.result.isin(['Win','Loss','Push'])].copy(); G['call']=G.side; G['date']=DA
 cols=open('graded_log.csv').readline().strip().split(',')
 for c in cols:
     if c not in G: G[c]=''
-G[cols].to_csv('graded_log.csv',mode='a',header=False,index=False)
+if '--no-log' not in sys.argv: G[cols].to_csv('graded_log.csv',mode='a',header=False,index=False)

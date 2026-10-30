@@ -1,0 +1,208 @@
+{
+ "games": [
+  {
+   "away": "PHI",
+   "home": "IND",
+   "id": "fce59fccc37d6f6ea84815c0e9e5447e855a20a5",
+   "home_spread": 5.5,
+   "spread_odds": [
+    -100,
+    -102
+   ],
+   "ml_home": 190,
+   "ml_away": -190,
+   "total": 235.5,
+   "total_odds": [
+    -104,
+    100
+   ]
+  },
+  {
+   "away": "WSH",
+   "home": "CLE",
+   "id": "746a24bf5b0fd90a1ade6f73f1d7d3627368ba9a",
+   "home_spread": -9.5,
+   "spread_odds": [
+    -106,
+    104
+   ],
+   "ml_home": -344,
+   "ml_away": 345,
+   "total": 239.5,
+   "total_odds": [
+    104,
+    -106
+   ]
+  },
+  {
+   "away": "MIA",
+   "home": "ATL",
+   "id": "120fbd99d89c73e71e6c7bec0c2427ad55401e43",
+   "home_spread": -1.5,
+   "spread_odds": [
+    -111,
+    105
+   ],
+   "ml_home": -124,
+   "ml_away": 122,
+   "total": 241.5,
+   "total_odds": [
+    -102,
+    -100
+   ]
+  },
+  {
+   "away": "CHA",
+   "home": "DET",
+   "id": "b99fe38b71e4dd34acaaac1169464c972a4de181",
+   "home_spread": -7.5,
+   "spread_odds": [
+    -102,
+    102
+   ],
+   "ml_home": -257,
+   "ml_away": 255,
+   "total": 214.5,
+   "total_odds": [
+    102,
+    -104
+   ]
+  },
+  {
+   "away": "ORL",
+   "home": "TOR",
+   "id": "6b7d359f8c9725e48d1b2fff2014277272c1db50",
+   "home_spread": -4.5,
+   "spread_odds": [
+    -107,
+    105
+   ],
+   "ml_home": -176,
+   "ml_away": 174,
+   "total": 222.5,
+   "total_odds": [
+    -104,
+    -100
+   ]
+  },
+  {
+   "away": "NY",
+   "home": "CHI",
+   "id": "f134933bbb7fae7498622070ba7f233dd7ce65a6",
+   "home_spread": 6.5,
+   "spread_odds": [
+    108,
+    -109
+   ],
+   "ml_home": 240,
+   "ml_away": -245,
+   "total": 231.5,
+   "total_odds": [
+    -106,
+    102
+   ]
+  },
+  {
+   "away": "DEN",
+   "home": "NO",
+   "id": "9c41ff952c8755308174e5088e468e83aec97f53",
+   "home_spread": 4.5,
+   "spread_odds": [
+    102,
+    -104
+   ],
+   "ml_home": 174,
+   "ml_away": -174,
+   "total": 240.5,
+   "total_odds": [
+    -106,
+    102
+   ]
+  },
+  {
+   "away": "HOU",
+   "home": "MIL",
+   "id": "1c47bf39c48474133e76efdd2ae1c730cf968035",
+   "home_spread": 8.5,
+   "spread_odds": [
+    -108,
+    108
+   ],
+   "ml_home": 285,
+   "ml_away": -292,
+   "total": 225.5,
+   "total_odds": [
+    -102,
+    -102
+   ]
+  },
+  {
+   "away": "GS",
+   "home": "MIN",
+   "id": "8387e283a0b93f09e9aa65e24faa709016fd1732",
+   "home_spread": -3.5,
+   "spread_odds": [
+    -108,
+    110
+   ],
+   "ml_home": -156,
+   "ml_away": 154,
+   "total": 227.5,
+   "total_odds": [
+    -104,
+    -100
+   ]
+  },
+  {
+   "away": "SA",
+   "home": "UTAH",
+   "id": "7e663e03ae4687af610b5404548c9063da968b4d",
+   "home_spread": 12.5,
+   "spread_odds": [
+    108,
+    -106
+   ],
+   "ml_home": 530,
+   "ml_away": -545,
+   "total": 234.5,
+   "total_odds": [
+    106,
+    -108
+   ]
+  },
+  {
+   "away": "OKC",
+   "home": "DAL",
+   "id": "b6aa9c42260998d6ca52815efe914d53e3d184d2",
+   "home_spread": 6.5,
+   "spread_odds": [
+    -110,
+    109
+   ],
+   "ml_home": 195,
+   "ml_away": -196,
+   "total": 228.5,
+   "total_odds": [
+    101,
+    -102
+   ]
+  },
+  {
+   "away": "LAL",
+   "home": "LAC",
+   "id": "18b3bba0b2586a54899f64c6a3367061c9deb318",
+   "home_spread": 4.5,
+   "spread_odds": [
+    -105,
+    104
+   ],
+   "ml_home": 165,
+   "ml_away": -168,
+   "total": 228.5,
+   "total_odds": [
+    -104,
+    100
+   ]
+  }
+ ]
+}
