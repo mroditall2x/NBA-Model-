@@ -1,0 +1,31 @@
+name: daily-nba
+on:
+  schedule:
+    - cron: "30 13 * * *"   # 8:30 AM CT: pull box scores + grade yesterday
+  workflow_dispatch:
+    inputs:
+      date: {description: "slate date YYYY-MM-DD (builds card if lines are committed)", required: false}
+permissions: {contents: write}
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install pandas pyarrow numpy scipy
+      - name: hoopR data
+        run: |
+          git clone --depth 1 --filter=blob:none --no-checkout https://github.com/sportsdataverse/hoopr-nba-data repo
+          cd repo && git checkout HEAD -- nba/player_box/parquet/player_box_2027.parquet nba/player_box/parquet/player_box_2026.parquet nba/team_box/parquet nba/schedules/parquet/nba_schedule_2027.parquet nba/rosters/parquet/rosters_2027.parquet nba/pbp/parquet/play_by_play_2027.parquet
+      - name: grade yesterday
+        run: python3 grade_day.py $(TZ=America/Chicago date -d yesterday +%F) || true
+      - name: build card (manual run with date)
+        if: ${{ github.event.inputs.date != '' }}
+        run: python3 run_day.py ${{ github.event.inputs.date }}
+      - name: commit results
+        run: |
+          git config user.name "nba-bot"; git config user.email "nba-bot@users.noreply.github.com"
+          git add graded_log.csv slate || true
+          git commit -m "daily run $(date +%F)" || echo "nothing to commit"
+          git push

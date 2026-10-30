@@ -1,0 +1,376 @@
+game,player,stat,line,proj,mean,p_over,mkt_over,edge,pp_line,actual,call,result,date,model_p,tier
+BOS@DET,Ausar Thompson,REB,6.5,5.0,5.44,0.321,0.479,-0.158,False,11.0,Less,Loss,2026-10-20,,
+BOS@DET,Jayson Tatum,REB,8.5,7.0,7.26,0.318,0.505,-0.186,False,4.0,Less,Win,2026-10-20,,
+BOS@DET,Paul Reed,REB,5.0,3.0,3.57,0.227,0.5,-0.273,True,6.0,Less,Loss,2026-10-20,,
+BOS@DET,Baylor Scheierman,REB,3.5,2.0,2.12,0.204,0.336,-0.132,False,3.0,Less,Win,2026-10-20,,
+BOS@DET,Neemias Queta,REB,7.5,6.0,5.97,0.277,0.449,-0.172,False,4.0,Less,Win,2026-10-20,,
+BOS@DET,Ausar Thompson,PR,16.5,14.0,14.54,0.341,0.509,-0.169,False,22.0,Less,Loss,2026-10-20,,
+BOS@DET,Jayson Tatum,PR,35.5,32.0,32.29,0.351,0.483,-0.132,False,17.0,Less,Win,2026-10-20,,
+BOS@DET,Paul Reed,PR,13.0,9.0,9.53,0.241,0.5,-0.259,True,12.0,Less,Win,2026-10-20,,
+BOS@DET,Neemias Queta,PR,16.5,14.0,14.88,0.365,0.51,-0.145,False,7.0,Less,Win,2026-10-20,,
+BOS@DET,Ausar Thompson,RA,10.0,8.0,8.64,0.308,0.5,-0.192,True,16.0,Less,Loss,2026-10-20,,
+BOS@DET,Jayson Tatum,RA,14.5,12.0,12.33,0.279,0.491,-0.211,False,15.0,Less,Loss,2026-10-20,,
+BOS@DET,Paul Reed,RA,6.5,4.0,4.59,0.236,0.485,-0.249,False,8.0,Less,Loss,2026-10-20,,
+BOS@DET,Ausar Thompson,PRA,20.5,17.0,17.75,0.311,0.475,-0.164,False,27.0,Less,Loss,2026-10-20,,
+BOS@DET,Jayson Tatum,PRA,41.5,37.0,37.36,0.326,0.493,-0.168,False,28.0,Less,Win,2026-10-20,,
+BOS@DET,Paul Reed,PRA,14.5,10.0,10.55,0.244,0.503,-0.259,False,14.0,Less,Win,2026-10-20,,
+BOS@DET,Ausar Thompson,PTS,10.0,8.0,9.1,0.379,0.5,-0.121,True,11.0,Less,Loss,2026-10-20,,
+BOS@DET,Paul Reed,PTS,7.5,5.0,5.97,0.321,0.521,-0.2,False,6.0,Less,Win,2026-10-20,,
+BOS@DET,Jayson Tatum,AST,6.0,5.0,5.07,0.302,0.5,-0.198,True,11.0,Less,Loss,2026-10-20,,
+BOS@DET,Paul Reed,AST,1.5,1.0,1.02,0.268,0.404,-0.136,False,2.0,Less,Loss,2026-10-20,,
+BOS@DET,Ausar Thompson,PA,13.5,12.0,12.31,0.377,0.481,-0.104,False,16.0,Less,Loss,2026-10-20,,
+BOS@DET,Jayson Tatum,PA,33.0,29.0,30.1,0.353,0.5,-0.147,True,24.0,Less,Win,2026-10-20,,
+BOS@DET,Paul Reed,PA,9.5,6.0,6.99,0.271,0.48,-0.209,False,8.0,Less,Win,2026-10-20,,
+BOS@DET,Ausar Thompson,BLK,1.5,1.0,0.73,0.169,0.437,-0.269,False,0.0,Less,Win,2026-10-20,,
+BOS@DET,Duncan Robinson,STL,0.5,0.0,0.41,0.328,0.5,-0.172,False,1.0,Less,Loss,2026-10-20,,
+BOS@DET,Jayson Tatum,STL,1.5,1.0,1.01,0.272,0.39,-0.119,False,0.0,Less,Win,2026-10-20,,
+BOS@DET,Sam Hauser,STL,0.5,0.0,0.34,0.278,0.423,-0.146,False,0.0,Less,Win,2026-10-20,,
+BOS@DET,Baylor Scheierman,STL,0.5,0.0,0.36,0.29,0.423,-0.133,False,1.0,Less,Loss,2026-10-20,,
+BOS@DET,Ausar Thompson,STL+BLK,3.5,2.0,2.47,0.242,0.489,-0.247,False,1.0,Less,Win,2026-10-20,,
+PHI@NY,Karl-Anthony Towns,PTS,18.0,20.0,20.98,0.632,0.5,0.132,True,19.0,More,Win,2026-10-20,,
+PHI@NY,Joel Embiid,PTS,22.0,19.0,19.51,0.341,0.5,-0.159,True,13.0,Less,Win,2026-10-20,,
+PHI@NY,Andre Drummond,PTS,5.5,4.0,4.66,0.351,0.499,-0.148,False,12.0,Less,Loss,2026-10-20,,
+PHI@NY,Karl-Anthony Towns,AST,5.0,3.0,3.09,0.127,0.5,-0.373,True,1.0,Less,Win,2026-10-20,,
+PHI@NY,Joel Embiid,AST,3.5,3.0,2.79,0.311,0.421,-0.11,False,6.0,Less,Loss,2026-10-20,,
+PHI@NY,LeBron James,AST,7.5,5.0,5.29,0.184,0.514,-0.33,False,7.0,Less,Win,2026-10-20,,
+PHI@NY,Joel Embiid,PA,25.5,22.0,22.3,0.323,0.505,-0.182,False,19.0,Less,Win,2026-10-20,,
+PHI@NY,LeBron James,PA,23.5,20.0,20.62,0.331,0.505,-0.174,False,21.0,Less,Win,2026-10-20,,
+PHI@NY,Jaylen Brown,REB,5.5,7.0,6.79,0.64,0.533,0.108,False,8.0,More,Win,2026-10-20,,
+PHI@NY,Joel Embiid,PR,30.0,27.0,27.44,0.358,0.5,-0.142,True,24.0,Less,Win,2026-10-20,,
+PHI@NY,Andre Drummond,PR,12.5,10.0,10.67,0.344,0.473,-0.129,False,26.0,Less,Loss,2026-10-20,,
+PHI@NY,LeBron James,RA,14.0,11.0,11.6,0.245,0.5,-0.255,True,16.0,Less,Loss,2026-10-20,,
+PHI@NY,Joel Embiid,PRA,34.0,30.0,30.23,0.314,0.5,-0.186,True,30.0,Less,Win,2026-10-20,,
+PHI@NY,LeBron James,PRA,29.5,26.0,26.94,0.362,0.509,-0.148,False,30.0,Less,Loss,2026-10-20,,
+OKC@SA,Cason Wallace,REB,3.5,2.0,2.71,0.3,0.484,-0.185,False,3.0,Less,Win,2026-10-20,,
+OKC@SA,Jared McCain,REB,2.5,1.0,1.77,0.27,0.411,-0.141,False,2.0,Less,Win,2026-10-20,,
+OKC@SA,Cason Wallace,PR,13.5,10.0,10.87,0.295,0.494,-0.199,False,9.0,Less,Win,2026-10-20,,
+OKC@SA,Jared McCain,PR,11.5,9.0,10.37,0.379,0.528,-0.149,False,22.0,Less,Loss,2026-10-20,,
+OKC@SA,Cason Wallace,RA,6.5,5.0,4.93,0.25,0.474,-0.223,False,5.0,Less,Win,2026-10-20,,
+OKC@SA,Jared McCain,RA,3.5,3.0,2.89,0.333,0.487,-0.154,False,4.0,Less,Loss,2026-10-20,,
+OKC@SA,Isaiah Hartenstein,RA,10.5,12.0,12.42,0.64,0.538,0.102,False,6.0,More,Loss,2026-10-20,,
+OKC@SA,Cason Wallace,PRA,16.5,12.0,13.09,0.265,0.495,-0.229,False,11.0,Less,Win,2026-10-20,,
+OKC@SA,Jared McCain,PRA,13.5,10.0,11.48,0.339,0.496,-0.157,False,24.0,Less,Loss,2026-10-20,,
+OKC@SA,Cason Wallace,PTS,9.5,7.0,8.16,0.355,0.517,-0.162,False,6.0,Less,Win,2026-10-20,,
+OKC@SA,Jared McCain,PTS,10.0,8.0,8.6,0.347,0.5,-0.153,True,20.0,Less,Loss,2026-10-20,,
+OKC@SA,Cason Wallace,AST,2.5,2.0,2.22,0.378,0.534,-0.156,False,2.0,Less,Win,2026-10-20,,
+OKC@SA,Cason Wallace,PA,12.5,10.0,10.38,0.321,0.511,-0.19,False,8.0,Less,Win,2026-10-20,,
+OKC@SA,Jared McCain,PA,11.5,9.0,9.71,0.341,0.473,-0.132,False,22.0,Less,Loss,2026-10-20,,
+IND@NO,Andrew Nembhard,STL,1.5,,0.76,0.182,0.321,-0.139,False,1.0,Less,Win,2026-10-21,0.8180000000000001,70+
+IND@NO,Pascal Siakam,STL,1.5,,0.86,0.214,0.358,-0.144,False,1.0,Less,Win,2026-10-21,0.786,70+
+SAC@LAC,Zach LaVine,REB,3.5,,2.47,0.247,0.506,-0.259,False,4.0,Less,Loss,2026-10-21,0.753,70+
+CHI@TOR,Jakob Poeltl,AST,2.5,,1.75,0.263,0.395,-0.132,False,0.0,Less,Win,2026-10-21,0.737,70+
+CHA@BKN,Moussa Diabaté,PR,15.5,,19.68,0.728,0.518,0.209,False,25.0,More,Win,2026-10-21,0.728,70+
+ATL@ORL,Dyson Daniels,REB,7.0,,5.75,0.277,0.5,-0.223,True,4.0,Less,Win,2026-10-21,0.723,70+
+SAC@LAC,De'Andre Hunter,REB,4.5,,3.48,0.28,0.45,-0.17,False,3.0,Less,Win,2026-10-21,0.72,70+
+PHX@POR,Donovan Clingan,RA,13.5,,11.52,0.29,0.5,-0.21,False,9.0,Less,Win,2026-10-21,0.71,70+
+SAC@LAC,Darius Garland,STL,1.5,,1.08,0.29,0.425,-0.135,False,1.0,Less,Win,2026-10-21,0.71,70+
+ATL@ORL,Jalen Johnson,REB,10.0,,8.57,0.295,0.5,-0.205,True,14.0,Less,Loss,2026-10-21,0.7050000000000001,70+
+UTAH@MEM,Lauri Markkanen,REB,6.5,,8.45,0.698,0.483,0.215,False,9.0,More,Win,2026-10-21,0.698,65-70
+SAC@LAC,Isaiah Jackson,RA,9.0,,7.73,0.308,0.5,-0.192,True,5.0,Less,Win,2026-10-21,0.692,65-70
+DAL@HOU,Alperen Şengün,REB,9.0,,7.79,0.308,0.5,-0.192,True,10.0,Less,Loss,2026-10-21,0.692,65-70
+IND@NO,Derik Queen,SB,1.5,,1.13,0.31,0.5,-0.19,False,2.0,Less,Loss,2026-10-21,0.69,65-70
+IND@NO,Obi Toppin,REB,4.5,,3.63,0.312,0.441,-0.129,False,3.0,Less,Win,2026-10-21,0.688,65-70
+CHI@TOR,Scottie Barnes,BLK,1.5,,1.14,0.319,0.449,-0.13,False,0.0,Less,Win,2026-10-21,0.681,65-70
+MIN@MIA,Rudy Gobert,REB,11.5,,10.13,0.331,0.474,-0.143,False,15.0,Less,Loss,2026-10-21,0.669,65-70
+GS@LAL,Luka Dončić,AST,7.5,,8.99,0.66,0.55,0.11,False,7.0,More,Loss,2026-10-21,0.66,65-70
+DAL@HOU,Jabari Smith Jr.,SB,1.5,,1.22,0.343,0.479,-0.136,False,2.0,Less,Loss,2026-10-21,0.657,65-70
+IND@NO,Jarace Walker,AST,2.5,,2.07,0.343,0.447,-0.105,False,2.0,Less,Win,2026-10-21,0.657,65-70
+ATL@ORL,Jalen Suggs,RA,7.5,,9.16,0.656,0.527,0.129,False,8.0,More,Win,2026-10-21,0.656,65-70
+DAL@HOU,Cooper Flagg,AST,5.0,,6.13,0.651,0.5,0.151,True,2.0,More,Loss,2026-10-21,0.651,65-70
+MIN@MIA,Anthony Edwards,REB,5.0,,4.44,0.35,0.5,-0.15,True,10.0,Less,Loss,2026-10-21,0.65,62-65
+DAL@HOU,P.J. Washington,BLK,0.5,,1.07,0.648,0.5,0.148,False,1.0,More,Win,2026-10-21,0.648,62-65
+DAL@HOU,Kevin Durant,PRA,33.5,,30.56,0.354,0.487,-0.134,False,39.0,Less,Loss,2026-10-21,0.646,62-65
+CHI@TOR,Immanuel Quickley,AST,6.0,,5.36,0.355,0.5,-0.145,True,7.0,Less,Loss,2026-10-21,0.645,62-65
+PHX@POR,Deni Avdija,PA,27.0,,24.49,0.357,0.5,-0.143,True,22.0,Less,Win,2026-10-21,0.643,62-65
+PHX@POR,Toumani Camara,RA,6.5,,5.77,0.36,0.472,-0.113,False,5.0,Less,Win,2026-10-21,0.64,62-65
+UTAH@MEM,Ace Bailey,RA,6.0,,7.2,0.633,0.5,0.133,True,8.0,More,Win,2026-10-21,0.633,62-65
+PHX@POR,Devin Booker,REB,4.0,,3.64,0.371,0.5,-0.129,True,4.0,Less,Push,2026-10-21,0.629,62-65
+ATL@ORL,Jock Landale,AST,1.5,,1.34,0.371,0.483,-0.112,False,3.0,Less,Loss,2026-10-21,0.629,62-65
+IND@NO,Jeremiah Fears,RA,5.5,,4.85,0.372,0.495,-0.122,False,4.0,Less,Win,2026-10-21,0.628,62-65
+MIL@WSH,Tre Johnson,PTS,9.5,,12.59,0.624,0.513,0.111,False,8.0,More,Loss,2026-10-21,0.624,62-65
+ATL@ORL,Nickeil Alexander-Walker,PR,22.5,,20.6,0.38,0.483,-0.103,False,35.0,Less,Loss,2026-10-21,0.62,62-65
+CLE@PHI,LeBron James,AST,7.5,,,,,,,5.0,Less,Win,2026-10-22,0.717,70+
+DEN@OKC,Jamal Murray,AST,6.5,,,,,,,3.0,Less,Win,2026-10-22,0.681,65-70
+DEN@OKC,Nikola Jokić,AST,10.0,,,,,,,5.0,Less,Win,2026-10-22,0.658,65-70
+DEN@OKC,Jalen Williams,REB,5.0,,,,,,,5.0,Less,Push,2026-10-22,0.652,65-70
+CLE@PHI,Joel Embiid,REB,8.0,,,,,,,7.0,More,Loss,2026-10-22,0.629,62-65
+CLE@PHI,LeBron James,PTS,14.5,,,,,,,17.0,More,Win,2026-10-22,0.627,62-65
+CLE@PHI,Jaylen Brown,PRA,30.0,,,,,,,33.0,More,Win,2026-10-22,0.608,62-65
+POR@SAC,Zach LaVine,REB,3.5,,2.61,,,,,5.0,Less,Loss,2026-10-23,,clean
+DET@MIA,Jalen Duren,RA,12.0,,10.27,,,,,9.0,Less,Win,2026-10-23,,clean
+MIN@ORL,Rudy Gobert,RA,13.5,,11.54,,,,,10.0,Less,Win,2026-10-23,,clean
+CHI@MIL,Kyle Kuzma,RA,7.5,,6.18,,,,,13.0,Less,Loss,2026-10-23,,clean
+POR@SAC,Ja Morant,RA,9.5,,8.02,,,,,10.0,Less,Loss,2026-10-23,,clean
+NY@BOS,Jayson Tatum,RA,15.5,,13.67,,,,,16.0,Less,Loss,2026-10-23,,clean
+CHI@MIL,Myles Turner,RA,7.5,,6.3,,,,,4.0,Less,Win,2026-10-23,,clean
+DET@MIA,Duncan Robinson,STL,0.5,,0.38,,,,,2.0,Less,Loss,2026-10-23,,clean
+LAC@LAL,Derrick Jones Jr.,AST,1.5,,1.21,,,,,1.0,Less,Win,2026-10-23,,clean
+POR@SAC,De'Andre Hunter,RA,5.5,,4.73,,,,,8.0,Less,Loss,2026-10-23,,clean
+TOR@WSH,Jakob Poeltl,PTS,3.5,,10.0,,,,,6.0,More,Win,2026-10-23,,goblin
+ATL@CHA,Moussa Diabaté,PTS,3.5,,8.86,,,,,5.0,More,Win,2026-10-23,,goblin
+ATL@CHA,Dyson Daniels,RA,7.5,,11.75,,,,,13.0,More,Win,2026-10-23,,goblin
+NY@BOS,Jayson Tatum,PTS,17.5,,26.79,,,,,36.0,More,Win,2026-10-23,,goblin
+DET@MIA,Andrew Wiggins,RA,3.5,,6.49,,,,,10.0,More,Win,2026-10-23,,goblin
+POR@SAC,Jrue Holiday,PR,8.5,,15.71,,,,,14.0,More,Win,2026-10-23,,goblin
+NO@UTAH,Jaxson Hayes,PR,8.5,,15.51,,,,,22.0,More,Win,2026-10-23,,goblin
+DET@MIA,Andrew Wiggins,Stl+Blk,2.5,,2.89,,,,,1.0,More,Loss,2026-10-23,,demon
+HOU@SA,Jabari Smith Jr.,BLK,0.5,,0.78,,,,,2.0,More,Win,2026-10-23,,demon
+POR@SAC,Ja Morant,AST,6.5,,5.16,,,,,7.0,More,Win,2026-10-23,,deon
+NY@BOS,Andre Drummond,BLK,0.5,,0.77,,,,,0.0,More,Loss,2026-10-23,,deon-drummond
+NY@BOS,Andre Drummond,REB,7.5,,7.71,,,,,2.0,More,Loss,2026-10-23,,deon-drummond
+,Andre Drummond,FTM,0.5,,,,,,,0.0,More,Loss,2026-10-23,,deon-drummond
+DAL@IND,Tyrese Haliburton,RA,13.5,,11.78,,,,,13.0,More,Loss,2026-10-23,,slip
+TOR@WSH,Trae Young,RA,12.5,,9.75,,,,,13.0,More,Win,2026-10-23,,slip
+,Ausar Thompson,FS,30.0,,,,,,,16.6,More,Loss,2026-10-23,,slip
+HOU@SA,Fred VanVleet,AST,6.5,,4.16,,,,,5.0,More,Loss,2026-10-23,,slip
+,Jarrett Allen,BLK,1.5,,,,,,,1.0,Less,Win,2026-10-24,,standard
+,Tyrese Maxey,Stl+Blk,1.5,,,,,,,0.0,More,Loss,2026-10-24,,standard
+,Michael Porter Jr.,STL,1.5,,,,,,,4.0,Less,Loss,2026-10-24,,standard
+,Alex Sarr,BLK,1.5,,,,,,,3.0,Less,Loss,2026-10-24,,standard
+,Stephon Castle,AST,6.0,,,,,,,8.0,More,Win,2026-10-24,,standard
+,Onyeka Okongwu,BLK,0.5,,,,,,,1.0,More,Win,2026-10-24,,standard
+,Dylan Harper,AST,4.0,,,,,,,2.0,More,Loss,2026-10-24,,standard
+,Trae Young,AST,11.0,,,,,,,9.0,Less,Win,2026-10-24,,standard
+,Kyshawn George,STL,0.5,,,,,,,0.0,More,Loss,2026-10-24,,standard
+,Donovan Mitchell,AST,4.5,,,,,,,4.0,More,Loss,2026-10-24,,standard
+,Stephon Castle,AST,3.5,,,,,,,8.0,More,Win,2026-10-24,,goblin
+,Dylan Harper,RA,5.5,,,,,,,7.0,More,Win,2026-10-24,,goblin
+,Onyeka Okongwu,Stl+Blk,0.5,,,,,,,2.0,More,Win,2026-10-24,,goblin
+,Andrew Wiggins,Stl+Blk,0.5,,,,,,,3.0,More,Win,2026-10-24,,goblin
+,Tyrese Maxey,STL,0.5,,,,,,,0.0,More,Loss,2026-10-24,,goblin
+,Sion James,RA,3.5,,,,,,,10.0,More,Win,2026-10-24,,goblin
+,Day'Ron Sharpe,PTS,5.5,,,,,,,7.0,More,Win,2026-10-24,,goblin
+,Evan Mobley,REB,5.5,,,,,,,10.0,More,Win,2026-10-24,,goblin
+,Max Christie,REB,1.5,,,,,,,5.0,More,Win,2026-10-24,,goblin
+,Dyson Daniels,AST,2.5,,,,,,,3.0,More,Win,2026-10-24,,goblin
+,Nikola Jokić,Stl+Blk,2.5,,,,,,,5.0,More,Win,2026-10-24,,demon
+,Donovan Mitchell,Stl+Blk,1.5,,,,,,,2.0,More,Win,2026-10-24,,demon
+,Kyle Kuzma,STL,0.5,,,,,,,0.0,More,Loss,2026-10-24,,demon
+,Josh Giddey,PRA,30.5,,,,,,,27.0,More,Loss,2026-10-24,,demon
+,Onyeka Okongwu,Stl+Blk,1.5,,,,,,,2.0,More -105,Win,2026-10-24,,alt
+,Dylan Harper,RA,8.5,,,,,,,7.0,More -115,Loss,2026-10-24,,alt
+,Day'Ron Sharpe,PTS,9.5,,,,,,,7.0,More -120,Loss,2026-10-24,,alt
+,Tyrese Maxey,STL,1.5,,,,,,,0.0,More +140,Loss,2026-10-24,,alt
+,Stephon Castle,RA,11.5,,,,,,,12.0,More +100,Win,2026-10-24,,alt
+,Andrew Wiggins,Stl+Blk,1.5,,,,,,,3.0,More -119,Win,2026-10-24,,alt
+,Stephon Castle,AST,6.5,,,,,,,8.0,More +130,Win,2026-10-24,,alt
+,Collin Gillespie,RA,6.5,,,,,,,13.0,More +105,Win,2026-10-24,,alt
+,Devin Booker,AST,5.5,,,,,,,7.0,More +105,Win,2026-10-24,,alt
+,Evan Mobley,PRA,19.5,,,,,,,34.0,More -161,Win,2026-10-24,,alt
+,Stephon Castle,AST,7.5,,,,,,,8.0,More +252,Win,2026-10-24,,alt
+,Dylan Harper,AST,4.5,,,,,,,2.0,More +141,Loss,2026-10-24,,alt
+,Collin Gillespie,RA,7.5,,,,,,,13.0,More +170,Win,2026-10-24,,alt
+,Devin Booker,AST,6.5,,,,,,,7.0,More +194,Win,2026-10-24,,alt
+,Day'Ron Sharpe,REB,9.5,,,,,,,4.0,Less,Win,2026-10-25,,standard
+,Terrence Shannon Jr.,REB,2.5,,,,,,,4.0,Less,Loss,2026-10-25,,standard
+,De'Andre Hunter,REB,4.0,,,,,,,6.0,Less,Loss,2026-10-25,,standard
+,Karl-Anthony Towns,AST,3.5,,,,,,,4.0,Less,Loss,2026-10-25,,standard
+,Zach LaVine,AST,2.5,,,,,,,5.0,More,Win,2026-10-25,,standard
+,Jakob Poeltl,RA,9.5,,,,,,,1.0,Less,Win,2026-10-25,,standard
+,Domantas Sabonis,REB,14.0,,,,,,,15.0,Less,Loss,2026-10-25,,standard
+,Jalen Williams,AST,4.0,,,,,,,5.0,More,Win,2026-10-25,,standard
+,Anthony Edwards,REB,5.0,,,,,,,1.0,Less,Win,2026-10-25,,standard
+,Anthony Edwards,AST,1.5,,,,,,,3.0,More,Win,2026-10-25,,goblin
+,Jaden McDaniels,Stl+Blk,0.5,,,,,,,3.0,More,Win,2026-10-25,,goblin
+,Rudy Gobert,PA,5.5,,,,,,,8.0,More,Win,2026-10-25,,goblin
+,Michael Porter Jr.,RA,5.5,,,,,,,0.0,More,Loss,2026-10-25,,goblin
+,Zach LaVine,RA,3.5,,,,,,,7.0,More,Win,2026-10-25,,goblin
+,Jalen Williams,AST,2.5,,,,,,,5.0,More,Win,2026-10-25,,goblin
+,Shai Gilgeous-Alexander,PTS,20.5,,,,,,,34.0,More,Win,2026-10-25,,goblin
+,De'Andre Hunter,PTS,5.5,,,,,,,7.0,More,Win,2026-10-25,,goblin
+,Chet Holmgren,PR,15.5,,,,,,,14.0,More,Loss,2026-10-25,,goblin
+,Jalen Brunson,RA,6.5,,,,,,,7.0,More,Win,2026-10-25,,goblin
+,Duncan Robinson,RA,4.5,,,,,,,6.0,More,Win,2026-10-25,,demon
+,Shai Gilgeous-Alexander,PR,33.5,,,,,,,40.0,More,Win,2026-10-25,,demon
+,Michael Porter Jr.,PA,25.5,,,,,,,10.0,More,Loss,2026-10-25,,demon
+,Anthony Edwards,AST,3.5,,,,,,,3.0,More +138,Loss,2026-10-25,,alt (sportsbook)
+,Jalen Williams,AST,4.5,,,,,,,5.0,More +118,Win,2026-10-25,,alt (sportsbook)
+,Zach LaVine,AST,2.5,,,,,,,5.0,More -132,Win,2026-10-25,,alt (sportsbook)
+,Scottie Barnes,AST,5.5,,,,,,,3.0,More -101,Loss,2026-10-25,,alt (sportsbook)
+,De'Andre Hunter,PTS,10.5,,,,,,,7.0,More +104,Loss,2026-10-25,,alt (sportsbook)
+,Shai Gilgeous-Alexander,PTS,29.5,,,,,,,34.0,More +120,Win,2026-10-25,,alt (sportsbook)
+,De'Andre Hunter,PTS,9.5,,,,,,,7.0,More -126,Loss,2026-10-25,,alt (sportsbook)
+,Shai Gilgeous-Alexander,PTS,27.5,,,,,,,34.0,More -115,Win,2026-10-25,,alt (sportsbook)
+,Shai Gilgeous-Alexander,PR,32.5,,,,,,,40.0,More +100,Win,2026-10-25,,alt (sportsbook)
+,LaMelo Ball,REB,5.0,,,,,,,1.0,Less,Win,2026-10-25,,deon
+,Anthony Edwards,AST,1.5,,,,,,,3.0,More,Win,2026-10-25,,deon
+,LeBron James,REB,4.5,,,,,,,2.0,More,Loss,2026-10-25,,lebron
+,LeBron James,RA,10.5,,,,,,,7.0,More,Loss,2026-10-25,,lebron
+,LeBron James,RA,14.5,,,,,,,7.0,Less,Win,2026-10-25,,lebron-model-under
+,LeBron James,AST,6.5,,,,,,,5.0,Less,Win,2026-10-25,,lebron-model-under
+,Reed Sheppard,AST,3.0,,,,,,,4.0,Less,Loss,2026-10-26,0.747,standard
+,Tari Eason,PTS,11.0,,,,,,,13.0,Less,Loss,2026-10-26,0.698,standard
+,Anthony Edwards,AST,2.5,,,,,,,4.0,More,Win,2026-10-26,0.691,standard
+,Kyle Kuzma,REB,5.5,,,,,,,7.0,Less,Loss,2026-10-26,0.684,standard
+,Dyson Daniels,AST,4.0,,,,,,,4.0,More,Push,2026-10-26,0.673,standard
+,Obi Toppin,RA,7.5,,,,,,,8.0,Less,Loss,2026-10-26,0.653,standard
+,Isaiah Collier,AST,4.5,,,,,,,8.0,More,Win,2026-10-26,0.65,standard
+,Donovan Mitchell,AST,4.5,,,,,,,7.0,More,Win,2026-10-26,0.643,standard
+,Amen Thompson,REB,8.5,,,,,,,5.0,Less,Win,2026-10-26,0.643,standard
+,Donovan Mitchell,AST,2.5,,,,,,,7.0,More,Win,2026-10-26,0.896,goblin
+,Isaiah Collier,AST,2.5,,,,,,,8.0,More,Win,2026-10-26,0.886,goblin
+,Davion Mitchell,RA,6.5,,,,,,,2.0,More,Loss,2026-10-26,0.883,goblin
+,Jaren Jackson Jr.,PR,14.5,,,,,,,9.0,More,Loss,2026-10-26,0.876,goblin
+,Evan Mobley,REB,5.5,,,,,,,10.0,More,Win,2026-10-26,0.869,goblin
+,Alperen Şengün,PRA,24.5,,,,,,,47.0,More,Win,2026-10-26,0.866,goblin
+,Payton Pritchard,PRA,16.5,,,,,,,33.0,More,Win,2026-10-26,0.862,goblin
+,Jayson Tatum,PR,27.5,,,,,,,30.0,More,Win,2026-10-26,0.862,goblin
+,James Harden,PRA,20.5,,,,,,,33.0,More,Win,2026-10-26,0.861,goblin
+,Jabari Smith Jr.,REB,3.5,,,,,,,12.0,More,Win,2026-10-26,0.861,goblin
+,Dyson Daniels,AST,2.5,,,,,,,4.0,More,Win,2026-10-26,0.858,goblin
+,Pelle Larsson,REB,1.5,,,,,,,0.0,More,Loss,2026-10-26,0.857,goblin
+,Dillon Brooks,REB,1.5,,,,,,,5.0,More,Win,2026-10-26,0.856,goblin
+,Jock Landale,PR,5.5,,,,,,,14.0,More,Win,2026-10-26,0.855,goblin
+,Justin Champagnie,PR,7.5,,,,,,,4.0,More,Loss,2026-10-26,0.854,goblin
+,Ryan Rollins,AST,2.5,,,,,,,4.0,More,Win,2026-10-26,0.853,goblin
+,Ryan Kalkbrenner,REB,2.5,,,,,,,4.0,More,Win,2026-10-26,0.851,goblin
+,Kyle Kuzma,PA,9.5,,,,,,,20.0,More,Win,2026-10-26,0.85,goblin
+,Moussa Diabaté,PRA,13.5,,,,,,,31.0,More,Win,2026-10-26,0.85,goblin
+,Myles Turner,PTS,5.5,,,,,,,6.0,More,Win,2026-10-26,0.849,goblin
+,Devin Booker,PA,19.5,,,,,,,10.0,More,Loss,2026-10-26,0.848,goblin
+,Jordan Walsh,PTS,0.5,,,,,,,4.0,More,Win,2026-10-26,0.846,goblin
+,Christian Braun,REB,2.5,,,,,,,4.0,More,Win,2026-10-26,0.843,goblin
+,Jamal Murray,PTS,15.5,,,,,,,19.0,More,Win,2026-10-26,0.842,goblin
+,Tre Jones,PR,6.5,,,,,,,9.0,More,Win,2026-10-26,0.839,goblin
+,Sion James,PR,5.5,,,,,,,7.0,More,Win,2026-10-26,0.839,goblin
+,Jarrett Allen,PR,14.5,,,,,,,19.0,More,Win,2026-10-26,0.836,goblin
+,Amen Thompson,PA,14.5,,,,,,,17.0,More,Win,2026-10-26,0.833,goblin
+,Lauri Markkanen,REB,4.5,,,,,,,0.0,More,Loss,2026-10-26,0.832,goblin
+,Alex Sarr,PA,7.5,,,,,,,13.0,More,Win,2026-10-26,0.829,goblin
+,Brandon Miller,PA,19.5,,,,,,,40.0,More,Win,2026-10-26,0.826,goblin
+,CJ McCollum,AST,1.5,,,,,,,3.0,More,Win,2026-10-26,0.823,goblin
+,Bam Adebayo,PRA,23.5,,,,,,,19.0,More,Loss,2026-10-26,0.822,goblin
+,Nikola Jokić,RA,17.5,,,,,,,18.0,More,Win,2026-10-26,0.821,goblin
+,Dyson Daniels,AST,4.0,,,,,,,4.0,More,Push,2026-10-26,,lean
+,Draymond Green,AST,6.0,,,,,,,7.0,Less,Loss,2026-10-26,,lean
+,Fred VanVleet,AST,6.0,,,,,,,5.0,Less,Win,2026-10-26,,lean
+,Kevin Durant,PTS,23.5,,,,,,,22.0,Less,Win,2026-10-26,,lean
+,Reed Sheppard,PRA,14.5,,,,,,,17.0,Less,Loss,2026-10-26,,lean
+,Christian Braun,AST,3.5,,,,,,,2.0,Less,Win,2026-10-26,,lean
+,Stephen Curry,RA,7.5,,,,,,,6.0,Less,Win,2026-10-26,,lean
+,Aaron Gordon,AST,2.5,,,,,,,2.0,Less,Win,2026-10-26,,lean
+,Cameron Boozer,REB,10.5,,,,,,,7.0,More,Loss,2026-10-26,,lean
+,Jalen Brunson,AST,5.5,,,,,,,7.0,More,Win,2026-10-27,,standard
+,Jayson Tatum,AST,7.0,,,,,,,8.0,Less,Loss,2026-10-27,,standard
+,Domantas Sabonis,REB,13.0,,,,,,,14.0,Less,Loss,2026-10-27,,standard
+,Zach LaVine,AST,2.5,,,,,,,3.0,More,Win,2026-10-27,,standard
+,Day'Ron Sharpe,REB,8.0,,,,,,,6.0,Less,Win,2026-10-27,,standard
+,Josh Hart,AST,4.0,,,,,,,4.0,More,Push,2026-10-27,,standard
+,Jalen Brunson,RA,9.0,,,,,,,8.0,More,Loss,2026-10-27,,standard
+,Jalen Brunson,AST,6.5,,,,,,,7.0,More,Win,2026-10-27,,alt
+,Stephon Castle,AST,6.5,,,,,,,5.0,More,Loss,2026-10-27,,alt
+,Domantas Sabonis,REB,12.5,,,,,,,14.0,Less,Loss,2026-10-27,,alt
+,Jayson Tatum,AST,6.5,,,,,,,8.0,Less,Loss,2026-10-27,,alt
+,Jalen Brunson,RA,9.5,,,,,,,8.0,More,Loss,2026-10-27,,alt
+,Josh Hart,AST,4.5,,,,,,,4.0,More,Loss,2026-10-27,,alt
+,Zach LaVine,AST,3.5,,,,,,,3.0,More,Loss,2026-10-27,,alt
+,Jalen Brunson,AST,7.5,,,,,,,7.0,More,Loss,2026-10-27,,alt
+,Domantas Sabonis,RA,19.0,,,,,,,22.0,Less,Loss,2026-10-27,,lean
+,Jayson Tatum,PTS,26.5,,,,,,,40.0,More,Win,2026-10-27,,lean
+,Luka Dončić,REB,7.5,,,,,,,5.0,Less,Win,2026-10-27,,lean
+,Toumani Camara,PTS,11.5,,,,,,,12.0,Less,Loss,2026-10-27,,lean
+,Toumani Camara,PTS,10.5,,,,,,,12.0,Less,Loss,2026-10-27,,alt
+,Jayson Tatum,FS1H,23.5,,,,,,,27.4,More,Win,2026-10-27,,lean
+,Austin Reaves,FirstFG,700.0,,,,,,,1.0,Yes,Win,2026-10-27,,firstbasket
+,Ja Morant,FirstFG,900.0,,,,,,,0.0,Yes,Loss,2026-10-27,,firstbasket
+,Franz Wagner,AST,6.0,,,,,,,5.0,Less,Win,2026-10-28,0.651,card-standard
+,Devin Vassell,AST,3.5,,,,,,,2.0,Less,Win,2026-10-28,0.656,card-standard
+,Myles Turner,RA,7.5,,,,,,,4.0,Less,Win,2026-10-28,0.632,card-standard
+,Kyle Kuzma,REB,5.5,,,,,,,6.0,Less,Loss,2026-10-28,0.618,card-standard
+,Pascal Siakam,AST,3.5,,,,,,,3.0,Less,Win,2026-10-28,0.612,card-standard
+,Stephon Castle,AST,6.0,,,,,,,8.0,More,Win,2026-10-28,0.598,card-standard
+,Ajay Mitchell,RA,7.5,,,,,,,7.0,More,Loss,2026-10-28,0.593,card-standard
+,Kevin Durant,AST,4.0,,,,,,,4.0,More,Push,2026-10-28,0.576,card-standard
+,Fred VanVleet,AST,6.0,,,,,,,5.0,Less,Win,2026-10-28,0.63,card-standard
+,Stephon Castle,AST,3.5,,,,,,,8.0,More,Win,2026-10-28,0.91,card-goblin
+,Nikola Jokić,PRA,34.5,,,,,,,44.0,More,Win,2026-10-28,0.88,card-goblin
+,Dyson Daniels,AST,2.5,,,,,,,7.0,More,Win,2026-10-28,0.88,card-goblin
+,Jalen Brunson,RA,6.5,,,,,,,8.0,More,Win,2026-10-28,0.88,card-goblin
+,Bam Adebayo,REB,5.5,,,,,,,9.0,More,Win,2026-10-28,0.87,card-goblin
+,Karl-Anthony Towns,PR,24.5,,,,,,,32.0,More,Win,2026-10-28,0.87,card-goblin
+,Clint Capela,PR,9.5,,,,,,,18.0,More,Win,2026-10-28,0.87,card-goblin
+,Myles Turner,AST,1.5,,,,,,,2.0,Less,Loss,2026-10-28,0.603,card-alt
+,Franz Wagner,AST,5.5,,,,,,,5.0,Less,Win,2026-10-28,0.593,card-alt
+,Kevin Durant,AST,4.5,,,,,,,4.0,More,Loss,2026-10-28,0.511,card-alt
+,Tari Eason,PR,17.5,,,,,,,14.0,Less,Win,2026-10-28,0.527,card-alt
+,Obi Toppin,RA,7.5,,,,,,,6.0,Less,Win,2026-10-28,59%,four
+,Tyrese Maxey,REB,3.5,,,,,,,5.0,More,Win,2026-10-28,56%,four
+,Alex Sarr,AST,2.5,,,,,,,2.0,Less,Win,2026-10-28,64%,four
+,Bub Carrington,REB,2.5,,,,,,,1.0,Less,Win,2026-10-28,58%,four
+,Donovan Mitchell,AST,5.0,,,,,,,7.0,More,Win,2026-10-28,57%,four
+,Trae Young,AST,9.5,,,,,,,8.0,Less,Win,2026-10-28,56%,four
+,Dyson Daniels,REB,7.0,,,,,,,4.0,Less,Win,2026-10-28,60%,four
+,Jock Landale,REB,5.5,,,,,,,6.0,Less,Loss,2026-10-28,60%,four
+,Nickeil Alexander-Walker,REB,3.5,,,,,,,3.0,Less,Win,2026-10-28,57%,four
+,Davion Mitchell,RA,9.0,,,,,,,11.0,More,Win,2026-10-28,57%,four
+,Sion James,RA,6.5,,,,,,,5.0,Less,Win,2026-10-28,57%,four
+,Brandon Miller,REB,2.5,,,,,,,12.0,More (goblin),Win,2026-10-28,85%,four
+,Jamal Shead,REB,2.5,,,,,,,4.0,Less,Loss,2026-10-28,66%,four
+,Tristan da Silva,PA,14.5,,,,,,,21.0,Less,Loss,2026-10-28,57%,four
+,Immanuel Quickley,AST,6.0,,,,,,,7.0,Less,Loss,2026-10-28,57%,four
+,Mikal Bridges,REB,3.5,,,,,,,0.0,Less,Win,2026-10-28,56%,four
+,Jalen Brunson,RA,6.5,,,,,,,8.0,More (goblin),Win,2026-10-28,88%,four
+,Karl-Anthony Towns,PR,24.5,,,,,,,32.0,More (goblin),Win,2026-10-28,87%,four
+,Josh Hart,AST,2.5,,,,,,,3.0,More (goblin),Win,2026-10-28,84%,four
+,Jeremiah Fears,REB,3.5,,,,,,,4.0,Less,Loss,2026-10-28,62%,four
+,Trey Murphy III,REB,5.0,,,,,,,1.0,Less,Win,2026-10-28,60%,four
+,Jordan Poole,AST,2.5,,,,,,,0.0,Less,Win,2026-10-28,60%,four
+,DeAndre Jordan,REB,6.5,,,,,,,4.0,Less,Win,2026-10-28,58%,four
+,Reed Sheppard,AST,3.5,,,,,,,4.0,Less,Loss,2026-10-28,61%,four
+,Stephen Curry,RA,4.5,,,,,,,14.0,More (goblin),Win,2026-10-28,85%,four
+,Dylan Harper,AST,4.0,,,,,,,8.0,More,Win,2026-10-28,57%,four
+,De'Aaron Fox,AST,6.5,,,,,,,4.0,Less,Win,2026-10-28,57%,four
+,Daniel Gafford,AST,1.5,,,,,,,2.0,Less,Loss,2026-10-28,62%,four
+,P.J. Washington,PA,16.5,,,,,,,18.0,Less,Loss,2026-10-28,57%,four
+,Derrick Jones Jr.,RA,6.5,,,,,,,5.0,Less,Win,2026-10-28,60%,four
+,Darius Garland,AST,8.0,,,,,,,5.0,Less,Win,2026-10-28,59%,four
+,Isaiah Jackson,RA,8.5,,,,,,,6.0,Less,Win,2026-10-28,59%,four
+,Brook Lopez,PR,16.5,,,,,,,5.0,Less,Win,2026-10-28,58%,four
+,Jaden McDaniels,PTS,17.5,,,,,,,19.0,Less,Loss,2026-10-28,,points
+,P.J. Washington,PTS,14.5,,,,,,,18.0,Less,Loss,2026-10-28,,points
+,Tristan da Silva,PTS,11.5,,,,,,,20.0,Less,Loss,2026-10-28,,points
+,Devin Vassell,PTS,11.5,,,,,,,21.0,More,Win,2026-10-28,,points
+,Brook Lopez,PTS,11.5,,,,,,,2.0,Less,Win,2026-10-28,,points
+,De'Aaron Fox,PTS,15.5,,,,,,,14.0,More,Loss,2026-10-28,,points
+,Daniel Gafford,PA,11.5,,,,,,,9.0,Less,Win,2026-10-28,,points
+,Isaiah Jackson,PR,18.5,,,,,,,9.0,Less,Win,2026-10-28,,points
+,Reed Sheppard,PA,15.5,,,,,,,11.0,Less,Win,2026-10-28,,points
+,Obi Toppin,PTS,11.5,,,,,,,13.0,Less,Loss,2026-10-28,,points
+,Nickeil Alexander-Walker,PTS,19.5,,,,,,,23.0,Less,Loss,2026-10-28,,points
+,Moussa Diabaté,PTS,8.5,,,,,,,9.0,Less,Loss,2026-10-28,,points
+,OG Anunoby,PTS,17.5,,,,,,,23.0,Less,Loss,2026-10-28,,points
+,Christian Braun,PA,15.5,,,,,,,19.0,Less,Loss,2026-10-28,,points
+,Stephon Castle,PTS,17.5,,,,,,,14.0,Less,Win,2026-10-28,,points
+,Tari Eason,PTS,11.5,,,,,,,5.0,Less,Win,2026-10-28,,points
+,Matas Buzelis,3PM,0.5,,,,,,,3.0,More,Win,2026-10-28,0.855,extra-goblin
+,Jamal Murray,3PM,1.5,,,,,,,5.0,More,Win,2026-10-28,0.808,extra-goblin
+,Zion Williamson,3PM,0.5,,,,,,,1.0,Less,Loss,2026-10-28,0.763,extra-line
+,Terrence Shannon Jr.,3PM,1.5,,,,,,,1.0,Less,Win,2026-10-28,0.63,extra-line
+,Ace Bailey,3PM,0.5,,,,,,,1.0,More,Win,2026-10-28,0.808,extra-goblin
+,Stephon Castle,3PM,2.5,,,,,,,1.0,Less,Win,2026-10-28,0.693,extra-line
+,P.J. Washington,3PM,1.5,,,,,,,2.0,Less,Loss,2026-10-28,0.552,extra-line
+,Collin Sexton,3PM,1.5,,,,,,,4.0,Less,Loss,2026-10-28,0.646,extra-line
+,Jake LaRavia,3PM,1.5,,,,,,,0.0,Less,Win,2026-10-28,0.724,extra-line
+,Quentin Grimes,3PM,1.5,,,,,,,0.0,Less,Win,2026-10-28,0.574,extra-line
+,Myles Turner,BLK,0.5,,,,,,,2.0,More,Win,2026-10-28,0.805,extra-goblin
+,Tari Eason,BLK,0.5,,,,,,,3.0,Less,Loss,2026-10-28,0.629,extra-line
+,Ryan Rollins,SB,0.5,,,,,,,1.0,More,Win,2026-10-28,0.839,extra-goblin
+,Tari Eason,SB,2.5,,,,,,,4.0,Less,Loss,2026-10-28,0.682,extra-line
+,Karl-Anthony Towns,SB,0.5,,,,,,,1.0,More,Win,2026-10-28,0.811,extra-goblin
+,Matas Buzelis,SB,0.5,,,,,,,2.0,More,Win,2026-10-28,0.825,extra-goblin
+,Jamal Murray,SB,0.5,,,,,,,2.0,More,Win,2026-10-28,0.803,extra-goblin
+,Draymond Green,SB,0.5,,,,,,,2.0,More,Win,2026-10-28,0.805,extra-goblin
+,Jaxson Hayes,STL,0.5,,,,,,,1.0,Less,Loss,2026-10-28,0.568,extra-line
+,Ace Bailey,SB,0.5,,,,,,,1.0,More,Win,2026-10-28,0.829,extra-goblin
+,Ajay Mitchell,SB,1.5,,,,,,,3.0,More,Win,2026-10-28,0.576,extra-line
+,P.J. Washington,SB,0.5,,,,,,,1.0,More,Win,2026-10-28,0.836,extra-goblin
+,Collin Sexton,STL,1.5,,,,,,,0.0,Less,Win,2026-10-28,0.716,extra-line
+,Jake LaRavia,STL,1.5,,,,,,,3.0,Less,Loss,2026-10-28,0.699,extra-line
+,Jake LaRavia,SB,2.5,,,,,,,5.0,Less,Loss,2026-10-28,0.746,extra-line
+,Isaiah Jackson,SB,2.5,,,,,,,1.0,Less,Win,2026-10-28,0.649,extra-line
+,Cedric Coward,RA,5.5,,,,,,,11.0,More,Win,2026-10-29,,goblin
+,Jrue Holiday,RA,4.5,,,,,,,10.0,More,Win,2026-10-29,,goblin
+,Zach Edey,REB,4.5,,,,,,,7.0,More,Win,2026-10-29,,goblin
+,Ja Morant,PR,15.5,,,,,,,16.0,More,Win,2026-10-29,,goblin
+,Ja Morant,REB,1.5,,,,,,,2.0,More,Win,2026-10-29,,goblin
+,Donovan Clingan,PR,22.5,,,,,,,19.0,Less,Win,2026-10-29,,lean
