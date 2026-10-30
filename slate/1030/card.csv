@@ -1,0 +1,18 @@
+game,team,player,stat,tier,line,side,p,mean,min,gap,where
+CHI@BOS,BOS,Payton Pritchard,RA,goblin,4.5,More,0.879,8.09,28.6,-1.9,PrizePicks (goblin)
+CHI@BOS,BOS,Jayson Tatum,PR,goblin,27.5,More,0.861,38.72,35.7,-0.9,PrizePicks (goblin)
+DEN@PHX,PHX,Devin Booker,AST,goblin,3.5,More,0.853,6.33,34.2,-1.2,PrizePicks (goblin)
+LAC@MIN,LAC,Darius Garland,AST,goblin,4.5,More,0.851,7.56,33.2,-0.7,PrizePicks (goblin)
+LAC@MIN,MIN,Rudy Gobert,PTS,goblin,5.5,More,0.851,11.25,32.6,-1.5,PrizePicks (goblin)
+DEN@PHX,PHX,Dillon Brooks,PRA,goblin,14.5,More,0.849,23.92,31.5,-1.7,PrizePicks (goblin)
+CHI@BOS,BOS,Jayson Tatum,REB,goblin,5.5,More,0.843,8.88,35.7,-0.9,PrizePicks (goblin)
+DEN@PHX,PHX,Devin Booker,PR,goblin,19.5,More,0.841,28.6,34.2,-1.2,PrizePicks (goblin)
+CHI@BOS,BOS,Payton Pritchard,AST,goblin,2.5,More,0.841,4.88,28.6,-1.9,PrizePicks (goblin)
+CHI@BOS,BOS,Jordan Walsh,AST,standard,1.5,Less,0.6404,1.01,18.8,0.2,Kalshi / Underdog
+DEN@PHX,PHX,Dillon Brooks,AST,standard,2.5,Less,0.638,1.78,31.5,-1.7,Kalshi / Underdog
+HOU@DAL,HOU,Fred VanVleet,RA,standard,9.5,Less,0.6182,8.02,32.8,0.5,Kalshi / Underdog
+HOU@DAL,DAL,Daniel Gafford,AST,standard,1.5,Less,0.6164,1.13,21.8,-1.3,Kalshi / Underdog
+HOU@DAL,DAL,Max Christie,REB,standard,3.5,Less,0.6014,2.88,28.0,-1.8,Kalshi / Underdog
+LAC@MIN,LAC,Isaiah Jackson,AST,standard,1.5,Less,0.6014,1.2,19.6,-2.3,Kalshi / Underdog
+DEN@PHX,PHX,Dillon Brooks,RA,standard,6.5,Less,0.596,5.61,31.5,-1.7,Kalshi / Underdog
+HOU@DAL,HOU,Kevin Durant,REB,standard,5.5,Less,0.587,4.8,32.8,0.3,Kalshi / Underdog

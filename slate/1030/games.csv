@@ -1,0 +1,5 @@
+game,model_spread_home,mkt_spread_home,p_home_cover,mkt_home_cover,model_total,mkt_total,p_over,mkt_over,p_home_win,mkt_home_win,poss,full_game_note
+HOU@DAL,6.1,6.5,0.513,0.494,229.7,224.5,0.612,0.498,0.321,0.322,100.7,
+CHI@BOS,-10.9,-14.5,0.39,0.516,229.5,236.5,0.347,0.492,0.788,0.87,100.9,skip: model >6 off market
+LAC@MIN,-2.4,-6.5,0.383,0.517,223.5,223.5,0.493,0.491,0.575,0.703,99.8,
+DEN@PHX,0.1,4.5,0.624,0.527,226.6,231.5,0.385,0.5,0.494,0.385,98.3,
