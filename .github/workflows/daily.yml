@@ -1,5 +1,7 @@
 name: daily-nba
 on:
+  push:
+    paths: ["slate/*/lines.json"]     # committing a slate's lines builds that night's card
   schedule:
     - cron: "30 13 * * *"   # 8:30 AM CT: grade yesterday's card
   workflow_dispatch:
@@ -27,6 +29,9 @@ jobs:
       - name: build card
         if: ${{ github.event.inputs.date != '' }}
         run: python3 run_day.py ${{ github.event.inputs.date }}
+      - name: build card from pushed lines
+        if: ${{ github.event_name == 'push' }}
+        run: python3 run_day.py $(TZ=America/Chicago date +%F)
       - name: test grade
         if: ${{ github.event.inputs.test == 'true' }}
         run: python3 grade_day.py ${{ github.event.inputs.date }} --no-log
