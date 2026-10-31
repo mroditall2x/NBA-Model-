@@ -1,16 +1,23 @@
 name: daily-nba
 on:
   push:
-    paths: ["slate/*/lines.json"]     # committing a slate's lines builds that night's card
+    paths: ["slate/*/lines.json"]       # manually pushed lines (e.g. Outlier) build that night's card
   schedule:
-    - cron: "30 13 * * *"   # 8:30 AM CT: grade yesterday's card
+    - cron: "30 13 * * *"   # 8:30 AM CT  grade yesterday
+    - cron: "0 16 * * *"    # 11:00 AM CT opening lines snapshot (for line movement)
+    - cron: "45 21 * * *"   # 4:45 PM CT  pre-tip lines -> build card -> line-movement check
   workflow_dispatch:
     inputs:
-      date: {description: "slate date YYYY-MM-DD (needs slate/MMDD/lines.json + props_p1.txt committed)", required: false}
-      test: {description: "test mode: build that date's card AND grade it, without touching graded_log", type: boolean, default: false}
+      date: {description: "slate date YYYY-MM-DD", required: false}
+      fetch: {description: "pull lines from The Odds API first", type: boolean, default: true}
+      props_all: {description: "props for every game (uses ~16 credits/game; free plan = leave off)", type: boolean, default: false}
+      test: {description: "test mode: build + grade a past date without touching graded_log", type: boolean, default: false}
 permissions: {contents: write}
 env:
   NBA_DATA: ${{ github.workspace }}/repo/nba
+  ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+  PROPS_TEAMS: HOU            # free plan: props only for these teams; add more after upgrading
+  TZ: America/Chicago
 jobs:
   run:
     runs-on: ubuntu-latest
@@ -23,22 +30,37 @@ jobs:
         run: |
           git clone --depth 1 --filter=blob:none --no-checkout https://github.com/sportsdataverse/hoopr-nba-data repo
           cd repo && git checkout HEAD -- nba/player_box/parquet/player_box_2025.parquet nba/player_box/parquet/player_box_2026.parquet nba/player_box/parquet/player_box_2027.parquet nba/team_box/parquet/team_box_2025.parquet nba/team_box/parquet/team_box_2026.parquet nba/team_box/parquet/team_box_2027.parquet nba/schedules/parquet/nba_schedule_2027.parquet nba/rosters/parquet/rosters_2027.parquet
-      - name: grade yesterday
-        if: ${{ github.event_name == 'schedule' }}
-        run: python3 grade_day.py $(TZ=America/Chicago date -d yesterday +%F) || true
+      - name: which job
+        id: job
+        run: |
+          D="${{ github.event.inputs.date }}"; [ -z "$D" ] && D=$(date +%F)
+          echo "date=$D" >> $GITHUB_OUTPUT
+          echo "mmdd=${D:5:2}${D:8:2}" >> $GITHUB_OUTPUT
+      - name: grade yesterday (8:30)
+        if: github.event.schedule == '30 13 * * *'
+        run: python3 grade_day.py $(date -d yesterday +%F) || true
+      - name: opening snapshot (11:00)
+        if: github.event.schedule == '0 16 * * *'
+        run: python3 fetch_lines.py ${{ steps.job.outputs.date }} --snap
+      - name: pre-tip lines (4:45)
+        if: github.event.schedule == '45 21 * * *'
+        run: python3 fetch_lines.py ${{ steps.job.outputs.date }}
+      - name: manual fetch
+        if: github.event_name == 'workflow_dispatch' && github.event.inputs.fetch == 'true' && github.event.inputs.test != 'true'
+        run: python3 fetch_lines.py ${{ steps.job.outputs.date }} ${{ github.event.inputs.props_all == 'true' && '--props-all' || '' }} $( [ -f slate/${{ steps.job.outputs.mmdd }}/lines.json.open ] || echo --snap )
       - name: build card
-        if: ${{ github.event.inputs.date != '' }}
-        run: python3 run_day.py ${{ github.event.inputs.date }}
-      - name: build card from pushed lines
-        if: ${{ github.event_name == 'push' }}
-        run: python3 run_day.py $(TZ=America/Chicago date +%F)
+        if: github.event.schedule == '45 21 * * *' || github.event_name == 'push' || github.event_name == 'workflow_dispatch'
+        run: python3 run_day.py ${{ steps.job.outputs.date }}
+      - name: line movement check
+        if: github.event.schedule == '45 21 * * *' || (github.event_name == 'workflow_dispatch' && github.event.inputs.test != 'true')
+        run: python3 line_moves.py check slate/${{ steps.job.outputs.mmdd }} || true
       - name: test grade
-        if: ${{ github.event.inputs.test == 'true' }}
-        run: python3 grade_day.py ${{ github.event.inputs.date }} --no-log
+        if: github.event.inputs.test == 'true'
+        run: python3 grade_day.py ${{ steps.job.outputs.date }} --no-log
       - name: commit results
-        if: ${{ github.event.inputs.test != 'true' }}
+        if: github.event.inputs.test != 'true'
         run: |
           git config user.name "nba-bot"; git config user.email "nba-bot@users.noreply.github.com"
           git add graded_log.csv slate || true
-          git commit -m "daily run $(date +%F)" || echo "nothing to commit"
-          git push
+          git commit -m "nba run $(date '+%F %H:%M')" || echo "nothing to commit"
+          git pull --rebase -q && git push
