@@ -58,7 +58,7 @@ jobs:
         if: github.event.inputs.test == 'true'
         run: python3 grade_day.py ${{ steps.job.outputs.date }} --no-log
       - name: commit results
-        if: github.event.inputs.test != 'true'
+        if: always() && github.event.inputs.test != 'true'
         run: |
           git config user.name "nba-bot"; git config user.email "nba-bot@users.noreply.github.com"
           git add graded_log.csv slate || true
