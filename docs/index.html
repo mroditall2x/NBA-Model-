@@ -1,0 +1,157 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Deon's NBA Board</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+<style>
+:root{--bg:#0b0d12;--panel:#141821;--panel2:#1b2030;--line:#262c3d;--text:#eef1f7;--muted:#8a93a8;--red:#ce1141;--green:#22c55e;--amber:#f5b301;--blue:#4ea1ff}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font:15px/1.45 Inter,system-ui,sans-serif}
+header{position:sticky;top:0;z-index:5;background:linear-gradient(180deg,#0b0d12 80%,#0b0d12ee);padding:14px 16px 0;border-bottom:1px solid var(--line)}
+.top{display:flex;align-items:center;justify-content:space-between;gap:10px}
+h1{font:700 26px/1 'Barlow Condensed',sans-serif;letter-spacing:.5px;margin:0;text-transform:uppercase}
+h1 span{color:var(--red)}
+select{background:var(--panel2);color:var(--text);border:1px solid var(--line);border-radius:8px;padding:7px 10px;font:inherit}
+nav{display:flex;gap:4px;overflow-x:auto;margin-top:12px;scrollbar-width:none}
+nav button{flex:none;background:none;border:0;color:var(--muted);font:600 14px Inter;padding:10px 12px;border-bottom:3px solid transparent;cursor:pointer}
+nav button.on{color:var(--text);border-color:var(--red)}
+main{max-width:860px;margin:0 auto;padding:16px}
+.game{background:var(--panel);border:1px solid var(--line);border-radius:14px;margin-bottom:16px;overflow:hidden}
+.ghead{display:flex;justify-content:space-between;align-items:center;padding:12px 14px;background:var(--panel2);font:700 20px 'Barlow Condensed';letter-spacing:.5px}
+.ghead small{font:500 12px Inter;color:var(--muted)}
+.team{padding:10px 14px 4px;font:700 13px Inter;color:var(--muted);text-transform:uppercase;letter-spacing:1px}
+.pick{display:grid;grid-template-columns:1fr auto;gap:2px 10px;padding:10px 14px;border-top:1px solid var(--line)}
+.pick .who{font-weight:600}
+.pick .what{color:var(--muted);font-size:13px}
+.pick .pct{grid-row:span 2;align-self:center;text-align:right;font:700 22px 'Barlow Condensed'}
+.tag{display:inline-block;font:600 11px Inter;padding:2px 7px;border-radius:99px;margin-left:6px;vertical-align:1px}
+.card{background:#22c55e22;color:var(--green)}.lean{background:#f5b30122;color:var(--amber)}.gob{background:#4ea1ff22;color:var(--blue)}
+.win{color:var(--green)}.loss{color:#f87171}.push{color:var(--muted)}
+.more{color:var(--green)}.less{color:#f87171}
+.row{display:flex;justify-content:space-between;gap:10px;padding:10px 14px;border-top:1px solid var(--line)}
+.row b{font-weight:600}.row .r{text-align:right}
+.note{color:var(--muted);font-size:13px;padding:10px 14px;border-top:1px solid var(--line)}
+.bar{height:6px;background:var(--line);border-radius:6px;margin-top:5px;overflow:hidden}.bar i{display:block;height:100%;background:var(--red)}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:10px;margin-bottom:16px}
+.stat{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:12px}
+.stat .n{font:700 28px 'Barlow Condensed'}.stat .l{color:var(--muted);font-size:12px}
+.empty{color:var(--muted);text-align:center;padding:40px 10px}
+.legend{color:var(--muted);font-size:12px;margin:-4px 0 14px}
+</style>
+</head>
+<body>
+<header>
+  <div class="top"><h1>NBA <span>Board</span></h1><select id="day"></select></div>
+  <nav id="tabs">
+    <button data-t="team" class="on">By team</button>
+    <button data-t="card">Card</button>
+    <button data-t="games">Full game</button>
+    <button data-t="boom">30+ watch</button>
+    <button data-t="results">Results</button>
+  </nav>
+</header>
+<main id="view"><div class="empty">Loading…</div></main>
+<script>
+const REPO='mroditall2x/NBA-Model-', RAW=`https://raw.githubusercontent.com/${REPO}/main/`;
+const STAT={PTS:'Points',REB:'Rebounds',AST:'Assists',PRA:'Pts+Reb+Ast',PA:'Pts+Ast',PR:'Pts+Reb',RA:'Reb+Ast','3PM':'3-Pointers',BLK:'Blocks',STL:'Steals',SB:'Stl+Blk',OREB:'Off. Rebounds'};
+const $=s=>document.querySelector(s), V=$('#view');
+let tab='team', day=null, cache={};
+const pct=p=>p==null||p===''||isNaN(p)?'–':Math.round(p*100)+'%';
+const side=s=>s==='More'?'<span class="more">Over</span>':'<span class="less">Under</span>';
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+async function csv(path){
+  if(path in cache) return cache[path];
+  try{const r=await fetch(RAW+path+'?t='+Date.now()); if(!r.ok) throw 0;
+    cache[path]=Papa.parse(await r.text(),{header:true,dynamicTyping:true,skipEmptyLines:true}).data;}
+  catch(e){cache[path]=null}
+  return cache[path];
+}
+async function days(){
+  const r=await fetch(`https://api.github.com/repos/${REPO}/contents/slate`); const j=await r.json();
+  const key=d=>(+d.slice(0,2)<7?1300:0)+ +d; // season wraps Jan
+  return j.filter(x=>x.type==='dir'&&/^\d{4}$/.test(x.name)).map(x=>x.name).sort((a,b)=>key(b)-key(a));
+}
+const label=d=>new Date(2026,+d.slice(0,2)-1,+d.slice(2)).toLocaleDateString('en-US',{weekday:'short',month:'short',day:'numeric'});
+function group(rows,k){const m=new Map();rows.forEach(r=>{if(!m.has(r[k]))m.set(r[k],[]);m.get(r[k]).push(r)});return m}
+function pickRow(r,extra=''){
+  return `<div class="pick"><div class="who">${esc(r.player)}${extra}</div><div class="pct">${pct(r.p)}</div>
+  <div class="what">${side(r.side)} ${r.line} ${STAT[r.stat]||r.stat} · avg ${r.mean} · ${esc(r.where)}</div></div>`;
+}
+async function render(){
+  V.innerHTML='<div class="empty">Loading…</div>';
+  const D=`slate/${day}/`;
+  if(tab==='team'){
+    let rows=await csv(D+'by_team.csv');
+    if(!rows){ // older days: fall back to the card split by team
+      rows=(await csv(D+'card.csv'))||[]; rows.forEach(r=>r.grade=r.tier==='goblin'?'goblin':'card');
+    }
+    if(!rows.length) return V.innerHTML='<div class="empty">No props yet for this day. The card lands around 4:50 PM CT.</div>';
+    let h='<div class="legend"><span class="tag card">CARD</span> clears the 58% bar &nbsp; <span class="tag lean">LEAN</span> best on that team, play small</div>';
+    for(const [g,gr] of group(rows,'game')){
+      h+=`<div class="game"><div class="ghead">${esc(g)}</div>`;
+      for(const [t,tr] of group(gr,'team')){
+        h+=`<div class="team">${esc(t)}</div>`+tr.map(r=>pickRow(r,`<span class="tag ${r.grade==='lean'?'lean':r.grade==='goblin'?'gob':'card'}">${String(r.grade).toUpperCase()}</span>`)).join('');
+      }
+      h+='</div>';
+    }
+    V.innerHTML=h;
+  }
+  if(tab==='card'){
+    const rows=await csv(D+'card.csv'), gr=await csv(D+'card_graded.csv');
+    const res={}; (gr||[]).forEach(r=>res[r.player+r.stat]=r);
+    if(!rows||!rows.length) return V.innerHTML='<div class="empty">No card yet for this day.</div>';
+    let h='';
+    for(const [g,list] of group(rows,'game')){
+      h+=`<div class="game"><div class="ghead">${esc(g)}<small>${list.length} plays</small></div>`+list.map(r=>{
+        const x=res[r.player+r.stat]; const tg=r.tier==='goblin'?'<span class="tag gob">GOBLIN</span>':'';
+        const out=x?` <span class="tag ${x.result==='Win'?'card':'lean'}" style="${x.result==='Loss'?'color:#f87171;background:#f8717122':''}">${x.result} · ${x.actual}</span>`:'';
+        return pickRow(r,tg+out)}).join('')+'</div>';
+    }
+    V.innerHTML=h;
+  }
+  if(tab==='games'){
+    const rows=await csv(D+'games.csv'), mv=(await csv(D+'moves.csv'))||[];
+    if(!rows) return V.innerHTML='<div class="empty">No game lines for this day.</div>';
+    V.innerHTML=rows.map(r=>{
+      const [a,h]=r.game.split('@'); const sp=r.mkt_spread_home, fmt=x=>(x>0?'+':'')+x;
+      const coverHome=r.p_home_cover>=.5, ov=r.p_over>=.5, winHome=r.p_home_win>=.5;
+      const m=mv.filter(x=>x.game===r.game).map(x=>`${x.market}: ${x.open} → ${x.now}${x.vs_model?' ('+x.vs_model+')':''}`).join(' · ');
+      return `<div class="game"><div class="ghead">${esc(r.game)}<small>${r.full_game_note?'<span class="tag lean">'+esc(r.full_game_note)+'</span>':''}</small></div>
+      <div class="row"><div><b>Spread</b><div class="what" style="color:var(--muted);font-size:13px">Model ${h} ${fmt(r.model_spread_home)} · market ${h} ${fmt(sp)}</div></div><div class="r"><b>${coverHome?h+' '+fmt(sp):a+' '+fmt(-sp)}</b><div>${pct(Math.max(r.p_home_cover,1-r.p_home_cover))}</div></div></div>
+      <div class="row"><div><b>Total ${r.mkt_total}</b><div style="color:var(--muted);font-size:13px">Model ${r.model_total} · pace ${r.poss}</div></div><div class="r"><b>${ov?'Over':'Under'}</b><div>${pct(Math.max(r.p_over,1-r.p_over))}</div></div></div>
+      <div class="row"><div><b>Moneyline</b><div style="color:var(--muted);font-size:13px">Market ${h} ${pct(r.mkt_home_win)}</div></div><div class="r"><b>${winHome?h:a}</b><div>${pct(Math.max(r.p_home_win,1-r.p_home_win))}</div></div></div>
+      ${m?`<div class="note">Line moves: ${esc(m)}</div>`:''}</div>`}).join('');
+  }
+  if(tab==='boom'){
+    const rows=await csv(D+'boom.csv');
+    if(!rows||!rows.length) return V.innerHTML='<div class="empty">No 30+ watch list for this day.</div>';
+    V.innerHTML='<div class="legend">Chance to hit each mark tonight, after matchup, pace and teammates out.</div><div class="game">'+rows.slice(0,15).map(r=>`
+      <div class="pick"><div class="who">${esc(r.player)} <span style="color:var(--muted);font-weight:400">${esc(r.team)} vs ${esc(r.opp)}</span></div>
+      <div class="pct">${pct(r.p30)}<div style="font:500 11px Inter;color:var(--muted)">30+</div></div>
+      <div class="what">avg ${r.mean} · 25+ ${pct(r.p25)} · 35+ ${pct(r.p35)}${r.line?` · line ${r.line} (Over ${pct(r.p_over)})`:''}${r.alt_line?` · <b style="color:var(--green)">alt ${r.alt_line}+ at +${r.alt_odds}</b>`:''}
+      <div class="bar"><i style="width:${Math.round(r.p30*100)}%"></i></div></div></div>`).join('')+'</div>';
+  }
+  if(tab==='results'){
+    const g=(await csv('graded_log.csv'))||[];
+    const done=g.filter(r=>r.result==='Win'||r.result==='Loss');
+    const rec=rs=>{const w=rs.filter(r=>r.result==='Win').length,l=rs.filter(r=>r.result==='Loss').length;return{w,l,p:w+l?w/(w+l):0}};
+    const all=rec(done), gob=rec(done.filter(r=>r.tier==='goblin')), std=rec(done.filter(r=>r.tier==='standard'));
+    const byDay=[...group(done,'date')].sort((a,b)=>a[0]<b[0]?1:-1);
+    V.innerHTML=`<div class="stats">
+      <div class="stat"><div class="n">${all.w}-${all.l}</div><div class="l">All graded · ${pct(all.p)}</div></div>
+      <div class="stat"><div class="n">${gob.w}-${gob.l}</div><div class="l">Goblins · ${pct(gob.p)}</div></div>
+      <div class="stat"><div class="n">${std.w}-${std.l}</div><div class="l">Standard · ${pct(std.p)}</div></div></div>
+      <div class="game"><div class="ghead">By day</div>${byDay.map(([d,rs])=>{const x=rec(rs);return`<div class="row"><b>${esc(d)}</b><div class="r ${x.p>=.55?'win':x.p<.5?'loss':'push'}">${x.w}-${x.l} · ${pct(x.p)}</div></div>`}).join('')}</div>`;
+  }
+}
+document.querySelectorAll('nav button').forEach(b=>b.onclick=()=>{document.querySelectorAll('nav button').forEach(x=>x.classList.remove('on'));b.classList.add('on');tab=b.dataset.t;render()});
+$('#day').onchange=e=>{day=e.target.value;render()};
+days().then(ds=>{$('#day').innerHTML=ds.map(d=>`<option value="${d}">${label(d)}</option>`).join('');day=ds[0];render()})
+  .catch(()=>V.innerHTML='<div class="empty">Could not reach GitHub. Try again in a minute.</div>');
+</script>
+</body>
+</html>
