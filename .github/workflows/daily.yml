@@ -42,7 +42,7 @@ jobs:
         run: python3 grade_day.py $(date -d yesterday +%F) || true
       - name: grade only (manual / backup)
         if: github.event.inputs.grade_only == 'true'
-        run: D="${{ github.event.inputs.date }}"; python3 grade_day.py ${D:-$(date -d yesterday +%F)}
+        run: D="${{ github.event.inputs.date }}"; D=${D:-$(date -d yesterday +%F)}; python3 espn_box.py $D || true; python3 grade_day.py $D
       - name: opening snapshot (11:00)
         if: github.event.schedule == '7 17 * * *'
         run: python3 fetch_lines.py ${{ steps.job.outputs.date }} --snap
