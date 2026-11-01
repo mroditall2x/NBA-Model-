@@ -1,10 +1,10 @@
 game,team,player,stat,tier,line,side,p,mean,min,gap,where,line_open,line_now,move,line_move,keep
 BOS@ORL,ORL,Franz Wagner,AST,standard,6.5,Less,0.6866,4.46,36.2,0.3,PrizePicks / Underdog,6.5,6.5,0.0,,True
 BOS@ORL,ORL,Tristan da Silva,3PM,standard,2.5,Less,0.6517999999999999,1.65,28.1,-2.4,Kalshi / Underdog,,,,,True
-LAC@GS,LAC,Isaiah Jackson,RA,standard,9.5,Less,0.6464,7.51,18.9,-1.1,PrizePicks / Underdog,,,,,True
+LAC@GS,LAC,Isaiah Jackson,RA,standard,9.5,Less,0.6457999999999999,7.54,18.9,-1.1,PrizePicks / Underdog,,,,,True
 BOS@ORL,ORL,Franz Wagner,RA,standard,12.5,Less,0.6217999999999999,10.58,36.2,0.3,PrizePicks / Underdog,12.5,12.5,0.0,,True
-LAC@GS,LAC,Isaiah Jackson,REB,standard,7.5,Less,0.6104,6.3,18.9,-1.1,PrizePicks / Underdog,7.5,7.5,0.0,,True
-LAC@GS,LAC,Isaiah Jackson,PRA,standard,18.5,Less,0.6038,16.02,18.9,-1.1,PrizePicks / Underdog,,,,,True
+LAC@GS,LAC,Isaiah Jackson,REB,standard,7.5,Less,0.6098,6.33,18.9,-1.1,PrizePicks / Underdog,7.5,7.5,0.0,,True
+LAC@GS,LAC,Isaiah Jackson,PRA,standard,18.5,Less,0.6026,16.13,18.9,-1.1,PrizePicks / Underdog,,,,,True
 BOS@ORL,BOS,Neemias Queta,RA,standard,9.5,Less,0.59,8.45,22.6,-1.3,PrizePicks / Underdog,,,,,True
-LAC@GS,LAC,Isaiah Jackson,PR,standard,16.5,Less,0.5822,14.81,18.9,-1.1,PrizePicks / Underdog,16.5,16.5,0.0,,True
-LAC@GS,GS,Brandin Podziemski,3PM,standard,2.5,Less,0.5816,2.15,32.3,1.2,Kalshi / Underdog,,,,,True
+LAC@GS,GS,Brandin Podziemski,3PM,standard,2.5,Less,0.5882000000000001,2.1,32.0,1.2,Kalshi / Underdog,,,,,True
+LAC@GS,LAC,Isaiah Jackson,PR,standard,16.5,Less,0.5804,14.92,18.9,-1.1,PrizePicks / Underdog,16.5,16.5,0.0,,True
