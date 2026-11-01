@@ -1,0 +1,3 @@
+game,team,player,stat,tier,line,side,p,mean,min,gap,where,line_open,line_now,move,line_move,keep,actual,result,group
+OKC@HOU,OKC,Kenrich Williams,3PM,standard,1.5,Less,0.6416,0.98,18.7,-1.6,Kalshi / Underdog,,,,,True,3.0,Loss,other
+OKC@HOU,OKC,Kenrich Williams,REB,standard,4.5,Less,0.6355999999999999,3.34,18.7,-1.6,Kalshi / Underdog,4.5,4.5,0.0,,True,7.0,Loss,reb/ast
