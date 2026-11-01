@@ -74,7 +74,7 @@ for g in out:
                 if key[0] is None or L is None: continue
                 d = lines.setdefault(key, {'book': {}, 'dfs': set()})
                 if b['key'] in DFS: d['dfs'].add(L); continue
-                d['book'].setdefault(L, {}).setdefault(b['key'], {})[o['name']] = o['price']
+                if abs(o['price']) >= 100: d['book'].setdefault(L, {}).setdefault(b['key'], {})[o['name']] = o['price']
     for (player, mk), d in lines.items():
         code, label = PROP[mk]
         pairs = {L: [(v['Over'], v['Under']) for v in books.values() if 'Over' in v and 'Under' in v] for L, books in d['book'].items()}

@@ -3,7 +3,7 @@ from slate_names import norm
 import sys; D=sys.argv[1]
 rows=json.load(open(f'{D}/pp_compact.json')); gap=json.load(open(f'{D}/min_gap.json'))
 STAT={'Points':'pts','Rebounds':'reb','Assists':'ast','Points + Assists':'pa','Points + Rebounds':'pr','Rebounds + Assists':'ra','Pts + Reb + Ast':'pra','Steals':'stl','Blocks':'blk','Steals + Blocks':'stocks','Three Pointers':'fg3m'}
-AB={'Points':'PTS','Rebounds':'REB','Assists':'AST','Points + Assists':'PA','Points + Rebounds':'PR','Rebounds + Assists':'RA','Pts + Reb + Ast':'PRA','Steals':'STL','Blocks':'BLK','Steals + Blocks':'Stl+Blk'}
+AB={'Points':'PTS','Rebounds':'REB','Assists':'AST','Points + Assists':'PA','Points + Rebounds':'PR','Rebounds + Assists':'RA','Pts + Reb + Ast':'PRA','Steals':'STL','Blocks':'BLK','Steals + Blocks':'Stl+Blk','Three Pointers':'3PM'}
 import glob,os; sims={os.path.basename(f)[4:-8]:pd.read_parquet(f) for f in glob.glob(f'{D}/sim_*.parquet')}
 p,t=S.load((2025,2026)); last=p.sort_values('game_date').groupby('pid').tail(1)
 lt={norm(n):tm for n,tm in zip(last.name,last.team)}; ng=p.groupby('name').size(); ngk={norm(k):v for k,v in ng.items()}
