@@ -41,3 +41,16 @@ G=pd.read_csv(f'{D}/games.csv')
 G['full_game_note']=['skip: model >6 off market' if abs(r.model_total-r.mkt_total)>6 or abs(r.model_spread_home-r.mkt_spread_home)>6 else '' for r in G.itertuples()]
 G.to_csv(f'{D}/games.csv',index=False)
 print(card.head(30).to_string(index=False))
+# ---- best 3 per team (incl. a points slot when one is close) for games with props; leans marked below the card bar
+pool=B[ok&B.type.isin(['PP standard','book line'])&~B.stat.isin(['STL','BLK','STL+BLK'])&(B.edge>=0.02)].copy()
+pool=pool[~((pool['min']>=35)&(pool.side=='Less')&(pool.adj<0.62))].sort_values('adj',ascending=False).drop_duplicates(['player','stat'])
+rows=[]
+for t,x in pool.groupby('team'):
+    top=x.drop_duplicates('player').head(3)
+    if not top.stat.isin(['PTS','PA','PR','PRA']).any():
+        pts=x[x.stat=='PTS'].head(1)
+        if len(pts): top=pd.concat([top.head(2),pts])
+    rows.append(top)
+if rows:
+    BT=pd.concat(rows); BT['grade']=['card' if a>=0.58 else 'lean' for a in BT.adj]; BT['adj']=BT.adj.round(3)
+    BT[['game','team','player','stat','line','side','adj','mean','min','grade','where']].rename(columns={'adj':'p'}).to_csv(f'{D}/by_team.csv',index=False)
