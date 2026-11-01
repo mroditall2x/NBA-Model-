@@ -12,7 +12,8 @@ BASE = 'https://api.the-odds-api.com/v4/sports/basketball_nba'
 DATE = sys.argv[1]; D = f'slate/{DATE[5:7]}{DATE[8:10]}'; os.makedirs(D, exist_ok=True)
 args = sys.argv[2:]
 PROPS_ALL = '--props-all' in args
-PROPS_TEAMS = set(args[args.index('--props-teams') + 1].split(',')) if '--props-teams' in args else set(os.environ.get('PROPS_TEAMS', 'HOU').split(','))
+_pt = json.load(open('props_teams.json')) if os.path.exists('props_teams.json') else {}   # per-date override, e.g. {"2026-11-01": "BOS,GS"}
+PROPS_TEAMS = set(args[args.index('--props-teams') + 1].split(',')) if '--props-teams' in args else set((_pt.get(DATE) or os.environ.get('PROPS_TEAMS', 'HOU')).split(','))
 ABB = {'Dallas Mavericks': 'DAL', 'Minnesota Timberwolves': 'MIN', 'San Antonio Spurs': 'SA', 'Denver Nuggets': 'DEN', 'Golden State Warriors': 'GS',
        'Los Angeles Clippers': 'LAC', 'LA Clippers': 'LAC', 'Los Angeles Lakers': 'LAL', 'Boston Celtics': 'BOS', 'Brooklyn Nets': 'BKN',
        'Cleveland Cavaliers': 'CLE', 'Miami Heat': 'MIA', 'New York Knicks': 'NY', 'Philadelphia 76ers': 'PHI', 'Washington Wizards': 'WSH',
