@@ -1,8 +1,8 @@
-import json, numpy as np, pandas as pd
+import sys, json, numpy as np, pandas as pd
 import nba_sim as S, first_basket as F
 from slate_names import norm
-D='slate/1022'
-p,t=S.load((2025,2026)); fbm=F.fit(F.build(),p)
+D=sys.argv[1] if len(sys.argv)>1 else 'slate/1022'
+p,t=S.load((2025,2026,2027)); fbm=F.fit(F.build(),p)
 R=pd.read_parquet(f'{S.ROOT}/rosters/parquet/rosters_2027.parquet'); R['pid']=R.athlete_id.astype('int64')
 rt={norm(n):(pid,tm) for n,pid,tm in zip(R.display_name,R.pid,R.team_abbreviation)}
 last=p.sort_values('game_date').groupby('pid').tail(1); hist={norm(n):pid for n,pid in zip(last.name,last.pid)}
@@ -17,6 +17,7 @@ odds=json.load(open(f'{D}/fb_odds.json')); lines={f"{g['away']}@{g['home']}":g f
 out=[]
 BENCH=set(); FORCE=set()
 for gk,lst in odds.items():
+    if gk not in lines or len(lst)<6: continue
     g=lines[gk]; home,away=g['home'],g['away']
     team={}
     for n,o in lst:

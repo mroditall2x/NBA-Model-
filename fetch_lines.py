@@ -24,7 +24,8 @@ ABB = {'Dallas Mavericks': 'DAL', 'Minnesota Timberwolves': 'MIN', 'San Antonio 
 PROP = {'player_points': ('PTS', 'Points'), 'player_rebounds': ('REB', 'Rebounds'), 'player_assists': ('AST', 'Assists'),
         'player_points_rebounds_assists': ('PRA', 'Pts + Reb + Ast'), 'player_points_assists': ('PA', 'Points + Assists'),
         'player_points_rebounds': ('PR', 'Points + Rebounds'), 'player_rebounds_assists': ('RA', 'Rebounds + Assists'),
-        'player_threes': ('3PM', 'Three Pointers'), 'player_points_alternate': ('PTS_ALT', 'Points Alt')}
+        'player_threes': ('3PM', 'Three Pointers'), 'player_points_alternate': ('PTS_ALT', 'Points Alt'),
+        'player_first_basket': ('FB', 'First Basket')}
 DFS = {'prizepicks', 'underdog'}
 
 def get(url):
@@ -61,7 +62,7 @@ for g in games:
 json.dump({'games': out}, open(f'{D}/lines.json', 'w'), indent=1)
 print(f'{len(out)} games ->', f'{D}/lines.json')
 
-props_txt, compact, alt_rows = [], [], []
+props_txt, compact, alt_rows, fb = [], [], [], {}
 for g in out:
     if not (PROPS_ALL or {g['home'], g['away']} & PROPS_TEAMS): continue
     gk = f"{g['away']}@{g['home']}"
@@ -86,8 +87,16 @@ for g in out:
         k = (pl, L)
         if k not in best or pr > best[k][3]: best[k] = [gk_, pl, L, pr, bk]
     alt_rows.extend(best.values())
+    fbp = {}   # first basket: median 'Yes' price across books per player
+    for b in ev.get('bookmakers', []):
+        for m in b['markets']:
+            if m['key'] == 'player_first_basket':
+                for o in m['outcomes']:
+                    pl = o.get('description') or o.get('name')
+                    if o.get('name') in ('Yes', pl) and o['price'] >= 100: fbp.setdefault(pl, []).append(o['price'])
+    if fbp: fb[gk] = [[pl, round(med(v))] for pl, v in fbp.items()]
     for (player, mk), d in lines.items():
-        if mk == 'player_points_alternate': continue
+        if mk in ('player_points_alternate', 'player_first_basket'): continue
         code, label = PROP[mk]
         pairs = {L: [(v['Over'], v['Under']) for v in books.values() if 'Over' in v and 'Under' in v] for L, books in d['book'].items()}
         pairs = {L: p for L, p in pairs.items() if p}
@@ -101,7 +110,8 @@ for g in out:
             compact.append([gk, player, label, str(pp), '-119', '-119', str(pp), '', ''])
 open(f'{D}/props_p1.txt', 'w').write('\n'.join(props_txt) + '\n')
 json.dump(compact, open(f'{D}/pp_compact.json', 'w'))
-json.dump(alt_rows, open(f'{D}/pts_alt.json', 'w'))   # best Over price per points milestone (for boom.py)
+json.dump(alt_rows, open(f'{D}/pts_alt.json', 'w'))
+if fb: json.dump(fb, open(f'{D}/fb_odds.json', 'w'))   # best Over price per points milestone (for boom.py)
 json.dump(raw, open(f'{D}/odds_raw_{dt.datetime.now(ct):%H%M}.json', 'w'))
 print(len(props_txt), 'prop lines ->', f'{D}/props_p1.txt')
 if '--snap' in args:

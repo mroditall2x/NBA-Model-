@@ -9,11 +9,13 @@ P(player) = P(his team makes the first FG) x P(player | his team makes first FG)
 import numpy as np
 import pandas as pd
 
-ROOT = '/home/claude/nba/repo/nba'
+import os
+ROOT = os.environ.get('NBA_DATA', '/home/claude/nba/repo/nba')
 TIP_K, FB_K = 20, 12
 
 
-def build(seasons=(2025, 2026)):
+def build(seasons=(2025, 2026, 2027)):
+    seasons = [s for s in seasons if os.path.exists(f'{ROOT}/pbp/parquet/play_by_play_{s}.parquet')]
     d = pd.concat([pd.read_parquet(f'{ROOT}/pbp/parquet/play_by_play_{s}.parquet',
                                    columns=['game_id', 'season', 'season_type', 'sequence_number', 'period_number', 'type_text',
                                             'scoring_play', 'score_value', 'shooting_play', 'team_id', 'athlete_id_1',

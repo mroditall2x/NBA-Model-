@@ -51,6 +51,7 @@ main{max-width:860px;margin:0 auto;padding:16px}
     <button data-t="card">Card</button>
     <button data-t="games">Full game</button>
     <button data-t="boom">30+ watch</button>
+    <button data-t="fb">First basket</button>
     <button data-t="results">Results</button>
   </nav>
 </header>
@@ -135,6 +136,20 @@ async function render(){
       <div class="pct">${pct(r.p30)}<div style="font:500 11px Inter;color:var(--muted)">30+</div></div>
       <div class="what">avg ${r.mean} · 25+ ${pct(r.p25)} · 35+ ${pct(r.p35)}${r.line?` · line ${r.line} (Over ${pct(r.p_over)})`:''}${r.alt_line?` · <b style="color:var(--green)">alt ${r.alt_line}+ at +${r.alt_odds}</b>`:''}
       <div class="bar"><i style="width:${Math.round(r.p30*100)}%"></i></div></div></div>`).join('')+'</div>';
+  }
+  if(tab==='fb'){
+    const rows=await csv(D+'fb_priced.csv');
+    if(!rows||!rows.length) return V.innerHTML='<div class="empty">No first-basket odds for this day.</div>';
+    let h='<div class="legend">Chance to score the first field goal (tip-off + who gets first looks). <span class="tag card">EV+</span> = the price pays more than his real chance.</div>';
+    for(const [g,gr] of group(rows,'game')){
+      gr.sort((a,b)=>b.p_first_fg-a.p_first_fg);
+      const ptf=gr[0];
+      h+=`<div class="game"><div class="ghead">${esc(g)}<small>tip jumpers: ${gr.filter(r=>String(r.jumper)==='true'||r.jumper===true).map(r=>esc(r.player)).join(' v ')}</small></div>`+
+      gr.slice(0,6).map(r=>`<div class="pick"><div class="who">${esc(r.player)} <span style="color:var(--muted);font-weight:400">${esc(r.team)}</span>${r.ev>=0.1?'<span class="tag card">EV+</span>':''}</div>
+        <div class="pct">${pct(r.p_first_fg)}</div>
+        <div class="what">fair ${esc(r.fair_odds)} · book +${r.book} · EV ${r.ev>0?'+':''}${Math.round(r.ev*100)}%</div></div>`).join('')+'</div>';
+    }
+    V.innerHTML=h;
   }
   if(tab==='results'){
     const g=(await csv('graded_log.csv'))||[];

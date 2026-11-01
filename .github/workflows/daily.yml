@@ -29,7 +29,7 @@ jobs:
       - name: hoopR data
         run: |
           git clone --depth 1 --filter=blob:none --no-checkout https://github.com/sportsdataverse/hoopr-nba-data repo
-          cd repo && git checkout HEAD -- nba/player_box/parquet/player_box_2025.parquet nba/player_box/parquet/player_box_2026.parquet nba/player_box/parquet/player_box_2027.parquet nba/team_box/parquet/team_box_2025.parquet nba/team_box/parquet/team_box_2026.parquet nba/team_box/parquet/team_box_2027.parquet nba/schedules/parquet/nba_schedule_2027.parquet nba/rosters/parquet/rosters_2027.parquet
+          cd repo && git checkout HEAD -- nba/player_box/parquet/player_box_2025.parquet nba/player_box/parquet/player_box_2026.parquet nba/player_box/parquet/player_box_2027.parquet nba/team_box/parquet/team_box_2025.parquet nba/team_box/parquet/team_box_2026.parquet nba/team_box/parquet/team_box_2027.parquet nba/schedules/parquet/nba_schedule_2027.parquet nba/rosters/parquet/rosters_2027.parquet nba/pbp/parquet/play_by_play_2025.parquet nba/pbp/parquet/play_by_play_2026.parquet nba/pbp/parquet/play_by_play_2027.parquet
       - name: which job
         id: job
         run: |

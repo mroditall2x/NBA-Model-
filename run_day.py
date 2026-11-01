@@ -25,6 +25,7 @@ sh(f'python3 slate1021.py {DATE} {D} > {D}/p1.log'); sh(f'python3 blend_minutes.
 sh(f'python3 slate1021.py {DATE} {D} --blend > {D}/p2.log'); sh(f'python3 card_slate.py {D} > /dev/null')
 sh(f'python3 dvp.py {D}')
 subprocess.run(f'python3 boom.py {D}', shell=True)
+if os.path.exists(f'{D}/fb_odds.json'): subprocess.run(f'python3 fb_price.py {D} > {D}/fb.log', shell=True)
 # ---- card rules (from graded history)
 B=pd.read_csv(f'{D}/board_all.csv'); B['flags']=B['flags'].fillna('')
 B['adj']=0.5+0.6*(B.model-0.5)                       # calibration shrink (k=0.6)
