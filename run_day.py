@@ -51,15 +51,21 @@ G['ev_tag']=[_ev(r) for r in G.itertuples()]
 G.to_csv(f'{D}/games.csv',index=False)
 print(card.head(30).to_string(index=False))
 # ---- best 3 per team (incl. a points slot when one is close) for games with props; leans marked below the card bar
-pool=B[ok&B.type.isin(['PP standard','book line'])&~B.stat.isin(['STL','BLK','STL+BLK'])&(B.edge>=0.02)].copy()
+ok_bt=ok|((B['gap'].abs()<=4)&(B['flags']=='new team'))   # traded players still count here (graded lean at most)
+pool=B[ok_bt&B.type.isin(['PP standard','book line'])&~B.stat.isin(['STL','BLK','STL+BLK'])&(B.edge>=0.02)].copy()
 pool=pool[~((pool['min']>=35)&(pool.side=='Less')&(pool.adj<0.62))].sort_values('adj',ascending=False).drop_duplicates(['player','stat'])
 rows=[]
-for t,x in pool.groupby('team'):
-    top=x.drop_duplicates('player').head(3)
-    if not top.stat.isin(['PTS','PA','PR','PRA']).any():
-        pts=x[x.stat=='PTS'].head(1)
-        if len(pts): top=pd.concat([top.head(2),pts])
-    rows.append(top)
+for t,x in pool.groupby('team'):   # 4 per team, one prop per player, always an Over and a points prop when one is close
+    u=x.drop_duplicates('player'); sel=list(u.index[:2])
+    def add(m):
+        c=x[m&~x.player.isin(x.loc[sel,'player'])&(x.adj>=0.53)].head(1)
+        if len(c): sel.append(c.index[0])
+    if not (x.loc[sel,'side']=='More').any(): add(x.side=='More')
+    if not x.loc[sel,'stat'].isin(['PTS','PA','PR','PRA']).any(): add(x.stat.isin(['PTS','PA','PR','PRA']))
+    for i in u.index:
+        if len(sel)>=4: break
+        if i not in sel and x.loc[i,'player'] not in set(x.loc[sel,'player']): sel.append(i)
+    rows.append(x.loc[sel].sort_values('adj',ascending=False))
 if rows:
-    BT=pd.concat(rows); BT['grade']=['card' if a>=0.58 else 'lean' for a in BT.adj]; BT['adj']=BT.adj.round(3)
+    BT=pd.concat(rows); BT['grade']=['card' if a>=0.58 and f=='' else 'lean' for a,f in zip(BT.adj,BT['flags'])]; BT['adj']=BT.adj.round(3)
     BT[['game','team','player','stat','line','side','adj','mean','min','grade','where']].rename(columns={'adj':'p'}).to_csv(f'{D}/by_team.csv',index=False)
