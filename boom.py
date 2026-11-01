@@ -42,7 +42,8 @@ for f in glob.glob(f'{D}/sim_*.parquet'):
                                           dvp=round(dv, 3), vacated_fga=round(vac.get(team, 0), 1), line=L, p_over=round((v > L).mean(), 3) if L else None)
         best = None
         for AL, pr, bk in alts.get((g, k), []):
-            p = 0.5 + 0.6 * ((v > AL).mean() - 0.5)                # calibrated
+            p = 0.9 * (v > AL).mean()                              # tail rungs: mild haircut (the 0.5-centred shrink inflates long shots)
+            if p < 0.12: continue
             ev = p * (1 + (pr / 100 if pr > 0 else 100 / -pr)) - 1
             if pr >= 150 and (best is None or ev > best[3]): best = (AL, pr, bk, round(ev, 2), round(p, 3))
         if best: row.update(alt_line=best[0], alt_odds=best[1], alt_book=best[2], alt_ev=best[3], alt_p=best[4])

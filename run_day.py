@@ -44,7 +44,7 @@ def _ev(r):   # moneyline EV+ tag: calibrated model win% beats market by 3+ pts;
     if r.full_game_note: return ''
     a,h=r.game.split('@'); out=[]
     for team,p,m in ((h,r.p_home_win,r.mkt_home_win),(a,1-r.p_home_win,1-r.mkt_home_win)):
-        c=0.5+0.6*(p-0.5)
+        c=m+0.5*(p-m)          # meet the market halfway (model alone over-rates dogs)
         if c-m>=0.03 and (m<0.5 or c>=0.65): out.append(f"EV+ {team} ML ({'fav' if m>=0.5 else 'dog'}) {round(c*100)}% vs mkt {round(m*100)}%")
     return '; '.join(out)
 G['ev_tag']=[_ev(r) for r in G.itertuples()]
