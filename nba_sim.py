@@ -141,12 +141,15 @@ def pos_priors(p):
     return pri
 
 
+NAMES = {}   # pid -> display name for players with no box-score history (rookies); filled from the roster by callers
+
+
 def player_profile(p, pid, asof, pri, pos=None, name=None):
     x = p[(p.pid == pid) & (p.game_date < asof)]
     if pos is None:
         pos = x.pos.iloc[-1] if len(x) else 'F'
     pr = pri[pos]
-    out = dict(pid=pid, name=name or (x.name.iloc[-1] if len(x) else str(pid)), pos=pos, n_games=len(x),
+    out = dict(pid=pid, name=name or (x.name.iloc[-1] if len(x) else NAMES.get(pid, str(pid))), pos=pos, n_games=len(x),
                last_team=x.team.iloc[-1] if len(x) else None)
     if not len(x):
         out.update({k: pr[k] for k in STATS}, p2=pr['p2'], p3=pr['p3'], pft=pr['pft'], mu=12.0, sd=6.0, starter_rate=0.0)

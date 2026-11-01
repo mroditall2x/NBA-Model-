@@ -21,6 +21,7 @@ def imp(o):
 
 p, t = S.load((2025, 2026)); pri = S.pos_priors(p); lg = S.league(t[t.season == 2026])
 R = pd.read_parquet(f'{S.ROOT}/rosters/parquet/rosters_2027.parquet'); R['pid'] = R.athlete_id.astype('int64')
+S.NAMES.update(dict(zip(R.pid, R.display_name)))   # rookies: real names, so their props match
 rot = json.load(open(f'slate/{DATE}_rotations.json'))
 lines = json.load(open(f'{DIR}/lines.json'))['games']
 P = pd.concat([pd.read_csv(f, sep='|', header=None, names=['game', 'player', 'stat', 'line', 'o', 'u']) for f in sorted(glob.glob(f'{DIR}/props_p*.txt'))])
