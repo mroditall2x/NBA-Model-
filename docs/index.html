@@ -145,7 +145,7 @@ async function render(){
       gr.sort((a,b)=>b.p_first_fg-a.p_first_fg);
       const ptf=gr[0];
       h+=`<div class="game"><div class="ghead">${esc(g)}<small>tip jumpers: ${gr.filter(r=>String(r.jumper)==='true'||r.jumper===true).map(r=>esc(r.player)).join(' v ')}</small></div>`+
-      gr.slice(0,6).map(r=>`<div class="pick"><div class="who">${esc(r.player)} <span style="color:var(--muted);font-weight:400">${esc(r.team)}</span>${r.ev>=0.1?'<span class="tag card">EV+</span>':''}</div>
+      [...group(gr,'team').values()].flatMap(t=>t.slice(0,2)).map(r=>`<div class="pick"><div class="who">${esc(r.player)} <span style="color:var(--muted);font-weight:400">${esc(r.team)}</span>${r.ev>=0.1?'<span class="tag card">EV+</span>':''}</div>
         <div class="pct">${pct(r.p_first_fg)}</div>
         <div class="what">fair ${esc(r.fair_odds)} · book +${r.book} · EV ${r.ev>0?'+':''}${Math.round(r.ev*100)}%</div></div>`).join('')+'</div>';
     }
