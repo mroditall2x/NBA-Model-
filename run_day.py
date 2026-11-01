@@ -39,6 +39,14 @@ card=card.sort_values('p',ascending=False).drop_duplicates(['player','stat'])
 card[['game','team','player','stat','tier','line','side','p','mean','min','gap','where']].to_csv(f'{D}/card.csv',index=False)
 G=pd.read_csv(f'{D}/games.csv')
 G['full_game_note']=['skip: model >6 off market' if abs(r.model_total-r.mkt_total)>6 or abs(r.model_spread_home-r.mkt_spread_home)>6 else '' for r in G.itertuples()]
+def _ev(r):   # moneyline EV+ tag: calibrated model win% beats market by 3+ pts; favorites also need 65%+
+    if r.full_game_note: return ''
+    a,h=r.game.split('@'); out=[]
+    for team,p,m in ((h,r.p_home_win,r.mkt_home_win),(a,1-r.p_home_win,1-r.mkt_home_win)):
+        c=0.5+0.6*(p-0.5)
+        if c-m>=0.03 and (m<0.5 or c>=0.65): out.append(f"EV+ {team} ML ({'fav' if m>=0.5 else 'dog'}) {round(c*100)}% vs mkt {round(m*100)}%")
+    return '; '.join(out)
+G['ev_tag']=[_ev(r) for r in G.itertuples()]
 G.to_csv(f'{D}/games.csv',index=False)
 print(card.head(30).to_string(index=False))
 # ---- best 3 per team (incl. a points slot when one is close) for games with props; leans marked below the card bar
