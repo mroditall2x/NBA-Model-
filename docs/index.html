@@ -60,6 +60,7 @@ const REPO='mroditall2x/NBA-Model-', RAW=`https://raw.githubusercontent.com/${RE
 const STAT={PTS:'Points',REB:'Rebounds',AST:'Assists',PRA:'Pts+Reb+Ast',PA:'Pts+Ast',PR:'Pts+Reb',RA:'Reb+Ast','3PM':'3-Pointers',BLK:'Blocks',STL:'Steals',SB:'Stl+Blk',OREB:'Off. Rebounds'};
 const $=s=>document.querySelector(s), V=$('#view');
 let tab='team', day=null, cache={};
+const cal=p=>0.5+0.6*(p-0.5); // same shrink the card uses
 const pct=p=>p==null||p===''||isNaN(p)?'–':Math.round(p*100)+'%';
 const side=s=>s==='More'?'<span class="more">Over</span>':'<span class="less">Under</span>';
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
@@ -121,9 +122,9 @@ async function render(){
       const coverHome=r.p_home_cover>=.5, ov=r.p_over>=.5, winHome=r.p_home_win>=.5;
       const m=mv.filter(x=>x.game===r.game).map(x=>`${x.market}: ${x.open} → ${x.now}${x.vs_model?' ('+x.vs_model+')':''}`).join(' · ');
       return `<div class="game"><div class="ghead">${esc(r.game)}<small>${r.full_game_note?'<span class="tag lean">'+esc(r.full_game_note)+'</span>':''}</small></div>
-      <div class="row"><div><b>Spread</b><div class="what" style="color:var(--muted);font-size:13px">Model ${h} ${fmt(r.model_spread_home)} · market ${h} ${fmt(sp)}</div></div><div class="r"><b>${coverHome?h+' '+fmt(sp):a+' '+fmt(-sp)}</b><div>${pct(Math.max(r.p_home_cover,1-r.p_home_cover))}</div></div></div>
-      <div class="row"><div><b>Total ${r.mkt_total}</b><div style="color:var(--muted);font-size:13px">Model ${r.model_total} · pace ${r.poss}</div></div><div class="r"><b>${ov?'Over':'Under'}</b><div>${pct(Math.max(r.p_over,1-r.p_over))}</div></div></div>
-      <div class="row"><div><b>Moneyline</b><div style="color:var(--muted);font-size:13px">Market ${h} ${pct(r.mkt_home_win)}</div></div><div class="r"><b>${winHome?h:a}</b><div>${pct(Math.max(r.p_home_win,1-r.p_home_win))}</div></div></div>
+      <div class="row"><div><b>Spread</b><div class="what" style="color:var(--muted);font-size:13px">Model ${h} ${fmt(r.model_spread_home)} · market ${h} ${fmt(sp)}</div></div><div class="r"><b>${coverHome?h+' '+fmt(sp):a+' '+fmt(-sp)}</b><div>${pct(cal(Math.max(r.p_home_cover,1-r.p_home_cover)))}</div></div></div>
+      <div class="row"><div><b>Total ${r.mkt_total}</b><div style="color:var(--muted);font-size:13px">Model ${r.model_total} · pace ${r.poss}</div></div><div class="r"><b>${ov?'Over':'Under'}</b><div>${pct(cal(Math.max(r.p_over,1-r.p_over)))}</div></div></div>
+      <div class="row"><div><b>Moneyline</b><div style="color:var(--muted);font-size:13px">Market ${h} ${pct(r.mkt_home_win)}</div></div><div class="r"><b>${winHome?h:a}</b><div>${pct(cal(Math.max(r.p_home_win,1-r.p_home_win)))}</div></div></div>
       ${m?`<div class="note">Line moves: ${esc(m)}</div>`:''}</div>`}).join('');
   }
   if(tab==='boom'){
