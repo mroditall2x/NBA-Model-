@@ -1,0 +1,13 @@
+game,team,player,stat,line,side,p,mean,min,grade,where
+BOS@ORL,BOS,Neemias Queta,RA,9.5,Less,0.59,8.45,22.6,card,PrizePicks / Underdog
+BOS@ORL,BOS,Derrick White,3PM,1.5,More,0.587,2.4,32.7,card,Kalshi / Underdog
+BOS@ORL,BOS,Jordan Walsh,PTS,4.5,Less,0.523,5.04,18.2,lean,PrizePicks / Underdog
+LAC@GS,GS,Brandin Podziemski,3PM,2.5,Less,0.582,2.15,32.3,card,Kalshi / Underdog
+LAC@GS,GS,Gui Santos,AST,2.5,More,0.54,3.1,24.4,lean,PrizePicks / Underdog
+LAC@GS,GS,Brandin Podziemski,PTS,16.5,Less,0.528,16.33,32.3,lean,PrizePicks / Underdog
+LAC@GS,LAC,Isaiah Jackson,RA,9.5,Less,0.646,7.51,18.9,card,PrizePicks / Underdog
+LAC@GS,LAC,Brook Lopez,3PM,1.5,Less,0.572,1.36,22.7,lean,Kalshi / Underdog
+LAC@GS,LAC,Darius Garland,PTS,23.5,Less,0.565,21.74,31.6,lean,PrizePicks / Underdog
+BOS@ORL,ORL,Franz Wagner,AST,6.5,Less,0.687,4.46,36.2,card,PrizePicks / Underdog
+BOS@ORL,ORL,Tristan da Silva,3PM,2.5,Less,0.652,1.65,28.1,card,Kalshi / Underdog
+BOS@ORL,ORL,Tristan da Silva,PTS,10.5,Less,0.553,9.9,28.1,lean,PrizePicks / Underdog
