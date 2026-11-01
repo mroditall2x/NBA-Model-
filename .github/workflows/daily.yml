@@ -3,14 +3,15 @@ on:
   push:
     paths: ["slate/*/lines.json"]       # manually pushed lines (e.g. Outlier) build that night's card
   schedule:
-    - cron: "30 13 * * *"   # 8:30 AM CT  grade yesterday
-    - cron: "0 16 * * *"    # 11:00 AM CT opening lines snapshot (for line movement)
-    - cron: "45 21 * * *"   # 4:45 PM CT  pre-tip lines -> build card -> line-movement check
+    - cron: "34 14 * * *"   # 8:34 AM CST grade (DST: 34 13) yesterday
+    - cron: "7 17 * * *"    # 11:07 AM CST opening (DST: 7 16) lines snapshot (for line movement)
+    - cron: "47 22 * * *"   # 4:47 PM CST pre-tip (DST: 47 21) lines -> build card -> line-movement check
   workflow_dispatch:
     inputs:
       date: {description: "slate date YYYY-MM-DD", required: false}
       fetch: {description: "pull lines from The Odds API first", type: boolean, default: true}
       props_all: {description: "props for every game (uses ~16 credits/game; free plan = leave off)", type: boolean, default: false}
+      grade_only: {description: "only grade the given date (default yesterday) into graded_log; no lines, no card", type: boolean, default: false}
       test: {description: "test mode: build + grade a past date without touching graded_log", type: boolean, default: false}
 permissions: {contents: write}
 env:
@@ -37,22 +38,25 @@ jobs:
           echo "date=$D" >> $GITHUB_OUTPUT
           echo "mmdd=${D:5:2}${D:8:2}" >> $GITHUB_OUTPUT
       - name: grade yesterday (8:30)
-        if: github.event.schedule == '30 13 * * *'
+        if: github.event.schedule == '34 14 * * *'
         run: python3 grade_day.py $(date -d yesterday +%F) || true
+      - name: grade only (manual / backup)
+        if: github.event.inputs.grade_only == 'true'
+        run: D="${{ github.event.inputs.date }}"; python3 grade_day.py ${D:-$(date -d yesterday +%F)}
       - name: opening snapshot (11:00)
-        if: github.event.schedule == '0 16 * * *'
+        if: github.event.schedule == '7 17 * * *'
         run: python3 fetch_lines.py ${{ steps.job.outputs.date }} --snap
       - name: pre-tip lines (4:45)
-        if: github.event.schedule == '45 21 * * *'
+        if: github.event.schedule == '47 22 * * *'
         run: python3 fetch_lines.py ${{ steps.job.outputs.date }}
       - name: manual fetch
-        if: github.event_name == 'workflow_dispatch' && github.event.inputs.fetch == 'true' && github.event.inputs.test != 'true'
+        if: github.event_name == 'workflow_dispatch' && github.event.inputs.fetch == 'true' && github.event.inputs.test != 'true' && github.event.inputs.grade_only != 'true'
         run: python3 fetch_lines.py ${{ steps.job.outputs.date }} ${{ github.event.inputs.props_all == 'true' && '--props-all' || '' }} $( [ -f slate/${{ steps.job.outputs.mmdd }}/lines.json.open ] || echo --snap )
       - name: build card
-        if: github.event.schedule == '45 21 * * *' || github.event.schedule == '0 16 * * *' || github.event_name == 'push' || github.event_name == 'workflow_dispatch'
+        if: github.event.schedule == '47 22 * * *' || github.event.schedule == '7 17 * * *' || github.event_name == 'push' || (github.event_name == 'workflow_dispatch' && github.event.inputs.grade_only != 'true')
         run: python3 run_day.py ${{ steps.job.outputs.date }}
       - name: line movement check
-        if: github.event.schedule == '45 21 * * *' || (github.event_name == 'workflow_dispatch' && github.event.inputs.test != 'true')
+        if: github.event.schedule == '47 22 * * *' || (github.event_name == 'workflow_dispatch' && github.event.inputs.test != 'true' && github.event.inputs.grade_only != 'true')
         run: python3 line_moves.py check slate/${{ steps.job.outputs.mmdd }} || true
       - name: test grade
         if: github.event.inputs.test == 'true'
