@@ -5,7 +5,7 @@ Rules (from 10/28 OKC -6.5 -> -5.5, DAL won by 24):
   sides/totals: line moved >= 1.0 pt AGAINST the model side -> 'market disagrees' -> drop the leg (or follow the market if the move is tied to injury news)
                 moved >= 1.0 pt TOWARD the model side -> 'market agrees' -> keep, small confidence bump
   moneyline: home win prob (no-vig) moved >= 3 pts against the model's side -> drop / follow market
-  props: line moved >= 1.0 (>= 0.5 on lines under 5) against the model side -> drop; toward -> keep"""
+  props: line moved >= 1.0 (>= 0.5 under 5) the opposite way of our side (Over and line drops / Under and line rises) -> drop; our way -> keep"""
 import sys, json, shutil, pandas as pd
 cmd, D = sys.argv[1], sys.argv[2]
 if cmd == 'snap':
@@ -33,7 +33,10 @@ P['move'] = P.line_now - P.line_open
 C = pd.read_csv(f'{D}/card.csv')
 C = C.merge(P[['player', 'stat', 'line_open', 'line_now', 'move']], on=['player', 'stat'], how='left')
 thr = C.line_open.apply(lambda l: 0.5 if l < 5 else 1.0)
-C['line_move'] = ['' if pd.isna(mv) or abs(mv) < t else ('against' if (mv > 0) == (sd == 'More') else 'toward') for mv, t, sd in zip(C.move, thr, C.side)]
+# market signal: a line rising on our Over (or falling on our Under) = the market agrees with us ('toward');
+# the opposite = the market disagrees ('against' -> drop for new bets). Same logic as spreads/totals.
+C['line_move'] = ['' if pd.isna(mv) or abs(mv) < t else ('toward' if (mv > 0) == (sd == 'More') else 'against') for mv, t, sd in zip(C.move, thr, C.side)]
+# for anyone who already bet the posted line: 'toward' = they hold a better number than the market now offers
 C['keep'] = C.line_move != 'against'
 C.to_csv(f'{D}/card.csv', index=False)
 pd.DataFrame(rows, columns=['game', 'market', 'open', 'now', 'vs_model']).to_csv(f'{D}/moves.csv', index=False)
