@@ -45,6 +45,7 @@ def season_minutes(pid):
 
 MOVR = json.load(open(f'{DIR}/min_override.json')) if os.path.exists(f'{DIR}/min_override.json') and '--blend' in sys.argv else {}
 GTD = {norm(x) for x in json.load(open(f'{DIR}/gtd.json'))}
+OUTS = {norm(x) for x in json.load(open(f'slate/{DATE}_out.json'))} if os.path.exists(f'slate/{DATE}_out.json') else set()
 notes, out_guess, rows, games_out = [], [], [], []
 for g in lines:
     home, away = g['home'], g['away']; gk = f'{away}@{home}'
@@ -62,6 +63,8 @@ for g in lines:
     for k in prop_keys:
         if any(k in teams[tm] for tm in (home, away)):
             continue
+        if k in OUTS:                    # ruled out: stale props stay up for hours, the injury list wins
+            notes.append((gk, k, 'listed OUT - not added')); continue
         pid, tm = roster_team.get(k, (hist_name.get(k), None))
         if pid is None:
             notes.append((gk, k, 'no NBA history (rookie) - pass')); continue

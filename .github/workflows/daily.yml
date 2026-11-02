@@ -6,6 +6,8 @@ on:
     - cron: "34 14 * * *"   # 8:34 AM CST grade (DST: 34 13) yesterday
     - cron: "7 17 * * *"    # 11:07 AM CST opening (DST: 7 16) lines snapshot (for line movement)
     - cron: "47 22 * * *"   # 4:47 PM CST pre-tip (DST: 47 21) lines -> build card -> line-movement check
+    - cron: "12,42 17-23 * * *"   # injury watch every 30 min, 11 AM CST to ...
+    - cron: "12,42 0-3 * * *"     # ... 9:42 PM CST (last tips)
   workflow_dispatch:
     inputs:
       date: {description: "slate date YYYY-MM-DD", required: false}
@@ -60,8 +62,8 @@ jobs:
       - name: line movement check
         if: (github.event.schedule == '47 22 * * *' || github.event.inputs.job == 'pretip' || github.event.inputs.job == 'pretip_lines') || (github.event_name == 'workflow_dispatch' && github.event.inputs.test != 'true' && github.event.inputs.grade_only != 'true' && github.event.inputs.job != 'grade' && github.event.inputs.job != 'watch')
         run: python3 line_moves.py check slate/${{ steps.job.outputs.mmdd }} || true; python3 pick_status.py slate/${{ steps.job.outputs.mmdd }} || true
-      - name: injury watch (hourly)
-        if: github.event.inputs.job == 'watch'
+      - name: injury watch (every 30 min)
+        if: github.event.inputs.job == 'watch' || github.event.schedule == '12,42 17-23 * * *' || github.event.schedule == '12,42 0-3 * * *'
         run: |
           python3 injury_watch.py ${{ steps.job.outputs.date }} | tee watch.log || true
           if grep -q REBUILD watch.log; then python3 run_day.py ${{ steps.job.outputs.date }}; python3 pick_status.py slate/${{ steps.job.outputs.mmdd }} || true; fi

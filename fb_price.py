@@ -1,4 +1,4 @@
-import sys, json, numpy as np, pandas as pd
+import sys, json, glob, numpy as np, pandas as pd
 import nba_sim as S, first_basket as F
 from slate_names import norm
 D=sys.argv[1] if len(sys.argv)>1 else 'slate/1022'
@@ -16,7 +16,11 @@ sh=fbm['share']; w=np.clip(sh.starts/60,0,1); sh['share']=np.where(sh.starts<60,
 odds=json.load(open(f'{D}/fb_odds.json')); lines={f"{g['away']}@{g['home']}":g for g in json.load(open(f'{D}/lines.json'))['games']}
 out=[]
 BENCH=set(); FORCE=set()
+OUTS=set()                                             # ruled-out players never get a first-basket price
+for f in glob.glob('slate/*_out.json'):
+    if f.endswith(f"{D[-4:-2]}-{D[-2:]}_out.json"): OUTS={norm(x) for x in json.load(open(f))}
 for gk,lst in odds.items():
+    lst=[x for x in lst if norm(x[0]) not in OUTS]
     if gk not in lines or len(lst)<6: continue
     g=lines[gk]; home,away=g['home'],g['away']
     team={}
