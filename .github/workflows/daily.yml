@@ -12,7 +12,7 @@ on:
       fetch: {description: "pull lines from The Odds API first", type: boolean, default: true}
       props_all: {description: "props for every game (uses ~16 credits/game; free plan = leave off)", type: boolean, default: false}
       grade_only: {description: "only grade the given date (default yesterday) into graded_log; no lines, no card", type: boolean, default: false}
-      job: {description: "timed job sent by the outside scheduler: grade | open | pretip | watch", required: false, default: ""}
+      job: {description: "timed job sent by the outside scheduler: grade | open | pretip | pretip_lines (game lines only, ~3 credits) | watch", required: false, default: ""}
       test: {description: "test mode: build + grade a past date without touching graded_log", type: boolean, default: false}
 permissions: {contents: write}
 env:
@@ -49,16 +49,16 @@ jobs:
         if: (github.event.schedule == '7 17 * * *' || github.event.inputs.job == 'open')
         run: python3 fetch_lines.py ${{ steps.job.outputs.date }} --snap
       - name: pre-tip lines (4:45)
-        if: (github.event.schedule == '47 22 * * *' || github.event.inputs.job == 'pretip')
-        run: python3 fetch_lines.py ${{ steps.job.outputs.date }}
+        if: (github.event.schedule == '47 22 * * *' || github.event.inputs.job == 'pretip' || github.event.inputs.job == 'pretip_lines')
+        run: python3 fetch_lines.py ${{ steps.job.outputs.date }} ${{ github.event.inputs.job == 'pretip_lines' && '--props-teams NONE' || '' }}
       - name: manual fetch
         if: github.event_name == 'workflow_dispatch' && github.event.inputs.job == '' && github.event.inputs.fetch == 'true' && github.event.inputs.test != 'true' && github.event.inputs.grade_only != 'true'
         run: python3 fetch_lines.py ${{ steps.job.outputs.date }} ${{ github.event.inputs.props_all == 'true' && '--props-all' || '' }} $( [ -f slate/${{ steps.job.outputs.mmdd }}/lines.json.open ] || echo --snap )
       - name: build card
-        if: (github.event.schedule == '47 22 * * *' || github.event.inputs.job == 'pretip') || (github.event.schedule == '7 17 * * *' || github.event.inputs.job == 'open') || github.event_name == 'push' || (github.event_name == 'workflow_dispatch' && github.event.inputs.grade_only != 'true' && github.event.inputs.job != 'grade' && github.event.inputs.job != 'watch')
+        if: (github.event.schedule == '47 22 * * *' || github.event.inputs.job == 'pretip' || github.event.inputs.job == 'pretip_lines') || (github.event.schedule == '7 17 * * *' || github.event.inputs.job == 'open') || github.event_name == 'push' || (github.event_name == 'workflow_dispatch' && github.event.inputs.grade_only != 'true' && github.event.inputs.job != 'grade' && github.event.inputs.job != 'watch')
         run: python3 run_day.py ${{ steps.job.outputs.date }}
       - name: line movement check
-        if: (github.event.schedule == '47 22 * * *' || github.event.inputs.job == 'pretip') || (github.event_name == 'workflow_dispatch' && github.event.inputs.test != 'true' && github.event.inputs.grade_only != 'true' && github.event.inputs.job != 'grade' && github.event.inputs.job != 'watch')
+        if: (github.event.schedule == '47 22 * * *' || github.event.inputs.job == 'pretip' || github.event.inputs.job == 'pretip_lines') || (github.event_name == 'workflow_dispatch' && github.event.inputs.test != 'true' && github.event.inputs.grade_only != 'true' && github.event.inputs.job != 'grade' && github.event.inputs.job != 'watch')
         run: python3 line_moves.py check slate/${{ steps.job.outputs.mmdd }} || true
       - name: injury watch (hourly)
         if: github.event.inputs.job == 'watch'

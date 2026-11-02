@@ -108,10 +108,12 @@ for g in out:
             compact.append([gk, player, label, str(L), str(o_), str(u_), str(pp), '', ''])
         elif pp != '':
             compact.append([gk, player, label, str(pp), '-119', '-119', str(pp), '', ''])
-open(f'{D}/props_p1.txt', 'w').write('\n'.join(props_txt) + '\n')
-json.dump(compact, open(f'{D}/pp_compact.json', 'w'))
-json.dump(alt_rows, open(f'{D}/pts_alt.json', 'w'))
-if fb: json.dump(fb, open(f'{D}/fb_odds.json', 'w'))   # best Over price per points milestone (for boom.py)
+if not raw['props']: print('game lines only - keeping the props already pulled')
+else:
+  open(f'{D}/props_p1.txt', 'w').write('\n'.join(props_txt) + '\n')
+  json.dump(compact, open(f'{D}/pp_compact.json', 'w'))
+  json.dump(alt_rows, open(f'{D}/pts_alt.json', 'w'))
+  if fb: json.dump(fb, open(f'{D}/fb_odds.json', 'w'))   # best Over price per points milestone (for boom.py)
 json.dump(raw, open(f'{D}/odds_raw_{dt.datetime.now(ct):%H%M}.json', 'w'))
 print(len(props_txt), 'prop lines ->', f'{D}/props_p1.txt')
 if '--snap' in args:
