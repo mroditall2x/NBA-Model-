@@ -37,7 +37,17 @@ std=std[~((std.stat=='PTS')&(std.side=='Less')&(std.adj<0.60))]          # strai
 gob=B[ok&(B.type=='goblin')&(B.model>=0.84)]
 card=pd.concat([std.assign(tier='standard',p=std.adj),gob.assign(tier='goblin',p=gob.model)])
 card=card.sort_values('p',ascending=False).drop_duplicates(['player','stat'])
-card[['game','team','player','stat','tier','line','side','p','mean','min','gap','where']].to_csv(f'{D}/card.csv',index=False)
+import datetime as _dt
+_started=set()
+try:
+    for _g in json.load(open(f'{D}/lines.json'))['games']:
+        if _dt.datetime.fromisoformat(_g['commence'].replace('Z','+00:00'))<_dt.datetime.now(_dt.timezone.utc): _started.add(f"{_g['away']}@{_g['home']}")
+except Exception: pass
+_cols=['game','team','player','stat','tier','line','side','p','mean','min','gap','where']
+card=card[~card.game.isin(_started)][_cols]
+if _started and os.path.exists(f'{D}/card.csv'):          # games already tipped keep the card that was posted before tip
+    _old=pd.read_csv(f'{D}/card.csv'); card=pd.concat([_old[_old.game.isin(_started)][[c for c in _cols if c in _old]],card])
+card.to_csv(f'{D}/card.csv',index=False)
 G=pd.read_csv(f'{D}/games.csv')
 G['full_game_note']=['skip: model >6 off market' if abs(r.model_total-r.mkt_total)>6 or abs(r.model_spread_home-r.mkt_spread_home)>6 else '' for r in G.itertuples()]
 def _ev(r):   # moneyline EV+ tag: calibrated model win% beats market by 3+ pts; favorites also need 65%+
@@ -68,4 +78,8 @@ for t,x in pool.groupby('team'):   # 4 per team, one prop per player, always an 
     rows.append(x.loc[sel].sort_values('adj',ascending=False))
 if rows:
     BT=pd.concat(rows); BT['grade']=['card' if a>=0.58 and f=='' else 'lean' for a,f in zip(BT.adj,BT['flags'])]; BT['adj']=BT.adj.round(3)
-    BT[['game','team','player','stat','line','side','adj','mean','min','grade','where']].rename(columns={'adj':'p'}).to_csv(f'{D}/by_team.csv',index=False)
+    BT=BT[['game','team','player','stat','line','side','adj','mean','min','grade','where']].rename(columns={'adj':'p'})
+    BT=BT[~BT.game.isin(_started)]
+    if _started and os.path.exists(f'{D}/by_team.csv'):
+        _o=pd.read_csv(f'{D}/by_team.csv'); BT=pd.concat([_o[_o.game.isin(_started)],BT])
+    BT.to_csv(f'{D}/by_team.csv',index=False)
