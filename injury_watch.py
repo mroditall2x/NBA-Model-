@@ -58,7 +58,16 @@ rot = {norm(n): m for t in json.load(open(rp)).values() for n, m in t.items()} i
 MAX_REFRESH = 4                                       # per day, ~16 credits per game
 rf = f'{D}/prop_refresh.json'
 done = json.load(open(rf)) if os.path.exists(rf) else []
-need = sorted({gk for gk, tm, p, a, b in changes if b == 'Out' and gk in prop_games and (norm(p) in prop_players or rot.get(norm(p), 0) >= 15)})
+# books pull a ruled-out player's props and rotations drop him, so season minutes are what show he matters
+try:
+    import pandas as pd
+    pb = pd.read_parquet(f"{os.environ.get('NBA_DATA', 'repo/nba')}/player_box/parquet/player_box_2027.parquet")
+    pb['m'] = pd.to_numeric(pb.minutes, errors='coerce'); pb = pb[pb.m > 0]
+    season_min = {norm(n): v for n, v in pb.groupby('athlete_display_name').m.mean().items()}
+except Exception as e:
+    print('season minutes unavailable:', e); season_min = {}
+matters = lambda p: norm(p) in prop_players or max(rot.get(norm(p), 0), season_min.get(norm(p), 0)) >= 15
+need = sorted({gk for gk, tm, p, a, b in changes if b == 'Out' and gk in prop_games and matters(p)})
 refresh, capped = need[:max(0, MAX_REFRESH - len(done))], need[max(0, MAX_REFRESH - len(done)):]
 json.dump(done + refresh, open(rf, 'w'))
 json.dump(dict(games=sorted({c[0] for c in changes}), refreshed=refresh, capped=capped,
