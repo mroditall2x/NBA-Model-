@@ -158,11 +158,20 @@ async function render(){
     const rec=rs=>{const w=rs.filter(r=>r.result==='Win').length,l=rs.filter(r=>r.result==='Loss').length;return{w,l,p:w+l?w/(w+l):0}};
     const all=rec(done), gob=rec(done.filter(r=>r.tier==='goblin')), std=rec(done.filter(r=>r.tier==='standard'));
     const byDay=[...group(done,'date')].sort((a,b)=>a[0]<b[0]?1:-1);
+    const fb=((await csv('fb_log.csv'))||[]).filter(r=>r.game);
+    const fbHit=r=>r.hit===true||r.hit==='True', fbGames=[...group(fb,'date')].flatMap(([d,rs])=>[...group(rs,'game')].map(([g,x])=>({d,g,hit:x.some(fbHit),who:x[0].first_scorer,profit:x.reduce((a,r)=>a+(+r.profit||0),0)})));
+    const fbU=fb.reduce((a,r)=>a+(+r.profit||0),0), fbH=fb.filter(fbHit).length;
+    const fbHtml=fb.length?`<div class="game"><div class="ghead">First basket<small>top 2 per team · 1 unit each</small></div>
+      <div class="stats" style="padding:12px 14px 4px;margin:0">
+        <div class="stat"><div class="n">${fbGames.filter(x=>x.hit).length}/${fbGames.length}</div><div class="l">Games with a hit</div></div>
+        <div class="stat"><div class="n">${fbH}/${fb.length}</div><div class="l">Picks hit · ${pct(fb.length?fbH/fb.length:0)}</div></div>
+        <div class="stat"><div class="n ${fbU>=0?'win':'loss'}">${fbU>=0?'+':''}${fbU.toFixed(1)}u</div><div class="l">Profit</div></div></div>
+      ${fbGames.sort((a,b)=>a.d<b.d?1:-1).map(x=>`<div class="row"><div><b>${esc(x.g)}</b><div style="color:var(--muted);font-size:13px">${esc(x.d)} · first: ${esc(x.who)}</div></div><div class="r ${x.hit?'win':'loss'}">${x.hit?'Hit':'Miss'} · ${x.profit>=0?'+':''}${x.profit.toFixed(1)}u</div></div>`).join('')}</div>`:'';
     V.innerHTML=`<div class="stats">
       <div class="stat"><div class="n">${all.w}-${all.l}</div><div class="l">All graded · ${pct(all.p)}</div></div>
       <div class="stat"><div class="n">${gob.w}-${gob.l}</div><div class="l">Goblins · ${pct(gob.p)}</div></div>
       <div class="stat"><div class="n">${std.w}-${std.l}</div><div class="l">Standard · ${pct(std.p)}</div></div></div>
-      <div class="game"><div class="ghead">By day</div>${byDay.map(([d,rs])=>{const x=rec(rs);return`<div class="row"><b>${esc(d)}</b><div class="r ${x.p>=.55?'win':x.p<.5?'loss':'push'}">${x.w}-${x.l} · ${pct(x.p)}</div></div>`}).join('')}</div>`;
+      <div class="game"><div class="ghead">By day</div>${byDay.map(([d,rs])=>{const x=rec(rs);return`<div class="row"><b>${esc(d)}</b><div class="r ${x.p>=.55?'win':x.p<.5?'loss':'push'}">${x.w}-${x.l} · ${pct(x.p)}</div></div>`}).join('')}</div>${fbHtml}`;
   }
 }
 document.querySelectorAll('nav button').forEach(b=>b.onclick=()=>{document.querySelectorAll('nav button').forEach(x=>x.classList.remove('on'));b.classList.add('on');tab=b.dataset.t;render()});

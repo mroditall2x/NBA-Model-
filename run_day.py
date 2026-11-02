@@ -25,7 +25,13 @@ sh(f'python3 slate1021.py {DATE} {D} > {D}/p1.log'); sh(f'python3 blend_minutes.
 sh(f'python3 slate1021.py {DATE} {D} --blend > {D}/p2.log'); sh(f'python3 card_slate.py {D} > /dev/null')
 sh(f'python3 dvp.py {D}')
 subprocess.run(f'python3 boom.py {D}', shell=True)
-if os.path.exists(f'{D}/fb_odds.json'): subprocess.run(f'python3 fb_price.py {D} > {D}/fb.log', shell=True)
+if os.path.exists(f'{D}/fb_odds.json'):
+    _fbold=pd.read_csv(f'{D}/fb_priced.csv') if os.path.exists(f'{D}/fb_priced.csv') else None
+    subprocess.run(f'python3 fb_price.py {D} > {D}/fb.log', shell=True)
+    if _fbold is not None and os.path.exists(f'{D}/fb_priced.csv'):
+        import datetime as _d2; _now=_d2.datetime.now(_d2.timezone.utc)
+        _st={f"{g['away']}@{g['home']}" for g in json.load(open(f'{D}/lines.json'))['games'] if _d2.datetime.fromisoformat(g['commence'].replace('Z','+00:00'))<_now}
+        _new=pd.read_csv(f'{D}/fb_priced.csv'); pd.concat([_fbold[_fbold.game.isin(_st)],_new[~_new.game.isin(_st)]]).to_csv(f'{D}/fb_priced.csv',index=False)
 # ---- card rules (from graded history)
 B=pd.read_csv(f'{D}/board_all.csv'); B['flags']=B['flags'].fillna('')
 B['adj']=0.5+0.6*(B.model-0.5)                       # calibration shrink (k=0.6)
