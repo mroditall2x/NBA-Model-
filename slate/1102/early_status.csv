@@ -1,9 +1,9 @@
 game,team,player,stat,side,line,p,where,line_now,p_now,move,news,status
-OKC@CLE,OKC,Jaylin Williams,PRA,More,13.5,0.641,PrizePicks / Underdog,13.5,0.641,,False,Hold
-OKC@CLE,CLE,Evan Mobley,3PM,Less,1.5,0.6368,Kalshi / Underdog,1.5,0.637,,False,Hold
-OKC@CLE,OKC,Kenrich Williams,RA,Less,6.5,0.6044,Kalshi / Underdog,6.5,0.604,,False,Hold
-OKC@CLE,OKC,Kenrich Williams,REB,Less,4.5,0.596,PrizePicks / Underdog,4.5,0.596,,False,Hold
-MIA@LAL,MIA,Andrew Wiggins,AST,More,1.5,0.5936,Kalshi / Underdog,1.5,0.59,,False,Hold
-OKC@CLE,CLE,Evan Mobley,REB,More,8.5,0.5912000000000001,PrizePicks / Underdog,8.5,0.591,,False,Hold
-OKC@CLE,OKC,Kenrich Williams,3PM,Less,1.5,0.5906,Kalshi / Underdog,1.5,0.591,,False,Hold
-OKC@CLE,OKC,Jaylin Williams,RA,More,7.5,0.587,PrizePicks / Underdog,7.5,0.587,,False,Hold
+OKC@CLE,OKC,Jaylin Williams,PRA,More,13.5,0.641,PrizePicks / Underdog,16.5,0.512,toward,False,Drop
+OKC@CLE,CLE,Evan Mobley,3PM,Less,1.5,0.6368,Kalshi / Underdog,1.5,0.623,,True,Hold
+OKC@CLE,OKC,Kenrich Williams,RA,Less,6.5,0.6044,Kalshi / Underdog,6.5,0.598,,False,Hold
+OKC@CLE,OKC,Kenrich Williams,REB,Less,4.5,0.596,PrizePicks / Underdog,4.5,0.588,,False,Hold
+MIA@LAL,MIA,Andrew Wiggins,AST,More,1.5,0.5936,Kalshi / Underdog,1.5,0.596,,True,Hold
+OKC@CLE,CLE,Evan Mobley,REB,More,8.5,0.5912000000000001,PrizePicks / Underdog,8.5,0.624,,True,Hold
+OKC@CLE,OKC,Kenrich Williams,3PM,Less,1.5,0.5906,Kalshi / Underdog,1.5,0.585,,False,Hold
+OKC@CLE,OKC,Jaylin Williams,RA,More,7.5,0.587,PrizePicks / Underdog,9.5,0.428,toward,False,Drop

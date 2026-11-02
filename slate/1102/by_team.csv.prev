@@ -1,0 +1,22 @@
+game,team,player,stat,line,side,p,mean,min,grade,where
+BOS@HOU,BOS,Payton Pritchard,AST,3.5,More,0.624,4.92,33.1,card,Kalshi / Underdog
+BOS@HOU,BOS,Jordan Walsh,REB,3.5,Less,0.588,2.98,18.0,card,Kalshi / Underdog
+BOS@HOU,BOS,Sam Hauser,PRA,13.5,Less,0.572,12.33,24.1,lean,PrizePicks / Underdog
+BOS@HOU,BOS,Jayson Tatum,3PM,2.5,More,0.559,3.26,38.2,lean,PrizePicks / Underdog
+OKC@CLE,CLE,Evan Mobley,3PM,1.5,Less,0.623,1.09,38.0,card,Kalshi / Underdog
+BOS@HOU,HOU,Marcus Smart,AST,2.5,Less,0.613,1.96,20.2,lean,Kalshi / Underdog
+BOS@HOU,HOU,Jabari Smith Jr,REB,5.5,More,0.583,6.73,33.2,card,PrizePicks / Underdog
+BOS@HOU,HOU,Amen Thompson,AST,4.5,Less,0.565,4.11,33.3,lean,Kalshi / Underdog
+BOS@HOU,HOU,Tari Eason,PTS,9.5,Less,0.549,9.18,23.9,lean,PrizePicks / Underdog
+MIA@LAL,LAL,Ziaire Williams,PRA,13.5,Less,0.614,11.18,19.3,lean,PrizePicks / Underdog
+MIA@LAL,LAL,Walker Kessler,PTS,12.5,Less,0.585,11.03,30.4,lean,PrizePicks / Underdog
+MIA@LAL,LAL,Austin Reaves,REB,3.5,More,0.57,4.4,36.5,lean,Kalshi / Underdog
+MIA@LAL,LAL,Jake LaRavia,PTS,6.5,Less,0.556,6.23,22.3,lean,PrizePicks / Underdog
+MIA@LAL,MIA,Giannis Antetokounmpo,3PM,0.5,Less,0.637,0.37,32.8,lean,PrizePicks / Underdog
+MIA@LAL,MIA,Bobby Portis,REB,6.5,Less,0.615,5.35,21.6,lean,Kalshi / Underdog
+MIA@LAL,MIA,Andrew Wiggins,AST,1.5,More,0.596,2.42,28.7,card,Kalshi / Underdog
+MIA@LAL,MIA,Pelle Larsson,PRA,18.5,Less,0.549,17.73,29.0,lean,PrizePicks / Underdog
+OKC@CLE,OKC,Kenrich Williams,RA,6.5,Less,0.598,5.53,21.2,card,Kalshi / Underdog
+OKC@CLE,OKC,Jaylin Williams,RA,9.5,Less,0.572,8.67,25.3,lean,PrizePicks / Underdog
+OKC@CLE,OKC,Isaiah Hartenstein,RA,12.5,More,0.571,14.07,31.3,lean,Kalshi / Underdog
+OKC@CLE,OKC,Shai Gilgeous-Alexander,AST,5.5,More,0.565,6.49,37.0,lean,PrizePicks / Underdog

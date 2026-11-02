@@ -1,12 +1,12 @@
 {
- "checked": "2026-11-02T14:13:07.501699+00:00",
+ "checked": "2026-11-02T23:53:46.572436+00:00",
  "games": {
   "OKC@CLE": [
    {
     "player": "Peyton Watson",
     "team": "CLE",
-    "status": "Day-To-Day",
-    "note": "Watson (hamstring) is questionable to play in Monday's game against Oklahoma City."
+    "status": "Out",
+    "note": "Watson (hamstring) is out for Monday's game against the Thunder, Chris Fedor of The Cleveland Plain Dealer reports."
    },
    {
     "player": "Jaylon Tyson",
@@ -53,16 +53,16 @@
   ],
   "ATL@IND": [
    {
+    "player": "Jalen Johnson",
+    "team": "ATL",
+    "status": "Out",
+    "note": "Johnson (ankle) has been ruled out for Monday's game versus Indiana."
+   },
+   {
     "player": "Kingston Flemings",
     "team": "ATL",
     "status": "Suspension",
     "note": "Flemings (suspension) won't play in Monday's game against Indiana, Andrew Schlecht of The Athletic reports."
-   },
-   {
-    "player": "Jalen Johnson",
-    "team": "ATL",
-    "status": "Day-To-Day",
-    "note": "Johnson (ankle) is questionable to play Monday against the Pacers."
    },
    {
     "player": "Jock Landale",
@@ -83,22 +83,46 @@
     "note": "Veesaar was diagnosed with a torn right ACL and is expected to miss the 2026-27 season, the Hawks announced Monday."
    },
    {
+    "player": "Larry Nance Jr.",
+    "team": "IND",
+    "status": "Out",
+    "note": "Nance (illness) has been ruled out for Monday's game against the Hawks."
+   },
+   {
     "player": "Obi Toppin",
     "team": "IND",
-    "status": "Day-To-Day",
-    "note": "Toppin (back) is out for Sunday's game against the Nets, Alex Golden of SI.com reports."
+    "status": "Out",
+    "note": "Toppin (back) will dress for Monday's game against  Hawks but will only play in an emergency, Tony East of Forbes.com reports."
    },
    {
     "player": "T.J. McConnell",
     "team": "IND",
     "status": "Out",
-    "note": "Indiana recalled McConnell (hamstring) from the G League's Noblesville Boom on Saturday."
+    "note": "McConnell (hamstring) is out for Monday's game against the Hawks and remains week-to-week."
    },
    {
     "player": "Ivica Zubac",
     "team": "IND",
     "status": "Out",
-    "note": "Zubac (ankle) will remain on the inactive list for Sunday's game against the Nets."
+    "note": "Zubac (ankle) has been ruled out for Monday's game against the Hawks."
+   },
+   {
+    "player": "Aaron Nesmith",
+    "team": "IND",
+    "status": "Out",
+    "note": "Nesmith (rest) is sitting out Monday against Atlanta."
+   },
+   {
+    "player": "Andrew Nembhard",
+    "team": "IND",
+    "status": "Out",
+    "note": "Nembhard (cervical strain) is out for Monday's game against Atlanta."
+   },
+   {
+    "player": "Pascal Siakam",
+    "team": "IND",
+    "status": "Out",
+    "note": "Siakam will be rested against the Hawks on Monday."
    },
    {
     "player": "Johnny Furphy",
@@ -121,12 +145,6 @@
   ],
   "BKN@NY": [
    {
-    "player": "Mikel Brown Jr.",
-    "team": "BKN",
-    "status": "Day-To-Day",
-    "note": "Brown (rest) is out for Sunday's game in Indiana."
-   },
-   {
     "player": "Egor Demin",
     "team": "BKN",
     "status": "Out",
@@ -137,12 +155,6 @@
     "team": "BKN",
     "status": "Out",
     "note": "Bilodeau (shoulder) has been ruled out for Sunday's game against Indiana."
-   },
-   {
-    "player": "Jose Alvarado",
-    "team": "NY",
-    "status": "Out",
-    "note": "Alvarado (ankle) is questionable for Monday's game against the Nets."
    }
   ],
   "DET@CHA": [
@@ -162,7 +174,7 @@
     "player": "Isaiah Joe",
     "team": "DET",
     "status": "Out",
-    "note": "Joe (hip) is questionable for Friday's game against the Hornets."
+    "note": "Joe (hip) is out for Monday against the Hornets."
    },
    {
     "player": "Jalen Duren",
@@ -173,40 +185,22 @@
   ],
   "CHI@PHI": [
    {
-    "player": "Jalen Smith",
-    "team": "CHI",
-    "status": "Day-To-Day",
-    "note": "Smith (finger) is listed as probable for Monday's game against Philadelphia."
-   },
-   {
-    "player": "Tobe Awaka",
-    "team": "CHI",
-    "status": "Day-To-Day",
-    "note": "Awaka (ankle) is probable for Monday's game against Philadelphia."
-   },
-   {
     "player": "Nic Claxton",
     "team": "CHI",
     "status": "Out",
-    "note": "Claxton (hamstring) is listed as doubtful for Monday's game against Philadelphia."
+    "note": "Claxton (hamstring) is out for Monday's game against the 76ers."
    },
    {
-    "player": "Dailyn Swain",
-    "team": "CHI",
-    "status": "Day-To-Day",
-    "note": "Swain (back) has been ruled out for Friday's game against Boston."
+    "player": "Dominick Barlow",
+    "team": "PHI",
+    "status": "Out",
+    "note": "Barlow (back) has been on the court \"a little bit\" and will be re-evaluated Tuesday, Austin Krell of OnPattison.com reports."
    },
    {
     "player": "Joel Embiid",
     "team": "PHI",
     "status": "Day-To-Day",
     "note": "Embiid (foot) is questionable to suit up for Monday's game against the Bulls."
-   },
-   {
-    "player": "Dominick Barlow",
-    "team": "PHI",
-    "status": "Out",
-    "note": "Barlow will miss at least the next two weeks of action due to a lumbar spine bone stress response, Adam Aaronson of PhillyVoice.com reports."
    },
    {
     "player": "Ariel Hukporti",
@@ -217,10 +211,16 @@
   ],
   "WSH@ORL": [
    {
+    "player": "Anthony Black",
+    "team": "ORL",
+    "status": "Out",
+    "note": "Black will be rested Monday against the Wizards."
+   },
+   {
     "player": "Jonathan Isaac",
     "team": "ORL",
     "status": "Out",
-    "note": "Isaac (knee) is out for Friday's game in Toronto."
+    "note": "Orlando recalled Isaac (knee) from the G League's Osceola Magic on Sunday."
    },
    {
     "player": "Jalen Suggs",
@@ -247,22 +247,28 @@
     "note": "Team president Jeff Weltman said Monday that Nelson (ankle) remains about a month away from returning to the court after offseason surgery, per Philip Rossman-Reich of OrlandoMagicDaily.com."
    },
    {
-    "player": "Tristan Vukcevic",
+    "player": "Reece Beekman",
     "team": "WSH",
     "status": "Out",
-    "note": "Vukcevic (hip) is listed as out for Monday's game against Orlando."
-   },
-   {
-    "player": "Alex Sarr",
-    "team": "WSH",
-    "status": "Day-To-Day",
-    "note": "Sarr (knee) is questionable to play in Monday's game against the Magic."
+    "note": "The Wizards announced Monday that Beekman sustained a right acromioclavicular joint injury and will be re-evaluated in approximately three weeks."
    },
    {
     "player": "Anthony Gill",
     "team": "WSH",
-    "status": "Day-To-Day",
-    "note": "Gill (back) is questionable to suit up in Monday's contest against Orlando."
+    "status": "Out",
+    "note": "Gill (back) is out for Monday's game against the Magic."
+   },
+   {
+    "player": "Alex Sarr",
+    "team": "WSH",
+    "status": "Out",
+    "note": "Sarr (knee) is out for Monday's game against Orlando."
+   },
+   {
+    "player": "Tristan Vukcevic",
+    "team": "WSH",
+    "status": "Out",
+    "note": "Vukcevic (hip) is listed as out for Monday's game against Orlando."
    },
    {
     "player": "Justin Champagnie",
@@ -279,6 +285,18 @@
   ],
   "SAC@DAL": [
    {
+    "player": "Kyrie Irving",
+    "team": "DAL",
+    "status": "Out",
+    "note": "Irving (knee) has been ruled out for Monday's game against the Kings."
+   },
+   {
+    "player": "Santi Aldama",
+    "team": "DAL",
+    "status": "Out",
+    "note": "Aldama (knee) has been ruled out for Monday's matchup with Sacramento."
+   },
+   {
     "player": "Tarik Biberovic",
     "team": "DAL",
     "status": "Out",
@@ -291,18 +309,6 @@
     "note": "Lively (foot) is listed as out for Monday's game against the Kings."
    },
    {
-    "player": "Kyrie Irving",
-    "team": "DAL",
-    "status": "Day-To-Day",
-    "note": "Irving (knee) is questionable to play Monday against the Kings."
-   },
-   {
-    "player": "Santi Aldama",
-    "team": "DAL",
-    "status": "Out",
-    "note": "Aldama (knee) is listed as doubtful for Monday's game against the Kings."
-   },
-   {
     "player": "Sergio de Larrea",
     "team": "DAL",
     "status": "Out",
@@ -312,7 +318,7 @@
     "player": "Dylan Cardwell",
     "team": "SAC",
     "status": "Out",
-    "note": "Cardwell (calf) is questionable to suit up for Monday's game against the Mavericks."
+    "note": "Cardwell (calf) has been ruled out for Monday's game against the Mavericks."
    },
    {
     "player": "Zach LaVine",
@@ -353,10 +359,10 @@
     "note": "Post (ankle) is questionable to suit up for Monday's game against New Orleans."
    },
    {
-    "player": "Trey Murphy III",
+    "player": "Dejounte Murray",
     "team": "NO",
-    "status": "Day-To-Day",
-    "note": "Murphy (knee) is listed as probable for Monday's game against the Grizzlies."
+    "status": "Out",
+    "note": "Murray (personal) is out for Monday's game against the Grizzlies."
    },
    {
     "player": "Jordan Poole",
@@ -373,6 +379,18 @@
   ],
   "MIL@MIN": [
    {
+    "player": "Terrence Shannon Jr.",
+    "team": "MIN",
+    "status": "Out",
+    "note": "Shannon (hip) has been ruled out for Monday's game against the Bucks, Jon Krawczynski of The Athletic reports."
+   },
+   {
+    "player": "LaMelo Ball",
+    "team": "MIN",
+    "status": "Day-To-Day",
+    "note": "Ball is questionable for Monday's game against Milwaukee due to a right wrist contusion."
+   },
+   {
     "player": "Anthony Edwards",
     "team": "MIN",
     "status": "Out",
@@ -387,10 +405,10 @@
   ],
   "BOS@HOU": [
    {
-    "player": "Mitchell Robinson",
+    "player": "Paul George",
     "team": "BOS",
     "status": "Out",
-    "note": "Robinson (rest) has been ruled out for Sunday's game against the Magic."
+    "note": "George will be rested Monday against Houston."
    },
    {
     "player": "Devin Carter",
@@ -401,8 +419,8 @@
    {
     "player": "Clint Capela",
     "team": "HOU",
-    "status": "Day-To-Day",
-    "note": "Capela (ankle) is questionable to play in Monday's game against the Celtics."
+    "status": "Out",
+    "note": "Capela (ankle) has been ruled out for Monday's game against the Celtics."
    },
    {
     "player": "Reed Sheppard",
@@ -483,22 +501,22 @@
   ],
   "PHX@GS": [
    {
-    "player": "Gui Santos",
+    "player": "Brandon Williams",
     "team": "GS",
     "status": "Day-To-Day",
+    "note": "Williams (quadriceps) is listed as questionable for Monday's game against the Suns."
+   },
+   {
+    "player": "Al Horford",
+    "team": "GS",
+    "status": "Out",
+    "note": "Horford will be rested Monday against the Suns."
+   },
+   {
+    "player": "Gui Santos",
+    "team": "GS",
+    "status": "Out",
     "note": "Santos did not play in the second half of Sunday's 124-112 win over the Clippers due to a knee injury and will not play against the Suns on Monday, Danny Emerman of SFStandard.com reports."
-   },
-   {
-    "player": "Draymond Green",
-    "team": "GS",
-    "status": "Out",
-    "note": "Green (back) is out for Sunday's game against the Clippers."
-   },
-   {
-    "player": "Stephen Curry",
-    "team": "GS",
-    "status": "Out",
-    "note": "Curry (rest) won't play Sunday against the Clippers, Brett Siegel of ClutchPoints.com reports."
    },
    {
     "player": "Kristaps Porzingis",
@@ -527,28 +545,28 @@
   ],
   "TOR@LAC": [
    {
-    "player": "Derrick Jones Jr.",
-    "team": "LAC",
-    "status": "Day-To-Day",
-    "note": "Jones (right knee) has been ruled out for the rest of Sunday's game against the Clippers, Ohm Youngmisuk of ESPN.com reports."
-   },
-   {
-    "player": "Max Strus",
+    "player": "Rui Hachimura",
     "team": "LAC",
     "status": "Out",
-    "note": "Strus (foot) practiced and participated in 5-on-5 with the San Diego Clippers on Saturday, Los Angeles Clippers sideline reporter/host Ohm Youngmisuk reports."
+    "note": "Hachimura (quadriceps) has been ruled out for Monday's game against the Raptors."
+   },
+   {
+    "player": "Derrick Jones Jr.",
+    "team": "LAC",
+    "status": "Out",
+    "note": "Jones (knee) has been ruled out for Monday's game against the Raptors."
    },
    {
     "player": "Yanic Konan Niederhauser",
     "team": "LAC",
     "status": "Out",
-    "note": "Niederhauser (foot) had his third-year team option picked up Thursday by the Clippers, Ohm Youngmisuk of ESPN.com reports."
+    "note": "The Clippers recalled Niederhauser (foot) from the G League's San Diego Clippers on Sunday."
    },
    {
     "player": "Brandon Ingram",
     "team": "LAC",
     "status": "Out",
-    "note": "Los Angeles assigned Ingram (Achilles) to the G League's San Diego Clippers on Saturday."
+    "note": "The Clippers recalled Ingram (Achilles) from the G League's San Diego Clippers on Sunday."
    },
    {
     "player": "Bradley Beal",
@@ -563,42 +581,36 @@
     "note": "Miller underwent surgery Wednesday to repair a torn left rotator cuff and will be re-evaluated in six months, per Law Murray of The Athletic."
    },
    {
+    "player": "Scottie Barnes",
+    "team": "TOR",
+    "status": "Day-To-Day",
+    "note": "Barnes (hip) is listed as questionable for Monday's game against the Clippers."
+   },
+   {
     "player": "Jakob Poeltl",
     "team": "TOR",
     "status": "Day-To-Day",
-    "note": "Poeltl (shoulder) won't play in Sunday's game against the Lakers, Vivek Jacob of the Raptors' official site reports."
+    "note": "Poeltl (shoulder) is listed as questionable for Monday's game against the Clippers."
+   },
+   {
+    "player": "Nate Bittle",
+    "team": "TOR",
+    "status": "Out",
+    "note": "Bittle (foot) is out for Monday's game against the Clippers and remains without a timetable to return."
    },
    {
     "player": "Kawhi Leonard",
     "team": "TOR",
     "status": "Out",
     "note": "Leonard (knee) is expected to be sidelined for at least three to four weeks, Chris Haynes of NBA TV reports."
-   },
-   {
-    "player": "Nate Bittle",
-    "team": "TOR",
-    "status": "Out",
-    "note": "Bittle (foot) has been ruled out for Wednesday's game against the Magic, Cody Taylor of USA Today reports."
    }
   ],
   "MIA@LAL": [
-   {
-    "player": "Ziaire Williams",
-    "team": "LAL",
-    "status": "Out",
-    "note": "Williams (foot) is out for Sunday's game against the Raptors."
-   },
    {
     "player": "Adou Thiero",
     "team": "LAL",
     "status": "Out",
     "note": "Thiero (knee) has been ruled out for Sunday's game against the Raptors."
-   },
-   {
-    "player": "Tim Hardaway Jr.",
-    "team": "MIA",
-    "status": "Day-To-Day",
-    "note": "Hardaway (personal) is listed as questionable for Monday's game against the Lakers."
    }
   ]
  }
