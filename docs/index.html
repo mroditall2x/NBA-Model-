@@ -103,6 +103,12 @@ async function render(){
     V.innerHTML=h;
   }
   if(tab==='card'){
+    const es=(await csv(D+'early_status.csv'))||[], eg=(await csv(D+'early_graded.csv'))||[];
+    const egr={}; eg.forEach(r=>egr[r.player+r.stat]=r);
+    const badge=st=>{const s=String(st||'');return s.startsWith('Hold')?'<span class="tag card">HOLD</span>':s==='Lean'?'<span class="tag lean">LEAN · SMALLER</span>':'<span class="tag" style="background:#f8717122;color:#f87171">PULLED</span>'};
+    const early=es.length?`<div class="game"><div class="ghead">Early card<small>posted this morning · re-checked at current lines</small></div>`+es.map(r=>{const x=egr[r.player+r.stat];
+      return `<div class="pick"><div class="who">${esc(r.player)} ${badge(r.status)}${x?` <span class="tag ${x.result==='Win'?'card':'lean'}">${x.result} · ${x.actual}</span>`:''}</div><div class="pct">${pct(r.p_now)}</div>
+      <div class="what">${side(r.side)} ${r.line} ${STAT[r.stat]||r.stat} · ${esc(r.game)}${r.line_now!==''&&r.line_now!=null&&r.line_now!=r.line?` · now ${r.line_now} (${r.move==='toward'?'market agrees':r.move==='against'?'market moved against':'moved'})`:''} · posted ${pct(r.p)}</div></div>`}).join('')+'</div>':'';
     const rows=await csv(D+'card.csv'), gr=await csv(D+'card_graded.csv');
     const res={}; (gr||[]).forEach(r=>res[r.player+r.stat]=r);
     if(!rows||!rows.length) return V.innerHTML='<div class="empty">No card yet for this day.</div>';
@@ -113,7 +119,7 @@ async function render(){
         const out=x?` <span class="tag ${x.result==='Win'?'card':'lean'}" style="${x.result==='Loss'?'color:#f87171;background:#f8717122':''}">${x.result} · ${x.actual}</span>`:'';
         return pickRow(r,tg+out)}).join('')+'</div>';
     }
-    V.innerHTML=h;
+    V.innerHTML=early+'<div class="legend" style="margin-top:6px">Final card (latest build)</div>'+h;
   }
   if(tab==='games'){
     const rows=await csv(D+'games.csv'), mv=(await csv(D+'moves.csv'))||[];
