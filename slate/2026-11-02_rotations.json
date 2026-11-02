@@ -1,15 +1,15 @@
 {
  "GS": {
-  "Yaxel Lendeborg": 36.5,
-  "Brandin Podziemski": 31.7,
-  "De'Anthony Melton": 27.8,
-  "Georges Niang": 24.1,
-  "Brandon Williams": 23.1,
-  "Gui Santos": 23.0,
-  "Al Horford": 22.6,
-  "Will Richard": 22.0,
-  "Gary Payton II": 17.4,
-  "Charles Bassey": 11.7
+  "Yaxel Lendeborg": 34.7,
+  "Brandin Podziemski": 28.8,
+  "Stephen Curry": 27.2,
+  "Draymond Green": 26.1,
+  "De'Anthony Melton": 25.1,
+  "Georges Niang": 21.7,
+  "Brandon Williams": 20.7,
+  "Al Horford": 20.2,
+  "Will Richard": 19.6,
+  "Gary Payton II": 15.7
  },
  "PHX": {
   "Devin Booker": 34.4,
@@ -108,16 +108,16 @@
   "Clint Capela": 12.6
  },
  "BOS": {
-  "Jayson Tatum": 35.6,
-  "Derrick White": 32.8,
-  "Paul George": 31.8,
-  "Payton Pritchard": 30.5,
-  "Neemias Queta": 23.2,
-  "Sam Hauser": 22.8,
-  "Baylor Scheierman": 19.2,
-  "Jordan Walsh": 17.6,
-  "Luka Garza": 13.7,
-  "Hugo Gonzalez": 12.8
+  "Jayson Tatum": 35.0,
+  "Derrick White": 32.3,
+  "Paul George": 31.2,
+  "Payton Pritchard": 30.0,
+  "Neemias Queta": 22.9,
+  "Sam Hauser": 22.5,
+  "Baylor Scheierman": 18.9,
+  "Mitchell Robinson": 17.4,
+  "Jordan Walsh": 17.3,
+  "Hugo Gonzalez": 12.6
  },
  "SA": {
   "Devin Vassell": 30.9,
@@ -240,16 +240,14 @@
   "Taurean Prince": 10.5
  },
  "IND": {
-  "Pascal Siakam": 35.4,
-  "Andrew Nembhard": 31.6,
-  "Kelly Oubre Jr.": 28.5,
-  "Aaron Nesmith": 25.7,
-  "Jarace Walker": 25.5,
-  "Quenton Jackson": 21.1,
-  "Jay Huff": 18.3,
-  "Obi Toppin": 18.3,
-  "Larry Nance Jr.": 17.9,
-  "Jalen Slawson": 17.6
+  "Kelly Oubre Jr.": 38.0,
+  "Jarace Walker": 38.0,
+  "Quenton Jackson": 32.7,
+  "Jay Huff": 30.2,
+  "Jalen Slawson": 29.9,
+  "Obi Toppin": 29.1,
+  "Larry Nance Jr.": 23.9,
+  "Kobe Brown": 17.9
  },
  "ATL": {
   "Jalen Johnson": 33.9,
@@ -288,28 +286,28 @@
   "Terance Mann": 13.0
  },
  "ORL": {
-  "Desmond Bane": 37.5,
-  "Franz Wagner": 36.2,
-  "Wendell Carter Jr.": 33.8,
-  "Tristan da Silva": 29.4,
-  "Anthony Black": 25.4,
-  "Jase Richardson": 21.2,
-  "Nikola Vucevic": 18.2,
-  "Jamal Cain": 15.2,
-  "Goga Bitadze": 11.9,
-  "Jevon Carter": 11.1
+  "Desmond Bane": 38.0,
+  "Franz Wagner": 38.0,
+  "Wendell Carter Jr.": 38.0,
+  "Tristan da Silva": 33.5,
+  "Nikola Vucevic": 21.3,
+  "Jase Richardson": 19.5,
+  "Jamal Cain": 17.5,
+  "Goga Bitadze": 13.4,
+  "Jevon Carter": 12.6,
+  "Colin Castleton": 7.9
  },
  "WSH": {
-  "Anthony Davis": 32.9,
-  "Trae Young": 32.7,
-  "Kyshawn George": 30.9,
-  "Bilal Coulibaly": 26.7,
-  "Alex Sarr": 26.6,
-  "Bub Carrington": 23.0,
-  "Tre Johnson": 20.2,
-  "Deandre Ayton": 19.6,
-  "AJ Dybantsa": 15.2,
-  "Khris Middleton": 12.1
+  "Anthony Davis": 35.0,
+  "Trae Young": 34.8,
+  "Kyshawn George": 32.9,
+  "Bilal Coulibaly": 28.0,
+  "Bub Carrington": 24.6,
+  "Tre Johnson": 21.2,
+  "Deandre Ayton": 20.5,
+  "Khris Middleton": 16.4,
+  "AJ Dybantsa": 16.0,
+  "Will Riley": 10.5
  },
  "PHI": {
   "Tyrese Maxey": 37.3,

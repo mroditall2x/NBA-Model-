@@ -1,9 +1,25 @@
 game,team,player,stat,line,side,p,mean,min,grade,where
-BOS@HOU,BOS,Paul George,RA,8.5,Less,0.596,7.4,29.7,lean,Kalshi / Underdog
-BOS@HOU,BOS,Payton Pritchard,3PM,2.5,Less,0.591,2.09,26.9,card,Kalshi / Underdog
-BOS@HOU,BOS,Derrick White,REB,3.5,Less,0.58,3.05,28.6,lean,Kalshi / Underdog
-BOS@HOU,BOS,Mitchell Robinson,PR,12.5,Less,0.565,11.6,17.4,lean,PrizePicks / Underdog
-BOS@HOU,HOU,Jabari Smith Jr,REB,5.5,More,0.579,6.72,33.2,lean,PrizePicks / Underdog
-BOS@HOU,HOU,Amen Thompson,AST,4.5,Less,0.562,4.14,32.6,lean,Kalshi / Underdog
-BOS@HOU,HOU,Kevin Durant,REB,5.5,Less,0.561,5.09,32.0,lean,PrizePicks / Underdog
-BOS@HOU,HOU,Tari Eason,PTS,9.5,Less,0.553,9.03,22.7,lean,PrizePicks / Underdog
+BOS@HOU,BOS,Neemias Queta,PRA,14.5,More,0.577,17.45,23.1,lean,PrizePicks / Underdog
+BOS@HOU,BOS,Paul George,3PM,2.5,Less,0.563,2.3,31.6,lean,Kalshi / Underdog
+BOS@HOU,BOS,Mitchell Robinson,PR,12.5,Less,0.539,12.21,17.9,lean,PrizePicks / Underdog
+BOS@HOU,BOS,Jayson Tatum,3PM,2.5,More,0.533,3.02,36.2,lean,Kalshi / Underdog
+OKC@CLE,CLE,Evan Mobley,3PM,1.5,Less,0.637,1.01,34.7,card,Kalshi / Underdog
+OKC@CLE,CLE,Jarrett Allen,RA,9.5,More,0.562,10.75,28.7,lean,PrizePicks / Underdog
+OKC@CLE,CLE,Peyton Watson,PTS,13.5,Less,0.552,12.77,31.2,lean,PrizePicks / Underdog
+OKC@CLE,CLE,Donovan Mitchell,REB,4.5,Less,0.51,4.62,34.4,lean,PrizePicks / Underdog
+BOS@HOU,HOU,Marcus Smart,REB,2.5,Less,0.609,1.98,19.8,lean,Kalshi / Underdog
+BOS@HOU,HOU,Jabari Smith Jr,3PM,2.5,Less,0.569,2.24,32.5,lean,Kalshi / Underdog
+BOS@HOU,HOU,Kevin Durant,PR,27.5,Less,0.546,26.42,32.1,lean,PrizePicks / Underdog
+BOS@HOU,HOU,Amen Thompson,RA,10.5,More,0.531,11.21,32.7,lean,PrizePicks / Underdog
+MIA@LAL,LAL,Sandro Mamukelashvili,REB,5.5,Less,0.618,4.51,23.1,lean,PrizePicks / Underdog
+MIA@LAL,LAL,Walker Kessler,PTS,12.5,Less,0.577,11.22,31.5,lean,PrizePicks / Underdog
+MIA@LAL,LAL,Jake LaRavia,PR,10.5,Less,0.574,9.54,22.9,lean,PrizePicks / Underdog
+MIA@LAL,LAL,Austin Reaves,REB,3.5,More,0.56,4.29,37.5,lean,Kalshi / Underdog
+MIA@LAL,MIA,Bobby Portis,RA,8.5,Less,0.64,6.72,21.5,lean,PrizePicks / Underdog
+MIA@LAL,MIA,Giannis Antetokounmpo,3PM,0.5,Less,0.637,0.36,32.7,lean,PrizePicks / Underdog
+MIA@LAL,MIA,Andrew Wiggins,AST,1.5,More,0.594,2.38,27.9,card,Kalshi / Underdog
+MIA@LAL,MIA,Bam Adebayo,PA,22.5,Less,0.547,21.51,31.5,lean,PrizePicks / Underdog
+OKC@CLE,OKC,Jaylin Williams,PRA,13.5,More,0.641,18.83,26.5,card,PrizePicks / Underdog
+OKC@CLE,OKC,Kenrich Williams,RA,6.5,Less,0.604,5.46,21.0,card,Kalshi / Underdog
+OKC@CLE,OKC,Isaiah Hartenstein,PTS,10.5,Less,0.544,10.07,30.9,lean,PrizePicks / Underdog
+OKC@CLE,OKC,Jared McCain,PRA,19.5,Less,0.533,19.13,29.2,lean,PrizePicks / Underdog

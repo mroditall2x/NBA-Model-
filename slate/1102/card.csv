@@ -1,2 +1,9 @@
 game,team,player,stat,tier,line,side,p,mean,min,gap,where,line_open,line_now,move,line_move,keep
-BOS@HOU,BOS,Payton Pritchard,3PM,standard,2.5,Less,0.5912000000000001,2.09,26.9,-0.6,Kalshi / Underdog,,,,,True
+OKC@CLE,OKC,Jaylin Williams,PRA,standard,13.5,More,0.641,18.83,26.5,0.0,PrizePicks / Underdog,,,,,True
+OKC@CLE,CLE,Evan Mobley,3PM,standard,1.5,Less,0.6368,1.01,34.7,-0.8,Kalshi / Underdog,,,,,True
+OKC@CLE,OKC,Kenrich Williams,RA,standard,6.5,Less,0.6044,5.46,21.0,1.8,Kalshi / Underdog,,,,,True
+OKC@CLE,OKC,Kenrich Williams,REB,standard,4.5,Less,0.596,3.82,21.0,1.8,PrizePicks / Underdog,,,,,True
+MIA@LAL,MIA,Andrew Wiggins,AST,standard,1.5,More,0.5936,2.38,27.9,-1.8,Kalshi / Underdog,,,,,True
+OKC@CLE,CLE,Evan Mobley,REB,standard,8.5,More,0.5912000000000001,10.12,34.7,-0.8,PrizePicks / Underdog,,,,,True
+OKC@CLE,OKC,Kenrich Williams,3PM,standard,1.5,Less,0.5906,1.29,21.0,1.8,Kalshi / Underdog,,,,,True
+OKC@CLE,OKC,Jaylin Williams,RA,standard,7.5,More,0.587,9.19,26.5,0.0,PrizePicks / Underdog,,,,,True
