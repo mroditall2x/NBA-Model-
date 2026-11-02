@@ -45,6 +45,27 @@ for p in set(cur) | set(last):
     if a != b and games[team_game[tm]]['live']: changes.append((team_game[tm], tm, p, a, b))
 if not changes: sys.exit('no changes')
 
+# keep the pre-rebuild card (card_diff.py pushes what changed) and decide which games need fresh prop lines:
+# a real player newly ruled Out in a game with props. Teammates' lines move on that news, so the rebuild shouldn't use old ones.
+import shutil
+from slate_names import norm
+for f in ('card.csv', 'by_team.csv', 'games.csv'):
+    if os.path.exists(f'{D}/{f}'): shutil.copy(f'{D}/{f}', f'{D}/{f}.prev')
+prop_rows = [l.split('|') for l in open(f'{D}/props_p1.txt') if '|' in l] if os.path.exists(f'{D}/props_p1.txt') else []
+prop_games, prop_players = {r[0] for r in prop_rows}, {norm(r[1]) for r in prop_rows}
+rp = f'slate/{DATE}_rotations.json'
+rot = {norm(n): m for t in json.load(open(rp)).values() for n, m in t.items()} if os.path.exists(rp) else {}
+MAX_REFRESH = 4                                       # per day, ~16 credits per game
+rf = f'{D}/prop_refresh.json'
+done = json.load(open(rf)) if os.path.exists(rf) else []
+need = sorted({gk for gk, tm, p, a, b in changes if b == 'Out' and gk in prop_games and (norm(p) in prop_players or rot.get(norm(p), 0) >= 15)})
+refresh, capped = need[:max(0, MAX_REFRESH - len(done))], need[max(0, MAX_REFRESH - len(done)):]
+json.dump(done + refresh, open(rf, 'w'))
+json.dump(dict(games=sorted({c[0] for c in changes}), refreshed=refresh, capped=capped,
+               changes=[dict(game=gk, team=tm, player=p, status=b, text=f"{p} {a} -> {b}") for gk, tm, p, a, b in changes]),
+          open(f'{D}/watch_changes.json', 'w'))
+if refresh: print('REFRESH', ','.join(games[g]['home'] for g in refresh))
+
 # which card picks are touched (same team as the change)
 import csv
 picks = []

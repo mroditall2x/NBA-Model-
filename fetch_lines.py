@@ -1,5 +1,5 @@
 """Pull NBA lines from The Odds API into the slate format the model uses.
-  python3 fetch_lines.py YYYY-MM-DD [--props-teams HOU,BOS | --props-all] [--snap]
+  python3 fetch_lines.py YYYY-MM-DD [--props-teams HOU,BOS [--merge-props] | --props-all] [--snap]
 Writes slate/MMDD/lines.json (consensus spread/total/ML per game), props_p1.txt + pp_compact.json (player props),
 odds_raw.json (everything pulled, for line-movement history). --snap also saves *.open copies for line_moves.py.
 Credits: game lines ~3 per pull (all games); props = markets x regions per game (~16). Free plan: keep props to 1-2 teams.
@@ -12,6 +12,7 @@ BASE = 'https://api.the-odds-api.com/v4/sports/basketball_nba'
 DATE = sys.argv[1]; D = f'slate/{DATE[5:7]}{DATE[8:10]}'; os.makedirs(D, exist_ok=True)
 args = sys.argv[2:]
 PROPS_ALL = '--props-all' in args
+MERGE = '--merge-props' in args      # refresh only these teams' games, keep every other game's props and lines
 _pt = json.load(open('props_teams.json')) if os.path.exists('props_teams.json') else {}   # per-date override, e.g. {"2026-11-01": "BOS,GS"}
 PROPS_TEAMS = set(args[args.index('--props-teams') + 1].split(',')) if '--props-teams' in args else set((_pt.get(DATE) or os.environ.get('PROPS_TEAMS', 'HOU')).split(','))
 ABB = {'Dallas Mavericks': 'DAL', 'Minnesota Timberwolves': 'MIN', 'San Antonio Spurs': 'SA', 'Denver Nuggets': 'DEN', 'Golden State Warriors': 'GS',
@@ -59,6 +60,9 @@ for g in games:
     out.append(dict(away=away, home=home, id=g['id'], commence=g['commence_time'], home_spread=hs,
                     spread_odds=[round(med([a for a, _ in so_m])), round(med([b for _, b in so_m]))], ml_home=round(med(mlh)), ml_away=round(med(mla)),
                     total=t, total_odds=[round(med([a for a, _ in to_m])), round(med([b for _, b in to_m]))]))
+if MERGE and os.path.exists(f'{D}/lines.json'):      # finished games drop off the feed; keep them so their picks stay locked and graded
+    have = {(g['away'], g['home']) for g in out}
+    out += [g for g in json.load(open(f'{D}/lines.json'))['games'] if (g['away'], g['home']) not in have]
 json.dump({'games': out}, open(f'{D}/lines.json', 'w'), indent=1)
 print(f'{len(out)} games ->', f'{D}/lines.json')
 
@@ -110,6 +114,12 @@ for g in out:
             compact.append([gk, player, label, str(pp), '-119', '-119', str(pp), '', ''])
 if not raw['props']: print('game lines only - keeping the props already pulled')
 else:
+  if MERGE:
+    hit = set(raw['props'])
+    if os.path.exists(f'{D}/props_p1.txt'): props_txt = [l for l in open(f'{D}/props_p1.txt').read().splitlines() if l and l.split('|')[0] not in hit] + props_txt
+    if os.path.exists(f'{D}/pp_compact.json'): compact = [r for r in json.load(open(f'{D}/pp_compact.json')) if r[0] not in hit] + compact
+    if os.path.exists(f'{D}/pts_alt.json'): alt_rows = [r for r in json.load(open(f'{D}/pts_alt.json')) if r[0] not in hit] + alt_rows
+    if os.path.exists(f'{D}/fb_odds.json'): fb = {**json.load(open(f'{D}/fb_odds.json')), **fb}
   open(f'{D}/props_p1.txt', 'w').write('\n'.join(props_txt) + '\n')
   json.dump(compact, open(f'{D}/pp_compact.json', 'w'))
   json.dump(alt_rows, open(f'{D}/pts_alt.json', 'w'))

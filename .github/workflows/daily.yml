@@ -66,7 +66,13 @@ jobs:
         if: github.event.inputs.job == 'watch' || github.event.schedule == '12,42 17-23 * * *' || github.event.schedule == '12,42 0-3 * * *'
         run: |
           python3 injury_watch.py ${{ steps.job.outputs.date }} | tee watch.log || true
-          if grep -q REBUILD watch.log; then python3 run_day.py ${{ steps.job.outputs.date }}; python3 pick_status.py slate/${{ steps.job.outputs.mmdd }} || true; fi
+          if grep -q REBUILD watch.log; then
+            T=$(sed -n 's/^REFRESH //p' watch.log)
+            if [ -n "$T" ]; then python3 fetch_lines.py ${{ steps.job.outputs.date }} --props-teams "$T" --merge-props || true; fi
+            python3 run_day.py ${{ steps.job.outputs.date }}
+            python3 pick_status.py slate/${{ steps.job.outputs.mmdd }} || true
+            python3 card_diff.py slate/${{ steps.job.outputs.mmdd }} || true
+          fi
       - name: test grade
         if: github.event.inputs.test == 'true'
         run: python3 grade_day.py ${{ steps.job.outputs.date }} --no-log
