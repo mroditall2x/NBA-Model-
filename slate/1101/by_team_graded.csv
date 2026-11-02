@@ -1,7 +1,16 @@
 game,team,player,stat,line,side,p,mean,min,grade,where,actual,result
-LAC@GS,GS,Georges Niang,PTS,6.5,More,0.613,10.24,22.4,lean,Kalshi / Underdog,3.0,Loss
-LAC@GS,GS,Brandon Williams,RA,5.5,More,0.58,6.81,21.0,lean,Kalshi / Underdog,6.0,Win
-LAC@GS,LAC,Isaiah Jackson,REB,9.5,Less,0.694,6.74,20.1,card,PrizePicks / Underdog,8.0,Win
-LAC@GS,LAC,Darius Garland,RA,8.5,More,0.639,10.98,32.4,card,PrizePicks / Underdog,7.0,Loss
-LAC@GS,LAC,Kris Dunn,PA,14.5,Less,0.585,12.95,31.2,card,PrizePicks / Underdog,16.0,Loss
-LAC@GS,LAC,Brook Lopez,PRA,16.5,Less,0.544,15.94,22.8,lean,PrizePicks / Underdog,9.0,Win
+BOS@ORL,BOS,Neemias Queta,RA,9.5,Less,0.59,8.45,22.6,card,PrizePicks / Underdog,9.0,Win
+BOS@ORL,BOS,Derrick White,3PM,1.5,More,0.587,2.4,32.7,card,Kalshi / Underdog,2.0,Win
+BOS@ORL,BOS,Sam Hauser,REB,2.5,More,0.575,3.45,23.4,lean,PrizePicks / Underdog,2.0,Loss
+BOS@ORL,BOS,Jordan Walsh,PRA,9.5,Less,0.541,9.45,18.2,lean,PrizePicks / Underdog,5.0,Win
+LAC@GS,GS,Brandin Podziemski,3PM,2.5,Less,0.588,2.1,32.0,card,Kalshi / Underdog,2.0,Win
+LAC@GS,GS,Brandon Williams,AST,3.5,More,0.585,4.6,23.3,lean,PrizePicks / Underdog,3.0,Loss
+LAC@GS,GS,Gui Santos,PR,15.5,Less,0.537,15.25,24.4,lean,PrizePicks / Underdog,7.0,Win
+LAC@GS,LAC,Isaiah Jackson,RA,9.5,Less,0.646,7.54,18.9,card,PrizePicks / Underdog,10.0,Loss
+LAC@GS,LAC,Brook Lopez,3PM,1.5,Less,0.572,1.36,22.8,lean,Kalshi / Underdog,1.0,Win
+LAC@GS,LAC,Darius Garland,RA,9.5,More,0.552,10.5,31.7,lean,PrizePicks / Underdog,7.0,Loss
+LAC@GS,LAC,Kobe Sanders,PRA,12.5,Less,0.525,12.66,21.2,lean,PrizePicks / Underdog,19.0,Loss
+BOS@ORL,ORL,Franz Wagner,AST,6.5,Less,0.687,4.46,36.2,card,PrizePicks / Underdog,12.0,Loss
+BOS@ORL,ORL,Tristan da Silva,3PM,2.5,Less,0.652,1.65,28.1,card,Kalshi / Underdog,5.0,Loss
+BOS@ORL,ORL,Jamal Cain,REB,2.5,Less,0.55,2.44,14.9,lean,PrizePicks / Underdog,1.0,Win
+BOS@ORL,ORL,Wendell Carter Jr,PTS,11.5,Less,0.517,11.73,33.0,lean,PrizePicks / Underdog,7.0,Win

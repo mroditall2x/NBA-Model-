@@ -1,8 +1,10 @@
 game,team,player,stat,tier,line,side,p,mean,min,gap,where,line_open,line_now,move,line_move,keep,actual,result,group
-LAC@GS,LAC,Isaiah Jackson,REB,standard,9.5,Less,0.6938,6.74,20.1,-1.3,PrizePicks / Underdog,7.5,9.5,2.0,toward,True,8.0,Win,reb/ast
-LAC@GS,LAC,Darius Garland,RA,standard,8.5,More,0.6392,10.98,32.4,-2.0,PrizePicks / Underdog,9.5,8.5,-1.0,toward,True,7.0,Loss,reb/ast
-LAC@GS,LAC,Kris Dunn,RA,standard,10.5,Less,0.6128,9.06,31.2,0.5,PrizePicks / Underdog,9.5,10.5,1.0,toward,True,6.0,Win,reb/ast
-LAC@GS,LAC,Kris Dunn,AST,standard,5.5,Less,0.6116,4.57,31.2,0.5,PrizePicks / Underdog,5.5,5.5,0.0,,True,4.0,Win,reb/ast
-LAC@GS,LAC,Darius Garland,AST,standard,6.5,More,0.5924,7.86,32.4,-2.0,PrizePicks / Underdog,7.5,6.5,-1.0,toward,True,7.0,Win,reb/ast
-LAC@GS,LAC,Kris Dunn,PA,standard,14.5,Less,0.5852,12.95,31.2,0.5,PrizePicks / Underdog,13.5,14.5,1.0,toward,True,16.0,Loss,points
-LAC@GS,LAC,Darius Garland,PA,standard,27.5,More,0.5828,31.58,32.4,-2.0,PrizePicks / Underdog,30.5,27.5,-3.0,toward,True,22.0,Loss,points
+BOS@ORL,ORL,Franz Wagner,AST,standard,6.5,Less,0.6866,4.46,36.2,0.3,PrizePicks / Underdog,6.5,6.5,0.0,,True,12.0,Loss,reb/ast
+BOS@ORL,ORL,Tristan da Silva,3PM,standard,2.5,Less,0.6517999999999999,1.65,28.1,-2.4,Kalshi / Underdog,,,,,True,5.0,Loss,other
+LAC@GS,LAC,Isaiah Jackson,RA,standard,9.5,Less,0.6457999999999999,7.54,18.9,-1.1,PrizePicks / Underdog,,,,,True,10.0,Loss,reb/ast
+BOS@ORL,ORL,Franz Wagner,RA,standard,12.5,Less,0.6217999999999999,10.58,36.2,0.3,PrizePicks / Underdog,12.5,12.5,0.0,,True,18.0,Loss,reb/ast
+LAC@GS,LAC,Isaiah Jackson,REB,standard,7.5,Less,0.6098,6.33,18.9,-1.1,PrizePicks / Underdog,7.5,7.5,0.0,,True,8.0,Loss,reb/ast
+LAC@GS,LAC,Isaiah Jackson,PRA,standard,18.5,Less,0.6026,16.13,18.9,-1.1,PrizePicks / Underdog,,,,,True,15.0,Win,points
+BOS@ORL,BOS,Neemias Queta,RA,standard,9.5,Less,0.59,8.45,22.6,-1.3,PrizePicks / Underdog,,,,,True,9.0,Win,reb/ast
+LAC@GS,GS,Brandin Podziemski,3PM,standard,2.5,Less,0.5882000000000001,2.1,32.0,1.2,Kalshi / Underdog,,,,,True,2.0,Win,other
+LAC@GS,LAC,Isaiah Jackson,PR,standard,16.5,Less,0.5804,14.92,18.9,-1.1,PrizePicks / Underdog,16.5,16.5,0.0,,True,13.0,Win,points
