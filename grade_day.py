@@ -37,4 +37,6 @@ for c in cols:
     if c not in G: G[c]=''
 if partial: print('partial day (games still to finish) -> not logged yet')
 if '--no-log' not in sys.argv and not partial:
-    L=pd.read_csv('graded_log.csv'); L=L[L.date.astype(str)!=DATE]; L.to_csv('graded_log.csv',index=False)   # re-grading a day replaces it, never duplicates G[cols].to_csv('graded_log.csv',mode='a',header=False,index=False)
+    L=pd.read_csv('graded_log.csv'); L=L[L.date.astype(str)!=DATE]; L.to_csv('graded_log.csv',index=False)   # re-grading a day replaces it, never duplicates
+    G[cols].to_csv('graded_log.csv',mode='a',header=False,index=False)
+    print(len(G),'picks logged for',DATE)
