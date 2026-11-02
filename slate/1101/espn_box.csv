@@ -29,8 +29,8 @@ BKN@IND,BKN,Terance Mann,15.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0
 BKN@IND,BKN,Keon Ellis,20.0,0.0,2.0,1.0,0.0,1.0,0.0,0.0
 BKN@IND,IND,Pascal Siakam,36.0,17.0,5.0,5.0,0.0,1.0,0.0,2.0
 BKN@IND,IND,Jay Huff,17.0,0.0,3.0,0.0,0.0,0.0,1.0,0.0
-BKN@IND,IND,Kelly Oubre Jr.,20.0,11.0,2.0,1.0,2.0,0.0,0.0,0.0
-BKN@IND,IND,Andrew Nembhard,35.0,23.0,3.0,4.0,4.0,1.0,1.0,0.0
+BKN@IND,IND,Kelly Oubre Jr.,20.0,11.0,2.0,1.0,2.0,0.0,1.0,0.0
+BKN@IND,IND,Andrew Nembhard,35.0,23.0,3.0,4.0,4.0,1.0,0.0,0.0
 BKN@IND,IND,Aaron Nesmith,30.0,11.0,3.0,4.0,0.0,1.0,0.0,1.0
 BKN@IND,IND,Larry Nance Jr.,26.0,4.0,6.0,1.0,1.0,1.0,0.0,4.0
 BKN@IND,IND,Jalen Slawson,18.0,3.0,5.0,0.0,0.0,0.0,0.0,1.0
@@ -38,3 +38,53 @@ BKN@IND,IND,Jarace Walker,20.0,6.0,6.0,3.0,2.0,1.0,0.0,1.0
 BKN@IND,IND,Kobe Brown,15.0,3.0,1.0,1.0,1.0,0.0,0.0,0.0
 BKN@IND,IND,Quenton Jackson,24.0,12.0,3.0,2.0,3.0,0.0,0.0,0.0
 BKN@IND,IND,Braden Smith,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+LAC@GS,LAC,Derrick Jones Jr.,28.0,9.0,7.0,1.0,1.0,0.0,0.0,3.0
+LAC@GS,LAC,Rui Hachimura,30.0,24.0,7.0,0.0,4.0,0.0,0.0,1.0
+LAC@GS,LAC,Isaiah Jackson,22.0,5.0,8.0,2.0,0.0,0.0,0.0,4.0
+LAC@GS,LAC,Kris Dunn,27.0,12.0,2.0,4.0,0.0,7.0,0.0,2.0
+LAC@GS,LAC,Darius Garland,33.0,15.0,0.0,7.0,1.0,1.0,0.0,0.0
+LAC@GS,LAC,Baba Miller,6.0,2.0,2.0,1.0,0.0,0.0,0.0,0.0
+LAC@GS,LAC,Nick Martinelli,6.0,10.0,3.0,0.0,2.0,0.0,0.0,1.0
+LAC@GS,LAC,Brook Lopez,19.0,7.0,2.0,0.0,1.0,2.0,0.0,1.0
+LAC@GS,LAC,Jalen Pickett,6.0,0.0,2.0,3.0,0.0,0.0,0.0,0.0
+LAC@GS,LAC,Blake Wesley,4.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+LAC@GS,LAC,Kobe Sanders,30.0,16.0,3.0,0.0,4.0,1.0,0.0,1.0
+LAC@GS,LAC,Cam Christie,6.0,3.0,1.0,0.0,1.0,0.0,0.0,0.0
+LAC@GS,LAC,Gradey Dick,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+LAC@GS,LAC,Keaton Wagler,19.0,7.0,4.0,4.0,0.0,0.0,0.0,1.0
+LAC@GS,GS,Georges Niang,21.0,3.0,1.0,2.0,1.0,0.0,0.0,1.0
+LAC@GS,GS,Yaxel Lendeborg,34.0,37.0,4.0,6.0,6.0,1.0,0.0,2.0
+LAC@GS,GS,Charles Bassey,20.0,6.0,10.0,2.0,0.0,1.0,1.0,1.0
+LAC@GS,GS,De'Anthony Melton,28.0,21.0,6.0,3.0,6.0,2.0,1.0,1.0
+LAC@GS,GS,Brandin Podziemski,37.0,17.0,8.0,8.0,2.0,0.0,0.0,3.0
+LAC@GS,GS,Graham Ike,6.0,2.0,2.0,0.0,0.0,0.0,0.0,1.0
+LAC@GS,GS,Gui Santos,9.0,4.0,3.0,1.0,0.0,0.0,1.0,0.0
+LAC@GS,GS,Al Horford,22.0,9.0,5.0,2.0,3.0,0.0,1.0,0.0
+LAC@GS,GS,Gary Payton II,15.0,5.0,2.0,2.0,1.0,1.0,0.0,1.0
+LAC@GS,GS,Brandon Williams,25.0,17.0,3.0,3.0,2.0,0.0,1.0,1.0
+LAC@GS,GS,LJ Cryer,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+LAC@GS,GS,Will Richard,22.0,3.0,0.0,3.0,1.0,0.0,0.0,0.0
+TOR@LAL,TOR,RJ Barrett,32.0,22.0,10.0,5.0,4.0,0.0,0.0,3.0
+TOR@LAL,TOR,Trayce Jackson-Davis,9.0,5.0,5.0,0.0,0.0,2.0,0.0,2.0
+TOR@LAL,TOR,Scottie Barnes,36.0,29.0,6.0,5.0,0.0,2.0,0.0,5.0
+TOR@LAL,TOR,Immanuel Quickley,33.0,12.0,6.0,7.0,3.0,1.0,0.0,1.0
+TOR@LAL,TOR,Ja'Kobe Walter,33.0,11.0,4.0,2.0,3.0,1.0,1.0,1.0
+TOR@LAL,TOR,Kyle Anderson,4.0,2.0,3.0,3.0,0.0,0.0,0.0,3.0
+TOR@LAL,TOR,Jamison Battle,17.0,20.0,5.0,0.0,4.0,0.0,0.0,4.0
+TOR@LAL,TOR,Collin Murray-Boyles,20.0,4.0,3.0,1.0,0.0,3.0,0.0,1.0
+TOR@LAL,TOR,Allen Graves,10.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0
+TOR@LAL,TOR,Jamal Shead,25.0,9.0,2.0,6.0,2.0,3.0,0.0,1.0
+TOR@LAL,TOR,Jaden Bradley,4.0,3.0,1.0,2.0,0.0,1.0,0.0,1.0
+TOR@LAL,TOR,Alijah Martin,16.0,5.0,2.0,4.0,1.0,0.0,0.0,0.0
+TOR@LAL,LAL,Jake LaRavia,25.0,8.0,2.0,4.0,2.0,1.0,1.0,0.0
+TOR@LAL,LAL,Walker Kessler,31.0,16.0,15.0,1.0,0.0,1.0,3.0,5.0
+TOR@LAL,LAL,Matisse Thybulle,25.0,6.0,2.0,3.0,2.0,2.0,2.0,0.0
+TOR@LAL,LAL,Luka Doncic,35.0,45.0,15.0,6.0,8.0,5.0,1.0,0.0
+TOR@LAL,LAL,Austin Reaves,39.0,19.0,3.0,4.0,2.0,0.0,0.0,1.0
+TOR@LAL,LAL,Jarred Vanderbilt,12.0,4.0,3.0,1.0,0.0,1.0,0.0,2.0
+TOR@LAL,LAL,Sandro Mamukelashvili,24.0,11.0,1.0,1.0,2.0,0.0,0.0,0.0
+TOR@LAL,LAL,Collin Sexton,19.0,14.0,3.0,3.0,1.0,1.0,0.0,1.0
+TOR@LAL,LAL,Quentin Grimes,26.0,7.0,1.0,3.0,1.0,0.0,0.0,0.0
+TOR@LAL,LAL,Bronny James,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+TOR@LAL,LAL,Jaden Hardy,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+TOR@LAL,LAL,Cameron Carr,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
