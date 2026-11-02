@@ -1,12 +1,11 @@
-game,team,player,stat,tier,line,side,p,mean,min,gap,where,line_open,line_now,move,line_move,keep
-OKC@CLE,OKC,Jaylin Williams,PRA,standard,13.5,More,0.641,18.83,26.5,0.0,PrizePicks / Underdog,,,,,True
-OKC@CLE,CLE,Evan Mobley,3PM,standard,1.5,Less,0.6368,1.01,34.7,-0.8,Kalshi / Underdog,,,,,True
-OKC@CLE,OKC,Kenrich Williams,RA,standard,6.5,Less,0.6044,5.46,21.0,1.8,Kalshi / Underdog,,,,,True
-OKC@CLE,OKC,Kenrich Williams,REB,standard,4.5,Less,0.596,3.82,21.0,1.8,PrizePicks / Underdog,,,,,True
-OKC@CLE,CLE,Evan Mobley,REB,standard,8.5,More,0.5912000000000001,10.12,34.7,-0.8,PrizePicks / Underdog,,,,,True
-OKC@CLE,OKC,Kenrich Williams,3PM,standard,1.5,Less,0.5906,1.29,21.0,1.8,Kalshi / Underdog,,,,,True
-MIA@LAL,MIA,Andrew Wiggins,AST,standard,1.5,More,0.59,2.36,27.9,-1.8,Kalshi / Underdog,,,,,True
-OKC@CLE,OKC,Jaylin Williams,RA,standard,7.5,More,0.587,9.19,26.5,0.0,PrizePicks / Underdog,,,,,True
-BOS@HOU,BOS,Derrick White,REB,standard,3.5,Less,0.5852,3.04,28.4,-2.0,Kalshi / Underdog,3.5,3.5,0.0,,True
-BOS@HOU,BOS,Neemias Queta,PRA,standard,14.5,More,0.5834,17.54,23.6,0.0,PrizePicks / Underdog,,,,,True
-MIA@LAL,LAL,Jake LaRavia,PR,standard,10.5,Less,0.5804,9.39,22.0,1.6,PrizePicks / Underdog,,,,,True
+game,team,player,stat,tier,line,side,p,mean,min,gap,where
+BOS@HOU,BOS,Payton Pritchard,AST,standard,3.5,More,0.6235999999999999,4.92,33.1,-1.4,Kalshi / Underdog
+OKC@CLE,CLE,Evan Mobley,3PM,standard,1.5,Less,0.623,1.09,38.0,-3.9,Kalshi / Underdog
+BOS@HOU,BOS,Payton Pritchard,RA,standard,6.5,More,0.6032000000000001,8.1,33.1,-1.4,Kalshi / Underdog
+OKC@CLE,OKC,Kenrich Williams,RA,standard,6.5,Less,0.5978,5.53,21.2,2.0,Kalshi / Underdog
+MIA@LAL,MIA,Andrew Wiggins,AST,standard,1.5,More,0.596,2.42,28.7,-0.3,Kalshi / Underdog
+BOS@HOU,BOS,Jordan Walsh,REB,standard,3.5,Less,0.5882000000000001,2.98,18.0,-1.9,Kalshi / Underdog
+OKC@CLE,OKC,Kenrich Williams,REB,standard,4.5,Less,0.5876,3.88,21.2,2.0,PrizePicks / Underdog
+BOS@HOU,BOS,Sam Hauser,3PM,standard,2.5,Less,0.5858,2.13,24.1,-2.4,Kalshi / Underdog
+OKC@CLE,OKC,Kenrich Williams,3PM,standard,1.5,Less,0.5846,1.31,21.2,2.0,Kalshi / Underdog
+BOS@HOU,HOU,Jabari Smith Jr,REB,standard,5.5,More,0.5828,6.73,33.2,-0.2,PrizePicks / Underdog

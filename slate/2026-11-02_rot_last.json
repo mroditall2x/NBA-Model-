@@ -144,16 +144,16 @@
   "Josh Okogie": 16.0
  },
  "DAL": {
-  "Kyrie Irving": 32.0,
-  "Cooper Flagg": 31.0,
-  "P.J. Washington": 29.0,
-  "Naji Marshall": 27.0,
-  "Max Christie": 27.0,
-  "Morez Johnson Jr.": 22.0,
-  "Daniel Gafford": 20.0,
-  "Zaccharie Risacher": 19.0,
-  "Walter Clayton Jr.": 18.0,
-  "Caleb Martin": 14.0
+  "Cooper Flagg": 34.0,
+  "P.J. Washington": 31.0,
+  "Naji Marshall": 30.0,
+  "Max Christie": 29.0,
+  "Morez Johnson Jr.": 24.0,
+  "Daniel Gafford": 22.0,
+  "Zaccharie Risacher": 21.0,
+  "Walter Clayton Jr.": 19.0,
+  "Caleb Martin": 15.0,
+  "Moussa Cisse": 14.0
  },
  "SAC": {
   "Zach LaVine": 32.0,
@@ -191,16 +191,16 @@
   "DeAndre Jordan": 14.0
  },
  "MIN": {
-  "Jaden McDaniels": 34.0,
+  "Jaden McDaniels": 35.0,
   "Rudy Gobert": 34.0,
-  "LaMelo Ball": 30.0,
-  "Ayo Dosunmu": 29.0,
+  "LaMelo Ball": 31.0,
+  "Ayo Dosunmu": 30.0,
   "Cody Williams": 24.0,
   "Jonathan Kuminga": 23.0,
-  "Trey Lyles": 19.0,
+  "Trey Lyles": 20.0,
   "Bones Hyland": 18.0,
   "Jaylen Clark": 14.0,
-  "Terrence Shannon Jr.": 13.0
+  "Enrique Freeman": 11.0
  },
  "MIL": {
   "Ryan Rollins": 28.0,
@@ -242,35 +242,33 @@
   "Kelly Oubre Jr.": 37.0,
   "Jarace Walker": 37.0,
   "Jalen Slawson": 37.0,
-  "Jay Huff": 32.0,
-  "Quenton Jackson": 28.0,
-  "Obi Toppin": 27.0,
-  "Kobe Brown": 24.0,
-  "Larry Nance Jr.": 18.0
+  "Jay Huff": 37.0,
+  "Quenton Jackson": 37.0,
+  "Kobe Brown": 37.0
  },
  "ATL": {
-  "Jalen Johnson": 31.0,
-  "Nickeil Alexander-Walker": 30.0,
-  "Dyson Daniels": 29.0,
-  "Onyeka Okongwu": 28.0,
-  "CJ McCollum": 26.0,
-  "Luguentz Dort": 24.0,
-  "Kingston Flemings": 21.0,
-  "Aaron Wiggins": 18.0,
-  "Corey Kispert": 17.0,
-  "Keshon Gilbert": 16.0
+  "Nickeil Alexander-Walker": 32.0,
+  "Dyson Daniels": 32.0,
+  "Onyeka Okongwu": 30.0,
+  "CJ McCollum": 28.0,
+  "Luguentz Dort": 26.0,
+  "Kingston Flemings": 23.0,
+  "Aaron Wiggins": 19.0,
+  "Corey Kispert": 18.0,
+  "Keshon Gilbert": 18.0,
+  "Dorian Finney-Smith": 15.0
  },
  "NY": {
-  "Jalen Brunson": 32.0,
-  "OG Anunoby": 31.0,
-  "Mikal Bridges": 31.0,
+  "Jalen Brunson": 31.0,
+  "OG Anunoby": 30.0,
+  "Mikal Bridges": 30.0,
   "Karl-Anthony Towns": 28.0,
-  "Josh Hart": 28.0,
+  "Josh Hart": 27.0,
   "Miles McBride": 24.0,
   "Landry Shamet": 21.0,
-  "Andre Drummond": 17.0,
-  "Jordan Clarkson": 16.0,
-  "James Wiseman": 11.0
+  "Jose Alvarado": 18.0,
+  "Andre Drummond": 16.0,
+  "Jordan Clarkson": 16.0
  },
  "BKN": {
   "Julius Randle": 32.0,
@@ -333,16 +331,15 @@
   "Leonard Miller": 15.0
  },
  "CLE": {
-  "James Harden": 35.0,
-  "Donovan Mitchell": 34.0,
-  "Evan Mobley": 33.0,
-  "Peyton Watson": 30.0,
-  "Jarrett Allen": 28.0,
-  "Sam Merrill": 27.0,
-  "Craig Porter Jr.": 18.0,
-  "Thomas Bryant": 12.0,
-  "Tristan Enaruna": 11.0,
-  "Tyrese Proctor": 11.0
+  "James Harden": 37.0,
+  "Donovan Mitchell": 37.0,
+  "Evan Mobley": 37.0,
+  "Jarrett Allen": 33.0,
+  "Sam Merrill": 32.0,
+  "Craig Porter Jr.": 22.0,
+  "Thomas Bryant": 15.0,
+  "Tristan Enaruna": 14.0,
+  "Tyrese Proctor": 13.0
  },
  "OKC": {
   "Shai Gilgeous-Alexander": 37.0,
