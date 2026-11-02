@@ -59,12 +59,12 @@ jobs:
         run: python3 run_day.py ${{ steps.job.outputs.date }}
       - name: line movement check
         if: (github.event.schedule == '47 22 * * *' || github.event.inputs.job == 'pretip' || github.event.inputs.job == 'pretip_lines') || (github.event_name == 'workflow_dispatch' && github.event.inputs.test != 'true' && github.event.inputs.grade_only != 'true' && github.event.inputs.job != 'grade' && github.event.inputs.job != 'watch')
-        run: python3 line_moves.py check slate/${{ steps.job.outputs.mmdd }} || true
+        run: python3 line_moves.py check slate/${{ steps.job.outputs.mmdd }} || true; python3 pick_status.py slate/${{ steps.job.outputs.mmdd }} || true
       - name: injury watch (hourly)
         if: github.event.inputs.job == 'watch'
         run: |
           python3 injury_watch.py ${{ steps.job.outputs.date }} | tee watch.log || true
-          if grep -q REBUILD watch.log; then python3 run_day.py ${{ steps.job.outputs.date }}; fi
+          if grep -q REBUILD watch.log; then python3 run_day.py ${{ steps.job.outputs.date }}; python3 pick_status.py slate/${{ steps.job.outputs.mmdd }} || true; fi
       - name: test grade
         if: github.event.inputs.test == 'true'
         run: python3 grade_day.py ${{ steps.job.outputs.date }} --no-log
@@ -72,6 +72,6 @@ jobs:
         if: always() && github.event.inputs.test != 'true'
         run: |
           git config user.name "nba-bot"; git config user.email "nba-bot@users.noreply.github.com"
-          git add graded_log.csv fb_log.csv slate || true
+          touch early_log.csv; git add graded_log.csv fb_log.csv early_log.csv slate || true
           git commit -m "nba run $(date '+%F %H:%M')" || echo "nothing to commit"
           git pull --rebase -q && git push

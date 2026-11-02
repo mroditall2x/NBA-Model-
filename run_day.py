@@ -54,6 +54,8 @@ card=card[~card.game.isin(_started)][_cols]
 if _started and os.path.exists(f'{D}/card.csv'):          # games already tipped keep the card that was posted before tip
     _old=pd.read_csv(f'{D}/card.csv'); card=pd.concat([_old[_old.game.isin(_started)][[c for c in _cols if c in _old]],card])
 card.to_csv(f'{D}/card.csv',index=False)
+if not os.path.exists(f'{D}/card_early.csv'):            # first build of the day = early card (stricter bar so it survives line moves)
+    card[(card.p>=0.62)|(card.tier=='goblin')].to_csv(f'{D}/card_early.csv',index=False)
 G=pd.read_csv(f'{D}/games.csv')
 G['full_game_note']=['skip: model >6 off market' if abs(r.model_total-r.mkt_total)>6 or abs(r.model_spread_home-r.mkt_spread_home)>6 else '' for r in G.itertuples()]
 def _ev(r):   # moneyline EV+ tag: calibrated model win% beats market by 3+ pts; favorites also need 65%+
