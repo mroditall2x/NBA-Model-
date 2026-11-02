@@ -1,0 +1,95 @@
+game,team,player,stat,mean,min,gap,flags,type,line,side,model,market,edge,where
+BOS@HOU,BOS,Jayson Tatum,AST,5.49,33.8,4.1,minutes unclear (+4),PP standard,6.5,Less,0.682,0.515,0.167,PrizePicks / Underdog
+BOS@HOU,HOU,Alperen Sengun,AST,4.56,28.1,5.2,minutes unclear (+5),PP standard,5.5,Less,0.683,0.492,0.191,PrizePicks / Underdog
+BOS@HOU,HOU,Fred VanVleet,AST,3.86,28.1,6.4,minutes unclear (+6),PP standard,5.5,Less,0.785,0.513,0.272,PrizePicks / Underdog
+BOS@HOU,BOS,Derrick White,AST,4.24,28.6,-1.4,,PP standard,4.5,Less,0.58,0.506,0.074,PrizePicks / Underdog
+BOS@HOU,HOU,Amen Thompson,AST,4.14,32.6,-0.9,,book line,4.5,Less,0.604,0.557,0.047,Kalshi / Underdog
+BOS@HOU,BOS,Paul George,AST,3.34,29.7,2.7,new team,book line,3.5,Less,0.577,0.463,0.114,Kalshi / Underdog
+BOS@HOU,BOS,Payton Pritchard,AST,4.04,26.9,-0.6,,book line,3.5,More,0.559,0.532,0.026,Kalshi / Underdog
+BOS@HOU,HOU,Kevin Durant,AST,3.9,32.0,-1.2,,PP standard,3.5,More,0.531,0.477,0.054,PrizePicks / Underdog
+BOS@HOU,HOU,Marcus Smart,AST,2.08,20.8,5.7,minutes unclear (+6); new team,PP standard,2.5,Less,0.662,0.488,0.174,PrizePicks / Underdog
+BOS@HOU,HOU,Jabari Smith Jr,AST,1.41,33.2,1.2,,book line,1.5,Less,0.6,0.425,0.175,Kalshi / Underdog
+BOS@HOU,BOS,Jayson Tatum,PTS,24.3,33.8,4.1,minutes unclear (+4),PP standard,25.5,Less,0.579,0.493,0.086,PrizePicks / Underdog
+BOS@HOU,HOU,Kevin Durant,PTS,21.19,32.0,-1.2,,PP standard,21.5,Less,0.545,0.504,0.041,PrizePicks / Underdog
+BOS@HOU,HOU,Alperen Sengun,PTS,16.65,28.1,5.2,minutes unclear (+5),PP standard,17.5,Less,0.577,0.48,0.097,PrizePicks / Underdog
+BOS@HOU,BOS,Paul George,PTS,15.99,29.7,2.7,new team,PP standard,16.5,Less,0.566,0.49,0.076,PrizePicks / Underdog
+BOS@HOU,HOU,Amen Thompson,PTS,15.04,32.6,-0.9,,PP standard,15.5,Less,0.564,0.507,0.057,PrizePicks / Underdog
+BOS@HOU,HOU,Jabari Smith Jr,PTS,14.38,33.2,1.2,,PP standard,14.5,Less,0.543,0.481,0.062,PrizePicks / Underdog
+BOS@HOU,BOS,Payton Pritchard,PTS,13.34,26.9,-0.6,,PP standard,14.5,Less,0.606,0.512,0.094,PrizePicks / Underdog
+BOS@HOU,BOS,Derrick White,PTS,12.84,28.6,-1.4,,PP standard,12.5,Less,0.529,0.481,0.047,PrizePicks / Underdog
+BOS@HOU,HOU,Fred VanVleet,PTS,11.09,28.1,6.4,minutes unclear (+6),PP standard,11.5,Less,0.571,0.494,0.077,PrizePicks / Underdog
+BOS@HOU,HOU,Tari Eason,PTS,9.03,22.7,-1.6,,PP standard,9.5,Less,0.589,0.519,0.07,PrizePicks / Underdog
+BOS@HOU,HOU,Marcus Smart,PTS,6.62,20.8,5.7,minutes unclear (+6); new team,PP standard,7.5,Less,0.632,0.52,0.112,PrizePicks / Underdog
+BOS@HOU,BOS,Mitchell Robinson,PTS,5.41,17.4,-0.6,new team,book line,5.5,Less,0.565,0.469,0.097,Kalshi / Underdog
+BOS@HOU,BOS,Jayson Tatum,PA,29.79,33.8,4.1,minutes unclear (+4),PP standard,33.5,Less,0.67,0.518,0.152,PrizePicks / Underdog
+BOS@HOU,HOU,Kevin Durant,PA,25.08,32.0,-1.2,,PP standard,25.5,Less,0.547,0.518,0.028,PrizePicks / Underdog
+BOS@HOU,HOU,Alperen Sengun,PA,21.21,28.1,5.2,minutes unclear (+5),PP standard,23.5,Less,0.643,0.49,0.153,PrizePicks / Underdog
+BOS@HOU,BOS,Paul George,PA,19.33,29.7,2.7,new team,PP standard,20.5,Less,0.592,0.494,0.098,PrizePicks / Underdog
+BOS@HOU,HOU,Amen Thompson,PA,19.17,32.6,-0.9,,PP standard,19.5,Less,0.55,0.484,0.067,PrizePicks / Underdog
+BOS@HOU,BOS,Payton Pritchard,PA,17.38,26.9,-0.6,,PP standard,18.5,Less,0.596,0.51,0.086,PrizePicks / Underdog
+BOS@HOU,BOS,Derrick White,PA,17.09,28.6,-1.4,,PP standard,17.5,Less,0.562,0.49,0.072,PrizePicks / Underdog
+BOS@HOU,HOU,Fred VanVleet,PA,14.95,28.1,6.4,minutes unclear (+6),PP standard,17.5,Less,0.674,0.51,0.164,PrizePicks / Underdog
+BOS@HOU,HOU,Jabari Smith Jr,PA,15.79,33.2,1.2,,PP standard,16.5,Less,0.574,0.481,0.094,PrizePicks / Underdog
+BOS@HOU,HOU,Marcus Smart,PA,8.7,20.8,5.7,minutes unclear (+6); new team,PP standard,10.5,Less,0.681,0.522,0.158,PrizePicks / Underdog
+BOS@HOU,BOS,Jayson Tatum,PR,31.41,33.8,4.1,minutes unclear (+4),PP standard,33.5,Less,0.605,0.49,0.115,PrizePicks / Underdog
+BOS@HOU,HOU,Kevin Durant,PR,26.28,32.0,-1.2,,PP standard,27.5,Less,0.581,0.52,0.06,PrizePicks / Underdog
+BOS@HOU,HOU,Alperen Sengun,PR,24.54,28.1,5.2,minutes unclear (+5),PP standard,26.5,Less,0.618,0.49,0.128,PrizePicks / Underdog
+BOS@HOU,HOU,Amen Thompson,PR,22.01,32.6,-0.9,,PP standard,22.5,Less,0.557,0.524,0.033,PrizePicks / Underdog
+BOS@HOU,BOS,Paul George,PR,20.06,29.7,2.7,new team,PP standard,21.5,Less,0.602,0.514,0.088,PrizePicks / Underdog
+BOS@HOU,HOU,Jabari Smith Jr,PR,21.09,33.2,1.2,,PP standard,21.5,Less,0.55,0.52,0.03,PrizePicks / Underdog
+BOS@HOU,BOS,Payton Pritchard,PR,15.97,26.9,-0.6,,PP standard,16.5,Less,0.566,0.486,0.081,PrizePicks / Underdog
+BOS@HOU,BOS,Derrick White,PR,15.9,28.6,-1.4,,PP standard,16.5,Less,0.578,0.516,0.062,PrizePicks / Underdog
+BOS@HOU,HOU,Fred VanVleet,PR,13.92,28.1,6.4,minutes unclear (+6),PP standard,15.5,Less,0.628,0.52,0.108,PrizePicks / Underdog
+BOS@HOU,BOS,Mitchell Robinson,PR,11.6,17.4,-0.6,new team,PP standard,12.5,Less,0.609,0.506,0.103,PrizePicks / Underdog
+BOS@HOU,BOS,Jayson Tatum,PRA,36.9,33.8,4.1,minutes unclear (+4),PP standard,40.5,Less,0.652,0.5,0.152,PrizePicks / Underdog
+BOS@HOU,HOU,Alperen Sengun,PRA,29.09,28.1,5.2,minutes unclear (+5),PP standard,32.5,Less,0.672,0.492,0.18,PrizePicks / Underdog
+BOS@HOU,HOU,Kevin Durant,PRA,30.17,32.0,-1.2,,PP standard,30.5,Less,0.538,0.491,0.047,PrizePicks / Underdog
+BOS@HOU,HOU,Amen Thompson,PRA,26.15,32.6,-0.9,,PP standard,26.5,Less,0.546,0.507,0.039,PrizePicks / Underdog
+BOS@HOU,BOS,Paul George,PRA,23.4,29.7,2.7,new team,PP standard,25.5,Less,0.625,0.513,0.111,PrizePicks / Underdog
+BOS@HOU,HOU,Jabari Smith Jr,PRA,22.5,33.2,1.2,,PP standard,23.5,Less,0.579,0.522,0.056,PrizePicks / Underdog
+BOS@HOU,BOS,Derrick White,PRA,20.14,28.6,-1.4,,PP standard,20.5,Less,0.556,0.494,0.062,PrizePicks / Underdog
+BOS@HOU,BOS,Payton Pritchard,PRA,20.01,26.9,-0.6,,PP standard,20.5,Less,0.559,0.486,0.073,PrizePicks / Underdog
+BOS@HOU,HOU,Fred VanVleet,PRA,17.78,28.1,6.4,minutes unclear (+6),PP standard,20.5,Less,0.674,0.486,0.189,PrizePicks / Underdog
+BOS@HOU,HOU,Alperen Sengun,REB,7.89,28.1,5.2,minutes unclear (+5),PP standard,8.5,Less,0.608,0.512,0.096,PrizePicks / Underdog
+BOS@HOU,BOS,Jayson Tatum,REB,7.11,33.8,4.1,minutes unclear (+4),book line,7.5,Less,0.581,0.539,0.042,Kalshi / Underdog
+BOS@HOU,BOS,Mitchell Robinson,REB,6.19,17.4,-0.6,new team,PP standard,6.5,Less,0.579,0.527,0.052,PrizePicks / Underdog
+BOS@HOU,HOU,Amen Thompson,REB,6.98,32.6,-0.9,,PP standard,6.5,More,0.532,0.496,0.036,PrizePicks / Underdog
+BOS@HOU,HOU,Jabari Smith Jr,REB,6.72,33.2,1.2,,PP standard,5.5,More,0.631,0.558,0.074,PrizePicks / Underdog
+BOS@HOU,HOU,Tari Eason,REB,5.59,22.7,-1.6,,PP standard,5.5,Less,0.54,0.508,0.032,PrizePicks / Underdog
+BOS@HOU,HOU,Kevin Durant,REB,5.09,32.0,-1.2,,PP standard,5.5,Less,0.601,0.522,0.079,PrizePicks / Underdog
+BOS@HOU,BOS,Paul George,REB,4.06,29.7,2.7,new team,PP standard,4.5,Less,0.619,0.363,0.256,PrizePicks / Underdog
+BOS@HOU,HOU,Fred VanVleet,REB,2.84,28.1,6.4,minutes unclear (+6),book line,3.5,Less,0.678,0.556,0.122,Kalshi / Underdog
+BOS@HOU,BOS,Derrick White,REB,3.05,28.6,-1.4,,book line,3.5,Less,0.633,0.585,0.048,Kalshi / Underdog
+BOS@HOU,BOS,Payton Pritchard,REB,2.63,26.9,-0.6,,PP standard,2.5,Less,0.529,0.49,0.039,PrizePicks / Underdog
+BOS@HOU,HOU,Alperen Sengun,RA,12.44,28.1,5.2,minutes unclear (+5),PP standard,14.5,Less,0.712,0.514,0.198,PrizePicks / Underdog
+BOS@HOU,BOS,Jayson Tatum,RA,12.6,33.8,4.1,minutes unclear (+4),book line,13.5,Less,0.606,0.469,0.138,Kalshi / Underdog
+BOS@HOU,HOU,Amen Thompson,RA,11.11,32.6,-0.9,,PP standard,10.5,More,0.542,0.52,0.022,PrizePicks / Underdog
+BOS@HOU,HOU,Kevin Durant,RA,8.99,32.0,-1.2,,PP standard,8.5,More,0.531,0.546,-0.015,PrizePicks / Underdog
+BOS@HOU,HOU,Fred VanVleet,RA,6.69,28.1,6.4,minutes unclear (+6),book line,8.5,Less,0.744,0.453,0.291,Kalshi / Underdog
+BOS@HOU,BOS,Paul George,RA,7.4,29.7,2.7,new team,book line,8.5,Less,0.66,0.543,0.117,Kalshi / Underdog
+BOS@HOU,HOU,Jabari Smith Jr,RA,8.13,33.2,1.2,,PP standard,7.5,More,0.548,0.553,-0.006,PrizePicks / Underdog
+BOS@HOU,BOS,Derrick White,RA,7.3,28.6,-1.4,,PP standard,7.5,Less,0.559,0.473,0.086,PrizePicks / Underdog
+BOS@HOU,BOS,Payton Pritchard,RA,6.67,26.9,-0.6,,PP standard,6.5,Less,0.512,0.518,-0.006,PrizePicks / Underdog
+BOS@HOU,BOS,Paul George,3PM,2.18,29.7,2.7,new team,book line,2.5,Less,0.627,0.46,0.166,Kalshi / Underdog
+BOS@HOU,BOS,Jayson Tatum,3PM,2.86,33.8,4.1,minutes unclear (+4),book line,2.5,More,0.517,0.446,0.071,Kalshi / Underdog
+BOS@HOU,HOU,Fred VanVleet,3PM,2.32,28.1,6.4,minutes unclear (+6),book line,2.5,Less,0.6,0.561,0.039,Kalshi / Underdog
+BOS@HOU,HOU,Jabari Smith Jr,3PM,2.3,33.2,1.2,,book line,2.5,Less,0.603,0.573,0.03,Kalshi / Underdog
+BOS@HOU,BOS,Payton Pritchard,3PM,2.09,26.9,-0.6,,book line,2.5,Less,0.652,0.602,0.051,Kalshi / Underdog
+BOS@HOU,BOS,Derrick White,3PM,2.1,28.6,-1.4,,book line,1.5,More,0.574,0.609,-0.035,Kalshi / Underdog
+BOS@HOU,HOU,Kevin Durant,3PM,2.12,32.0,-1.2,,book line,1.5,More,0.58,0.583,-0.003,Kalshi / Underdog
+BOS@HOU,HOU,Tari Eason,3PM,1.27,22.7,-1.6,,book line,1.5,Less,0.65,0.639,0.011,Kalshi / Underdog
+BOS@HOU,HOU,Marcus Smart,3PM,1.25,20.8,5.7,minutes unclear (+6); new team,book line,1.5,Less,0.66,0.652,0.007,Kalshi / Underdog
+BOS@HOU,HOU,Alperen Sengun,3PM,0.43,28.1,5.2,minutes unclear (+5),book line,0.5,Less,0.689,0.465,0.223,Kalshi / Underdog
+BOS@HOU,HOU,Marcus Smart,PRA,10.79,20.8,5.7,minutes unclear (+6); new team,PP standard,12.5,Less,0.665,0.512,0.152,PrizePicks / Underdog
+BOS@HOU,HOU,Marcus Smart,REB,2.08,20.8,5.7,minutes unclear (+6); new team,book line,2.5,Less,0.659,0.577,0.082,Kalshi / Underdog
+BOS@HOU,HOU,Tari Eason,PR,14.62,22.7,-1.6,,PP standard,14.5,Less,0.545,0.484,0.061,PrizePicks / Underdog
+BOS@HOU,HOU,Marcus Smart,PR,8.71,20.8,5.7,minutes unclear (+6); new team,PP standard,9.5,Less,0.617,0.508,0.109,PrizePicks / Underdog
+BOS@HOU,HOU,Marcus Smart,RA,4.16,20.8,5.7,minutes unclear (+6); new team,book line,4.5,Less,0.608,0.454,0.154,Kalshi / Underdog
+BOS@HOU,HOU,Tari Eason,PRA,15.73,22.7,-1.6,,PP standard,15.5,Less,0.54,0.465,0.075,PrizePicks / Underdog
+BOS@HOU,HOU,Tari Eason,RA,6.7,22.7,-1.6,,PP standard,6.5,Less,0.528,0.52,0.008,PrizePicks / Underdog
+BOS@HOU,BOS,Neemias Queta,PTS,9.19,22.3,0.0,,PP standard,8.5,Less,0.502,0.5,0.002,PrizePicks / Underdog
+BOS@HOU,HOU,Reed Sheppard,PTS,8.54,16.8,0.0,,PP standard,8.5,Less,0.558,0.5,0.058,PrizePicks / Underdog
+BOS@HOU,BOS,Neemias Queta,PRA,16.61,22.3,0.0,,PP standard,15.5,More,0.525,0.5,0.025,PrizePicks / Underdog
+BOS@HOU,HOU,Reed Sheppard,PRA,12.53,16.8,0.0,,PP standard,12.5,Less,0.564,0.5,0.064,PrizePicks / Underdog
+BOS@HOU,BOS,Mitchell Robinson,PRA,12.26,17.4,-0.6,new team,PP standard,12.5,Less,0.562,0.5,0.062,PrizePicks / Underdog
+BOS@HOU,BOS,Neemias Queta,REB,5.98,22.3,0.0,,PP standard,5.5,More,0.529,0.5,0.029,PrizePicks / Underdog
