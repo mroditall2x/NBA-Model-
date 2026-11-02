@@ -117,6 +117,7 @@ async function render(){
   }
   if(tab==='games'){
     const rows=await csv(D+'games.csv'), mv=(await csv(D+'moves.csv'))||[];
+    let inj={}; try{const r=await fetch(RAW+D+'injury_report.json?t='+Date.now()); if(r.ok) inj=(await r.json()).games||{}}catch(e){}
     if(!rows) return V.innerHTML='<div class="empty">No game lines for this day.</div>';
     V.innerHTML=rows.map(r=>{
       const [a,h]=r.game.split('@'); const sp=r.mkt_spread_home, fmt=x=>(x>0?'+':'')+x;
@@ -126,7 +127,7 @@ async function render(){
       <div class="row"><div><b>Spread</b><div class="what" style="color:var(--muted);font-size:13px">Model ${h} ${fmt(r.model_spread_home)} · market ${h} ${fmt(sp)}</div></div><div class="r"><b>${coverHome?h+' '+fmt(sp):a+' '+fmt(-sp)}</b><div>${pct(cal(Math.max(r.p_home_cover,1-r.p_home_cover)))}</div></div></div>
       <div class="row"><div><b>Total ${r.mkt_total}</b><div style="color:var(--muted);font-size:13px">Model ${r.model_total} · pace ${r.poss}</div></div><div class="r"><b>${ov?'Over':'Under'}</b><div>${pct(cal(Math.max(r.p_over,1-r.p_over)))}</div></div></div>
       <div class="row"><div><b>Moneyline</b><div style="color:var(--muted);font-size:13px">Market ${h} ${pct(r.mkt_home_win)}</div></div><div class="r"><b>${winHome?h:a}</b><div>${pct(cal(Math.max(r.p_home_win,1-r.p_home_win)))}</div></div></div>
-      ${r.ev_tag?`<div class="note"><span class="tag card" style="font-size:12px">EV+ PLAY</span> ${esc(r.ev_tag)}</div>`:''}${m?`<div class="note">Line moves: ${esc(m)}</div>`:''}</div>`}).join('');
+      ${r.ev_tag?`<div class="note"><span class="tag card" style="font-size:12px">EV+ PLAY</span> ${esc(r.ev_tag)}</div>`:''}${m?`<div class="note">Line moves: ${esc(m)}</div>`:''}${(inj[r.game]||[]).length?`<div class="note"><b style="color:#f87171">Injury report</b><br>${inj[r.game].map(i=>`${esc(i.team)} · ${esc(i.player)} — <b>${esc(i.status)}</b>`).join('<br>')}</div>`:''}</div>`}).join('');
   }
   if(tab==='boom'){
     const rows=await csv(D+'boom.csv');
