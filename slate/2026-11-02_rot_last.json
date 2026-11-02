@@ -1,15 +1,15 @@
 {
  "GS": {
-  "Stephen Curry": 33.0,
-  "Brandin Podziemski": 31.0,
-  "Draymond Green": 30.0,
-  "De'Anthony Melton": 25.0,
-  "Al Horford": 23.0,
-  "Brandon Williams": 22.0,
-  "Will Richard": 21.0,
-  "Georges Niang": 21.0,
-  "LJ Cryer": 17.0,
-  "Gary Payton II": 17.0
+  "Stephen Curry": 35.0,
+  "Brandin Podziemski": 32.0,
+  "Draymond Green": 31.0,
+  "De'Anthony Melton": 26.0,
+  "Brandon Williams": 23.0,
+  "Will Richard": 22.0,
+  "Georges Niang": 22.0,
+  "LJ Cryer": 18.0,
+  "Gary Payton II": 17.0,
+  "Charles Bassey": 15.0
  },
  "PHX": {
   "Devin Booker": 32.0,
@@ -24,16 +24,16 @@
   "Pat Spencer": 16.0
  },
  "LAC": {
-  "Darius Garland": 32.0,
-  "Rui Hachimura": 31.0,
-  "Kris Dunn": 29.0,
-  "Derrick Jones Jr.": 29.0,
-  "Keaton Wagler": 26.0,
-  "Brook Lopez": 24.0,
-  "Kobe Sanders": 21.0,
-  "Isaiah Jackson": 18.0,
-  "Jalen Pickett": 16.0,
-  "Gradey Dick": 14.0
+  "Darius Garland": 36.0,
+  "Kris Dunn": 33.0,
+  "Keaton Wagler": 29.0,
+  "Max Strus": 27.0,
+  "Brook Lopez": 26.0,
+  "Kobe Sanders": 24.0,
+  "Isaiah Jackson": 20.0,
+  "Jalen Pickett": 18.0,
+  "Gradey Dick": 15.0,
+  "Blake Wesley": 13.0
  },
  "TOR": {
   "Scottie Barnes": 34.0,
@@ -48,16 +48,16 @@
   "Trayce Jackson-Davis": 10.0
  },
  "LAL": {
-  "Luka Doncic": 34.0,
-  "Austin Reaves": 33.0,
-  "Walker Kessler": 29.0,
-  "Quentin Grimes": 28.0,
-  "Jake LaRavia": 24.0,
+  "Luka Doncic": 33.0,
+  "Austin Reaves": 32.0,
+  "Walker Kessler": 28.0,
+  "Quentin Grimes": 27.0,
+  "Jake LaRavia": 23.0,
   "Lawson Lovering": 22.0,
-  "Collin Sexton": 21.0,
+  "Collin Sexton": 20.0,
+  "Ziaire Williams": 19.0,
   "Sandro Mamukelashvili": 19.0,
-  "Jarred Vanderbilt": 16.0,
-  "Matisse Thybulle": 14.0
+  "Jarred Vanderbilt": 16.0
  },
  "MIA": {
   "Bam Adebayo": 31.0,
@@ -108,16 +108,16 @@
   "Oscar Tshiebwe": 13.0
  },
  "BOS": {
-  "Derrick White": 33.0,
-  "Jayson Tatum": 31.0,
-  "Payton Pritchard": 31.0,
-  "Paul George": 29.0,
-  "Neemias Queta": 24.0,
-  "Sam Hauser": 24.0,
-  "Baylor Scheierman": 18.0,
-  "Mitchell Robinson": 17.0,
-  "Jordan Walsh": 17.0,
-  "Mike Conley": 16.0
+  "Derrick White": 35.0,
+  "Jayson Tatum": 33.0,
+  "Payton Pritchard": 33.0,
+  "Neemias Queta": 26.0,
+  "Sam Hauser": 25.0,
+  "Baylor Scheierman": 19.0,
+  "Mitchell Robinson": 18.0,
+  "Jordan Walsh": 18.0,
+  "Mike Conley": 17.0,
+  "Luka Garza": 16.0
  },
  "SA": {
   "De'Aaron Fox": 29.0,
@@ -179,16 +179,16 @@
   "GG Jackson": 21.0
  },
  "NO": {
-  "Trey Murphy III": 30.0,
-  "Saddiq Bey": 26.0,
-  "Julian Reese": 26.0,
-  "Bennedict Mathurin": 25.0,
-  "Zion Williamson": 25.0,
-  "Dejounte Murray": 24.0,
-  "Herbert Jones": 24.0,
-  "Jeremiah Fears": 22.0,
-  "Derik Queen": 21.0,
-  "Bryce McGowens": 18.0
+  "Trey Murphy III": 31.0,
+  "Saddiq Bey": 27.0,
+  "Julian Reese": 27.0,
+  "Bennedict Mathurin": 26.0,
+  "Zion Williamson": 26.0,
+  "Herbert Jones": 25.0,
+  "Jeremiah Fears": 23.0,
+  "Derik Queen": 22.0,
+  "Bryce McGowens": 18.0,
+  "DeAndre Jordan": 14.0
  },
  "MIN": {
   "Jaden McDaniels": 34.0,
