@@ -2,12 +2,6 @@ name: daily-nba
 on:
   push:
     paths: ["slate/*/lines.json"]       # manually pushed lines (e.g. Outlier) build that night's card
-  schedule:
-    - cron: "34 14 * * *"   # 8:34 AM CST grade (DST: 34 13) yesterday
-    - cron: "7 17 * * *"    # 11:07 AM CST opening (DST: 7 16) lines snapshot (for line movement)
-    - cron: "47 22 * * *"   # 4:47 PM CST pre-tip (DST: 47 21) lines -> build card -> line-movement check
-    - cron: "12,42 17-23 * * *"   # injury watch every 30 min, 11 AM CST to ...
-    - cron: "12,42 0-3 * * *"     # ... 9:42 PM CST (last tips)
   workflow_dispatch:
     inputs:
       date: {description: "slate date YYYY-MM-DD", required: false}

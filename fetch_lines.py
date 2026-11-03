@@ -54,7 +54,7 @@ for g in games:
                 tot.append(oc['Over']['point']); to.append((oc['Over']['price'], oc['Under']['price']))
             if m['key'] == 'h2h' and g['home_team'] in oc:
                 mlh.append(oc[g['home_team']]['price']); mla.append(oc[g['away_team']]['price'])
-    if not sp or not tot: continue
+    if not sp or not tot or not mlh or not mla: continue   # skip games already live / missing a market
     hs, t = med(sp), med(tot)
     so_m = [x for x, s in zip(so, sp) if s == hs] or so; to_m = [x for x, s in zip(to, tot) if s == t] or to
     out.append(dict(away=away, home=home, id=g['id'], commence=g['commence_time'], home_spread=hs,
