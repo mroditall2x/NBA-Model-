@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-02T23:53:46.572436+00:00",
+ "checked": "2026-11-03T04:24:12.092743+00:00",
  "games": {
   "OKC@CLE": [
    {
@@ -81,6 +81,12 @@
     "team": "ATL",
     "status": "Out",
     "note": "Veesaar was diagnosed with a torn right ACL and is expected to miss the 2026-27 season, the Hawks announced Monday."
+   },
+   {
+    "player": "Kelly Oubre Jr.",
+    "team": "IND",
+    "status": "Out",
+    "note": "Oubre (knee) has been ruled out for Monday's game against the Hawks."
    },
    {
     "player": "Larry Nance Jr.",
@@ -197,12 +203,6 @@
     "note": "Barlow (back) has been on the court \"a little bit\" and will be re-evaluated Tuesday, Austin Krell of OnPattison.com reports."
    },
    {
-    "player": "Joel Embiid",
-    "team": "PHI",
-    "status": "Day-To-Day",
-    "note": "Embiid (foot) is questionable to suit up for Monday's game against the Bulls."
-   },
-   {
     "player": "Ariel Hukporti",
     "team": "PHI",
     "status": "Out",
@@ -285,6 +285,12 @@
   ],
   "SAC@DAL": [
    {
+    "player": "Max Christie",
+    "team": "DAL",
+    "status": "Day-To-Day",
+    "note": "Christie has been ruled out for the rest of Monday's game against the Kings due to a right hip injury, Mike Curtis of The Dallas Morning News reports. He'll end the night with no points (0-5 FG, 0-5 3Pt), two rebounds and one steal in eight minutes."
+   },
+   {
     "player": "Kyrie Irving",
     "team": "DAL",
     "status": "Out",
@@ -321,12 +327,6 @@
     "note": "Cardwell (calf) has been ruled out for Monday's game against the Mavericks."
    },
    {
-    "player": "Zach LaVine",
-    "team": "SAC",
-    "status": "Day-To-Day",
-    "note": "LaVine (elbow) is questionable to play in Monday's game against Dallas."
-   },
-   {
     "player": "Maxime Raynaud",
     "team": "SAC",
     "status": "Out",
@@ -349,14 +349,14 @@
    {
     "player": "Scotty Pippen Jr.",
     "team": "MEM",
-    "status": "Day-To-Day",
-    "note": "Pippen (back) is listed as doubtful for Monday's game against the Pelicans."
+    "status": "Out",
+    "note": "Pippen (back) has been ruled out for Monday's game against the Pelicans."
    },
    {
     "player": "Quinten Post",
     "team": "MEM",
-    "status": "Day-To-Day",
-    "note": "Post (ankle) is questionable to suit up for Monday's game against New Orleans."
+    "status": "Out",
+    "note": "Post (ankle) has been downgraded to out for Monday's game against the Pelicans."
    },
    {
     "player": "Dejounte Murray",
@@ -383,12 +383,6 @@
     "team": "MIN",
     "status": "Out",
     "note": "Shannon (hip) has been ruled out for Monday's game against the Bucks, Jon Krawczynski of The Athletic reports."
-   },
-   {
-    "player": "LaMelo Ball",
-    "team": "MIN",
-    "status": "Day-To-Day",
-    "note": "Ball is questionable for Monday's game against Milwaukee due to a right wrist contusion."
    },
    {
     "player": "Anthony Edwards",
@@ -421,12 +415,6 @@
     "team": "HOU",
     "status": "Out",
     "note": "Capela (ankle) has been ruled out for Monday's game against the Celtics."
-   },
-   {
-    "player": "Reed Sheppard",
-    "team": "HOU",
-    "status": "Day-To-Day",
-    "note": "Sheppard (back) is questionable for Monday's game against the Celtics."
    },
    {
     "player": "Steven Adams",
@@ -475,12 +463,6 @@
     "note": "Jones (hamstring) is listed as out for Monday's game against the Trail Blazers."
    },
    {
-    "player": "Alpha Diallo",
-    "team": "DEN",
-    "status": "Out",
-    "note": "Diallo (wrist) is listed as questionable for Monday's game versus Portland."
-   },
-   {
     "player": "Julian Strawther",
     "team": "DEN",
     "status": "Out",
@@ -503,8 +485,8 @@
    {
     "player": "Brandon Williams",
     "team": "GS",
-    "status": "Day-To-Day",
-    "note": "Williams (quadriceps) is listed as questionable for Monday's game against the Suns."
+    "status": "Out",
+    "note": "Williams (quadriceps) has been ruled out for Monday's game against the Suns."
    },
    {
     "player": "Al Horford",
@@ -581,16 +563,10 @@
     "note": "Miller underwent surgery Wednesday to repair a torn left rotator cuff and will be re-evaluated in six months, per Law Murray of The Athletic."
    },
    {
-    "player": "Scottie Barnes",
-    "team": "TOR",
-    "status": "Day-To-Day",
-    "note": "Barnes (hip) is listed as questionable for Monday's game against the Clippers."
-   },
-   {
     "player": "Jakob Poeltl",
     "team": "TOR",
-    "status": "Day-To-Day",
-    "note": "Poeltl (shoulder) is listed as questionable for Monday's game against the Clippers."
+    "status": "Out",
+    "note": "Poeltl (shoulder) has been ruled out for Monday's game against the Clippers, Zulfi Sheikh reports."
    },
    {
     "player": "Nate Bittle",
@@ -610,7 +586,7 @@
     "player": "Adou Thiero",
     "team": "LAL",
     "status": "Out",
-    "note": "Thiero (knee) has been ruled out for Sunday's game against the Raptors."
+    "note": "Head coach JJ Redick said Monday that Thiero (knee) has participated in live action, and the hope is that he'll be available by the end of the week, Khobi Price of The California Post reports."
    }
   ]
  }
