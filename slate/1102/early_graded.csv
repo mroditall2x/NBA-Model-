@@ -1,0 +1,9 @@
+Index,game,team,player,stat,tier,line,side,p,mean,min,gap,where,line_open,line_now,move,line_move,keep,p_now,status,news,actual,result,date
+0.0,OKC@CLE,OKC,Jaylin Williams,PRA,standard,13.5,More,0.641,18.83,26.5,0.0,PrizePicks / Underdog,,,,,True,,Hold (no current line),,8.0,Loss,2026-11-02
+1.0,OKC@CLE,CLE,Evan Mobley,3PM,standard,1.5,Less,0.6368,1.01,34.7,-0.8,Kalshi / Underdog,,,,,True,,Hold (no current line),,1.0,Win,2026-11-02
+2.0,OKC@CLE,OKC,Kenrich Williams,RA,standard,6.5,Less,0.6044,5.46,21.0,1.8,Kalshi / Underdog,,,,,True,,Hold (no current line),,4.0,Win,2026-11-02
+3.0,OKC@CLE,OKC,Kenrich Williams,REB,standard,4.5,Less,0.596,3.82,21.0,1.8,PrizePicks / Underdog,,,,,True,,Hold (no current line),,3.0,Win,2026-11-02
+,MIA@LAL,MIA,Andrew Wiggins,AST,,1.5,More,0.5936,,,,Kalshi / Underdog,,1.5,,,,0.622,Hold,False,2.0,Win,2026-11-02
+5.0,OKC@CLE,CLE,Evan Mobley,REB,standard,8.5,More,0.5912000000000001,10.12,34.7,-0.8,PrizePicks / Underdog,,,,,True,,Hold (no current line),,7.0,Loss,2026-11-02
+6.0,OKC@CLE,OKC,Kenrich Williams,3PM,standard,1.5,Less,0.5906,1.29,21.0,1.8,Kalshi / Underdog,,,,,True,,Hold (no current line),,2.0,Loss,2026-11-02
+7.0,OKC@CLE,OKC,Jaylin Williams,RA,standard,7.5,More,0.587,9.19,26.5,0.0,PrizePicks / Underdog,,,,,True,,Hold (no current line),,5.0,Loss,2026-11-02
