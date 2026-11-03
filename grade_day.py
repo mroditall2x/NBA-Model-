@@ -27,7 +27,7 @@ C=pd.read_csv(f'{D}/card.csv')
 partial=done is not None and not set(C.game)<=done
 if done is not None: C=C[C.game.isin(done)]
 C['actual']=[stat(p,s) for p,s in zip(C.player,C.stat)]
-C['result']=['DNP' if pd.isna(a) else'Push' if a==l else 'Win' if ((a>l) if sd=='More' else (a<l)) else 'Loss' for a,l,sd in zip(C.actual,C.line,C.side)]
+C['result']=['DNP' if pd.isna(a) else 'Push' if a==l else 'Win' if ((a>l) if sd=='More' else (a<l)) else 'Loss' for a,l,sd in zip(C.actual,C.line,C.side)]
 C['group']=C.stat.map(lambda s:'points' if s in('PTS','PA','PR','PRA') else 'reb/ast' if s in('REB','AST','RA') else 'other')
 C.to_csv(f'{D}/card_graded.csv',index=False)
 print(C.groupby(['tier','group']).result.value_counts().unstack(fill_value=0))
@@ -45,7 +45,7 @@ if os.path.exists(f'{D}/early_status.csv') or os.path.exists(f'{D}/card_early.cs
     X=pd.read_csv(f'{D}/early_status.csv') if os.path.exists(f'{D}/early_status.csv') else pd.read_csv(f'{D}/card_early.csv').assign(status='Hold')
     if done is not None: X=X[X.game.isin(done)]
     X['actual']=[stat(p_,s_) for p_,s_ in zip(X.player,X.stat)]
-    X['result']=['DNP' if pd.isna(a) else'Push' if a==l else 'Win' if ((a>l) if sd=='More' else (a<l)) else 'Loss' for a,l,sd in zip(X.actual,X.line,X.side)]
+    X['result']=['DNP' if pd.isna(a) else 'Push' if a==l else 'Win' if ((a>l) if sd=='More' else (a<l)) else 'Loss' for a,l,sd in zip(X.actual,X.line,X.side)]
     X['date']=DATE; X.to_csv(f'{D}/early_graded.csv',index=False)
     if '--no-log' not in sys.argv and not partial:
         EL=pd.read_csv('early_log.csv') if os.path.exists('early_log.csv') else pd.DataFrame()
