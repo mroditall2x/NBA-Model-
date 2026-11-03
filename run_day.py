@@ -8,6 +8,7 @@ DATE=sys.argv[1]; MMDD=DATE[5:7]+DATE[8:10]; D=f'slate/{MMDD}'
 def sh(c): print('$',c); subprocess.run(c,shell=True,check=True)
 if os.path.isdir('repo/.git') and not os.environ.get('CI'): sh('cd repo && git pull -q')
 os.makedirs(D, exist_ok=True)
+if not os.path.exists(f'{D}/lines.json'): print('no lines for this date (no games?) - nothing to build'); sys.exit(0)
 # injuries (ESPN public feed) -> outs + questionable
 try:
     j=json.load(urllib.request.urlopen('https://site.api.espn.com/apis/site/v2/sports/basketball/nba/injuries',timeout=30))

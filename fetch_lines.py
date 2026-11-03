@@ -38,6 +38,17 @@ def imp(o): return -o / (-o + 100) if o < 0 else 100 / (o + 100)
 def med(x): return statistics.median(x) if x else None
 
 ct = ZoneInfo('America/Chicago')
+# no NBA games that day -> don't spend credits (free check against the schedule file / ESPN scoreboard)
+try:
+    import pandas as _pd
+    _s = _pd.read_parquet(f"{os.environ.get('NBA_DATA', 'repo/nba')}/schedules/parquet/nba_schedule_2027.parquet", columns=['date'])
+    _n = (_pd.to_datetime(_s['date'], utc=True).dt.tz_convert('America/Chicago').dt.date.astype(str) == DATE).sum()
+except Exception:
+    try:
+        _j = json.load(urllib.request.urlopen(urllib.request.Request(f"https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates={DATE.replace('-', '')}", headers={'User-Agent': 'Mozilla/5.0'}), timeout=30))
+        _n = len(_j.get('events', []))
+    except Exception: _n = 1   # can't tell -> pull as usual
+if _n == 0: print(f'no NBA games on {DATE} - skipping the odds pull (0 credits)'); sys.exit(0)
 games = get(f'{BASE}/odds?apiKey={KEY}&regions=us&markets=h2h,spreads,totals&oddsFormat=american')
 games = [g for g in games if dt.datetime.fromisoformat(g['commence_time'].replace('Z', '+00:00')).astimezone(ct).date().isoformat() == DATE]
 raw = {'pulled_at': dt.datetime.now(ct).isoformat(), 'games': games, 'props': {}}
