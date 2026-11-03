@@ -1,15 +1,15 @@
 {
  "GS": {
-  "Stephen Curry": 35.0,
-  "Brandin Podziemski": 32.0,
-  "Draymond Green": 31.0,
-  "De'Anthony Melton": 26.0,
-  "Brandon Williams": 23.0,
-  "Will Richard": 22.0,
-  "Georges Niang": 22.0,
-  "LJ Cryer": 18.0,
-  "Gary Payton II": 17.0,
-  "Charles Bassey": 15.0
+  "Stephen Curry": 36.0,
+  "Brandin Podziemski": 33.0,
+  "Draymond Green": 32.0,
+  "De'Anthony Melton": 27.0,
+  "Will Richard": 23.0,
+  "Georges Niang": 23.0,
+  "LJ Cryer": 19.0,
+  "Gary Payton II": 18.0,
+  "Charles Bassey": 16.0,
+  "Malevy Leons": 13.0
  },
  "PHX": {
   "Devin Booker": 32.0,
@@ -36,16 +36,16 @@
   "Blake Wesley": 13.0
  },
  "TOR": {
-  "Scottie Barnes": 34.0,
-  "Immanuel Quickley": 33.0,
-  "RJ Barrett": 31.0,
-  "Jakob Poeltl": 25.0,
-  "Jamal Shead": 23.0,
-  "Malachi Smith": 22.0,
-  "Collin Murray-Boyles": 22.0,
-  "Ja'Kobe Walter": 21.0,
-  "Kyle Anderson": 19.0,
-  "Trayce Jackson-Davis": 10.0
+  "Scottie Barnes": 37.0,
+  "Immanuel Quickley": 35.0,
+  "RJ Barrett": 33.0,
+  "Jamal Shead": 25.0,
+  "Malachi Smith": 24.0,
+  "Collin Murray-Boyles": 24.0,
+  "Ja'Kobe Walter": 22.0,
+  "Kyle Anderson": 20.0,
+  "Trayce Jackson-Davis": 11.0,
+  "Jamison Battle": 9.0
  },
  "LAL": {
   "Luka Doncic": 33.0,
@@ -175,8 +175,8 @@
   "Cam Spencer": 23.0,
   "Ty Jerome": 22.0,
   "Jahmai Mashack": 22.0,
-  "Scotty Pippen Jr.": 22.0,
-  "GG Jackson": 21.0
+  "GG Jackson": 21.0,
+  "Kris Murray": 21.0
  },
  "NO": {
   "Trey Murphy III": 31.0,
@@ -239,7 +239,6 @@
   "Javonte Green": 18.0
  },
  "IND": {
-  "Kelly Oubre Jr.": 37.0,
   "Jarace Walker": 37.0,
   "Jalen Slawson": 37.0,
   "Jay Huff": 37.0,

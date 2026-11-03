@@ -1,15 +1,15 @@
 {
  "GS": {
-  "Yaxel Lendeborg": 35.6,
-  "Brandin Podziemski": 30.0,
-  "Stephen Curry": 28.8,
-  "Draymond Green": 27.2,
-  "De'Anthony Melton": 26.2,
-  "Georges Niang": 22.7,
-  "Brandon Williams": 21.7,
-  "Will Richard": 20.6,
-  "Gary Payton II": 16.1,
-  "Charles Bassey": 11.0
+  "Yaxel Lendeborg": 36.7,
+  "Brandin Podziemski": 31.4,
+  "Stephen Curry": 30.1,
+  "Draymond Green": 28.5,
+  "De'Anthony Melton": 27.5,
+  "Georges Niang": 23.8,
+  "Will Richard": 21.7,
+  "Gary Payton II": 17.1,
+  "Charles Bassey": 11.8,
+  "LJ Cryer": 11.4
  },
  "PHX": {
   "Devin Booker": 34.4,
@@ -36,16 +36,16 @@
   "Baba Miller": 7.9
  },
  "TOR": {
-  "Scottie Barnes": 35.7,
-  "Immanuel Quickley": 33.9,
-  "RJ Barrett": 33.7,
-  "Ja'Kobe Walter": 27.4,
-  "Jamal Shead": 24.0,
-  "Collin Murray-Boyles": 21.8,
-  "Jakob Poeltl": 21.6,
-  "Jamison Battle": 16.5,
-  "Allen Graves": 14.7,
-  "Kyle Anderson": 10.8
+  "Scottie Barnes": 38.0,
+  "Immanuel Quickley": 36.0,
+  "RJ Barrett": 35.8,
+  "Ja'Kobe Walter": 28.8,
+  "Jamal Shead": 25.8,
+  "Collin Murray-Boyles": 23.5,
+  "Allen Graves": 15.2,
+  "Jamison Battle": 14.2,
+  "Kyle Anderson": 11.7,
+  "Malachi Smith": 10.7
  },
  "LAL": {
   "Austin Reaves": 35.1,
@@ -168,16 +168,16 @@
   "Leaky Black": 12.9
  },
  "MEM": {
-  "Cameron Boozer": 30.7,
-  "Jaylen Wells": 29.0,
-  "Jerami Grant": 28.5,
-  "Cedric Coward": 26.2,
-  "Ty Jerome": 25.9,
-  "Cam Spencer": 22.5,
-  "Zach Edey": 22.3,
-  "GG Jackson": 20.2,
-  "Scotty Pippen Jr.": 18.4,
-  "Isaiah Stewart": 16.3
+  "Cameron Boozer": 31.3,
+  "Jaylen Wells": 29.7,
+  "Jerami Grant": 29.1,
+  "Cedric Coward": 26.8,
+  "Ty Jerome": 26.5,
+  "Cam Spencer": 23.0,
+  "Zach Edey": 22.8,
+  "GG Jackson": 20.7,
+  "Isaiah Stewart": 16.7,
+  "Kris Murray": 13.5
  },
  "NO": {
   "Trey Murphy III": 35.7,
@@ -240,7 +240,6 @@
   "Taurean Prince": 10.5
  },
  "IND": {
-  "Kelly Oubre Jr.": 38.0,
   "Jarace Walker": 38.0,
   "Quenton Jackson": 38.0,
   "Jay Huff": 38.0,
