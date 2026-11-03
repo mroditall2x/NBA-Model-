@@ -28,6 +28,8 @@ S = pd.DataFrame(rows); S.to_csv(f'{D}/early_status.csv', index=False)
 print(S[['player', 'stat', 'side', 'line', 'line_now', 'p', 'p_now', 'move', 'status']].to_string(index=False))
 was = set() if prev is None else set(prev[prev.status == 'Drop'].player + prev[prev.status == 'Drop'].stat)
 new_drops = S[(S.status == 'Drop') & ~(S.player + S.stat).isin(was)]
+if len(new_drops):
+    open('alerts_out.txt', 'a').write('## Early pick pulled\n' + '\n'.join(f"- {x.player} {'Over' if x.side=='More' else 'Under'} {x.line} {x.stat}: now {x.p_now:.0%} at {x.line_now}" + (' (injury news)' if x.news else '') for x in new_drops.itertuples()) + '\nIf you already bet it: hold or hedge.\n\n')
 topic = os.environ.get('NTFY_TOPIC')
 if len(new_drops) and topic:
     msg = 'Early pick pulled:\n' + '\n'.join(f"{x.player} {'O' if x.side=='More' else 'U'}{x.line} {x.stat} -> now {x.p_now:.0%} at {x.line_now}"

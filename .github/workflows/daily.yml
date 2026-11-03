@@ -16,7 +16,7 @@ on:
       grade_only: {description: "only grade the given date (default yesterday) into graded_log; no lines, no card", type: boolean, default: false}
       job: {description: "timed job sent by the outside scheduler: grade | open | pretip | pretip_lines (game lines only, ~3 credits) | watch", required: false, default: ""}
       test: {description: "test mode: build + grade a past date without touching graded_log", type: boolean, default: false}
-permissions: {contents: write}
+permissions: {contents: write, issues: write}
 env:
   NBA_DATA: ${{ github.workspace }}/repo/nba
   ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
@@ -76,6 +76,10 @@ jobs:
       - name: test grade
         if: github.event.inputs.test == 'true'
         run: python3 grade_day.py ${{ steps.job.outputs.date }} --no-log
+      - name: email alerts (GitHub issue -> email to the repo owner)
+        if: always() && hashFiles('alerts_out.txt') != ''
+        env: {GH_TOKEN: "${{ github.token }}"}
+        run: gh issue create --title "NBA alert $(date '+%b %d %-I:%M %p')" --body-file alerts_out.txt && rm alerts_out.txt
       - name: commit results
         if: always() && github.event.inputs.test != 'true'
         run: |

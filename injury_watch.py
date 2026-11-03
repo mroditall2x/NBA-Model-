@@ -88,6 +88,7 @@ for gk, tm, p, a, b in sorted(changes):
 msg = 'Injury update (card rebuilding):\n' + '\n'.join(lines)
 print(msg); print('REBUILD')
 open(f'{D}/injury_alerts.log', 'a').write(f"{now:%H:%M}Z " + ' / '.join(lines) + '\n')
+open('alerts_out.txt', 'a').write('## NBA injury alert\n' + msg + '\n\n')   # emailed by GitHub (issue)
 topic = os.environ.get('NTFY_TOPIC')
 if topic:
     try:

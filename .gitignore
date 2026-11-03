@@ -3,3 +3,4 @@ repo/
 sim_*.parquet
 __pycache__/
 *.log
+alerts_out.txt
