@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-04T19:22:31.035685+00:00",
+ "checked": "2026-11-04T20:22:38.104711+00:00",
  "games": {
   "PHI@DET": [
    {
@@ -502,6 +502,12 @@
    }
   ],
   "MIA@LAC": [
+   {
+    "player": "Isaiah Jackson",
+    "team": "LAC",
+    "status": "Day-To-Day",
+    "note": "Jackson is questionable for Wednesday's game against the Heat with left groin soreness, per Law Murray of The Athletic."
+   },
    {
     "player": "Yanic Konan Niederhauser",
     "team": "LAC",
