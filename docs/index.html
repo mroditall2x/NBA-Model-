@@ -52,6 +52,7 @@ main{max-width:860px;margin:0 auto;padding:16px}
     <button data-t="games">Full game</button>
     <button data-t="boom">30+ watch</button>
     <button data-t="fb">First basket</button>
+    <button data-t="mx">Matchups</button>
     <button data-t="results">Results</button>
   </nav>
 </header>
@@ -159,6 +160,18 @@ async function render(){
         <div class="what">fair ${esc(r.fair_odds)} · book +${r.book} · EV ${r.ev>0?'+':''}${Math.round(r.ev*100)}%</div></div>`).join('')+'</div>';
     }
     V.innerHTML=h;
+  }
+  if(tab==='mx'){
+    const SN={pts:'Points',reb:'Rebounds',ast:'Assists',fg3m:'Threes',stl:'Steals',blk:'Blocks'}, PN={G:'Guards',F:'Forwards',C:'Centers'};
+    window.__mx=window.__mx||{s:'reb',p:'G'};
+    const d=(await csv(D+'dvp_'+__mx.s+'.csv'))||[];
+    if(!d.length) return V.innerHTML='<div class="empty">No matchup data for this day.</div>';
+    const rows=d.filter(r=>r.pos===__mx.p).sort((a,b)=>b.dvp-a.dvp);
+    const chips=(o,cur,k)=>Object.entries(o).map(([v,l])=>`<button onclick="__mx.${k}='${v}';render()" style="margin:0 6px 6px 0;padding:6px 10px;border-radius:99px;border:1px solid var(--line);background:${v===cur?'var(--red)':'var(--panel2)'};color:var(--text);font:600 12px Inter">${l}</button>`).join('');
+    V.innerHTML=`<div class="legend">What each defense allows to a position vs league average (this season blended with last). Soft = gives up more. Context for props, not a bet by itself.</div>
+      <div>${chips(SN,__mx.s,'s')}</div><div>${chips(PN,__mx.p,'p')}</div>
+      <div class="game"><div class="ghead">${SN[__mx.s]} allowed to ${PN[__mx.p]}<small>softest → toughest</small></div>${rows.map((r,i)=>{const v=(r.dvp-1)*100;
+      return `<div class="row"><b>${i+1}. ${esc(r.opponent_team_abbreviation)}</b><div class="r ${v>=5?'win':v<=-5?'loss':'push'}">${v>=0?'+':''}${v.toFixed(0)}%${i<10?' · soft':i>=rows.length-10?' · tough':''}</div></div>`}).join('')}</div>`;
   }
   if(tab==='results'){
     const g=(await csv('graded_log.csv'))||[];

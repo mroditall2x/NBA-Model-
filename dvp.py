@@ -7,11 +7,13 @@ def pos(p): return 'G' if p in ('PG','SG','G') else ('C' if p=='C' else 'F')
 fr=[]
 for yr in (2026,2027):
     b=pd.read_parquet(f'repo/nba/player_box/parquet/player_box_{yr}.parquet')
-    b=b[pd.to_numeric(b.minutes,errors='coerce')>=10].copy(); b['min']=pd.to_numeric(b.minutes); b['yr']=yr; b['pos']=b.athlete_position_abbreviation.map(pos)
+    b=b[(pd.to_numeric(b.minutes,errors='coerce')>=10)&(b.season_type==2)].copy(); b['min']=pd.to_numeric(b.minutes); b['yr']=yr; b['pos']=b.athlete_position_abbreviation.map(pos)
     c3=[c for c in b.columns if 'three_point_field_goals_made' in c][0]; b=b.rename(columns={c3:'tpm'})
     for c in ('points','rebounds','assists','tpm','steals','blocks','offensive_rebounds'): b[c]=pd.to_numeric(b[c],errors='coerce')
     fr.append(b[['yr','game_id','opponent_team_abbreviation','pos','min','points','rebounds','assists','tpm','steals','blocks','offensive_rebounds']])
 b=pd.concat(fr)
+NBA={'ATL','BOS','BKN','CHA','CHI','CLE','DAL','DEN','DET','GS','HOU','IND','LAC','LAL','MEM','MIA','MIL','MIN','NO','NY','OKC','ORL','PHI','PHX','POR','SAC','SA','TOR','UTAH','WSH'}
+b=b[b.opponent_team_abbreviation.isin(NBA)]          # drop All-Star / exhibition teams
 for st,fn in (('points','pts'),('rebounds','reb'),('assists','ast'),('tpm','fg3m'),('steals','stl'),('blocks','blk'),('offensive_rebounds','oreb')):
     def idx(x):
         g=x.groupby(['opponent_team_abbreviation','pos']).agg(s=(st,'sum'),m=('min','sum'),gm=('game_id','nunique'))
