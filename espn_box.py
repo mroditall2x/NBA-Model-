@@ -6,11 +6,13 @@ B = 'https://site.api.espn.com/apis/site/v2/sports/basketball/nba'
 get = lambda u: json.load(urllib.request.urlopen(urllib.request.Request(u, headers={'User-Agent': 'Mozilla/5.0'}), timeout=30))
 sb = get(f'{B}/scoreboard?dates={DATE.replace("-", "")}')
 rows, firsts = [], []
+statuses = []
 for ev in sb.get('events', []):
     st = ev['status']['type']; comp = ev['competitions'][0]
     t = {c['homeAway']: c['team']['abbreviation'] for c in comp['competitors']}
     game = f"{t['away']}@{t['home']}"
     print(game, st['description'])
+    statuses.append(dict(game=game, status=st['description']))
     if not st.get('completed'): continue
     S = get(f"{B}/summary?event={ev['id']}"); ids = {}
     for team in S.get('boxscore', {}).get('players', []):
@@ -31,5 +33,6 @@ for ev in sb.get('events', []):
                              **{'3PM': mk(g('threePointFieldGoalsMade-threePointFieldGoalsAttempted', '3PT'))},
                              STL=mk(g('steals', 'STL')), BLK=mk(g('blocks', 'BLK')), OREB=mk(g('offensiveRebounds', 'OREB'))))
 pd.DataFrame(rows).to_csv(f'{D}/espn_box.csv', index=False)
+pd.DataFrame(statuses).to_csv(f'{D}/game_status.csv', index=False)
 if firsts: pd.DataFrame(firsts).to_csv(f'{D}/fb_actual.csv', index=False)
 print(len(rows), 'player lines ->', f'{D}/espn_box.csv')
