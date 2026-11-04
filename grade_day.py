@@ -24,7 +24,10 @@ if os.path.exists(f'{D}/by_team.csv'):                      # grade the by-team 
     T['result']=['DNP' if pd.isna(a) else 'Push' if a==l else 'Win' if ((a>l) if sd=='More' else (a<l)) else 'Loss' for a,l,sd in zip(T.actual,T.line,T.side)]
     T.to_csv(f'{D}/by_team_graded.csv',index=False); print(T[['game','team','player','stat','side','line','actual','result','grade']].to_string(index=False))
 C=pd.read_csv(f'{D}/card.csv')
-partial=done is not None and not set(C.game)<=done
+off=set()
+if os.path.exists(f'{D}/game_status.csv'):
+    S=pd.read_csv(f'{D}/game_status.csv'); off=set(S[S.status.str.contains('postpon|cancel',case=False)].game)
+partial=done is not None and not (set(C.game)-off)<=done
 if done is not None: C=C[C.game.isin(done)]
 C['actual']=[stat(p,s) for p,s in zip(C.player,C.stat)]
 C['result']=['DNP' if pd.isna(a) else 'Push' if a==l else 'Win' if ((a>l) if sd=='More' else (a<l)) else 'Loss' for a,l,sd in zip(C.actual,C.line,C.side)]
