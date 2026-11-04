@@ -8,11 +8,25 @@ import glob,os; sims={os.path.basename(f)[4:-8]:pd.read_parquet(f) for f in glob
 p,t=S.load((2025,2026)); last=p.sort_values('game_date').groupby('pid').tail(1)
 lt={norm(n):tm for n,tm in zip(last.name,last.team)}; ng=p.groupby('name').size(); ngk={norm(k):v for k,v in ng.items()}
 imp=lambda o:(-o)/(-o+100) if o<0 else 100/(o+100)
+# matchup (defense vs position) at the strength the 2-season backtest supported (research/dvp: pts .5 reb .25 ast .5 3pm .25 stl .5 blk .5)
+W={'pts':.5,'reb':.25,'ast':.5,'fg3m':.25,'stl':.5,'blk':.5}
+DV={}
+for fn in W:
+    f=f'{D}/dvp_{fn}.csv'
+    if os.path.exists(f): DV[fn]=pd.read_csv(f).set_index(['opponent_team_abbreviation','pos']).dvp.to_dict()
+R=pd.read_parquet(f"{S.ROOT}/rosters/parquet/rosters_2027.parquet"); _pc=[c for c in R.columns if 'position' in c and 'abbrev' in c][0]
+_pos=lambda q:'G' if q in ('PG','SG','G') else ('C' if q=='C' else 'F'); POS={norm(n):_pos(q) for n,q in zip(R.display_name,R[_pc])}
+def stat_vals(x,stn,opp,k):
+    f=lambda c:x[c].values*(1+W[c]*(DV.get(c,{}).get((opp,POS.get(k,'F')),1.0)-1)) if c in W and c in x else x[c].values
+    combo={'pa':('pts','ast'),'pr':('pts','reb'),'ra':('reb','ast'),'pra':('pts','reb','ast'),'stocks':('stl','blk')}
+    if stn in combo and all(c in x for c in combo[stn]): return sum(f(c) for c in combo[stn])
+    return f(stn)
 out=[]
 for g,pl,st,l,o,u,pp,gob,dem in rows:
     k=norm(pl); x=sims.get(g); x=x[x.key==k] if x is not None else pd.DataFrame()
     if not len(x): continue
-    v=x[STAT[st]].values; team=x.team.iloc[0] if 'team' in x else ''
+    team=x.team.iloc[0] if 'team' in x else ''; _a,_h=g.split('@'); opp=_h if team==_a else _a
+    v=stat_vals(x,STAT[st],opp,k)
     def pov(L): po,pu=(v>L).mean(),(v<L).mean(); return po/(po+pu) if po+pu else .5
     flags=[]
     gp=gap.get(k,0)
@@ -23,7 +37,7 @@ for g,pl,st,l,o,u,pp,gob,dem in rows:
     if l:
         L=float(l); q=pov(L); side='More' if q>.5 else 'Less'; P=max(q,1-q)
         mk=imp(int(o))/(imp(int(o))+imp(int(u))); mk=mk if side=='More' else 1-mk
-        out.append({**base,'type':'PP standard' if pp else 'book line','line':L,'side':side,'model':round(P,3),'market':round(mk,3),'edge':round(P-mk,3)})
+        out.append({**base,'type':'PP standard' if pp else 'book line','line':L,'side':side,'model':round(P,3),'market':round(mk,3),'edge':round(P-mk,3),'p_over':round(q,3),'o':int(o),'u':int(u)})
     for L in [float(z) for z in gob.split(',') if z]:
         out.append({**base,'type':'goblin','line':L,'side':'More','model':round(pov(L),3),'market':None,'edge':round(pov(L)-.70,3)})
     for L in [float(z) for z in dem.split(',') if z]:

@@ -1,4 +1,4 @@
-"""Defense-vs-position factors (G/F/C) for points, rebounds, assists.
+"""Defense-vs-position factors (G/F/C) for points, rebounds, assists, threes, steals, blocks, offensive rebounds.
 Blend last season + this season (weight gm/(gm+10)); applied to sims at 50% strength.
 Usage: python3 dvp.py slate/MMDD   -> writes dvp_pts.csv, dvp_reb.csv, dvp_ast.csv in that folder"""
 import sys, pandas as pd
@@ -8,9 +8,11 @@ fr=[]
 for yr in (2026,2027):
     b=pd.read_parquet(f'repo/nba/player_box/parquet/player_box_{yr}.parquet')
     b=b[pd.to_numeric(b.minutes,errors='coerce')>=10].copy(); b['min']=pd.to_numeric(b.minutes); b['yr']=yr; b['pos']=b.athlete_position_abbreviation.map(pos)
-    fr.append(b[['yr','game_id','opponent_team_abbreviation','pos','min','points','rebounds','assists']])
+    c3=[c for c in b.columns if 'three_point_field_goals_made' in c][0]; b=b.rename(columns={c3:'tpm'})
+    for c in ('points','rebounds','assists','tpm','steals','blocks','offensive_rebounds'): b[c]=pd.to_numeric(b[c],errors='coerce')
+    fr.append(b[['yr','game_id','opponent_team_abbreviation','pos','min','points','rebounds','assists','tpm','steals','blocks','offensive_rebounds']])
 b=pd.concat(fr)
-for st,fn in (('points','pts'),('rebounds','reb'),('assists','ast')):
+for st,fn in (('points','pts'),('rebounds','reb'),('assists','ast'),('tpm','fg3m'),('steals','stl'),('blocks','blk'),('offensive_rebounds','oreb')):
     def idx(x):
         g=x.groupby(['opponent_team_abbreviation','pos']).agg(s=(st,'sum'),m=('min','sum'),gm=('game_id','nunique'))
         lg=x.groupby('pos').apply(lambda y:y[st].sum()/y['min'].sum()); g['idx']=(g.s/g.m)/g.index.get_level_values(1).map(lg); return g

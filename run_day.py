@@ -23,8 +23,7 @@ sh(f'python3 auto_minutes.py {DATE} slate/{DATE}_rot_last.json > /dev/null')
 sh(f'python3 rot_blend.py {DATE} 0.6')
 os.environ['NO_OUTGUESS']='1'; os.environ['SAVE_SIM']='1'
 sh(f'python3 slate1021.py {DATE} {D} > {D}/p1.log'); sh(f'python3 blend_minutes.py {D}')
-sh(f'python3 slate1021.py {DATE} {D} --blend > {D}/p2.log'); sh(f'python3 card_slate.py {D} > /dev/null')
-sh(f'python3 dvp.py {D}')
+sh(f'python3 slate1021.py {DATE} {D} --blend > {D}/p2.log'); sh(f'python3 dvp.py {D}'); sh(f'python3 card_slate.py {D} > /dev/null')
 subprocess.run(f'python3 boom.py {D}', shell=True)
 if os.path.exists(f'{D}/fb_odds.json'):
     _fbold=pd.read_csv(f'{D}/fb_priced.csv') if os.path.exists(f'{D}/fb_priced.csv') else None
@@ -64,9 +63,15 @@ card['score']=[e if e==e and e is not None else (p-0.545 if t=='standard' else p
 card=card.sort_values('score',ascending=False).head(10)
 card['top']=False; card.loc[card.index[:5],'top']=[(sc>=0.03) for sc in card.score.head(5)]
 # EV+ props (any side the model likes at a price that pays more than its real chance), incl. plus-money sides like 1+ threes
-EVP=B[ok&B.type.isin(['PP standard','book line'])].copy()
-EVP['price']=[_price(r) for r in EVP.itertuples()]; EVP['ev']=[_ev(a_,pr) for a_,pr in zip(EVP.adj,EVP.price)]
-EVP=EVP[(EVP.ev>=0.05)&(EVP.adj>=0.52)].sort_values('ev',ascending=False).head(8)
+_r=[]
+for r in B[ok&B.type.isin(['PP standard','book line'])&B.p_over.notna()].itertuples():
+    if r.o==-119 and r.u==-119: continue                          # DFS-only line, no real price
+    for sd,q,pr in (('More',r.p_over,r.o),('Less',1-r.p_over,r.u)):
+        if abs(pr)<100: continue
+        c=0.5+0.6*(q-0.5) if q>=0.5 else q*0.95                   # favourites: usual shrink; long shots: haircut, never inflated
+        e=_ev(c,pr)
+        if e is not None and e>=(0.08 if pr>0 else 0.05) and c>=0.25: _r.append(dict(game=r.game,team=r.team,player=r.player,stat=r.stat,line=r.line,side=sd,adj=round(c,3),price=pr,ev=e,mean=r.mean,where='Kalshi / Novig / books' if pr>0 else r.where))
+EVP=pd.DataFrame(_r,columns=['game','team','player','stat','line','side','adj','price','ev','mean','where']).sort_values('ev',ascending=False).drop_duplicates(['player','stat']).head(8)
 EVP[['game','team','player','stat','line','side','adj','price','ev','mean','where']].rename(columns={'adj':'p'}).to_csv(f'{D}/ev_props.csv',index=False)
 import datetime as _dt
 _started=set()
