@@ -59,9 +59,9 @@ def _ev(p,a): return None if a is None or pd.isna(a) else round(p*((a/100+1) if 
 card['price']=[_price(r) for r in card.itertuples()]
 card['ev']=[_ev(p,a) if t=='standard' else None for p,a,t in zip(card.p,card.price,card.tier)]
 # rank: EV when a price exists, otherwise edge over a ~54.5% break-even (DFS); keep the 10 best
-card['score']=[e if e==e and e is not None else (p-0.545 if t=='standard' else p-0.80) for e,p,t in zip(card.ev,card.p,card.tier)]
+card['score']=card.p   # rank by calibrated chance (replay 10/23-10/30: ranking by EV at the book price went 33-34, by chance 84-68)
 card=card.sort_values('score',ascending=False).head(10)
-card['top']=False; card.loc[card.index[:5],'top']=[(sc>=0.03) for sc in card.score.head(5)]
+card['top']=False; card.loc[card.index[:5],'top']=True
 # EV+ props (any side the model likes at a price that pays more than its real chance), incl. plus-money sides like 1+ threes
 _r=[]
 for r in B[ok&B.type.isin(['PP standard','book line'])&B.p_over.notna()].itertuples():
@@ -72,7 +72,7 @@ for r in B[ok&B.type.isin(['PP standard','book line'])&B.p_over.notna()].itertup
         e=_ev(c,pr)
         if e is not None and e>=(0.08 if pr>0 else 0.05) and c>=0.25: _r.append(dict(game=r.game,team=r.team,player=r.player,stat=r.stat,line=r.line,side=sd,adj=round(c,3),price=pr,ev=e,mean=r.mean,where='Kalshi / Novig / books' if pr>0 else r.where))
 EVP=pd.DataFrame(_r,columns=['game','team','player','stat','line','side','adj','price','ev','mean','where']).sort_values('ev',ascending=False).drop_duplicates(['player','stat']).head(8)
-EVP[['game','team','player','stat','line','side','adj','price','ev','mean','where']].rename(columns={'adj':'p'}).to_csv(f'{D}/ev_props.csv',index=False)
+EVP[['game','team','player','stat','line','side','adj','price','ev','mean','where']].rename(columns={'adj':'p'}).to_csv(f'{D}/ev_props.csv',index=False)   # TRACKING ONLY: replay lost -10% ROI; graded quietly, not bet
 import datetime as _dt
 _started=set()
 try:

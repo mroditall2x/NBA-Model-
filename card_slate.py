@@ -10,6 +10,9 @@ lt={norm(n):tm for n,tm in zip(last.name,last.team)}; ng=p.groupby('name').size(
 imp=lambda o:(-o)/(-o+100) if o<0 else 100/(o+100)
 # matchup (defense vs position) at the strength the 2-season backtest supported (research/dvp: pts .5 reb .25 ast .5 3pm .25 stl .5 blk .5)
 W={'pts':.5,'reb':.25,'ast':.5,'fg3m':.25,'stl':.5,'blk':.5}
+# 11/03 replay of 10/23-10/30 (same sims, matchup factors from prior games only): with the factor ON the card went 98-96 (50.5%)
+# vs 84-68 (55.3%) OFF, and the right-side rate dropped on PTS/REB/AST. Kept OFF (strength 0) until a bigger sample says otherwise.
+W={k:0.0 for k in W}
 DV={}
 for fn in W:
     f=f'{D}/dvp_{fn}.csv'

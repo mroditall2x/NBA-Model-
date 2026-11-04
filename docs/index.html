@@ -120,7 +120,7 @@ async function render(){
         return pickRow(r,tg+out)}).join('')+'</div>';
     }
     const evp=(await csv(D+'ev_props.csv'))||[];
-    const evh=evp.length?`<div class="game"><div class="ghead">EV+ props<small>price pays more than the real chance</small></div>`+evp.map(r=>pickRow(r,'<span class="tag card">EV+</span>')).join('')+'</div>':'';
+    const evh=evp.length?`<div class="game"><div class="ghead">EV+ props (tracking only)<small>not a bet yet: these lost money in last week's replay</small></div>`+evp.map(r=>pickRow(r,'<span class="tag card">EV+</span>')).join('')+'</div>':'';
     V.innerHTML=early+'<div class="legend" style="margin-top:6px">Final card (latest build) · top 10 · ⭐ = my top picks</div>'+h+evh;
   }
   if(tab==='games'){
