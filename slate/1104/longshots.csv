@@ -1,13 +1,13 @@
 game,team,player,combo,chance,fair_odds,min,min_bump,why,avg,size,special
 IND@MEM,IND,Andrew Nembhard,15+ pts & 10+ ast,0.159,+527,30.9,0.0,Tyrese Haliburton out,3.2 reb / 8.1 ast / 15.1 pts,25,True
 MIN@HOU,MIN,Ayo Dosunmu,20+ pts & 5+ ast,0.136,+636,35.2,4.5,Anthony Edwards out; +4 min,4.0 reb / 4.4 ast / 15.9 pts,25,True
-CLE@OKC,OKC,Jaylin Williams,10+ pts & 8+ reb,0.135,+641,24.3,0.0,Jalen Williams out,6.2 reb / 2.5 ast / 8.9 pts,18,True
 MIL@BOS,BOS,Neemias Queta,15+ pts & 9+ reb,0.123,+713,26.1,0.0,Jayson Tatum out,7.7 reb / 2.0 ast / 11.9 pts,24,True
+ATL@WSH,ATL,Luguentz Dort,10+ pts & 6+ reb,0.122,+720,28.9,0.0,Jalen Johnson out,4.5 reb / 1.5 ast / 9.2 pts,16,True
 POR@PHX,POR,Donovan Clingan,15+ pts & 2+ ast,0.122,+720,26.6,0.0,Ja Morant out,10.5 reb / 1.6 ast / 11.4 pts,17,True
 IND@MEM,IND,Aaron Nesmith,15+ pts & 2+ ast,0.119,+738,25.1,0.0,Tyrese Haliburton out,3.7 reb / 1.5 ast / 11.2 pts,17,True
 MIN@HOU,MIN,Jonathan Kuminga,20+ pts & 3+ ast,0.116,+761,28.5,-3.4,Anthony Edwards out,5.4 reb / 2.5 ast / 15.5 pts,23,True
-TOR@DEN,TOR,RJ Barrett,30+ pts & 4+ ast,0.108,+824,34.1,0.0,Kawhi Leonard out,5.7 reb / 3.5 ast / 23.5 pts,34,True
+CLE@OKC,OKC,Ajay Mitchell,20+ pts & 5+ ast,0.114,+780,34.4,0.0,Jalen Williams out,4.1 reb / 4.2 ast / 15.8 pts,25,True
 TOR@DEN,TOR,Ja'Kobe Walter,15+ pts & 2+ ast,0.108,+829,27.9,0.0,Kawhi Leonard out,3.4 reb / 1.6 ast / 10.6 pts,17,True
+TOR@DEN,TOR,RJ Barrett,30+ pts & 4+ ast,0.108,+824,34.1,0.0,Kawhi Leonard out,5.7 reb / 3.5 ast / 23.5 pts,34,True
 MIL@BOS,BOS,Payton Pritchard,25+ pts & 7+ ast,0.107,+834,33.6,0.0,Jayson Tatum out,3.7 reb / 5.9 ast / 20.2 pts,32,True
-CLE@OKC,OKC,Jared McCain,20+ pts & 2+ ast,0.107,+839,27.3,0.0,Jalen Williams out,2.7 reb / 1.8 ast / 13.8 pts,22,True
-TOR@DEN,TOR,Ja'Kobe Walter,15+ pts & 4+ reb,0.105,+856,27.9,0.0,Kawhi Leonard out,3.4 reb / 1.6 ast / 10.6 pts,19,True
+CLE@OKC,OKC,Jared McCain,20+ pts & 4+ reb,0.106,+840,30.0,0.0,Jalen Williams out,3.2 reb / 2.0 ast / 15.2 pts,24,True

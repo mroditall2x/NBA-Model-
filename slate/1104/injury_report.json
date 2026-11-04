@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-04T22:22:31.875794+00:00",
+ "checked": "2026-11-04T23:22:29.368827+00:00",
  "games": {
   "PHI@DET": [
    {
@@ -18,7 +18,7 @@
     "player": "Dominick Barlow",
     "team": "PHI",
     "status": "Out",
-    "note": "Barlow (back) won't play in Wednesday's game against the Pistons, Austin Krell of OnPattison.com reports."
+    "note": "Head coach Nick Nurse said Wednesday that Barlow (back) likely needs another 10-12 days before he's cleared to return to the court, Derek Bodner of AllPHLY.com reports."
    },
    {
     "player": "Ariel Hukporti",
@@ -29,16 +29,16 @@
   ],
   "ATL@WSH": [
    {
+    "player": "Jalen Johnson",
+    "team": "ATL",
+    "status": "Out",
+    "note": "Johnson (ankle) is listed as out for Wednesday's game in Washington."
+   },
+   {
     "player": "Jock Landale",
     "team": "ATL",
     "status": "Out",
     "note": "Landale is out for Wednesday's game against the Wizards with a left hip strain, Kevin Chouinard of the Hawks' official site reports."
-   },
-   {
-    "player": "Jalen Johnson",
-    "team": "ATL",
-    "status": "Day-To-Day",
-    "note": "Johnson (ankle) is listed as questionable for Wednesday's game in Washington, Kevin Chouinard of the Hawks' official site reports."
    },
    {
     "player": "Mouhamed Gueye",
@@ -51,18 +51,6 @@
     "team": "ATL",
     "status": "Out",
     "note": "Veesaar was diagnosed with a torn right ACL and is expected to miss the 2026-27 season, the Hawks announced Monday."
-   },
-   {
-    "player": "Bilal Coulibaly",
-    "team": "WSH",
-    "status": "Day-To-Day",
-    "note": "Coulibaly (illness) is questionable for Wednesday against the Hawks."
-   },
-   {
-    "player": "Alex Sarr",
-    "team": "WSH",
-    "status": "Day-To-Day",
-    "note": "Sarr (knee) is listed as questionable for Wednesday's game against Atlanta."
    },
    {
     "player": "Reece Beekman",
@@ -123,12 +111,6 @@
     "note": "Tatum will be rested Wednesday against the Bucks, Jack Simone of BostonSportsJournal.com reports."
    },
    {
-    "player": "Payton Pritchard",
-    "team": "BOS",
-    "status": "Day-To-Day",
-    "note": "Pritchard is listed as questionable for Wednesday's game against Milwaukee due to a right shoulder contusion, Taylor Snow of the Celtics' official site reports."
-   },
-   {
     "player": "Devin Carter",
     "team": "BOS",
     "status": "Out",
@@ -146,13 +128,7 @@
     "player": "Nic Claxton",
     "team": "CHI",
     "status": "Out",
-    "note": "Claxton (hamstring) is questionable for Wednesday against the Knicks."
-   },
-   {
-    "player": "Jalen Smith",
-    "team": "CHI",
-    "status": "Day-To-Day",
-    "note": "Smith is probable for Wednesday's game against the Knicks with a left finger sprain."
+    "note": "Claxton (hamstring) is listed as out for Wednesday's game against New York."
    },
    {
     "player": "Josh Hart",
@@ -175,6 +151,12 @@
     "note": "Watson (hamstring) is out for Wednesday's game in Oklahoma City."
    },
    {
+    "player": "Jaylin Williams",
+    "team": "OKC",
+    "status": "Out",
+    "note": "Williams (back) is listed as questionable for Wednesday's game against the Cavaliers."
+   },
+   {
     "player": "Nikola Topic",
     "team": "OKC",
     "status": "Out",
@@ -185,12 +167,6 @@
     "team": "OKC",
     "status": "Out",
     "note": "Sorber (knee) is out for Wednesday's game against the Cavaliers."
-   },
-   {
-    "player": "Jaylin Williams",
-    "team": "OKC",
-    "status": "Day-To-Day",
-    "note": "Williams (back) is listed as questionable for Wednesday's game against the Cavaliers."
    },
    {
     "player": "Cason Wallace",
@@ -271,8 +247,8 @@
    {
     "player": "Trey Murphy III",
     "team": "NO",
-    "status": "Day-To-Day",
-    "note": "Murphy (knees) is now questionable for Wednesday against the Jazz."
+    "status": "Out",
+    "note": "Murphy (knees) is listed as out for Wednesday's game against Utah."
    },
    {
     "player": "Jordan Poole",
