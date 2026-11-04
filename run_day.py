@@ -80,7 +80,7 @@ try:
     for _g in json.load(open(f'{D}/lines.json'))['games']:
         if _dt.datetime.fromisoformat(_g['commence'].replace('Z','+00:00'))<_dt.datetime.now(_dt.timezone.utc): _started.add(f"{_g['away']}@{_g['home']}")
 except Exception: pass
-_cols=['game','team','player','stat','tier','line','side','p','price','ev','top','mean','min','gap','where']
+_cols=['game','team','player','stat','tier','line','side','p','price','ev','top','mean','lo','hi','min','gap','where']
 card=card[~card.game.isin(_started)][_cols]
 if _started and os.path.exists(f'{D}/card.csv'):          # games already tipped keep the card that was posted before tip
     _old=pd.read_csv(f'{D}/card.csv'); card=pd.concat([_old[_old.game.isin(_started)][[c for c in _cols if c in _old]],card])

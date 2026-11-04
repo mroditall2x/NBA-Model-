@@ -83,7 +83,7 @@ const label=d=>new Date(2026,+d.slice(0,2)-1,+d.slice(2)).toLocaleDateString('en
 function group(rows,k){const m=new Map();rows.forEach(r=>{if(!m.has(r[k]))m.set(r[k],[]);m.get(r[k]).push(r)});return m}
 function pickRow(r,extra=''){
   return `<div class="pick"><div class="who">${esc(r.player)}${extra}</div><div class="pct">${pct(r.p)}</div>
-  <div class="what">${side(r.side)} ${r.line} ${STAT[r.stat]||r.stat} · avg ${r.mean}${r.price&&r.price===r.price?` · ${r.price>0?'+':''}${r.price}`:''}${r.ev!==undefined&&r.ev!==''&&r.ev!==null&&!isNaN(r.ev)?` · EV ${r.ev>0?'+':''}${Math.round(r.ev*100)}%`:''} · ${esc(r.where)}</div></div>`;
+  <div class="what">${side(r.side)} ${r.line} ${STAT[r.stat]||r.stat} · avg ${r.mean}${r.lo!==undefined&&r.lo!==''&&r.lo!==null?` · typical ${r.lo}–${r.hi}`:''}${r.price&&r.price===r.price?` · ${r.price>0?'+':''}${r.price}`:''}${r.ev!==undefined&&r.ev!==''&&r.ev!==null&&!isNaN(r.ev)?` · EV ${r.ev>0?'+':''}${Math.round(r.ev*100)}%`:''} · ${esc(r.where)}</div></div>`;
 }
 async function render(){
   V.innerHTML='<div class="empty">Loading…</div>';

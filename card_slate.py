@@ -36,7 +36,7 @@ for g,pl,st,l,o,u,pp,gob,dem in rows:
     if abs(gp)>4: flags.append(f'minutes unclear ({gp:+.0f})')
     if lt.get(k) and lt[k]!=team: flags.append('new team')
     if ngk.get(k,0)<60: flags.append('small sample')
-    base=dict(game=g,team=team,player=pl,stat=AB[st],mean=round(v.mean(),2),min=round(x['min'].mean(),1),gap=gp,flags='; '.join(flags))
+    base=dict(game=g,team=team,player=pl,stat=AB[st],mean=round(v.mean(),2),lo=int(np.percentile(v,20)),hi=int(np.percentile(v,80)),min=round(x['min'].mean(),1),gap=gp,flags='; '.join(flags))
     if l:
         L=float(l); q=pov(L); side='More' if q>.5 else 'Less'; P=max(q,1-q)
         mk=imp(int(o))/(imp(int(o))+imp(int(u))); mk=mk if side=='More' else 1-mk
