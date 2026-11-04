@@ -1,113 +1,113 @@
 game,player,team,opp,mean,p20,p25,p30,p35,dvp,vacated_fga,line,p_over,alt_line,alt_odds,alt_book,alt_ev,alt_p,spot,fair_30
 CLE@OKC,Shai Gilgeous-Alexander,OKC,CLE,34.5,0.929,0.839,0.663,0.452,0.992,13.0,,,,,,,,teammate out (+shots),-197
-LAL@SAC,Luka Doncic,LAL,SAC,31.7,0.876,0.722,0.527,0.366,1.065,0.0,,,,,,,,soft D for his position,-111
+LAL@SAC,Luka Doncic,LAL,SAC,31.6,0.876,0.721,0.525,0.365,1.065,0.0,,,,,,,,soft D for his position,-111
 CHI@NY,Jalen Brunson,NY,CHI,28.8,0.833,0.642,0.43,0.24,1.032,0.0,,,,,,,,,+133
 IND@MEM,Pascal Siakam,IND,MEM,27.4,0.766,0.595,0.367,0.197,0.987,25.9,,,,,,,,"teammate out (+shots), fast game",+172
 MIA@LAC,Darius Garland,LAC,MIA,26.3,0.735,0.534,0.33,0.176,1.113,0.0,,,,,,,,soft D for his position,+203
 MIA@LAC,Giannis Antetokounmpo,MIA,LAC,26.5,0.78,0.571,0.308,0.149,0.929,0.0,,,,,,,,,+225
 TOR@DEN,RJ Barrett,TOR,DEN,26.0,0.699,0.518,0.306,0.173,1.059,18.5,,,,,,,,"teammate out (+shots), soft D for his position",+227
 CLE@OKC,Donovan Mitchell,CLE,OKC,25.3,0.723,0.504,0.3,0.151,0.926,10.3,,,,,,,,,+233
-DAL@SA,Victor Wembanyama,SA,DAL,25.4,0.713,0.491,0.289,0.148,1.033,0.0,,,,,,,,,+246
+DAL@SA,Victor Wembanyama,SA,DAL,25.3,0.707,0.491,0.293,0.148,1.033,0.0,,,,,,,,,+241
 POR@PHX,Deni Avdija,POR,PHX,25.0,0.701,0.467,0.259,0.119,0.962,12.0,,,,,,,,,+286
 POR@PHX,Devin Booker,PHX,POR,25.0,0.696,0.463,0.258,0.119,0.984,0.0,,,,,,,,,+288
 CHI@NY,Karl-Anthony Towns,NY,CHI,24.0,0.644,0.454,0.239,0.103,1.091,0.0,,,,,,,,,+318
 PHI@DET,Cade Cunningham,DET,PHI,23.6,0.63,0.413,0.235,0.113,0.958,0.0,,,,,,,,,+326
 TOR@DEN,Jamal Murray,DEN,TOR,23.7,0.646,0.419,0.229,0.104,1.034,0.0,,,,,,,,,+337
+MIL@BOS,Payton Pritchard,BOS,MIL,22.7,0.599,0.371,0.218,0.097,1.075,20.1,,,,,,,,,+359
 UTAH@NO,Keyonte George,UTAH,NO,22.7,0.591,0.367,0.217,0.099,1.057,11.0,,,,,,,,,+361
-MIL@BOS,Payton Pritchard,BOS,MIL,22.6,0.6,0.364,0.214,0.096,1.075,20.1,,,,,,,,,+367
 TOR@DEN,Nikola Jokic,DEN,TOR,23.2,0.606,0.388,0.213,0.098,0.892,0.0,,,,,,,,,+369
-CHA@BKN,Brandon Miller,CHA,BKN,23.1,0.628,0.39,0.204,0.087,1.032,0.0,,,,,,,,,+390
-MIL@BOS,Derrick White,BOS,MIL,22.2,0.578,0.342,0.202,0.089,1.075,20.1,,,,,,,,,+395
-MIL@BOS,Paul George,BOS,MIL,22.3,0.574,0.343,0.198,0.085,0.997,20.1,,,,,,,,,+405
+MIL@BOS,Derrick White,BOS,MIL,22.3,0.577,0.348,0.205,0.091,1.075,20.1,,,,,,,,,+388
+CHA@BKN,Brandon Miller,CHA,BKN,23.1,0.629,0.394,0.204,0.09,1.032,0.0,,,,,,,,,+390
+MIL@BOS,Paul George,BOS,MIL,22.2,0.568,0.339,0.196,0.086,0.997,20.1,,,,,,,,,+410
 POR@PHX,Damian Lillard,POR,PHX,22.5,0.596,0.366,0.193,0.085,1.024,12.0,,,,,,,,,+418
 TOR@DEN,Scottie Barnes,TOR,DEN,22.3,0.551,0.355,0.175,0.086,1.059,18.5,,,,,,,,,+471
 MIN@HOU,LaMelo Ball,MIN,HOU,21.6,0.544,0.325,0.165,0.083,0.946,26.0,19.5,0.544,31.5,950.0,mybookieag,0.31,0.125,,+506
-CHA@BKN,Michael Porter Jr.,BKN,CHA,21.5,0.541,0.322,0.164,0.07,1.037,0.0,,,,,,,,,+510
-LAL@SAC,Austin Reaves,LAL,SAC,22.1,0.562,0.33,0.16,0.081,1.065,0.0,,,,,,,,,+525
+CHA@BKN,Michael Porter Jr.,BKN,CHA,21.5,0.544,0.324,0.162,0.07,1.037,0.0,,,,,,,,,+517
+LAL@SAC,Austin Reaves,LAL,SAC,21.9,0.557,0.326,0.158,0.079,1.065,0.0,,,,,,,,,+533
 ATL@WSH,Jalen Johnson,ATL,WSH,21.3,0.513,0.327,0.155,0.06,1.088,0.0,,,,,,,,,+545
 MIN@HOU,Kevin Durant,HOU,MIN,21.6,0.55,0.314,0.15,0.06,0.954,0.0,22.5,0.405,29.5,375.0,betmgm,-0.36,0.135,,+567
 ATL@WSH,Anthony Davis,WSH,ATL,21.0,0.52,0.297,0.14,0.058,1.049,0.0,,,,,,,,,+614
 UTAH@NO,Lauri Markkanen,UTAH,NO,20.8,0.497,0.29,0.138,0.07,0.975,11.0,,,,,,,,,+625
+LAL@SAC,Zach LaVine,SAC,LAL,19.9,0.482,0.274,0.135,0.059,1.006,0.0,,,,,,,,,+641
 CLE@OKC,James Harden,CLE,OKC,20.4,0.507,0.287,0.133,0.052,0.926,10.3,,,,,,,,,+652
-LAL@SAC,Zach LaVine,SAC,LAL,19.8,0.478,0.273,0.133,0.056,1.006,0.0,,,,,,,,,+652
 CHI@NY,Norman Powell,CHI,NY,20.2,0.47,0.27,0.132,0.055,0.959,0.0,,,,,,,,,+658
 CHI@NY,OG Anunoby,NY,CHI,19.6,0.445,0.27,0.124,0.046,1.175,0.0,,,,,,,,,+706
-DAL@SA,Cooper Flagg,DAL,SA,19.8,0.448,0.257,0.12,0.048,0.955,0.0,,,,,,,,,+733
+DAL@SA,Cooper Flagg,DAL,SA,19.7,0.452,0.25,0.12,0.05,0.955,0.0,,,,,,,,,+733
 UTAH@NO,Zion Williamson,NO,UTAH,20.7,0.516,0.275,0.118,0.041,1.036,0.0,,,,,,,,,+747
 ATL@WSH,Trae Young,WSH,ATL,19.5,0.449,0.248,0.116,0.037,0.939,0.0,,,,,,,,,+762
 TOR@DEN,Immanuel Quickley,TOR,DEN,19.5,0.463,0.251,0.115,0.045,0.97,18.5,,,,,,,,,+770
-CHA@BKN,Julius Randle,BKN,CHA,19.8,0.469,0.242,0.1,0.033,1.037,0.0,,,,,,,,,+900
+CHA@BKN,Julius Randle,BKN,CHA,19.9,0.469,0.247,0.104,0.037,1.037,0.0,,,,,,,,,+862
+LAL@SAC,Domantas Sabonis,SAC,LAL,19.1,0.448,0.234,0.1,0.036,1.005,0.0,,,,,,,,,+900
 PHI@DET,Tyrese Maxey,PHI,DET,19.7,0.438,0.23,0.099,0.038,0.897,0.0,,,,,,,,,+910
-LAL@SAC,Domantas Sabonis,SAC,LAL,19.0,0.44,0.23,0.099,0.038,1.005,0.0,,,,,,,,,+910
 UTAH@NO,Trey Murphy III,NO,UTAH,19.1,0.433,0.224,0.096,0.034,1.036,0.0,,,,,,,,,+942
 IND@MEM,Ty Jerome,MEM,IND,18.9,0.422,0.216,0.09,0.031,1.032,0.0,,,,,,,,,+1011
 PHI@DET,Jaylen Brown,PHI,DET,19.2,0.404,0.203,0.085,0.029,0.897,0.0,,,,,,,,,+1076
 MIA@LAC,Bam Adebayo,MIA,LAC,18.6,0.389,0.192,0.079,0.027,0.968,0.0,,,,,,,,,+1166
 ATL@WSH,Nickeil Alexander-Walker,ATL,WSH,18.5,0.389,0.192,0.078,0.027,0.965,0.0,,,,,,,,,+1182
+DAL@SA,Kyrie Irving,DAL,SA,16.5,0.313,0.16,0.071,0.021,0.94,0.0,,,,,,,,,+1308
 POR@PHX,Jalen Green,PHX,POR,17.2,0.322,0.16,0.07,0.028,0.984,0.0,,,,,,,,,+1329
 IND@MEM,Andrew Nembhard,IND,MEM,16.9,0.338,0.151,0.069,0.021,1.035,25.9,,,,,,,,,+1349
-DAL@SA,Kyrie Irving,DAL,SA,16.5,0.309,0.158,0.069,0.022,0.94,0.0,,,,,,,,,+1349
-MIL@BOS,Tyler Herro,MIL,BOS,17.4,0.361,0.154,0.065,0.022,0.92,0.0,,,,,,,,,+1438
+MIL@BOS,Tyler Herro,MIL,BOS,17.4,0.351,0.155,0.064,0.023,0.92,0.0,,,,,,,,,+1462
 ATL@WSH,CJ McCollum,ATL,WSH,17.7,0.344,0.165,0.064,0.022,0.965,0.0,,,,,,,,,+1462
+DAL@SA,De'Aaron Fox,SA,DAL,17.4,0.35,0.165,0.061,0.02,1.028,0.0,,,,,,,,,+1539
 CLE@OKC,Evan Mobley,CLE,OKC,17.5,0.369,0.169,0.06,0.019,0.925,10.3,,,,,,,,,+1567
-DAL@SA,De'Aaron Fox,SA,DAL,17.2,0.343,0.16,0.057,0.018,1.028,0.0,,,,,,,,,+1654
 UTAH@NO,Ace Bailey,UTAH,NO,16.1,0.288,0.123,0.056,0.017,1.057,11.0,,,,,,,,,+1686
 MIN@HOU,Ayo Dosunmu,MIN,HOU,17.0,0.334,0.148,0.055,0.022,0.946,26.0,15.5,0.539,24.5,800.0,fanduel,0.44,0.16,,+1718
 MIN@HOU,Alperen Sengun,HOU,MIN,18.0,0.382,0.148,0.053,0.015,0.919,0.0,19.5,0.382,24.5,260.0,betmgm,-0.42,0.16,,+1787
 UTAH@NO,Jeremiah Fears,NO,UTAH,15.7,0.286,0.133,0.051,0.022,1.131,0.0,,,,,,,,,+1861
-MIN@HOU,Jaden McDaniels,MIN,HOU,16.6,0.311,0.137,0.05,0.018,0.948,26.0,16.5,0.465,24.5,560.0,fanduel,-0.02,0.148,,+1900
 POR@PHX,Dillon Brooks,PHX,POR,16.8,0.321,0.149,0.05,0.016,0.932,0.0,,,,,,,,,+1900
+MIN@HOU,Jaden McDaniels,MIN,HOU,16.6,0.311,0.137,0.05,0.018,0.948,26.0,16.5,0.465,24.5,560.0,fanduel,-0.02,0.148,,+1900
 CLE@OKC,Ajay Mitchell,OKC,CLE,16.3,0.271,0.137,0.049,0.015,0.992,13.0,,,,,,,,,+1941
 MIN@HOU,Jonathan Kuminga,MIN,HOU,16.6,0.305,0.126,0.044,0.016,0.948,26.0,13.5,0.635,24.5,1100.0,betmgm,0.65,0.138,,+2173
-LAL@SAC,De'Andre Hunter,SAC,LAL,15.6,0.269,0.116,0.042,0.013,1.005,0.0,,,,,,,,,+2281
 MIA@LAC,Keaton Wagler,LAC,MIA,15.1,0.265,0.114,0.042,0.016,1.113,0.0,,,,,,,,,+2281
-DAL@SA,Keldon Johnson,SA,DAL,12.7,0.184,0.089,0.039,0.014,1.033,0.0,,,,,,,,,+2464
-CHA@BKN,Grayson Allen,CHA,BKN,15.7,0.251,0.11,0.038,0.01,0.973,0.0,,,,,,,,,+2532
-LAL@SAC,Darius Acuff Jr.,SAC,LAL,14.8,0.244,0.105,0.037,0.012,1.006,0.0,,,,,,,,,+2603
-DAL@SA,Stephon Castle,SA,DAL,16.0,0.274,0.112,0.037,0.011,1.028,0.0,,,,,,,,,+2603
+CHA@BKN,Grayson Allen,CHA,BKN,15.8,0.26,0.114,0.041,0.012,0.973,0.0,,,,,,,,,+2339
+LAL@SAC,De'Andre Hunter,SAC,LAL,15.6,0.271,0.119,0.041,0.012,1.005,0.0,,,,,,,,,+2339
+DAL@SA,Stephon Castle,SA,DAL,16.1,0.28,0.116,0.04,0.011,1.028,0.0,,,,,,,,,+2400
+DAL@SA,Keldon Johnson,SA,DAL,12.7,0.185,0.088,0.039,0.016,1.033,0.0,,,,,,,,,+2464
+LAL@SAC,Darius Acuff Jr.,SAC,LAL,14.9,0.247,0.106,0.038,0.013,1.006,0.0,,,,,,,,,+2532
 CLE@OKC,Jared McCain,OKC,CLE,14.4,0.205,0.102,0.037,0.012,0.992,13.0,,,,,,,,,+2603
-TOR@DEN,DeMar DeRozan,DEN,TOR,15.0,0.234,0.098,0.034,0.01,1.034,0.0,,,,,,,,,+2841
 IND@MEM,Jarace Walker,IND,MEM,14.1,0.202,0.101,0.034,0.01,0.987,25.9,,,,,,,,,+2841
+TOR@DEN,DeMar DeRozan,DEN,TOR,15.0,0.234,0.098,0.034,0.01,1.034,0.0,,,,,,,,,+2841
+CHA@BKN,Naz Reid,CHA,BKN,15.6,0.259,0.103,0.033,0.009,1.036,0.0,,,,,,,,,+2930
 IND@MEM,Jerami Grant,MEM,IND,15.8,0.243,0.098,0.032,0.008,0.99,0.0,,,,,,,,,+3025
-CHA@BKN,Naz Reid,CHA,BKN,15.5,0.256,0.103,0.032,0.009,1.036,0.0,,,,,,,,,+3025
 PHI@DET,Joel Embiid,PHI,DET,16.7,0.293,0.12,0.032,0.008,0.859,0.0,,,,,,,,,+3025
 POR@PHX,Miles Bridges,PHX,POR,15.6,0.262,0.107,0.03,0.007,0.932,0.0,,,,,,,,,+3233
 POR@PHX,Jrue Holiday,POR,PHX,14.8,0.241,0.095,0.03,0.007,1.024,12.0,,,,,,,,,+3233
-UTAH@NO,Saddiq Bey,NO,UTAH,15.1,0.234,0.092,0.029,0.008,1.036,0.0,,,,,,,,,+3348
 POR@PHX,Scoot Henderson,POR,PHX,13.6,0.197,0.08,0.029,0.01,1.024,12.0,,,,,,,,,+3348
 CHI@NY,Matas Buzelis,CHI,NY,14.6,0.207,0.085,0.029,0.01,0.976,0.0,,,,,,,,,+3348
+UTAH@NO,Saddiq Bey,NO,UTAH,15.1,0.234,0.092,0.029,0.008,1.036,0.0,,,,,,,,,+3348
 ATL@WSH,Onyeka Okongwu,ATL,WSH,14.6,0.197,0.091,0.028,0.006,1.088,0.0,,,,,,,,,+3471
 IND@MEM,Kelly Oubre Jr.,IND,MEM,13.5,0.188,0.068,0.027,0.007,1.035,25.9,,,,,,,,,+3604
 CHI@NY,Josh Giddey,CHI,NY,14.3,0.196,0.076,0.026,0.007,0.959,0.0,,,,,,,,,+3746
-PHI@DET,Paul Reed,DET,PHI,14.9,0.21,0.08,0.024,0.006,0.969,0.0,,,,,,,,,+4067
-CHI@NY,Caleb Wilson,CHI,NY,13.5,0.168,0.067,0.024,0.007,0.976,0.0,,,,,,,,,+4067
 IND@MEM,Cameron Boozer,MEM,IND,14.0,0.18,0.071,0.024,0.006,0.99,0.0,,,,,,,,,+4067
+PHI@DET,Paul Reed,DET,PHI,14.9,0.21,0.08,0.024,0.006,0.969,0.0,,,,,,,,,+4067
 UTAH@NO,Darryn Peterson,UTAH,NO,13.1,0.168,0.061,0.024,0.006,1.057,11.0,,,,,,,,,+4067
+DAL@SA,P.J. Washington,DAL,SA,14.3,0.195,0.073,0.024,0.006,0.955,0.0,,,,,,,,,+4067
+CHI@NY,Caleb Wilson,CHI,NY,13.5,0.168,0.067,0.024,0.007,0.976,0.0,,,,,,,,,+4067
 ATL@WSH,Kyshawn George,WSH,ATL,14.0,0.194,0.072,0.023,0.006,1.049,0.0,,,,,,,,,+4248
-DAL@SA,P.J. Washington,DAL,SA,14.3,0.198,0.074,0.023,0.006,0.955,0.0,,,,,,,,,+4248
-DAL@SA,Dylan Harper,SA,DAL,14.0,0.191,0.071,0.021,0.004,1.028,0.0,,,,,,,,,+4662
 MIN@HOU,Amen Thompson,HOU,MIN,15.2,0.209,0.074,0.021,0.004,0.982,0.0,15.5,0.46,19.5,265.0,fanduel,-0.18,0.225,,+4662
-IND@MEM,Aaron Nesmith,IND,MEM,12.5,0.154,0.054,0.02,0.005,1.035,25.9,,,,,,,,,+4900
+DAL@SA,Dylan Harper,SA,DAL,14.0,0.191,0.068,0.02,0.005,1.028,0.0,,,,,,,,,+4900
 ATL@WSH,Alex Sarr,WSH,ATL,13.3,0.151,0.071,0.02,0.006,1.093,0.0,,,,,,,,,+4900
+IND@MEM,Aaron Nesmith,IND,MEM,12.5,0.154,0.054,0.02,0.005,1.035,25.9,,,,,,,,,+4900
 MIN@HOU,Jabari Smith Jr.,HOU,MIN,13.9,0.176,0.065,0.019,0.005,0.954,0.0,14.5,0.439,19.5,300.0,betmgm,-0.24,0.19,,+5163
-TOR@DEN,Aaron Gordon,DEN,TOR,13.5,0.173,0.061,0.018,0.004,0.939,0.0,,,,,,,,,+5456
 CHI@NY,Mikal Bridges,NY,CHI,13.3,0.169,0.06,0.018,0.005,1.032,0.0,,,,,,,,,+5456
+TOR@DEN,Aaron Gordon,DEN,TOR,13.5,0.173,0.061,0.018,0.004,0.939,0.0,,,,,,,,,+5456
 UTAH@NO,Dejounte Murray,NO,UTAH,12.6,0.154,0.055,0.017,0.006,1.131,0.0,,,,,,,,,+5782
-MIL@BOS,Neemias Queta,BOS,MIL,13.4,0.17,0.052,0.016,0.004,1.095,20.1,,,,,,,,,+6150
 IND@MEM,Quenton Jackson,IND,MEM,12.1,0.139,0.044,0.016,0.004,1.035,25.9,,,,,,,,,+6150
-DAL@SA,Devin Vassell,SA,DAL,12.9,0.15,0.052,0.015,0.004,1.028,0.0,,,,,,,,,+6567
+LAL@SAC,Precious Achiuwa,SAC,LAL,12.8,0.156,0.056,0.016,0.003,1.005,0.0,,,,,,,,,+6150
+MIL@BOS,Neemias Queta,BOS,MIL,13.5,0.173,0.052,0.016,0.004,1.095,20.1,,,,,,,,,+6150
 IND@MEM,Cedric Coward,MEM,IND,13.8,0.163,0.054,0.015,0.004,0.99,0.0,,,,,,,,,+6567
-LAL@SAC,Quentin Grimes,LAL,SAC,12.8,0.143,0.052,0.015,0.005,1.065,0.0,,,,,,,,,+6567
-LAL@SAC,Precious Achiuwa,SAC,LAL,12.7,0.154,0.054,0.015,0.003,1.005,0.0,,,,,,,,,+6567
 UTAH@NO,Bennedict Mathurin,NO,UTAH,12.2,0.14,0.051,0.015,0.006,1.131,0.0,,,,,,,,,+6567
-CLE@OKC,Jarrett Allen,CLE,OKC,14.0,0.188,0.06,0.014,0.003,0.925,10.3,,,,,,,,,+7043
 IND@MEM,Jaylen Wells,MEM,IND,13.5,0.15,0.052,0.014,0.003,0.99,0.0,,,,,,,,,+7043
-MIL@BOS,Ryan Rollins,MIL,BOS,12.8,0.152,0.045,0.013,0.003,0.92,0.0,,,,,,,,,+7592
-MIL@BOS,Jaime Jaquez Jr.,MIL,BOS,13.2,0.15,0.048,0.013,0.003,0.95,0.0,,,,,,,,,+7592
+CLE@OKC,Jarrett Allen,CLE,OKC,14.0,0.188,0.06,0.014,0.003,0.925,10.3,,,,,,,,,+7043
+LAL@SAC,Quentin Grimes,LAL,SAC,12.8,0.14,0.048,0.014,0.004,1.065,0.0,,,,,,,,,+7043
+DAL@SA,Devin Vassell,SA,DAL,12.9,0.156,0.054,0.014,0.003,1.028,0.0,,,,,,,,,+7043
+MIL@BOS,Ryan Rollins,MIL,BOS,12.7,0.152,0.044,0.013,0.003,0.92,0.0,,,,,,,,,+7592
+MIL@BOS,Jaime Jaquez Jr.,MIL,BOS,13.1,0.146,0.045,0.013,0.003,0.95,0.0,,,,,,,,,+7592
 PHI@DET,LeBron James,PHI,DET,13.0,0.131,0.044,0.012,0.002,0.983,0.0,,,,,,,,,+8233
+CHA@BKN,Dennis Schroder,CHA,BKN,13.6,0.151,0.047,0.012,0.002,0.973,0.0,,,,,,,,,+8233
 PHI@DET,John Collins,DET,PHI,12.6,0.126,0.04,0.011,0.002,0.969,0.0,,,,,,,,,+8991
-CHA@BKN,Dennis Schroder,CHA,BKN,13.5,0.145,0.047,0.011,0.003,0.973,0.0,,,,,,,,,+8991
 POR@PHX,Toumani Camara,POR,PHX,12.1,0.124,0.039,0.01,0.002,0.962,12.0,,,,,,,,,+9900
 PHI@DET,Duncan Robinson,DET,PHI,12.3,0.121,0.038,0.01,0.002,0.969,0.0,,,,,,,,,+9900
-MIA@LAC,Andrew Wiggins,MIA,LAC,12.6,0.138,0.048,0.009,0.002,0.929,0.0,,,,,,,,,+11011
 POR@PHX,Donovan Clingan,POR,PHX,12.1,0.126,0.037,0.009,0.002,1.033,12.0,,,,,,,,,+11011
+MIA@LAC,Andrew Wiggins,MIA,LAC,12.6,0.138,0.048,0.009,0.002,0.929,0.0,,,,,,,,,+11011
