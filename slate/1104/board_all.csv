@@ -1,95 +1,95 @@
 game,team,player,stat,mean,lo,hi,min,gap,flags,type,line,side,model,market,edge,p_over,o,u,where
-MIN@HOU,MIN,Ayo Dosunmu,AST,4.3,2,6,34.2,5.3,minutes unclear (+5),PP standard,4.5,Less,0.575,0.522,0.053,0.425,-105,-127,PrizePicks / Underdog
-MIN@HOU,HOU,Kevin Durant,AST,3.97,2,6,32.3,-1.1,,PP standard,3.5,More,0.547,0.494,0.053,0.547,-112,-118,PrizePicks / Underdog
-MIN@HOU,MIN,LaMelo Ball,AST,6.86,4,9,29.1,-0.8,new team,PP standard,6.5,More,0.522,0.466,0.055,0.522,100,-134,PrizePicks / Underdog
-MIN@HOU,MIN,Jonathan Kuminga,AST,2.47,1,4,28.4,-1.9,new team,book line,2.5,Less,0.565,0.562,0.003,0.435,114,-150,Kalshi / Underdog
-MIN@HOU,HOU,Amen Thompson,AST,4.02,2,6,31.3,-2.4,,PP standard,3.5,More,0.556,0.552,0.003,0.556,-144,109,PrizePicks / Underdog
-MIN@HOU,MIN,Jaden McDaniels,AST,2.75,1,4,37.4,5.6,minutes unclear (+6),PP standard,2.5,Less,0.501,0.49,0.011,0.499,-120,-110,PrizePicks / Underdog
-MIN@HOU,HOU,Marcus Smart,AST,2.15,1,3,21.3,5.4,minutes unclear (+5); new team,book line,2.5,Less,0.645,0.564,0.081,0.355,115,-151,Kalshi / Underdog
-MIN@HOU,HOU,Alperen Sengun,AST,4.77,3,7,29.2,4.8,minutes unclear (+5),PP standard,6.5,Less,0.781,0.543,0.238,0.219,105,-138,PrizePicks / Underdog
-MIN@HOU,HOU,Fred VanVleet,AST,4.03,2,6,29.2,7.3,minutes unclear (+7),PP standard,5.5,Less,0.765,0.562,0.202,0.235,113,-152,PrizePicks / Underdog
-MIN@HOU,HOU,Kevin Durant,PTS,22.26,15,29,32.3,-1.1,,PP standard,22.5,Less,0.541,0.5,0.041,0.459,-115,-115,PrizePicks / Underdog
-MIN@HOU,HOU,Amen Thompson,PTS,15.72,10,21,31.3,-2.4,,PP standard,15.5,Less,0.518,0.486,0.032,0.482,-122,-108,PrizePicks / Underdog
-MIN@HOU,MIN,Jaden McDaniels,PTS,15.28,9,21,37.4,5.6,minutes unclear (+6),PP standard,16.5,Less,0.605,0.51,0.095,0.395,-110,-120,PrizePicks / Underdog
-MIN@HOU,MIN,Joan Beringer,PTS,7.33,2,12,16.9,-4.4,minutes unclear (-4); small sample,PP standard,6.5,Less,0.511,0.495,0.016,0.489,-116,-111,PrizePicks / Underdog
-MIN@HOU,MIN,Ayo Dosunmu,PTS,15.41,9,21,34.2,5.3,minutes unclear (+5),PP standard,16.5,Less,0.593,0.51,0.083,0.407,-110,-120,PrizePicks / Underdog
-MIN@HOU,HOU,Marcus Smart,PTS,6.69,2,10,21.3,5.4,minutes unclear (+5); new team,PP standard,7.5,Less,0.63,0.536,0.094,0.37,102,-133,PrizePicks / Underdog
-MIN@HOU,HOU,Alperen Sengun,PTS,18.9,13,25,29.2,4.8,minutes unclear (+5),PP standard,19.5,Less,0.563,0.49,0.073,0.437,-120,-110,PrizePicks / Underdog
-MIN@HOU,HOU,Fred VanVleet,PTS,10.75,5,16,29.2,7.3,minutes unclear (+7),PP standard,11.5,Less,0.591,0.473,0.118,0.409,-132,-104,PrizePicks / Underdog
-MIN@HOU,MIN,Jonathan Kuminga,PTS,15.39,9,21,28.4,-1.9,new team,PP standard,14.5,More,0.51,0.48,0.031,0.51,-106,-126,PrizePicks / Underdog
-MIN@HOU,MIN,LaMelo Ball,PTS,19.87,13,27,29.1,-0.8,new team,PP standard,19.5,Less,0.515,0.514,0.001,0.485,-110,-124,PrizePicks / Underdog
-MIN@HOU,MIN,Rudy Gobert,PTS,10.34,6,15,31.2,-0.0,,PP standard,8.5,More,0.593,0.514,0.079,0.593,-122,-108,PrizePicks / Underdog
-MIN@HOU,HOU,Tari Eason,PTS,8.8,4,13,22.4,-3.0,,PP standard,8.5,Less,0.543,0.48,0.063,0.457,-125,-105,PrizePicks / Underdog
-MIN@HOU,HOU,Jabari Smith Jr,PTS,14.26,8,20,33.5,1.2,,PP standard,14.5,Less,0.546,0.49,0.056,0.454,-120,-110,PrizePicks / Underdog
-MIN@HOU,HOU,Kevin Durant,PA,26.23,19,33,32.3,-1.1,,PP standard,26.5,Less,0.54,0.51,0.03,0.46,-110,-120,PrizePicks / Underdog
-MIN@HOU,HOU,Amen Thompson,PA,19.74,14,26,31.3,-2.4,,PP standard,19.5,Less,0.515,0.481,0.034,0.485,-125,-106,PrizePicks / Underdog
-MIN@HOU,MIN,Jonathan Kuminga,PA,17.85,11,24,28.4,-1.9,new team,PP standard,16.5,More,0.536,0.51,0.026,0.536,-120,-110,PrizePicks / Underdog
-MIN@HOU,MIN,Jaden McDaniels,PA,18.03,11,24,37.4,5.6,minutes unclear (+6),PP standard,19.5,Less,0.61,0.502,0.108,0.39,-114,-116,PrizePicks / Underdog
-MIN@HOU,MIN,Ayo Dosunmu,PA,19.7,13,26,34.2,5.3,minutes unclear (+5),PP standard,21.5,Less,0.619,0.51,0.109,0.381,-110,-120,PrizePicks / Underdog
-MIN@HOU,HOU,Jabari Smith Jr,PA,15.72,10,21,33.5,1.2,,PP standard,16.5,Less,0.574,0.484,0.09,0.426,-123,-107,PrizePicks / Underdog
-MIN@HOU,HOU,Alperen Sengun,PA,23.66,17,30,29.2,4.8,minutes unclear (+5),PP standard,27.5,Less,0.706,0.51,0.195,0.294,-110,-120,PrizePicks / Underdog
-MIN@HOU,HOU,Marcus Smart,PA,8.84,4,13,21.3,5.4,minutes unclear (+5); new team,PP standard,9.5,Less,0.613,0.5,0.113,0.387,-115,-115,PrizePicks / Underdog
-MIN@HOU,MIN,LaMelo Ball,PA,26.73,19,34,29.1,-0.8,new team,PP standard,25.5,More,0.521,0.894,-0.372,0.521,-122,-7,PrizePicks / Underdog
-MIN@HOU,MIN,Rudy Gobert,PA,11.8,7,16,31.2,-0.0,,PP standard,10.5,More,0.55,0.49,0.06,0.55,-110,-120,PrizePicks / Underdog
-MIN@HOU,HOU,Fred VanVleet,PA,14.78,9,20,29.2,7.3,minutes unclear (+7),PP standard,17.5,Less,0.686,0.505,0.181,0.314,-112,-117,PrizePicks / Underdog
-MIN@HOU,HOU,Amen Thompson,PR,22.8,16,29,31.3,-2.4,,PP standard,22.5,Less,0.508,0.504,0.004,0.492,-113,-117,PrizePicks / Underdog
-MIN@HOU,MIN,Joan Beringer,PR,11.19,5,17,16.9,-4.4,minutes unclear (-4); small sample,PP standard,12.5,Less,0.626,0.49,0.137,0.374,-120,-110,PrizePicks / Underdog
-MIN@HOU,MIN,Jaden McDaniels,PR,19.76,13,26,37.4,5.6,minutes unclear (+6),PP standard,21.5,Less,0.618,0.5,0.118,0.382,-115,-115,PrizePicks / Underdog
-MIN@HOU,HOU,Kevin Durant,PR,27.46,20,35,32.3,-1.1,,PP standard,27.5,Less,0.527,0.485,0.042,0.473,-122,-107,PrizePicks / Underdog
-MIN@HOU,MIN,Ayo Dosunmu,PR,19.37,13,26,34.2,5.3,minutes unclear (+5),PP standard,21.5,Less,0.636,0.502,0.134,0.364,-114,-116,PrizePicks / Underdog
-MIN@HOU,HOU,Jabari Smith Jr,PR,21.25,15,28,33.5,1.2,,PP standard,21.5,Less,0.541,0.501,0.04,0.459,-114,-115,PrizePicks / Underdog
-MIN@HOU,HOU,Marcus Smart,PR,8.89,4,13,21.3,5.4,minutes unclear (+5); new team,PP standard,9.5,Less,0.605,0.495,0.111,0.395,-117,-112,PrizePicks / Underdog
-MIN@HOU,MIN,Jonathan Kuminga,PR,20.87,14,27,28.4,-1.9,new team,PP standard,19.5,More,0.542,0.509,0.033,0.542,-119,-110,PrizePicks / Underdog
-MIN@HOU,MIN,LaMelo Ball,PR,23.98,16,31,29.1,-0.8,new team,PP standard,23.5,Less,0.506,0.494,0.012,0.494,-118,-112,PrizePicks / Underdog
-MIN@HOU,HOU,Tari Eason,PR,14.6,8,20,22.4,-3.0,,PP standard,14.5,Less,0.549,0.499,0.05,0.451,-115,-114,PrizePicks / Underdog
-MIN@HOU,MIN,Rudy Gobert,PR,20.15,14,26,31.2,-0.0,,PP standard,19.5,More,0.511,0.526,-0.016,0.511,-128,-102,PrizePicks / Underdog
-MIN@HOU,HOU,Alperen Sengun,PR,27.45,20,34,29.2,4.8,minutes unclear (+5),PP standard,28.5,Less,0.574,0.476,0.098,0.426,-128,-104,PrizePicks / Underdog
-MIN@HOU,HOU,Fred VanVleet,PR,13.74,8,19,29.2,7.3,minutes unclear (+7),PP standard,15.5,Less,0.642,0.51,0.132,0.358,-110,-120,PrizePicks / Underdog
-MIN@HOU,HOU,Kevin Durant,PRA,31.42,24,39,32.3,-1.1,,PP standard,31.5,Less,0.532,0.501,0.031,0.468,-114,-115,PrizePicks / Underdog
-MIN@HOU,HOU,Amen Thompson,PRA,26.82,20,33,31.3,-2.4,,PP standard,26.5,Less,0.506,0.514,-0.008,0.494,-110,-124,PrizePicks / Underdog
-MIN@HOU,MIN,Jonathan Kuminga,PRA,23.33,16,30,28.4,-1.9,new team,PP standard,22.5,More,0.512,0.489,0.023,0.512,-110,-121,PrizePicks / Underdog
-MIN@HOU,MIN,Jaden McDaniels,PRA,22.51,15,29,37.4,5.6,minutes unclear (+6),PP standard,24.5,Less,0.622,0.502,0.12,0.378,-116,-118,PrizePicks / Underdog
-MIN@HOU,MIN,Ayo Dosunmu,PRA,23.67,17,30,34.2,5.3,minutes unclear (+5),PP standard,25.5,Less,0.615,0.496,0.119,0.385,-116,-112,PrizePicks / Underdog
-MIN@HOU,HOU,Jabari Smith Jr,PRA,22.71,16,29,33.5,1.2,,PP standard,23.5,Less,0.566,0.506,0.06,0.434,-113,-119,PrizePicks / Underdog
-MIN@HOU,HOU,Fred VanVleet,PRA,17.77,12,23,29.2,7.3,minutes unclear (+7),PP standard,20.5,Less,0.679,0.49,0.189,0.321,-120,-110,PrizePicks / Underdog
-MIN@HOU,HOU,Marcus Smart,PRA,11.04,6,16,21.3,5.4,minutes unclear (+5); new team,PP standard,12.5,Less,0.651,0.531,0.12,0.35,100,-130,PrizePicks / Underdog
-MIN@HOU,MIN,Rudy Gobert,PRA,21.61,16,27,31.2,-0.0,,PP standard,21.5,Less,0.52,0.505,0.016,0.48,-115,-120,PrizePicks / Underdog
-MIN@HOU,HOU,Alperen Sengun,PRA,32.22,25,40,29.2,4.8,minutes unclear (+5),PP standard,35.5,Less,0.658,0.508,0.15,0.342,-110,-118,PrizePicks / Underdog
-MIN@HOU,MIN,LaMelo Ball,PRA,30.83,22,39,29.1,-0.8,new team,PP standard,30.5,Less,0.512,0.51,0.002,0.488,-110,-120,PrizePicks / Underdog
-MIN@HOU,MIN,Jonathan Kuminga,REB,5.48,3,8,28.4,-1.9,new team,PP standard,5.5,Less,0.542,0.543,-0.001,0.458,105,-138,PrizePicks / Underdog
-MIN@HOU,HOU,Amen Thompson,REB,7.08,4,9,31.3,-2.4,,PP standard,6.5,More,0.541,0.017,0.524,0.541,-1,-130,PrizePicks / Underdog
-MIN@HOU,MIN,Ayo Dosunmu,REB,3.96,2,6,34.2,5.3,minutes unclear (+5),PP standard,4.5,Less,0.637,0.637,-0.0,0.363,-132,0,PrizePicks / Underdog
-MIN@HOU,HOU,Kevin Durant,REB,5.2,3,7,32.3,-1.1,,PP standard,5.5,Less,0.586,0.579,0.007,0.414,122,-162,PrizePicks / Underdog
-MIN@HOU,HOU,Marcus Smart,REB,2.2,1,4,21.3,5.4,minutes unclear (+5); new team,book line,2.5,Less,0.631,0.563,0.069,0.369,115,-149,Kalshi / Underdog
-MIN@HOU,MIN,Jaden McDaniels,REB,4.48,2,6,37.4,5.6,minutes unclear (+6),PP standard,4.5,Less,0.548,0.428,0.12,0.452,-158,118,PrizePicks / Underdog
-MIN@HOU,MIN,LaMelo Ball,REB,4.1,2,6,29.1,-0.8,new team,PP standard,3.5,More,0.56,0.579,-0.019,0.56,-162,122,PrizePicks / Underdog
-MIN@HOU,HOU,Tari Eason,REB,5.8,3,8,22.4,-3.0,,PP standard,5.5,Less,0.512,0.526,-0.013,0.488,-104,-130,PrizePicks / Underdog
-MIN@HOU,MIN,Rudy Gobert,REB,9.81,7,13,31.2,-0.0,,PP standard,10.5,Less,0.601,0.476,0.125,0.399,-128,-104,PrizePicks / Underdog
-MIN@HOU,HOU,Fred VanVleet,REB,2.99,1,5,29.2,7.3,minutes unclear (+7),book line,3.5,Less,0.652,0.584,0.068,0.348,126,-164,Kalshi / Underdog
-MIN@HOU,HOU,Jabari Smith Jr,REB,6.99,4,9,33.5,1.2,,PP standard,6.5,More,0.533,0.639,-0.106,0.533,0,-130,PrizePicks / Underdog
-MIN@HOU,HOU,Alperen Sengun,REB,8.55,6,11,29.2,4.8,minutes unclear (+5),PP standard,8.5,Less,0.522,0.474,0.047,0.478,-127,-102,PrizePicks / Underdog
-MIN@HOU,HOU,Kevin Durant,RA,9.16,6,12,32.3,-1.1,,PP standard,8.5,More,0.547,0.529,0.017,0.547,-130,-101,PrizePicks / Underdog
-MIN@HOU,HOU,Amen Thompson,RA,11.1,8,14,31.3,-2.4,,PP standard,10.5,More,0.535,0.477,0.058,0.535,-104,-127,PrizePicks / Underdog
-MIN@HOU,MIN,Jaden McDaniels,RA,7.24,5,10,37.4,5.6,minutes unclear (+6),PP standard,7.5,Less,0.571,0.464,0.107,0.429,-134,102,PrizePicks / Underdog
-MIN@HOU,MIN,Jonathan Kuminga,RA,7.95,5,11,28.4,-1.9,new team,PP standard,7.5,More,0.525,0.52,0.004,0.525,-125,-105,PrizePicks / Underdog
-MIN@HOU,MIN,Ayo Dosunmu,RA,8.26,5,11,34.2,5.3,minutes unclear (+5),PP standard,9.5,Less,0.671,0.503,0.168,0.329,-113,-116,PrizePicks / Underdog
-MIN@HOU,HOU,Jabari Smith Jr,RA,8.45,6,11,33.5,1.2,,book line,8.5,Less,0.538,0.531,0.007,0.462,100,-130,Kalshi / Underdog
-MIN@HOU,HOU,Marcus Smart,RA,4.35,2,6,21.3,5.4,minutes unclear (+5); new team,PP standard,4.5,Less,0.579,0.472,0.107,0.421,-130,-102,PrizePicks / Underdog
-MIN@HOU,MIN,LaMelo Ball,RA,10.96,8,14,29.1,-0.8,new team,PP standard,10.5,More,0.522,0.5,0.022,0.522,-115,-115,PrizePicks / Underdog
-MIN@HOU,MIN,Rudy Gobert,RA,11.27,8,14,31.2,-0.0,,PP standard,12.5,Less,0.647,0.51,0.137,0.353,-110,-120,PrizePicks / Underdog
-MIN@HOU,HOU,Alperen Sengun,RA,13.32,10,17,29.2,4.8,minutes unclear (+5),PP standard,15.5,Less,0.713,0.52,0.192,0.287,-105,-125,PrizePicks / Underdog
-MIN@HOU,HOU,Fred VanVleet,RA,7.01,4,9,29.2,7.3,minutes unclear (+7),PP standard,8.5,Less,0.71,0.52,0.19,0.29,-105,-125,PrizePicks / Underdog
-MIN@HOU,MIN,Jonathan Kuminga,3PM,1.11,0,2,28.4,-1.9,new team,book line,1.5,Less,0.7,0.588,0.112,0.3,128,-167,Kalshi / Underdog
-MIN@HOU,MIN,Jaden McDaniels,3PM,1.32,0,2,37.4,5.6,minutes unclear (+6),book line,1.5,Less,0.633,0.557,0.076,0.367,112,-146,Kalshi / Underdog
-MIN@HOU,HOU,Kevin Durant,3PM,1.76,0,3,32.3,-1.1,,book line,1.5,Less,0.506,0.447,0.06,0.494,-144,110,Kalshi / Underdog
-MIN@HOU,MIN,Ayo Dosunmu,3PM,1.69,0,3,34.2,5.3,minutes unclear (+5),book line,1.5,Less,0.522,0.461,0.061,0.478,-136,103,Kalshi / Underdog
-MIN@HOU,HOU,Marcus Smart,3PM,1.08,0,2,21.3,5.4,minutes unclear (+5); new team,book line,1.5,Less,0.708,0.604,0.104,0.292,136,-182,Kalshi / Underdog
-MIN@HOU,HOU,Fred VanVleet,3PM,2.0,1,3,29.2,7.3,minutes unclear (+7),PP standard,2.5,Less,0.671,0.529,0.143,0.329,-101,-129,PrizePicks / Underdog
-MIN@HOU,MIN,LaMelo Ball,3PM,3.84,2,6,29.1,-0.8,new team,PP standard,3.5,More,0.513,0.515,-0.002,0.513,-122,-107,PrizePicks / Underdog
-MIN@HOU,HOU,Tari Eason,3PM,1.02,0,2,22.4,-3.0,,book line,1.5,Less,0.728,0.653,0.076,0.272,170,-230,Kalshi / Underdog
-MIN@HOU,HOU,Jabari Smith Jr,3PM,1.94,1,3,33.5,1.2,,book line,2.5,Less,0.683,0.594,0.09,0.317,130,-174,Kalshi / Underdog
-MIN@HOU,MIN,Joan Beringer,REB,3.87,2,6,16.9,-4.4,minutes unclear (-4); small sample,PP standard,5.5,Less,0.763,0.509,0.254,0.237,-111,-120,PrizePicks / Underdog
-MIN@HOU,HOU,Jabari Smith Jr,AST,1.46,0,2,33.5,1.2,,book line,1.5,Less,0.587,0.634,-0.047,0.413,-134,1,Kalshi / Underdog
-MIN@HOU,HOU,Tari Eason,PRA,15.7,9,21,22.4,-3.0,,PP standard,15.5,Less,0.546,0.5,0.046,0.454,-119,-119,PrizePicks / Underdog
-MIN@HOU,MIN,Joan Beringer,PRA,11.91,6,18,16.9,-4.4,minutes unclear (-4); small sample,PP standard,11.5,Less,0.532,0.5,0.032,0.468,-119,-119,PrizePicks / Underdog
-MIN@HOU,MIN,Rudy Gobert,AST,1.46,0,2,31.2,-0.0,,book line,1.5,Less,0.587,0.544,0.043,0.413,106,-137,Kalshi / Underdog
+MIN@HOU,MIN,Ayo Dosunmu,AST,4.4,2,6,35.2,4.5,minutes unclear (+4),book line,4.5,Less,0.548,0.533,0.014,0.452,101,-132,Kalshi / Underdog
+MIN@HOU,HOU,Kevin Durant,AST,3.95,2,6,32.6,-1.1,,PP standard,3.5,More,0.542,0.49,0.052,0.542,-110,-120,PrizePicks / Underdog
+MIN@HOU,MIN,LaMelo Ball,AST,6.85,4,9,29.4,-2.6,new team,book line,6.5,More,0.52,0.455,0.064,0.52,105,-140,Kalshi / Underdog
+MIN@HOU,MIN,Jonathan Kuminga,AST,2.46,1,4,28.5,-3.4,new team,book line,2.5,Less,0.565,0.571,-0.006,0.435,118,-156,Kalshi / Underdog
+MIN@HOU,HOU,Amen Thompson,AST,3.92,2,6,31.1,-3.6,,PP standard,3.5,More,0.54,0.559,-0.019,0.54,-148,112,PrizePicks / Underdog
+MIN@HOU,MIN,Jaden McDaniels,AST,2.78,1,4,37.9,4.5,minutes unclear (+4),PP standard,2.5,More,0.506,0.509,-0.003,0.506,-120,-111,PrizePicks / Underdog
+MIN@HOU,HOU,Marcus Smart,AST,2.06,1,3,20.6,3.5,new team,book line,2.5,Less,0.665,0.566,0.098,0.335,116,-153,Kalshi / Underdog
+MIN@HOU,HOU,Alperen Sengun,AST,4.81,3,7,29.4,4.8,minutes unclear (+5),PP standard,6.5,Less,0.774,0.553,0.222,0.226,110,-143,PrizePicks / Underdog
+MIN@HOU,HOU,Fred VanVleet,AST,4.05,2,6,29.6,7.7,minutes unclear (+8),PP standard,5.5,Less,0.762,0.566,0.196,0.238,116,-152,PrizePicks / Underdog
+MIN@HOU,HOU,Kevin Durant,PTS,22.1,15,29,32.6,-1.1,,PP standard,22.5,Less,0.544,0.49,0.054,0.456,-120,-110,PrizePicks / Underdog
+MIN@HOU,HOU,Amen Thompson,PTS,15.36,10,21,31.1,-3.6,,PP standard,15.5,Less,0.54,0.514,0.026,0.46,-108,-122,PrizePicks / Underdog
+MIN@HOU,MIN,Jaden McDaniels,PTS,15.5,9,21,37.9,4.5,minutes unclear (+4),PP standard,16.5,Less,0.588,0.507,0.081,0.412,-113,-120,PrizePicks / Underdog
+MIN@HOU,MIN,Joan Beringer,PTS,7.57,3,12,17.3,-4.7,minutes unclear (-5); small sample,PP standard,6.5,More,0.511,0.477,0.034,0.511,-103,-125,PrizePicks / Underdog
+MIN@HOU,MIN,Ayo Dosunmu,PTS,15.85,9,22,35.2,4.5,minutes unclear (+4),PP standard,15.5,Less,0.515,0.51,0.005,0.485,-110,-120,PrizePicks / Underdog
+MIN@HOU,HOU,Marcus Smart,PTS,6.29,2,10,20.6,3.5,new team,PP standard,7.5,Less,0.662,0.537,0.125,0.338,102,-135,PrizePicks / Underdog
+MIN@HOU,HOU,Alperen Sengun,PTS,18.79,12,25,29.4,4.8,minutes unclear (+5),PP standard,19.5,Less,0.567,0.49,0.077,0.433,-120,-110,PrizePicks / Underdog
+MIN@HOU,HOU,Fred VanVleet,PTS,10.81,6,16,29.6,7.7,minutes unclear (+8),PP standard,11.5,Less,0.588,0.034,0.554,0.412,-128,-2,PrizePicks / Underdog
+MIN@HOU,MIN,Jonathan Kuminga,PTS,15.45,9,21,28.5,-3.4,new team,PP standard,13.5,More,0.576,0.521,0.055,0.576,-125,-104,PrizePicks / Underdog
+MIN@HOU,MIN,LaMelo Ball,PTS,20.15,13,27,29.4,-2.6,new team,PP standard,19.5,Less,0.502,0.512,-0.01,0.498,-110,-122,PrizePicks / Underdog
+MIN@HOU,MIN,Rudy Gobert,PTS,10.5,6,15,31.4,-1.7,,PP standard,8.5,More,0.602,0.517,0.085,0.602,-123,-106,PrizePicks / Underdog
+MIN@HOU,HOU,Tari Eason,PTS,9.39,4,14,24.0,-0.3,,PP standard,9.5,Less,0.57,0.523,0.047,0.43,-103,-125,PrizePicks / Underdog
+MIN@HOU,HOU,Jabari Smith Jr,PTS,14.21,8,20,34.0,1.3,,PP standard,14.5,Less,0.561,0.49,0.071,0.439,-120,-110,PrizePicks / Underdog
+MIN@HOU,HOU,Kevin Durant,PA,26.05,19,33,32.6,-1.1,,PP standard,26.5,Less,0.546,0.5,0.046,0.454,-115,-115,PrizePicks / Underdog
+MIN@HOU,HOU,Amen Thompson,PA,19.29,13,25,31.1,-3.6,,PP standard,19.5,Less,0.545,0.51,0.034,0.455,-110,-120,PrizePicks / Underdog
+MIN@HOU,MIN,Jonathan Kuminga,PA,17.91,12,24,28.5,-3.4,new team,PP standard,16.5,More,0.541,0.509,0.032,0.541,-119,-110,PrizePicks / Underdog
+MIN@HOU,MIN,Jaden McDaniels,PA,18.28,12,25,37.9,4.5,minutes unclear (+4),PP standard,19.5,Less,0.597,0.49,0.107,0.403,-120,-110,PrizePicks / Underdog
+MIN@HOU,MIN,Ayo Dosunmu,PA,20.25,13,27,35.2,4.5,minutes unclear (+4),PP standard,19.5,More,0.507,0.52,-0.013,0.507,-125,-105,PrizePicks / Underdog
+MIN@HOU,HOU,Jabari Smith Jr,PA,15.67,10,21,34.0,1.3,,PP standard,16.5,Less,0.584,0.497,0.087,0.416,-116,-113,PrizePicks / Underdog
+MIN@HOU,HOU,Alperen Sengun,PA,23.61,17,30,29.4,4.8,minutes unclear (+5),PP standard,26.5,Less,0.66,0.511,0.149,0.34,-109,-120,PrizePicks / Underdog
+MIN@HOU,HOU,Marcus Smart,PA,8.35,4,12,20.6,3.5,new team,PP standard,9.5,Less,0.647,0.529,0.118,0.353,-101,-130,PrizePicks / Underdog
+MIN@HOU,MIN,LaMelo Ball,PA,27.0,19,35,29.4,-2.6,new team,PP standard,25.5,More,0.534,0.519,0.015,0.534,-125,-106,PrizePicks / Underdog
+MIN@HOU,MIN,Rudy Gobert,PA,11.92,7,17,31.4,-1.7,,PP standard,10.5,More,0.557,0.497,0.061,0.557,-113,-116,PrizePicks / Underdog
+MIN@HOU,HOU,Fred VanVleet,PA,14.86,9,20,29.6,7.7,minutes unclear (+8),PP standard,17.5,Less,0.682,0.51,0.172,0.318,-110,-120,PrizePicks / Underdog
+MIN@HOU,HOU,Amen Thompson,PR,22.43,16,29,31.1,-3.6,,PP standard,21.5,More,0.519,0.523,-0.004,0.519,-128,-105,PrizePicks / Underdog
+MIN@HOU,MIN,Joan Beringer,PR,11.47,6,17,17.3,-4.7,minutes unclear (-5); small sample,PP standard,11.5,Less,0.556,0.5,0.056,0.444,-115,-115,PrizePicks / Underdog
+MIN@HOU,MIN,Jaden McDaniels,PR,19.99,13,26,37.9,4.5,minutes unclear (+4),PP standard,21.5,Less,0.605,0.49,0.115,0.395,-120,-110,PrizePicks / Underdog
+MIN@HOU,HOU,Kevin Durant,PR,27.3,20,34,32.6,-1.1,,PP standard,28.5,Less,0.579,0.52,0.059,0.421,-105,-125,PrizePicks / Underdog
+MIN@HOU,MIN,Ayo Dosunmu,PR,19.88,13,26,35.2,4.5,minutes unclear (+4),PP standard,20.5,Less,0.56,0.508,0.052,0.44,-111,-119,PrizePicks / Underdog
+MIN@HOU,HOU,Jabari Smith Jr,PR,21.26,15,28,34.0,1.3,,PP standard,21.5,Less,0.543,0.505,0.038,0.457,-112,-117,PrizePicks / Underdog
+MIN@HOU,HOU,Marcus Smart,PR,8.41,4,13,20.6,3.5,new team,PP standard,9.5,Less,0.641,0.514,0.127,0.359,-108,-122,PrizePicks / Underdog
+MIN@HOU,MIN,Jonathan Kuminga,PR,20.87,14,27,28.5,-3.4,new team,PP standard,19.5,More,0.54,0.515,0.025,0.54,-122,-107,PrizePicks / Underdog
+MIN@HOU,MIN,LaMelo Ball,PR,24.2,16,32,29.4,-2.6,new team,PP standard,23.5,More,0.501,0.502,-0.001,0.501,-116,-114,PrizePicks / Underdog
+MIN@HOU,HOU,Tari Eason,PR,15.65,9,21,24.0,-0.3,,PP standard,14.5,More,0.503,0.525,-0.022,0.503,-128,-103,PrizePicks / Underdog
+MIN@HOU,MIN,Rudy Gobert,PR,20.24,14,26,31.4,-1.7,,PP standard,19.5,More,0.513,0.506,0.007,0.513,-118,-112,PrizePicks / Underdog
+MIN@HOU,HOU,Alperen Sengun,PR,27.42,20,34,29.4,4.8,minutes unclear (+5),PP standard,28.5,Less,0.575,0.478,0.098,0.425,-126,-104,PrizePicks / Underdog
+MIN@HOU,HOU,Fred VanVleet,PR,13.84,8,19,29.6,7.7,minutes unclear (+8),PP standard,15.5,Less,0.636,0.513,0.123,0.364,-108,-121,PrizePicks / Underdog
+MIN@HOU,HOU,Kevin Durant,PRA,31.25,24,39,32.6,-1.1,,PP standard,31.5,Less,0.535,0.503,0.031,0.465,-112,-115,PrizePicks / Underdog
+MIN@HOU,HOU,Amen Thompson,PRA,26.35,20,33,31.1,-3.6,,PP standard,25.5,More,0.515,0.522,-0.007,0.515,-126,-104,PrizePicks / Underdog
+MIN@HOU,MIN,Jonathan Kuminga,PRA,23.33,16,30,28.5,-3.4,new team,PP standard,21.5,More,0.56,0.52,0.04,0.56,-123,-104,PrizePicks / Underdog
+MIN@HOU,MIN,Jaden McDaniels,PRA,22.77,16,30,37.9,4.5,minutes unclear (+4),PP standard,24.5,Less,0.609,0.494,0.115,0.391,-122,-116,PrizePicks / Underdog
+MIN@HOU,MIN,Ayo Dosunmu,PRA,24.28,17,31,35.2,4.5,minutes unclear (+4),PP standard,25.5,Less,0.583,0.518,0.065,0.417,-106,-124,PrizePicks / Underdog
+MIN@HOU,HOU,Jabari Smith Jr,PRA,22.73,16,29,34.0,1.3,,PP standard,23.5,Less,0.568,0.51,0.058,0.432,-110,-120,PrizePicks / Underdog
+MIN@HOU,HOU,Fred VanVleet,PRA,17.89,12,24,29.6,7.7,minutes unclear (+8),PP standard,20.5,Less,0.674,0.496,0.178,0.326,-116,-112,PrizePicks / Underdog
+MIN@HOU,HOU,Marcus Smart,PRA,10.47,5,15,20.6,3.5,new team,PP standard,11.5,Less,0.631,0.488,0.143,0.369,-120,-108,PrizePicks / Underdog
+MIN@HOU,MIN,Rudy Gobert,PRA,21.66,16,27,31.4,-1.7,,PP standard,20.5,More,0.537,0.524,0.013,0.537,-128,-104,PrizePicks / Underdog
+MIN@HOU,HOU,Alperen Sengun,PRA,32.24,25,40,29.4,4.8,minutes unclear (+5),PP standard,35.5,Less,0.66,0.507,0.153,0.34,-112,-119,PrizePicks / Underdog
+MIN@HOU,MIN,LaMelo Ball,PRA,31.06,22,39,29.4,-2.6,new team,PP standard,29.5,More,0.534,0.518,0.016,0.534,-124,-106,PrizePicks / Underdog
+MIN@HOU,MIN,Jonathan Kuminga,REB,5.42,3,8,28.5,-3.4,new team,PP standard,5.5,Less,0.551,0.547,0.005,0.449,106,-141,PrizePicks / Underdog
+MIN@HOU,HOU,Amen Thompson,REB,7.06,5,10,31.1,-3.6,,PP standard,6.5,More,0.544,0.476,0.068,0.544,-104,-128,PrizePicks / Underdog
+MIN@HOU,MIN,Ayo Dosunmu,REB,4.03,2,6,35.2,4.5,minutes unclear (+4),PP standard,4.5,Less,0.621,0.49,0.132,0.378,-120,-110,PrizePicks / Underdog
+MIN@HOU,HOU,Kevin Durant,REB,5.2,3,7,32.6,-1.1,,PP standard,5.5,Less,0.582,0.576,0.006,0.418,120,-161,PrizePicks / Underdog
+MIN@HOU,HOU,Marcus Smart,REB,2.12,1,3,20.6,3.5,new team,book line,2.5,Less,0.656,0.571,0.085,0.344,118,-156,Kalshi / Underdog
+MIN@HOU,MIN,Jaden McDaniels,REB,4.49,2,6,37.9,4.5,minutes unclear (+4),PP standard,4.5,Less,0.545,0.446,0.099,0.455,-145,110,PrizePicks / Underdog
+MIN@HOU,MIN,LaMelo Ball,REB,4.05,2,6,29.4,-2.6,new team,PP standard,3.5,More,0.556,0.571,-0.015,0.556,-158,117,PrizePicks / Underdog
+MIN@HOU,HOU,Tari Eason,REB,6.26,4,9,24.0,-0.3,,PP standard,5.5,More,0.547,0.492,0.055,0.547,-110,-118,PrizePicks / Underdog
+MIN@HOU,MIN,Rudy Gobert,REB,9.74,7,13,31.4,-1.7,,PP standard,10.5,Less,0.608,0.497,0.111,0.392,-118,-115,PrizePicks / Underdog
+MIN@HOU,HOU,Fred VanVleet,REB,3.03,1,5,29.6,7.7,minutes unclear (+8),book line,3.5,Less,0.639,0.59,0.049,0.361,129,-170,Kalshi / Underdog
+MIN@HOU,HOU,Jabari Smith Jr,REB,7.06,4,10,34.0,1.3,,PP standard,6.5,More,0.543,0.477,0.066,0.543,-105,-128,PrizePicks / Underdog
+MIN@HOU,HOU,Alperen Sengun,REB,8.63,6,11,29.4,4.8,minutes unclear (+5),PP standard,8.5,Less,0.516,0.46,0.055,0.484,-135,104,PrizePicks / Underdog
+MIN@HOU,HOU,Kevin Durant,RA,9.15,6,12,32.6,-1.1,,PP standard,8.5,More,0.551,0.525,0.026,0.551,-128,-103,PrizePicks / Underdog
+MIN@HOU,HOU,Amen Thompson,RA,10.99,8,14,31.1,-3.6,,PP standard,10.5,More,0.527,0.496,0.031,0.527,-113,-117,PrizePicks / Underdog
+MIN@HOU,MIN,Jaden McDaniels,RA,7.27,5,10,37.9,4.5,minutes unclear (+4),PP standard,7.5,Less,0.56,0.483,0.077,0.44,-124,-107,PrizePicks / Underdog
+MIN@HOU,MIN,Jonathan Kuminga,RA,7.88,5,11,28.5,-3.4,new team,PP standard,7.5,More,0.517,0.51,0.007,0.517,-120,-110,PrizePicks / Underdog
+MIN@HOU,MIN,Ayo Dosunmu,RA,8.43,6,11,35.2,4.5,minutes unclear (+4),PP standard,9.5,Less,0.651,0.51,0.14,0.349,-110,-120,PrizePicks / Underdog
+MIN@HOU,HOU,Jabari Smith Jr,RA,8.52,6,11,34.0,1.3,,book line,8.5,Less,0.526,0.514,0.012,0.474,-108,-122,Kalshi / Underdog
+MIN@HOU,HOU,Marcus Smart,RA,4.18,2,6,20.6,3.5,new team,PP standard,4.5,Less,0.607,0.51,0.097,0.393,-110,-120,PrizePicks / Underdog
+MIN@HOU,MIN,LaMelo Ball,RA,10.91,8,14,29.4,-2.6,new team,PP standard,10.5,More,0.516,0.494,0.022,0.516,-112,-118,PrizePicks / Underdog
+MIN@HOU,MIN,Rudy Gobert,RA,11.16,8,14,31.4,-1.7,,book line,11.5,Less,0.558,0.46,0.098,0.442,-136,104,Kalshi / Underdog
+MIN@HOU,HOU,Alperen Sengun,RA,13.44,10,17,29.4,4.8,minutes unclear (+5),PP standard,15.5,Less,0.7,0.51,0.19,0.3,-110,-120,PrizePicks / Underdog
+MIN@HOU,HOU,Fred VanVleet,RA,7.08,4,10,29.6,7.7,minutes unclear (+8),PP standard,8.5,Less,0.704,0.52,0.184,0.296,-105,-125,PrizePicks / Underdog
+MIN@HOU,MIN,Jonathan Kuminga,3PM,1.13,0,2,28.5,-3.4,new team,book line,1.5,Less,0.691,0.588,0.103,0.309,128,-168,Kalshi / Underdog
+MIN@HOU,MIN,Jaden McDaniels,3PM,1.34,0,2,37.9,4.5,minutes unclear (+4),book line,1.5,Less,0.63,0.557,0.072,0.37,112,-146,Kalshi / Underdog
+MIN@HOU,HOU,Kevin Durant,3PM,1.74,0,3,32.6,-1.1,,book line,1.5,Less,0.511,0.452,0.06,0.489,-140,108,Kalshi / Underdog
+MIN@HOU,MIN,Ayo Dosunmu,3PM,1.75,0,3,35.2,4.5,minutes unclear (+4),book line,1.5,Less,0.506,0.465,0.041,0.494,-134,101,Kalshi / Underdog
+MIN@HOU,HOU,Marcus Smart,3PM,1.0,0,2,20.6,3.5,new team,book line,1.5,Less,0.733,0.6,0.134,0.267,133,-180,Kalshi / Underdog
+MIN@HOU,HOU,Fred VanVleet,3PM,2.0,1,3,29.6,7.7,minutes unclear (+8),book line,2.5,Less,0.673,0.551,0.122,0.327,108,-144,Kalshi / Underdog
+MIN@HOU,MIN,LaMelo Ball,3PM,3.9,2,6,29.4,-2.6,new team,PP standard,3.5,More,0.526,0.508,0.018,0.526,-120,-112,PrizePicks / Underdog
+MIN@HOU,HOU,Tari Eason,3PM,1.09,0,2,24.0,-0.3,,book line,1.5,Less,0.708,0.65,0.058,0.292,168,-226,Kalshi / Underdog
+MIN@HOU,HOU,Jabari Smith Jr,3PM,1.93,1,3,34.0,1.3,,book line,2.5,Less,0.69,0.583,0.107,0.31,125,-164,Kalshi / Underdog
+MIN@HOU,MIN,Joan Beringer,REB,3.89,2,6,17.3,-4.7,minutes unclear (-5); small sample,book line,5.5,Less,0.759,0.537,0.222,0.241,103,-133,Kalshi / Underdog
+MIN@HOU,HOU,Jabari Smith Jr,AST,1.46,0,2,34.0,1.3,,book line,1.5,Less,0.582,0.49,0.092,0.418,-120,-110,Kalshi / Underdog
+MIN@HOU,HOU,Tari Eason,PRA,16.85,10,23,24.0,-0.3,,PP standard,16.5,Less,0.544,0.5,0.044,0.456,-119,-119,PrizePicks / Underdog
+MIN@HOU,MIN,Joan Beringer,PRA,12.2,6,18,17.3,-4.7,minutes unclear (-5); small sample,PP standard,11.5,Less,0.515,0.5,0.015,0.485,-119,-119,PrizePicks / Underdog
+MIN@HOU,MIN,Rudy Gobert,AST,1.42,0,2,31.4,-1.7,,book line,1.5,Less,0.596,0.588,0.008,0.404,128,-167,Kalshi / Underdog

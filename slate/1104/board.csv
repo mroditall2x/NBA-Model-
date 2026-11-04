@@ -1,84 +1,84 @@
 game,team,player,stat,line,mean,p_over,mkt_over,edge,pp,exp_min,games,new_team
-MIN@HOU,MIN,Ayo Dosunmu,AST,4.5,4.3,0.425,0.478,-0.053,False,34.2,115,False
-MIN@HOU,HOU,Kevin Durant,AST,3.5,3.97,0.547,0.494,0.053,False,32.3,142,False
-MIN@HOU,MIN,LaMelo Ball,AST,6.5,6.86,0.522,0.466,0.055,False,29.1,119,True
-MIN@HOU,MIN,Jonathan Kuminga,AST,2.5,2.47,0.435,0.438,-0.003,False,28.4,83,True
-MIN@HOU,HOU,Amen Thompson,AST,3.5,4.02,0.556,0.552,0.003,False,31.3,149,False
-MIN@HOU,MIN,Jaden McDaniels,AST,2.5,2.75,0.499,0.51,-0.011,False,37.4,155,False
-MIN@HOU,HOU,Marcus Smart,AST,2.5,2.15,0.355,0.436,-0.081,False,21.3,96,True
-MIN@HOU,HOU,Alperen Sengun,AST,6.5,4.77,0.219,0.457,-0.238,False,29.2,149,False
-MIN@HOU,HOU,Fred VanVleet,AST,5.5,4.03,0.235,0.438,-0.202,False,29.2,60,False
-MIN@HOU,HOU,Kevin Durant,PTS,22.5,22.26,0.459,0.5,-0.041,False,32.3,142,False
-MIN@HOU,HOU,Amen Thompson,PTS,15.5,15.72,0.482,0.514,-0.032,False,31.3,149,False
-MIN@HOU,MIN,Jaden McDaniels,PTS,16.5,15.28,0.395,0.49,-0.095,False,37.4,155,False
-MIN@HOU,MIN,Joan Beringer,PTS,6.5,7.33,0.489,0.505,-0.016,False,16.9,40,False
-MIN@HOU,MIN,Ayo Dosunmu,PTS,16.5,15.41,0.407,0.49,-0.083,False,34.2,115,False
-MIN@HOU,HOU,Marcus Smart,PTS,7.5,6.69,0.37,0.464,-0.094,False,21.3,96,True
-MIN@HOU,HOU,Alperen Sengun,PTS,19.5,18.9,0.437,0.51,-0.073,False,29.2,149,False
-MIN@HOU,HOU,Fred VanVleet,PTS,11.5,10.75,0.409,0.527,-0.118,False,29.2,60,False
-MIN@HOU,MIN,Jonathan Kuminga,PTS,14.5,15.39,0.51,0.48,0.031,False,28.4,83,True
-MIN@HOU,MIN,LaMelo Ball,PTS,19.5,19.87,0.485,0.486,-0.001,False,29.1,119,True
-MIN@HOU,MIN,Rudy Gobert,PTS,8.5,10.34,0.593,0.514,0.079,False,31.2,148,False
-MIN@HOU,HOU,Tari Eason,PTS,8.5,8.8,0.457,0.52,-0.063,False,22.4,117,False
-MIN@HOU,HOU,Jabari Smith Jr,PTS,14.5,14.26,0.454,0.51,-0.056,False,33.5,134,False
-MIN@HOU,HOU,Kevin Durant,PA,26.5,26.23,0.46,0.49,-0.03,False,32.3,142,False
-MIN@HOU,HOU,Amen Thompson,PA,19.5,19.74,0.485,0.519,-0.034,False,31.3,149,False
-MIN@HOU,MIN,Jonathan Kuminga,PA,16.5,17.85,0.536,0.51,0.026,False,28.4,83,True
-MIN@HOU,MIN,Jaden McDaniels,PA,19.5,18.03,0.39,0.498,-0.108,False,37.4,155,False
-MIN@HOU,MIN,Ayo Dosunmu,PA,21.5,19.7,0.381,0.49,-0.109,False,34.2,115,False
-MIN@HOU,HOU,Jabari Smith Jr,PA,16.5,15.72,0.426,0.516,-0.09,False,33.5,134,False
-MIN@HOU,HOU,Alperen Sengun,PA,27.5,23.66,0.294,0.49,-0.195,False,29.2,149,False
-MIN@HOU,HOU,Marcus Smart,PA,9.5,8.84,0.387,0.5,-0.113,False,21.3,96,True
-MIN@HOU,MIN,LaMelo Ball,PA,25.5,26.73,0.521,0.894,-0.372,False,29.1,119,True
-MIN@HOU,MIN,Rudy Gobert,PA,10.5,11.8,0.55,0.49,0.06,False,31.2,148,False
-MIN@HOU,HOU,Fred VanVleet,PA,17.5,14.78,0.314,0.495,-0.181,False,29.2,60,False
-MIN@HOU,HOU,Amen Thompson,PR,22.5,22.8,0.492,0.496,-0.004,False,31.3,149,False
-MIN@HOU,MIN,Joan Beringer,PR,12.5,11.19,0.374,0.51,-0.137,False,16.9,40,False
-MIN@HOU,MIN,Jaden McDaniels,PR,21.5,19.76,0.382,0.5,-0.118,False,37.4,155,False
-MIN@HOU,HOU,Kevin Durant,PR,27.5,27.46,0.473,0.515,-0.042,False,32.3,142,False
-MIN@HOU,MIN,Ayo Dosunmu,PR,21.5,19.37,0.364,0.498,-0.134,False,34.2,115,False
-MIN@HOU,HOU,Jabari Smith Jr,PR,21.5,21.25,0.459,0.499,-0.04,False,33.5,134,False
-MIN@HOU,HOU,Marcus Smart,PR,9.5,8.89,0.395,0.505,-0.111,False,21.3,96,True
-MIN@HOU,MIN,Jonathan Kuminga,PR,19.5,20.87,0.542,0.509,0.033,False,28.4,83,True
-MIN@HOU,MIN,LaMelo Ball,PR,23.5,23.98,0.494,0.506,-0.012,False,29.1,119,True
-MIN@HOU,HOU,Tari Eason,PR,14.5,14.6,0.451,0.501,-0.05,False,22.4,117,False
-MIN@HOU,MIN,Rudy Gobert,PR,19.5,20.15,0.511,0.526,-0.016,False,31.2,148,False
-MIN@HOU,HOU,Alperen Sengun,PR,28.5,27.45,0.426,0.524,-0.098,False,29.2,149,False
-MIN@HOU,HOU,Fred VanVleet,PR,15.5,13.74,0.358,0.49,-0.132,False,29.2,60,False
-MIN@HOU,HOU,Kevin Durant,PRA,31.5,31.42,0.468,0.499,-0.031,False,32.3,142,False
-MIN@HOU,HOU,Amen Thompson,PRA,26.5,26.82,0.494,0.486,0.008,False,31.3,149,False
-MIN@HOU,MIN,Jonathan Kuminga,PRA,22.5,23.33,0.512,0.489,0.023,False,28.4,83,True
-MIN@HOU,MIN,Jaden McDaniels,PRA,24.5,22.51,0.378,0.498,-0.12,False,37.4,155,False
-MIN@HOU,MIN,Ayo Dosunmu,PRA,25.5,23.67,0.385,0.504,-0.119,False,34.2,115,False
-MIN@HOU,HOU,Jabari Smith Jr,PRA,23.5,22.71,0.434,0.494,-0.06,False,33.5,134,False
-MIN@HOU,HOU,Fred VanVleet,PRA,20.5,17.77,0.321,0.51,-0.189,False,29.2,60,False
-MIN@HOU,HOU,Marcus Smart,PRA,12.5,11.04,0.35,0.469,-0.12,False,21.3,96,True
-MIN@HOU,MIN,Rudy Gobert,PRA,21.5,21.61,0.48,0.495,-0.016,False,31.2,148,False
-MIN@HOU,HOU,Alperen Sengun,PRA,35.5,32.22,0.342,0.492,-0.15,False,29.2,149,False
-MIN@HOU,MIN,LaMelo Ball,PRA,30.5,30.83,0.488,0.49,-0.002,False,29.1,119,True
-MIN@HOU,MIN,Jonathan Kuminga,REB,5.5,5.48,0.458,0.457,0.001,False,28.4,83,True
-MIN@HOU,HOU,Amen Thompson,REB,6.5,7.08,0.541,0.017,0.524,False,31.3,149,False
-MIN@HOU,MIN,Ayo Dosunmu,REB,4.5,3.96,0.363,0.363,0.0,False,34.2,115,False
-MIN@HOU,HOU,Kevin Durant,REB,5.5,5.2,0.414,0.421,-0.007,False,32.3,142,False
-MIN@HOU,HOU,Marcus Smart,REB,2.5,2.2,0.369,0.437,-0.069,False,21.3,96,True
-MIN@HOU,MIN,Jaden McDaniels,REB,4.5,4.48,0.452,0.572,-0.12,False,37.4,155,False
-MIN@HOU,MIN,LaMelo Ball,REB,3.5,4.1,0.56,0.579,-0.019,False,29.1,119,True
-MIN@HOU,HOU,Tari Eason,REB,5.5,5.8,0.488,0.474,0.013,False,22.4,117,False
-MIN@HOU,MIN,Rudy Gobert,REB,10.5,9.81,0.399,0.524,-0.125,False,31.2,148,False
-MIN@HOU,HOU,Fred VanVleet,REB,3.5,2.99,0.348,0.416,-0.068,False,29.2,60,False
-MIN@HOU,HOU,Jabari Smith Jr,REB,6.5,6.99,0.533,0.639,-0.106,False,33.5,134,False
-MIN@HOU,HOU,Alperen Sengun,REB,8.5,8.55,0.478,0.526,-0.047,False,29.2,149,False
-MIN@HOU,HOU,Kevin Durant,RA,8.5,9.16,0.547,0.529,0.017,False,32.3,142,False
-MIN@HOU,HOU,Amen Thompson,RA,10.5,11.1,0.535,0.477,0.058,False,31.3,149,False
-MIN@HOU,MIN,Jaden McDaniels,RA,7.5,7.24,0.429,0.536,-0.107,False,37.4,155,False
-MIN@HOU,MIN,Jonathan Kuminga,RA,7.5,7.95,0.525,0.52,0.004,False,28.4,83,True
-MIN@HOU,MIN,Ayo Dosunmu,RA,9.5,8.26,0.329,0.497,-0.168,False,34.2,115,False
-MIN@HOU,HOU,Jabari Smith Jr,RA,8.5,8.45,0.462,0.469,-0.007,False,33.5,134,False
-MIN@HOU,HOU,Marcus Smart,RA,4.5,4.35,0.421,0.528,-0.107,False,21.3,96,True
-MIN@HOU,MIN,LaMelo Ball,RA,10.5,10.96,0.522,0.5,0.022,False,29.1,119,True
-MIN@HOU,MIN,Rudy Gobert,RA,12.5,11.27,0.353,0.49,-0.137,False,31.2,148,False
-MIN@HOU,HOU,Alperen Sengun,RA,15.5,13.32,0.287,0.48,-0.192,False,29.2,149,False
-MIN@HOU,HOU,Fred VanVleet,RA,8.5,7.01,0.29,0.48,-0.19,False,29.2,60,False
-MIN@HOU,MIN,Joan Beringer,REB,5.5,3.87,0.237,0.491,-0.254,False,16.9,40,False
-MIN@HOU,HOU,Jabari Smith Jr,AST,1.5,1.46,0.413,0.366,0.047,False,33.5,134,False
-MIN@HOU,MIN,Rudy Gobert,AST,1.5,1.46,0.413,0.456,-0.043,False,31.2,148,False
+MIN@HOU,MIN,Ayo Dosunmu,AST,4.5,4.4,0.452,0.467,-0.014,False,35.2,115,False
+MIN@HOU,HOU,Kevin Durant,AST,3.5,3.95,0.542,0.49,0.052,False,32.6,142,False
+MIN@HOU,MIN,LaMelo Ball,AST,6.5,6.85,0.52,0.455,0.064,False,29.4,119,True
+MIN@HOU,MIN,Jonathan Kuminga,AST,2.5,2.46,0.435,0.429,0.006,False,28.5,83,True
+MIN@HOU,HOU,Amen Thompson,AST,3.5,3.92,0.54,0.559,-0.019,False,31.1,149,False
+MIN@HOU,MIN,Jaden McDaniels,AST,2.5,2.78,0.506,0.509,-0.003,False,37.9,155,False
+MIN@HOU,HOU,Marcus Smart,AST,2.5,2.06,0.335,0.434,-0.098,False,20.6,96,True
+MIN@HOU,HOU,Alperen Sengun,AST,6.5,4.81,0.226,0.447,-0.222,False,29.4,149,False
+MIN@HOU,HOU,Fred VanVleet,AST,5.5,4.05,0.238,0.434,-0.196,False,29.6,60,False
+MIN@HOU,HOU,Kevin Durant,PTS,22.5,22.1,0.456,0.51,-0.054,False,32.6,142,False
+MIN@HOU,HOU,Amen Thompson,PTS,15.5,15.36,0.46,0.486,-0.026,False,31.1,149,False
+MIN@HOU,MIN,Jaden McDaniels,PTS,16.5,15.5,0.412,0.493,-0.081,False,37.9,155,False
+MIN@HOU,MIN,Joan Beringer,PTS,6.5,7.57,0.511,0.477,0.034,False,17.3,40,False
+MIN@HOU,MIN,Ayo Dosunmu,PTS,15.5,15.85,0.485,0.49,-0.005,False,35.2,115,False
+MIN@HOU,HOU,Marcus Smart,PTS,7.5,6.29,0.338,0.463,-0.125,False,20.6,96,True
+MIN@HOU,HOU,Alperen Sengun,PTS,19.5,18.79,0.433,0.51,-0.077,False,29.4,149,False
+MIN@HOU,HOU,Fred VanVleet,PTS,11.5,10.81,0.412,0.966,-0.554,False,29.6,60,False
+MIN@HOU,MIN,Jonathan Kuminga,PTS,13.5,15.45,0.576,0.521,0.055,False,28.5,83,True
+MIN@HOU,MIN,LaMelo Ball,PTS,19.5,20.15,0.498,0.488,0.01,False,29.4,119,True
+MIN@HOU,MIN,Rudy Gobert,PTS,8.5,10.5,0.602,0.517,0.085,False,31.4,148,False
+MIN@HOU,HOU,Tari Eason,PTS,9.5,9.39,0.43,0.477,-0.047,False,24.0,117,False
+MIN@HOU,HOU,Jabari Smith Jr,PTS,14.5,14.21,0.439,0.51,-0.071,False,34.0,134,False
+MIN@HOU,HOU,Kevin Durant,PA,26.5,26.05,0.454,0.5,-0.046,False,32.6,142,False
+MIN@HOU,HOU,Amen Thompson,PA,19.5,19.29,0.455,0.49,-0.034,False,31.1,149,False
+MIN@HOU,MIN,Jonathan Kuminga,PA,16.5,17.91,0.541,0.509,0.032,False,28.5,83,True
+MIN@HOU,MIN,Jaden McDaniels,PA,19.5,18.28,0.403,0.51,-0.107,False,37.9,155,False
+MIN@HOU,MIN,Ayo Dosunmu,PA,19.5,20.25,0.507,0.52,-0.013,False,35.2,115,False
+MIN@HOU,HOU,Jabari Smith Jr,PA,16.5,15.67,0.416,0.503,-0.087,False,34.0,134,False
+MIN@HOU,HOU,Alperen Sengun,PA,26.5,23.61,0.34,0.489,-0.149,False,29.4,149,False
+MIN@HOU,HOU,Marcus Smart,PA,9.5,8.35,0.353,0.471,-0.118,False,20.6,96,True
+MIN@HOU,MIN,LaMelo Ball,PA,25.5,27.0,0.534,0.519,0.015,False,29.4,119,True
+MIN@HOU,MIN,Rudy Gobert,PA,10.5,11.92,0.557,0.497,0.061,False,31.4,148,False
+MIN@HOU,HOU,Fred VanVleet,PA,17.5,14.86,0.318,0.49,-0.172,False,29.6,60,False
+MIN@HOU,HOU,Amen Thompson,PR,21.5,22.43,0.519,0.523,-0.004,False,31.1,149,False
+MIN@HOU,MIN,Joan Beringer,PR,11.5,11.47,0.444,0.5,-0.056,False,17.3,40,False
+MIN@HOU,MIN,Jaden McDaniels,PR,21.5,19.99,0.395,0.51,-0.115,False,37.9,155,False
+MIN@HOU,HOU,Kevin Durant,PR,28.5,27.3,0.421,0.48,-0.059,False,32.6,142,False
+MIN@HOU,MIN,Ayo Dosunmu,PR,20.5,19.88,0.44,0.492,-0.052,False,35.2,115,False
+MIN@HOU,HOU,Jabari Smith Jr,PR,21.5,21.26,0.457,0.495,-0.038,False,34.0,134,False
+MIN@HOU,HOU,Marcus Smart,PR,9.5,8.41,0.359,0.486,-0.127,False,20.6,96,True
+MIN@HOU,MIN,Jonathan Kuminga,PR,19.5,20.87,0.54,0.515,0.025,False,28.5,83,True
+MIN@HOU,MIN,LaMelo Ball,PR,23.5,24.2,0.501,0.502,-0.001,False,29.4,119,True
+MIN@HOU,HOU,Tari Eason,PR,14.5,15.65,0.503,0.525,-0.022,False,24.0,117,False
+MIN@HOU,MIN,Rudy Gobert,PR,19.5,20.24,0.513,0.506,0.007,False,31.4,148,False
+MIN@HOU,HOU,Alperen Sengun,PR,28.5,27.42,0.425,0.522,-0.098,False,29.4,149,False
+MIN@HOU,HOU,Fred VanVleet,PR,15.5,13.84,0.364,0.487,-0.123,False,29.6,60,False
+MIN@HOU,HOU,Kevin Durant,PRA,31.5,31.25,0.465,0.497,-0.031,False,32.6,142,False
+MIN@HOU,HOU,Amen Thompson,PRA,25.5,26.35,0.515,0.522,-0.007,False,31.1,149,False
+MIN@HOU,MIN,Jonathan Kuminga,PRA,21.5,23.33,0.56,0.52,0.04,False,28.5,83,True
+MIN@HOU,MIN,Jaden McDaniels,PRA,24.5,22.77,0.391,0.506,-0.115,False,37.9,155,False
+MIN@HOU,MIN,Ayo Dosunmu,PRA,25.5,24.28,0.417,0.482,-0.065,False,35.2,115,False
+MIN@HOU,HOU,Jabari Smith Jr,PRA,23.5,22.73,0.432,0.49,-0.058,False,34.0,134,False
+MIN@HOU,HOU,Fred VanVleet,PRA,20.5,17.89,0.326,0.504,-0.178,False,29.6,60,False
+MIN@HOU,HOU,Marcus Smart,PRA,11.5,10.47,0.369,0.512,-0.143,False,20.6,96,True
+MIN@HOU,MIN,Rudy Gobert,PRA,20.5,21.66,0.537,0.524,0.013,False,31.4,148,False
+MIN@HOU,HOU,Alperen Sengun,PRA,35.5,32.24,0.34,0.493,-0.153,False,29.4,149,False
+MIN@HOU,MIN,LaMelo Ball,PRA,29.5,31.06,0.534,0.518,0.016,False,29.4,119,True
+MIN@HOU,MIN,Jonathan Kuminga,REB,5.5,5.42,0.449,0.453,-0.005,False,28.5,83,True
+MIN@HOU,HOU,Amen Thompson,REB,6.5,7.06,0.544,0.476,0.068,False,31.1,149,False
+MIN@HOU,MIN,Ayo Dosunmu,REB,4.5,4.03,0.378,0.51,-0.132,False,35.2,115,False
+MIN@HOU,HOU,Kevin Durant,REB,5.5,5.2,0.418,0.424,-0.006,False,32.6,142,False
+MIN@HOU,HOU,Marcus Smart,REB,2.5,2.12,0.344,0.429,-0.085,False,20.6,96,True
+MIN@HOU,MIN,Jaden McDaniels,REB,4.5,4.49,0.455,0.554,-0.099,False,37.9,155,False
+MIN@HOU,MIN,LaMelo Ball,REB,3.5,4.05,0.556,0.571,-0.015,False,29.4,119,True
+MIN@HOU,HOU,Tari Eason,REB,5.5,6.26,0.547,0.492,0.055,False,24.0,117,False
+MIN@HOU,MIN,Rudy Gobert,REB,10.5,9.74,0.392,0.503,-0.111,False,31.4,148,False
+MIN@HOU,HOU,Fred VanVleet,REB,3.5,3.03,0.361,0.41,-0.049,False,29.6,60,False
+MIN@HOU,HOU,Jabari Smith Jr,REB,6.5,7.06,0.543,0.477,0.066,False,34.0,134,False
+MIN@HOU,HOU,Alperen Sengun,REB,8.5,8.63,0.484,0.54,-0.055,False,29.4,149,False
+MIN@HOU,HOU,Kevin Durant,RA,8.5,9.15,0.551,0.525,0.026,False,32.6,142,False
+MIN@HOU,HOU,Amen Thompson,RA,10.5,10.99,0.527,0.496,0.031,False,31.1,149,False
+MIN@HOU,MIN,Jaden McDaniels,RA,7.5,7.27,0.44,0.517,-0.077,False,37.9,155,False
+MIN@HOU,MIN,Jonathan Kuminga,RA,7.5,7.88,0.517,0.51,0.007,False,28.5,83,True
+MIN@HOU,MIN,Ayo Dosunmu,RA,9.5,8.43,0.349,0.49,-0.14,False,35.2,115,False
+MIN@HOU,HOU,Jabari Smith Jr,RA,8.5,8.52,0.474,0.486,-0.012,False,34.0,134,False
+MIN@HOU,HOU,Marcus Smart,RA,4.5,4.18,0.393,0.49,-0.097,False,20.6,96,True
+MIN@HOU,MIN,LaMelo Ball,RA,10.5,10.91,0.516,0.494,0.022,False,29.4,119,True
+MIN@HOU,MIN,Rudy Gobert,RA,11.5,11.16,0.442,0.54,-0.098,False,31.4,148,False
+MIN@HOU,HOU,Alperen Sengun,RA,15.5,13.44,0.3,0.49,-0.19,False,29.4,149,False
+MIN@HOU,HOU,Fred VanVleet,RA,8.5,7.08,0.296,0.48,-0.184,False,29.6,60,False
+MIN@HOU,MIN,Joan Beringer,REB,5.5,3.89,0.241,0.463,-0.222,False,17.3,40,False
+MIN@HOU,HOU,Jabari Smith Jr,AST,1.5,1.46,0.418,0.51,-0.092,False,34.0,134,False
+MIN@HOU,MIN,Rudy Gobert,AST,1.5,1.42,0.404,0.412,-0.008,False,31.4,148,False

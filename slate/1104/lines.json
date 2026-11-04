@@ -8,14 +8,14 @@
    "home_spread": -2.5,
    "spread_odds": [
     -110,
-    -107
+    -110
    ],
-   "ml_home": -140,
-   "ml_away": 120,
-   "total": 219.0,
+   "ml_home": -139,
+   "ml_away": 116,
+   "total": 219.5,
    "total_odds": [
-    -112,
-    -108
+    -108,
+    -112
    ]
   },
   {
@@ -30,10 +30,10 @@
    ],
    "ml_home": 130,
    "ml_away": -150,
-   "total": 232.5,
+   "total": 231.0,
    "total_odds": [
     -110,
-    -110
+    -109
    ]
   },
   {
@@ -43,15 +43,15 @@
    "commence": "2026-11-05T00:30:00Z",
    "home_spread": 3.5,
    "spread_odds": [
-    -109,
-    -110
+    -105,
+    -114
    ],
-   "ml_home": 142,
-   "ml_away": -167,
-   "total": 213.0,
+   "ml_home": 140,
+   "ml_away": -166,
+   "total": 212.5,
    "total_odds": [
     -110,
-    -110
+    -108
    ]
   },
   {
@@ -59,14 +59,14 @@
    "home": "BOS",
    "id": "1cb12166c3eda270d40cc65b9b34459a",
    "commence": "2026-11-05T00:40:00Z",
-   "home_spread": -11.5,
+   "home_spread": -11.0,
    "spread_odds": [
     -110,
-    -110
+    -108
    ],
-   "ml_home": -567,
-   "ml_away": 410,
-   "total": 223.0,
+   "ml_home": -495,
+   "ml_away": 374,
+   "total": 221.5,
    "total_odds": [
     -110,
     -110
@@ -77,13 +77,13 @@
    "home": "NY",
    "id": "87d2b814c3f0d3691e9cebbf2de76295",
    "commence": "2026-11-05T00:40:00Z",
-   "home_spread": -12.5,
+   "home_spread": -12.0,
    "spread_odds": [
-    -105,
-    -115
+    -110,
+    -110
    ],
-   "ml_home": -625,
-   "ml_away": 443,
+   "ml_home": -590,
+   "ml_away": 440,
    "total": 233.5,
    "total_odds": [
     -110,
@@ -100,12 +100,12 @@
     -110,
     -110
    ],
-   "ml_home": -155,
-   "ml_away": 133,
-   "total": 227.0,
+   "ml_home": -160,
+   "ml_away": 138,
+   "total": 226.5,
    "total_odds": [
-    -105,
-    -114
+    -110,
+    -110
    ]
   },
   {
@@ -113,17 +113,17 @@
    "home": "MEM",
    "id": "3469f522ffcacb13f88e6cd297adc110",
    "commence": "2026-11-05T01:10:00Z",
-   "home_spread": -6.5,
+   "home_spread": -6.0,
    "spread_odds": [
-    -114,
-    -106
-   ],
-   "ml_home": -248,
-   "ml_away": 200,
-   "total": 229.0,
-   "total_odds": [
-    -112,
+    -110,
     -108
+   ],
+   "ml_home": -230,
+   "ml_away": 190,
+   "total": 228.5,
+   "total_odds": [
+    -110,
+    -110
    ]
   },
   {
@@ -131,17 +131,17 @@
    "home": "NO",
    "id": "0b5966b7b96eb844618eea8f215a0c71",
    "commence": "2026-11-05T01:10:00Z",
-   "home_spread": -6.0,
+   "home_spread": -5.0,
    "spread_odds": [
-    -110,
-    -110
+    -105,
+    -111
    ],
-   "ml_home": -230,
-   "ml_away": 191,
-   "total": 233.5,
+   "ml_home": -200,
+   "ml_away": 170,
+   "total": 232.0,
    "total_odds": [
     -108,
-    -110
+    -112
    ]
   },
   {
@@ -154,12 +154,12 @@
     -110,
     -110
    ],
-   "ml_home": -287,
+   "ml_home": -280,
    "ml_away": 230,
-   "total": 220.5,
+   "total": 219.5,
    "total_odds": [
-    -112,
-    -106
+    -110,
+    -110
    ]
   },
   {
@@ -170,14 +170,14 @@
    "home_spread": -4.5,
    "spread_odds": [
     -110,
-    -110
+    -109
    ],
-   "ml_home": -190,
-   "ml_away": 160,
-   "total": 230.5,
+   "ml_home": -195,
+   "ml_away": 163,
+   "total": 231.5,
    "total_odds": [
-    -114,
-    -105
+    -110,
+    -110
    ]
   },
   {
@@ -192,10 +192,10 @@
    ],
    "ml_home": 129,
    "ml_away": -150,
-   "total": 228.0,
+   "total": 227.5,
    "total_odds": [
-    -108,
-    -112
+    -110,
+    -110
    ]
   },
   {
@@ -203,14 +203,14 @@
    "home": "SA",
    "id": "6b25f3932db93d4c5ad7658def2645bf",
    "commence": "2026-11-05T02:30:00Z",
-   "home_spread": -12.0,
+   "home_spread": -12.5,
    "spread_odds": [
-    -112,
-    -106
+    -108,
+    -110
    ],
-   "ml_home": -597,
-   "ml_away": 443,
-   "total": 227.0,
+   "ml_home": -615,
+   "ml_away": 450,
+   "total": 226.5,
    "total_odds": [
     -110,
     -110
@@ -223,12 +223,12 @@
    "commence": "2026-11-05T03:10:00Z",
    "home_spread": 12.5,
    "spread_odds": [
-    -110,
-    -110
+    -112,
+    -109
    ],
    "ml_home": 450,
-   "ml_away": -625,
-   "total": 234.5,
+   "ml_away": -600,
+   "total": 233.5,
    "total_odds": [
     -110,
     -110
@@ -239,13 +239,13 @@
    "home": "LAC",
    "id": "72c786e70ad9360fdc41e4c2a50fa788",
    "commence": "2026-11-05T03:40:00Z",
-   "home_spread": 5.0,
+   "home_spread": 5.5,
    "spread_odds": [
-    -105,
-    -113
+    -108,
+    -110
    ],
-   "ml_home": 170,
-   "ml_away": -200,
+   "ml_home": 180,
+   "ml_away": -216,
    "total": 233.5,
    "total_odds": [
     -110,

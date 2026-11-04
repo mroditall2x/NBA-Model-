@@ -1,8 +1,8 @@
 game,team,player,stat,line,side,p,mean,min,grade,where
-MIN@HOU,HOU,Tari Eason,3PM,1.5,Less,0.637,1.02,22.4,card,Kalshi / Underdog
-MIN@HOU,HOU,Jabari Smith Jr,3PM,2.5,Less,0.61,1.94,33.5,card,Kalshi / Underdog
-MIN@HOU,HOU,Kevin Durant,AST,3.5,More,0.528,3.97,32.3,lean,PrizePicks / Underdog
-MIN@HOU,HOU,Amen Thompson,PTS,15.5,Less,0.511,15.72,31.3,lean,PrizePicks / Underdog
-MIN@HOU,MIN,Jonathan Kuminga,3PM,1.5,Less,0.62,1.11,28.4,lean,Kalshi / Underdog
-MIN@HOU,MIN,Rudy Gobert,RA,12.5,Less,0.588,11.27,31.2,card,PrizePicks / Underdog
-MIN@HOU,MIN,LaMelo Ball,RA,10.5,More,0.513,10.96,29.1,lean,PrizePicks / Underdog
+MIN@HOU,HOU,Marcus Smart,3PM,1.5,Less,0.64,1.0,20.6,lean,Kalshi / Underdog
+MIN@HOU,HOU,Tari Eason,3PM,1.5,Less,0.625,1.09,24.0,card,Kalshi / Underdog
+MIN@HOU,HOU,Jabari Smith Jr,PA,16.5,Less,0.55,15.67,34.0,lean,PrizePicks / Underdog
+MIN@HOU,HOU,Kevin Durant,RA,8.5,More,0.531,9.15,32.6,lean,PrizePicks / Underdog
+MIN@HOU,MIN,Jonathan Kuminga,3PM,1.5,Less,0.615,1.13,28.5,lean,Kalshi / Underdog
+MIN@HOU,MIN,Rudy Gobert,REB,10.5,Less,0.565,9.74,31.4,lean,PrizePicks / Underdog
+MIN@HOU,MIN,LaMelo Ball,AST,6.5,More,0.512,6.85,29.4,lean,Kalshi / Underdog
