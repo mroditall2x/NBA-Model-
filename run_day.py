@@ -25,6 +25,7 @@ os.environ['NO_OUTGUESS']='1'; os.environ['SAVE_SIM']='1'
 sh(f'python3 slate1021.py {DATE} {D} > {D}/p1.log'); sh(f'python3 blend_minutes.py {D}')
 sh(f'python3 slate1021.py {DATE} {D} --blend > {D}/p2.log'); sh(f'python3 dvp.py {D}'); sh(f'python3 card_slate.py {D} > /dev/null')
 subprocess.run(f'python3 boom.py {D}', shell=True)
+subprocess.run(f'python3 longshot.py {D} > {D}/longshot.log', shell=True)   # separate long-shot section (same-player alt combos)
 if os.path.exists(f'{D}/fb_odds.json'):
     _fbold=pd.read_csv(f'{D}/fb_priced.csv') if os.path.exists(f'{D}/fb_priced.csv') else None
     subprocess.run(f'python3 fb_price.py {D} > {D}/fb.log', shell=True)

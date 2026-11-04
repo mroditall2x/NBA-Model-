@@ -53,6 +53,7 @@ main{max-width:860px;margin:0 auto;padding:16px}
     <button data-t="boom">30+ watch</button>
     <button data-t="fb">First basket</button>
     <button data-t="mx">Matchups</button>
+    <button data-t="ls">Long shots</button>
     <button data-t="results">Results</button>
   </nav>
 </header>
@@ -172,6 +173,14 @@ async function render(){
       <div>${chips(SN,__mx.s,'s')}</div><div>${chips(PN,__mx.p,'p')}</div>
       <div class="game"><div class="ghead">${SN[__mx.s]} allowed to ${PN[__mx.p]}<small>softest → toughest</small></div>${rows.map((r,i)=>{const v=(r.dvp-1)*100;
       return `<div class="row"><b>${i+1}. ${esc(r.opponent_team_abbreviation)}</b><div class="r ${v>=5?'win':v<=-5?'loss':'push'}">${v>=0?'+':''}${v.toFixed(0)}%${i<10?' · soft':i>=rows.length-10?' · tough':''}</div></div>`}).join('')}</div>`;
+  }
+  if(tab==='ls'){
+    const rows=await csv(D+'longshots.csv');
+    if(!rows||!rows.length) return V.innerHTML='<div class="empty">No long shots for this day.</div>';
+    V.innerHTML='<div class="legend">Same-player alt combos (build as an SGP). Chance comes straight from the sims, so the link between the two stats is built in. <b>Only bet if the app pays MORE than the fair odds.</b> Tiny stakes (0.25u). Kept separate from the main card. <span class="tag lean">SPECIAL</span> = bigger role tonight (teammate out / more minutes).</div>'+
+      [...group(rows,'game')].map(([g,gr])=>`<div class="game"><div class="ghead">${esc(g)}</div>`+gr.map(r=>`<div class="pick"><div class="who">${esc(r.player)} <span style="color:var(--muted);font-weight:400">${esc(r.team)}</span>${(r.special===true||r.special==='True')?'<span class="tag lean">SPECIAL</span>':''}</div>
+        <div class="pct">${esc(r.fair_odds)}<div style="font:500 11px Inter;color:var(--muted)">fair</div></div>
+        <div class="what"><b>${esc(r.combo)}</b> · ${pct(r.chance)} · ${esc(r.avg)} · ${r.min} min${+r.min_bump>0?` (+${r.min_bump})`:''}</div></div>`).join('')+'</div>').join('');
   }
   if(tab==='results'){
     const g=(await csv('graded_log.csv'))||[];
