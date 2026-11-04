@@ -176,11 +176,11 @@ async function render(){
   }
   if(tab==='ls'){
     const rows=await csv(D+'longshots.csv');
-    if(!rows||!rows.length) return V.innerHTML='<div class="empty">No long shots for this day.</div>';
+    if(!rows||!rows.length) return V.innerHTML='<div class="empty">No situation lines up today, so no long shots. That is the point.</div>';
     V.innerHTML='<div class="legend">Same-player alt combos (build as an SGP). Chance comes straight from the sims, so the link between the two stats is built in. <b>Only bet if the app pays MORE than the fair odds.</b> Tiny stakes (0.25u). Kept separate from the main card. <span class="tag lean">SPECIAL</span> = bigger role tonight (teammate out / more minutes).</div>'+
       [...group(rows,'game')].map(([g,gr])=>`<div class="game"><div class="ghead">${esc(g)}</div>`+gr.map(r=>`<div class="pick"><div class="who">${esc(r.player)} <span style="color:var(--muted);font-weight:400">${esc(r.team)}</span>${(r.special===true||r.special==='True')?'<span class="tag lean">SPECIAL</span>':''}</div>
         <div class="pct">${esc(r.fair_odds)}<div style="font:500 11px Inter;color:var(--muted)">fair</div></div>
-        <div class="what"><b>${esc(r.combo)}</b> · ${pct(r.chance)} · ${esc(r.avg)} · ${r.min} min${+r.min_bump>0?` (+${r.min_bump})`:''}</div></div>`).join('')+'</div>').join('');
+        <div class="what"><b>${esc(r.combo)}</b> · ${pct(r.chance)} · <span style="color:var(--amber)">${esc(r.why||'')}</span> · ${esc(r.avg)} · ${r.min} min${+r.min_bump>0?` (+${r.min_bump})`:''}</div></div>`).join('')+'</div>').join('');
   }
   if(tab==='results'){
     const g=(await csv('graded_log.csv'))||[];
