@@ -81,7 +81,7 @@ const label=d=>new Date(2026,+d.slice(0,2)-1,+d.slice(2)).toLocaleDateString('en
 function group(rows,k){const m=new Map();rows.forEach(r=>{if(!m.has(r[k]))m.set(r[k],[]);m.get(r[k]).push(r)});return m}
 function pickRow(r,extra=''){
   return `<div class="pick"><div class="who">${esc(r.player)}${extra}</div><div class="pct">${pct(r.p)}</div>
-  <div class="what">${side(r.side)} ${r.line} ${STAT[r.stat]||r.stat} · avg ${r.mean} · ${esc(r.where)}</div></div>`;
+  <div class="what">${side(r.side)} ${r.line} ${STAT[r.stat]||r.stat} · avg ${r.mean}${r.price&&r.price===r.price?` · ${r.price>0?'+':''}${r.price}`:''}${r.ev!==undefined&&r.ev!==''&&r.ev!==null&&!isNaN(r.ev)?` · EV ${r.ev>0?'+':''}${Math.round(r.ev*100)}%`:''} · ${esc(r.where)}</div></div>`;
 }
 async function render(){
   V.innerHTML='<div class="empty">Loading…</div>';
@@ -115,11 +115,13 @@ async function render(){
     let h='';
     for(const [g,list] of group(rows,'game')){
       h+=`<div class="game"><div class="ghead">${esc(g)}<small>${list.length} plays</small></div>`+list.map(r=>{
-        const x=res[r.player+r.stat]; const tg=r.tier==='goblin'?'<span class="tag gob">GOBLIN</span>':'';
+        const x=res[r.player+r.stat]; const tg=(r.top===true||r.top==='True'?'<span class="tag card">⭐ TOP</span>':'')+(r.tier==='goblin'?'<span class="tag gob">GOBLIN</span>':'')+(+r.ev>=0.05?'<span class="tag card">EV+</span>':'');
         const out=x?` <span class="tag ${x.result==='Win'?'card':'lean'}" style="${x.result==='Loss'?'color:#f87171;background:#f8717122':''}">${x.result} · ${x.actual}</span>`:'';
         return pickRow(r,tg+out)}).join('')+'</div>';
     }
-    V.innerHTML=early+'<div class="legend" style="margin-top:6px">Final card (latest build)</div>'+h;
+    const evp=(await csv(D+'ev_props.csv'))||[];
+    const evh=evp.length?`<div class="game"><div class="ghead">EV+ props<small>price pays more than the real chance</small></div>`+evp.map(r=>pickRow(r,'<span class="tag card">EV+</span>')).join('')+'</div>':'';
+    V.innerHTML=early+'<div class="legend" style="margin-top:6px">Final card (latest build) · top 10 · ⭐ = my top picks</div>'+h+evh;
   }
   if(tab==='games'){
     const rows=await csv(D+'games.csv'), mv=(await csv(D+'moves.csv'))||[];

@@ -44,13 +44,37 @@ std=std[~((std.stat=='PTS')&(std.side=='Less')&(std.adj<0.60))]          # strai
 gob=B[ok&(B.type=='goblin')&(B.model>=0.84)]
 card=pd.concat([std.assign(tier='standard',p=std.adj),gob.assign(tier='goblin',p=gob.model)])
 card=card.sort_values('p',ascending=False).drop_duplicates(['player','stat'])
+# ---- price + EV for each play (book odds of that side, from the props pull) ----
+_AB={'Points':'PTS','Rebounds':'REB','Assists':'AST','Points + Assists':'PA','Points + Rebounds':'PR','Rebounds + Assists':'RA','Pts + Reb + Ast':'PRA','Three Pointers':'3PM','Steals':'STL','Blocks':'BLK','Steals + Blocks':'Stl+Blk'}
+_px={}
+if os.path.exists(f'{D}/pp_compact.json'):
+    for r in json.load(open(f'{D}/pp_compact.json')):
+        try: _px[(r[0],r[1],_AB.get(r[2],r[2]),float(r[3]))]=(int(r[4]),int(r[5]))
+        except Exception: pass
+def _price(r):
+    o=_px.get((r.game,r.player,r.stat,float(r.line)))
+    if not o: return None
+    v=o[0] if r.side=='More' else o[1]
+    return v if abs(v)>=100 and not (o[0]==-119 and o[1]==-119) else None
+def _ev(p,a): return None if a is None or pd.isna(a) else round(p*((a/100+1) if a>0 else (100/-a+1))-1,3)
+card['price']=[_price(r) for r in card.itertuples()]
+card['ev']=[_ev(p,a) if t=='standard' else None for p,a,t in zip(card.p,card.price,card.tier)]
+# rank: EV when a price exists, otherwise edge over a ~54.5% break-even (DFS); keep the 10 best
+card['score']=[e if e==e and e is not None else (p-0.545 if t=='standard' else p-0.80) for e,p,t in zip(card.ev,card.p,card.tier)]
+card=card.sort_values('score',ascending=False).head(10)
+card['top']=False; card.loc[card.index[:5],'top']=[(sc>=0.03) for sc in card.score.head(5)]
+# EV+ props (any side the model likes at a price that pays more than its real chance), incl. plus-money sides like 1+ threes
+EVP=B[ok&B.type.isin(['PP standard','book line'])].copy()
+EVP['price']=[_price(r) for r in EVP.itertuples()]; EVP['ev']=[_ev(a_,pr) for a_,pr in zip(EVP.adj,EVP.price)]
+EVP=EVP[(EVP.ev>=0.05)&(EVP.adj>=0.52)].sort_values('ev',ascending=False).head(8)
+EVP[['game','team','player','stat','line','side','adj','price','ev','mean','where']].rename(columns={'adj':'p'}).to_csv(f'{D}/ev_props.csv',index=False)
 import datetime as _dt
 _started=set()
 try:
     for _g in json.load(open(f'{D}/lines.json'))['games']:
         if _dt.datetime.fromisoformat(_g['commence'].replace('Z','+00:00'))<_dt.datetime.now(_dt.timezone.utc): _started.add(f"{_g['away']}@{_g['home']}")
 except Exception: pass
-_cols=['game','team','player','stat','tier','line','side','p','mean','min','gap','where']
+_cols=['game','team','player','stat','tier','line','side','p','price','ev','top','mean','min','gap','where']
 card=card[~card.game.isin(_started)][_cols]
 if _started and os.path.exists(f'{D}/card.csv'):          # games already tipped keep the card that was posted before tip
     _old=pd.read_csv(f'{D}/card.csv'); card=pd.concat([_old[_old.game.isin(_started)][[c for c in _cols if c in _old]],card])
