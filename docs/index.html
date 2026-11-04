@@ -143,9 +143,9 @@ async function render(){
     const rows=await csv(D+'boom.csv');
     if(!rows||!rows.length) return V.innerHTML='<div class="empty">No 30+ watch list for this day.</div>';
     V.innerHTML='<div class="legend">Chance to hit each mark tonight, after matchup, pace and teammates out.</div><div class="game">'+rows.slice(0,15).map(r=>`
-      <div class="pick"><div class="who">${esc(r.player)} <span style="color:var(--muted);font-weight:400">${esc(r.team)} vs ${esc(r.opp)}</span></div>
+      <div class="pick"><div class="who">${esc(r.player)} <span style="color:var(--muted);font-weight:400">${esc(r.team)} vs ${esc(r.opp)}</span>${r.spot?'<span class="tag card">30+ SPOT</span>':''}</div>
       <div class="pct">${pct(r.p30)}<div style="font:500 11px Inter;color:var(--muted)">30+</div></div>
-      <div class="what">avg ${r.mean} · 25+ ${pct(r.p25)} · 35+ ${pct(r.p35)}${r.line?` · line ${r.line} (Over ${pct(r.p_over)})`:''}${r.alt_line?` · <b style="color:var(--green)">alt ${r.alt_line}+ at +${r.alt_odds}</b>`:''}
+      <div class="what">${r.spot?`<span style="color:var(--green)">${esc(r.spot)}</span> · fair 30+ ${esc(r.fair_30)} · `:''}avg ${r.mean} · 25+ ${pct(r.p25)} · 35+ ${pct(r.p35)}${r.line?` · line ${r.line} (Over ${pct(r.p_over)})`:''}${r.alt_line?` · <b style="color:var(--green)">alt ${r.alt_line}+ at +${r.alt_odds}</b>`:''}
       <div class="bar"><i style="width:${Math.round(r.p30*100)}%"></i></div></div></div>`).join('')+'</div>';
   }
   if(tab==='fb'){

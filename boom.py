@@ -49,5 +49,18 @@ for f in glob.glob(f'{D}/sim_*.parquet'):
         if best: row.update(alt_line=best[0], alt_odds=best[1], alt_book=best[2], alt_ev=best[3], alt_p=best[4])
         rows.append(row)
 B = pd.DataFrame(rows).sort_values('p30', ascending=False)
+# '30+ spot': the night lines up for a big game - extra shots (teammate out), soft defense for his position, fast game - and a real chance
+pace = {}
+if os.path.exists(f'{D}/games.csv'):
+    G = pd.read_csv(f'{D}/games.csv'); pace = dict(zip(G.game, G.poss)) if 'poss' in G else {}
+med_pace = pd.Series(list(pace.values())).median() if pace else None
+def spot(r):
+    why = []
+    if r.vacated_fga >= 12: why.append('teammate out (+shots)')
+    if r.dvp >= 1.05: why.append('soft D for his position')
+    if med_pace and pace.get(r.game, 0) >= med_pace + 2: why.append('fast game')
+    return ', '.join(why) if (len(why) >= 1 and r.p30 >= 0.30) else ''
+B['spot'] = [spot(r) for r in B.itertuples()]
+B['fair_30'] = [f"+{round(100*(1-p)/p)}" if 0 < p < 0.5 else (f"{-round(100*p/(1-p))}" if p >= 0.5 else '') for p in B.p30]
 B.to_csv(f'{D}/boom.csv', index=False)
 print(B.head(15).to_string(index=False))
