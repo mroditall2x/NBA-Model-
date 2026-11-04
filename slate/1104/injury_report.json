@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-04T20:22:38.104711+00:00",
+ "checked": "2026-11-04T21:22:33.506345+00:00",
  "games": {
   "PHI@DET": [
    {
@@ -395,16 +395,16 @@
   ],
   "POR@PHX": [
    {
+    "player": "Rasheer Fleming",
+    "team": "PHX",
+    "status": "Out",
+    "note": "Fleming is out for Wednesday's game against the Trail Blazers due to a sprained left ankle."
+   },
+   {
     "player": "Jordan Goodwin",
     "team": "PHX",
     "status": "Day-To-Day",
     "note": "Goodwin (calf) is questionable for Wednesday's game against Portland, Duane Rankin of The Arizona Republic reports."
-   },
-   {
-    "player": "Rasheer Fleming",
-    "team": "PHX",
-    "status": "Day-To-Day",
-    "note": "Fleming is questionable for Wednesday's game against the Trail Blazers due to a sprained left ankle, Duane Rankin of The Arizona Republic reports."
    },
    {
     "player": "Mark Williams",
@@ -477,10 +477,10 @@
     "note": "The Lakers assigned Thiero (knee) to the G League's Coachella Valley Lakers on Wednesday, per Khobi Price of The California Post."
    },
    {
-    "player": "Precious Achiuwa",
+    "player": "Daeqwon Plowden",
     "team": "SAC",
-    "status": "Day-To-Day",
-    "note": "Achiuwa (ankle) is listed as probable for Wednesday's game against the Lakers."
+    "status": "Out",
+    "note": "Plowden (illness) is out for Wednesday's game against the Lakers."
    },
    {
     "player": "Maxime Raynaud",
