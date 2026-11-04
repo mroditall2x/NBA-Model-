@@ -24,7 +24,10 @@ for ev in sb.get('events', []):
     for team in S.get('boxscore', {}).get('players', []):
         s = team['statistics'][0]; keys = s.get('keys') or s.get('names') or s.get('labels')
         for a in s['athletes']:
-            if a.get('didNotPlay') or not a.get('stats'): continue
+            off=set()
+if os.path.exists(f'{D}/game_status.csv'):
+    S=pd.read_csv(f'{D}/game_status.csv'); off=set(S[S.status.str.contains('postpon|cancel',case=False)].game)
+partial=done is not None and not (set(C.game)-off)<=done
             v = dict(zip(keys, a['stats']))
             g = lambda *ks: next((v[k] for k in ks if k in v), '0')
             mk = lambda x: float(str(x).split('-')[0] or 0)
