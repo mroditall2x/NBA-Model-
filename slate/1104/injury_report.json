@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-05T01:22:32.055073+00:00",
+ "checked": "2026-11-05T02:22:29.742187+00:00",
  "games": {
   "PHI@DET": [
    {
@@ -32,7 +32,7 @@
     "player": "Asa Newell",
     "team": "ATL",
     "status": "Day-To-Day",
-    "note": "Atlanta exercised Newell's third-year option Sunday, Brad Rowland of the Locked On Podcast Network reports."
+    "note": "Newell won't return to Wednesday's game against the Wizards due to a left great toe hyperextension, Brad Rowland of the Locked On Podcast Network reports. He'll finish with two points (1-1 FG), three rebounds and three assists across 10 minutes."
    },
    {
     "player": "Jalen Johnson",
@@ -85,6 +85,12 @@
   ],
   "CHA@BKN": [
    {
+    "player": "Noah Clowney",
+    "team": "BKN",
+    "status": "Day-To-Day",
+    "note": "Clowney won't return to Wednesday's game against the Hornets due to right knee soreness. He'll finish with seven points (3-6 FG, 1-4 3Pt), one rebound and one assist across 17 minutes."
+   },
+   {
     "player": "Egor Demin",
     "team": "BKN",
     "status": "Out",
@@ -100,7 +106,7 @@
     "player": "Kon Knueppel",
     "team": "CHA",
     "status": "Out",
-    "note": "Knueppel (hamstring) exited to the locker room in the first quarter of Wednesday's game against the Nets, Brian Lewis of the New York Post reports."
+    "note": "Knueppel exited Wednesday's game against the Nets after experiencing soreness in his left leg and he will not return, Brett Siegel of ClutchPoints.com reports."
    },
    {
     "player": "Grant Williams",
@@ -131,6 +137,12 @@
   ],
   "CHI@NY": [
    {
+    "player": "Jalen Smith",
+    "team": "CHI",
+    "status": "Day-To-Day",
+    "note": "Smith (hand) won't return to Wednesday's game against the Knicks."
+   },
+   {
     "player": "Nic Claxton",
     "team": "CHI",
     "status": "Out",
@@ -144,6 +156,12 @@
    }
   ],
   "CLE@OKC": [
+   {
+    "player": "Jarrett Allen",
+    "team": "CLE",
+    "status": "Day-To-Day",
+    "note": "Allen (knee) is doubtful to return to Wednesday's game against the Thunder, Brett Siegel of ClutchPoints.com reports."
+   },
    {
     "player": "Jaylon Tyson",
     "team": "CLE",
@@ -297,16 +315,10 @@
   ],
   "TOR@DEN": [
    {
-    "player": "Cameron Johnson",
+    "player": "DeMar DeRozan",
     "team": "DEN",
-    "status": "Day-To-Day",
-    "note": "Johnson (lower body injury management) is listed as probable for Wednesday's game against Toronto."
-   },
-   {
-    "player": "Alpha Diallo",
-    "team": "DEN",
-    "status": "Day-To-Day",
-    "note": "Diallo (wrist) is probable for Wednesday's game against the Raptors."
+    "status": "Out",
+    "note": "DeRozan has been ruled out for Wednesday's game against the Raptors due to lower-back spasms."
    },
    {
     "player": "Spencer Jones",
@@ -325,12 +337,6 @@
     "team": "TOR",
     "status": "Out",
     "note": "Leonard has completed treatment to reduce swelling in his left knee and he will be re-evaluated in one week, Brett Siegel of ClutchPoints.com reports."
-   },
-   {
-    "player": "Jakob Poeltl",
-    "team": "TOR",
-    "status": "Day-To-Day",
-    "note": "Poeltl is questionable for Wednesday's game against the Nuggets due to left shoulder bursitis, Blake Murphy of Sportsnet.ca reports."
    },
    {
     "player": "Nate Bittle",
@@ -449,12 +455,6 @@
   ],
   "MIA@LAC": [
    {
-    "player": "Isaiah Jackson",
-    "team": "LAC",
-    "status": "Day-To-Day",
-    "note": "Jackson is questionable for Wednesday's game against the Heat with left groin soreness, per Law Murray of The Athletic."
-   },
-   {
     "player": "Yanic Konan Niederhauser",
     "team": "LAC",
     "status": "Out",
@@ -477,12 +477,6 @@
     "team": "LAC",
     "status": "Out",
     "note": "Miller underwent surgery Wednesday to repair a torn left rotator cuff and will be re-evaluated in six months, per Law Murray of The Athletic."
-   },
-   {
-    "player": "Giannis Antetokounmpo",
-    "team": "MIA",
-    "status": "Day-To-Day",
-    "note": "Antetokounmpo is probable to play Wednesday against the Clippers due to a sprained right wrist."
    }
   ]
  }
