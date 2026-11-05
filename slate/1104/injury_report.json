@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-05T00:22:27.195957+00:00",
+ "checked": "2026-11-05T01:22:32.055073+00:00",
  "games": {
   "PHI@DET": [
    {
@@ -28,6 +28,12 @@
    }
   ],
   "ATL@WSH": [
+   {
+    "player": "Asa Newell",
+    "team": "ATL",
+    "status": "Day-To-Day",
+    "note": "Atlanta exercised Newell's third-year option Sunday, Brad Rowland of the Locked On Podcast Network reports."
+   },
    {
     "player": "Jalen Johnson",
     "team": "ATL",
@@ -91,6 +97,12 @@
     "note": "Bilodeau (shoulder) has been ruled out for Sunday's game against Indiana."
    },
    {
+    "player": "Kon Knueppel",
+    "team": "CHA",
+    "status": "Out",
+    "note": "Knueppel (hamstring) exited to the locker room in the first quarter of Wednesday's game against the Nets, Brian Lewis of the New York Post reports."
+   },
+   {
     "player": "Grant Williams",
     "team": "CHA",
     "status": "Out",
@@ -136,7 +148,7 @@
     "player": "Jaylon Tyson",
     "team": "CLE",
     "status": "Out",
-    "note": "Tyson is out for Wednesday's game against the Thunder due to a right ankle sprain."
+    "note": "According to Cavaliers head coach Kenny Atkinson, Tyson (ankle) has been \"on the court lately progressing well,\" Chris Fedor of The Cleveland Plain Dealer reports."
    },
    {
     "player": "Peyton Watson",
@@ -183,22 +195,10 @@
   ],
   "IND@MEM": [
    {
-    "player": "Ivica Zubac",
-    "team": "IND",
-    "status": "Out",
-    "note": "Zubac (ankle) is listed as questionable for Wednesday's game against the Grizzlies."
-   },
-   {
     "player": "Kelly Oubre Jr.",
     "team": "IND",
-    "status": "Day-To-Day",
-    "note": "Oubre (knee) is questionable for Wednesday's game against the Grizzlies."
-   },
-   {
-    "player": "Obi Toppin",
-    "team": "IND",
     "status": "Out",
-    "note": "Toppin (back) is questionable for Wednesday's game against the Grizzlies."
+    "note": "Oubre (calf) has been ruled out for Wednesday's game against the Grizzlies."
    },
    {
     "player": "T.J. McConnell",
@@ -239,22 +239,10 @@
     "note": "Murphy (knees) is listed as out for Wednesday's game against Utah."
    },
    {
-    "player": "Jordan Poole",
-    "team": "NO",
-    "status": "Out",
-    "note": "Poole (ankle) is listed as probable for Wednesday's game against Utah."
-   },
-   {
     "player": "Yves Missi",
     "team": "NO",
     "status": "Out",
     "note": "Missi (knee) won't play in Saturday's game against Atlanta."
-   },
-   {
-    "player": "Mo Bamba",
-    "team": "UTAH",
-    "status": "Day-To-Day",
-    "note": "Bamba (ankle) participated in Wednesday's morning shootaround, per Shreyas Laddha of The Salt Lake Tribune."
    },
    {
     "player": "Jusuf Nurkic",
@@ -277,16 +265,16 @@
   ],
   "MIN@HOU": [
    {
+    "player": "Steven Adams",
+    "team": "HOU",
+    "status": "Out",
+    "note": "Head coach Ime Udoka said Wednesday that Adams (calf) is still without a timetable to return and will be evaluated on a \"weekly basis,\" Varun Shankar of the Houston Chronicle reports."
+   },
+   {
     "player": "Clint Capela",
     "team": "HOU",
     "status": "Out",
     "note": "Capela (ankle) is out for Wednesday's game against the Timberwolves."
-   },
-   {
-    "player": "Steven Adams",
-    "team": "HOU",
-    "status": "Out",
-    "note": "Head coach Ime Udoka said Monday that Adams could be out \"a week or two\" due to his right soleus strain, Lachard Binkley of SI.com reports."
    },
    {
     "player": "Terrence Shannon Jr.",
@@ -353,16 +341,16 @@
   ],
   "POR@PHX": [
    {
+    "player": "Jordan Goodwin",
+    "team": "PHX",
+    "status": "Out",
+    "note": "Goodwin (calf) won't play in Wednesday's game against Portland."
+   },
+   {
     "player": "Rasheer Fleming",
     "team": "PHX",
     "status": "Out",
     "note": "Fleming is out for Wednesday's game against the Trail Blazers due to a sprained left ankle."
-   },
-   {
-    "player": "Jordan Goodwin",
-    "team": "PHX",
-    "status": "Day-To-Day",
-    "note": "Goodwin (calf) is questionable for Wednesday's game against Portland, Duane Rankin of The Arizona Republic reports."
    },
    {
     "player": "Mark Williams",
