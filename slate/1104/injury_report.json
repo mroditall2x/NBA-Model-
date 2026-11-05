@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-04T23:22:29.368827+00:00",
+ "checked": "2026-11-05T00:22:27.195957+00:00",
  "games": {
   "PHI@DET": [
    {
@@ -94,16 +94,16 @@
     "player": "Grant Williams",
     "team": "CHA",
     "status": "Out",
-    "note": "Charlotte assigned Williams (hamstring) to the G League's Greensboro Swarm on Wednesday."
-   },
-   {
-    "player": "Coby White",
-    "team": "CHA",
-    "status": "Day-To-Day",
-    "note": "White (calf) is probable for Wednesday's game in Brooklyn."
+    "note": "The Hornets recalled Williams (hamstring) from the G League's Greensboro Swarm on Wednesday."
    }
   ],
   "MIL@BOS": [
+   {
+    "player": "Devin Carter",
+    "team": "BOS",
+    "status": "Out",
+    "note": "Carter (illness) practiced with the G League's Maine Celtics on Wednesday."
+   },
    {
     "player": "Jayson Tatum",
     "team": "BOS",
@@ -111,16 +111,10 @@
     "note": "Tatum will be rested Wednesday against the Bucks, Jack Simone of BostonSportsJournal.com reports."
    },
    {
-    "player": "Devin Carter",
-    "team": "BOS",
-    "status": "Out",
-    "note": "Carter has been diagnosed with mononucleosis and is without a timetable for a return, Gary Washburn of The Boston Globe reports."
-   },
-   {
     "player": "Kam Jones",
     "team": "MIL",
-    "status": "Day-To-Day",
-    "note": "Jones (ankle) is questionable for Wednesday against the Celtics."
+    "status": "Out",
+    "note": "Jones (ankle) won't play Wednesday in Boston."
    }
   ],
   "CHI@NY": [
@@ -154,7 +148,7 @@
     "player": "Jaylin Williams",
     "team": "OKC",
     "status": "Out",
-    "note": "Williams (back) is listed as questionable for Wednesday's game against the Cavaliers."
+    "note": "Williams (back) is listed as out for Wednesday's game versus Cleveland, Clemente Almanza of USA Today reports."
    },
    {
     "player": "Nikola Topic",
@@ -229,12 +223,6 @@
     "team": "IND",
     "status": "Out",
     "note": "Haliburton (hamstring) will miss at least the next two weeks of action, Shams Charania of ESPN reports."
-   },
-   {
-    "player": "Quinten Post",
-    "team": "MEM",
-    "status": "Day-To-Day",
-    "note": "Post (ankle) is listed as questionable for Wednesday's game against Indiana."
    },
    {
     "player": "Scotty Pippen Jr.",
@@ -400,7 +388,7 @@
     "player": "Santi Aldama",
     "team": "DAL",
     "status": "Out",
-    "note": "Aldama (knee) is doubtful for Wednesday's game against the Spurs, per NBA reporter Marc Stein."
+    "note": "Aldama (knee) is out for Wednesday's game against the Spurs, Grant Afseth of DallasHoopsJournal.com reports."
    },
    {
     "player": "Max Christie",
