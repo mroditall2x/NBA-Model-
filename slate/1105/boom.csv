@@ -1,0 +1,16 @@
+game,player,team,opp,mean,p20,p25,p30,p35,dvp,vacated_fga,line,p_over,alt_line,alt_odds,alt_book,alt_ev,alt_p,spot,fair_30
+MIA@GS,Giannis Antetokounmpo,MIA,GS,27.4,0.805,0.602,0.376,0.196,0.948,0.0,28.5,0.419,31.5,154.0,fanduel,-0.32,0.267,,+166
+MIA@GS,Stephen Curry,GS,MIA,26.5,0.721,0.554,0.343,0.182,1.097,0.0,27.5,0.423,34.5,325.0,betmgm,-0.2,0.188,soft D for his position,+192
+ORL@PHX,Devin Booker,PHX,ORL,25.4,0.721,0.49,0.275,0.128,0.972,0.0,25.5,0.49,34.5,560.0,fanduel,-0.1,0.137,,+264
+ORL@PHX,Franz Wagner,ORL,PHX,25.2,0.698,0.47,0.273,0.134,0.966,11.5,23.5,0.562,34.5,900.0,fanduel,0.41,0.141,,+266
+ORL@PHX,Desmond Bane,ORL,PHX,20.8,0.525,0.295,0.139,0.069,1.028,11.5,20.5,0.475,29.5,600.0,fanduel,0.04,0.148,,+619
+ORL@PHX,Dillon Brooks,PHX,ORL,18.6,0.391,0.196,0.099,0.038,1.074,0.0,16.5,0.591,25.5,750.0,fanduel,0.5,0.177,,+910
+ORL@PHX,Jalen Green,PHX,ORL,17.5,0.347,0.172,0.074,0.027,0.972,0.0,16.5,0.525,24.5,550.0,betmgm,0.17,0.181,,+1251
+MIA@GS,Bam Adebayo,MIA,GS,18.0,0.374,0.185,0.061,0.021,0.934,0.0,18.5,0.421,24.5,360.0,fanduel,-0.23,0.167,,+1539
+ORL@PHX,Miles Bridges,PHX,ORL,17.2,0.321,0.139,0.061,0.018,1.074,0.0,16.5,0.53,24.5,640.0,draftkings,0.12,0.152,,+1539
+MIA@GS,Yaxel Lendeborg,GS,MIA,17.4,0.326,0.154,0.06,0.02,0.99,0.0,19.5,0.367,21.5,162.0,fanduel,-0.33,0.256,,+1567
+MIA@GS,Brandin Podziemski,GS,MIA,16.2,0.27,0.141,0.053,0.016,1.097,0.0,16.5,0.457,19.5,190.0,fanduel,-0.19,0.28,,+1787
+ORL@PHX,Anthony Black,ORL,PHX,13.9,0.208,0.082,0.027,0.01,1.028,11.5,15.5,0.383,17.5,152.0,fanduel,-0.35,0.258,,+3604
+MIA@GS,De'Anthony Melton,GS,MIA,13.4,0.16,0.072,0.022,0.006,1.097,0.0,10.5,0.594,19.5,1000.0,fanduel,0.87,0.17,,+4445
+MIA@GS,Brandon Williams,GS,MIA,12.9,0.132,0.054,0.016,0.004,1.097,0.0,9.5,0.63,,,,,,,+6150
+ORL@PHX,Wendell Carter Jr.,ORL,PHX,13.1,0.145,0.045,0.016,0.003,1.073,11.5,11.5,0.559,19.5,750.0,fanduel,0.38,0.162,,+6150

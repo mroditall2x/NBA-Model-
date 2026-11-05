@@ -1,0 +1,9 @@
+game,team,player,combo,chance,fair_odds,min,min_bump,why,avg,size,special
+MIA@GS,MIA,Davion Mitchell,10+ pts & 9+ ast,0.154,+549,34.7,4.3,+4 min,3.2 reb / 7.3 ast / 9.7 pts,19,True
+MIA@GS,GS,Yaxel Lendeborg,20+ pts & 9+ reb,0.147,+582,37.1,5.2,+5 min,7.8 reb / 3.2 ast / 17.5 pts,29,True
+MIA@GS,GS,Yaxel Lendeborg,25+ pts & 9+ reb,0.076,+1212,37.1,5.2,+5 min,7.8 reb / 3.2 ast / 17.5 pts,34,True
+ORL@PHX,ORL,Anthony Black,20+ pts & 5+ ast,0.074,+1259,27.9,10.3,+10 min,3.6 reb / 3.7 ast / 13.1 pts,25,True
+MIA@GS,MIA,Davion Mitchell,15+ pts & 9+ ast,0.071,+1306,34.7,4.3,+4 min,3.2 reb / 7.3 ast / 9.7 pts,24,True
+ORL@PHX,ORL,Anthony Black,20+ pts & 5+ reb,0.068,+1380,27.9,10.3,+10 min,3.6 reb / 3.7 ast / 13.1 pts,25,True
+MIA@GS,GS,Stephen Curry,35+ pts & 6+ ast,0.065,+1444,30.9,4.4,+4 min,3.8 reb / 5.1 ast / 25.3 pts,41,True
+MIA@GS,GS,Stephen Curry,35+ pts & 5+ reb,0.054,+1740,30.9,4.4,+4 min,3.8 reb / 5.1 ast / 25.3 pts,40,True

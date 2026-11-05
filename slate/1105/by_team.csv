@@ -1,0 +1,17 @@
+game,team,player,stat,line,side,p,mean,min,grade,where
+MIA@GS,GS,Draymond Green,AST,6.5,Less,0.633,5.16,24.9,card,PrizePicks / Underdog
+MIA@GS,GS,Brandon Williams,PRA,14.5,More,0.601,18.4,19.4,lean,PrizePicks / Underdog
+MIA@GS,GS,Brandin Podziemski,3PM,2.5,Less,0.6,2.0,30.4,card,Kalshi / Underdog
+MIA@GS,GS,Will Richard,PR,8.5,Less,0.555,8.12,20.3,lean,PrizePicks / Underdog
+MIA@GS,MIA,Giannis Antetokounmpo,3PM,0.5,Less,0.627,0.39,33.2,lean,PrizePicks / Underdog
+MIA@GS,MIA,Klay Thompson,REB,2.5,Less,0.602,2.03,22.9,lean,Kalshi / Underdog
+MIA@GS,MIA,Andrew Wiggins,3PM,1.5,Less,0.537,1.59,26.3,lean,PrizePicks / Underdog
+MIA@GS,MIA,Pelle Larsson,PRA,18.5,Less,0.537,18.05,29.8,lean,PrizePicks / Underdog
+ORL@PHX,ORL,Desmond Bane,3PM,3.5,Less,0.695,2.0,35.2,card,PrizePicks / Underdog
+ORL@PHX,ORL,Franz Wagner,AST,6.5,Less,0.682,4.56,35.9,card,PrizePicks / Underdog
+ORL@PHX,ORL,Tristan da Silva,AST,1.5,More,0.576,2.26,30.2,lean,Kalshi / Underdog
+ORL@PHX,ORL,Jamal Cain,PTS,6.5,Less,0.567,6.13,16.0,lean,PrizePicks / Underdog
+ORL@PHX,PHX,Dillon Brooks,AST,2.5,Less,0.656,1.66,31.9,card,Kalshi / Underdog
+ORL@PHX,PHX,Jalen Green,AST,3.5,Less,0.589,2.99,28.9,card,Kalshi / Underdog
+ORL@PHX,PHX,Miles Bridges,AST,2.5,More,0.557,3.16,34.1,lean,Kalshi / Underdog
+ORL@PHX,PHX,Devin Booker,AST,5.5,More,0.538,6.14,35.7,lean,PrizePicks / Underdog
