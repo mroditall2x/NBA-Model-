@@ -1,0 +1,5 @@
+date,game,team,player,p_first_fg,fair_odds,book,ev,first_scorer,hit,profit
+2026-11-04,MIN@HOU,HOU,Alperen Sengun,0.165,506,527,0.03455000000000008,LaMelo Ball,False,-1.0
+2026-11-04,MIN@HOU,MIN,LaMelo Ball,0.1341,646,600,-0.06130000000000002,LaMelo Ball,True,6.0
+2026-11-04,MIN@HOU,MIN,Jonathan Kuminga,0.1223,718,775,0.07012499999999999,LaMelo Ball,False,-1.0
+2026-11-04,MIN@HOU,HOU,Kevin Durant,0.1118,795,710,-0.09442000000000006,LaMelo Ball,False,-1.0
