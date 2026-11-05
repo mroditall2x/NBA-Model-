@@ -1,0 +1,40 @@
+{
+ "games": [
+  {
+   "away": "ORL",
+   "home": "PHX",
+   "id": "2a76b31e02d1416de069a995589515fc",
+   "commence": "2026-11-06T02:10:00Z",
+   "home_spread": -1.0,
+   "spread_odds": [
+    -108,
+    -112
+   ],
+   "ml_home": -111,
+   "ml_away": -108,
+   "total": 223.0,
+   "total_odds": [
+    -105,
+    -113
+   ]
+  },
+  {
+   "away": "MIA",
+   "home": "GS",
+   "id": "ac38449dd3dfbe1c9b48164b6a41aa83",
+   "commence": "2026-11-06T03:10:00Z",
+   "home_spread": -7.5,
+   "spread_odds": [
+    -109,
+    -110
+   ],
+   "ml_home": -280,
+   "ml_away": 230,
+   "total": 234.0,
+   "total_odds": [
+    -110,
+    -110
+   ]
+  }
+ ]
+}
