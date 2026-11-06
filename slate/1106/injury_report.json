@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-06T18:22:30.617777+00:00",
+ "checked": "2026-11-06T19:22:32.332781+00:00",
  "games": {
   "WSH@ATL": [
    {
@@ -77,16 +77,16 @@
     "note": "Carter (illness) practiced with the G League's Maine Celtics on Wednesday."
    },
    {
-    "player": "Moussa Diabate",
-    "team": "CHA",
-    "status": "Day-To-Day",
-    "note": "Diabate (quadriceps) has been ruled out for Friday's game against Boston, according to the Hornets' official injury report."
-   },
-   {
     "player": "Dennis Schroder",
     "team": "CHA",
-    "status": "Day-To-Day",
-    "note": "Schroder (thigh) is questionable for Friday's game against the Celtics."
+    "status": "Out",
+    "note": "Schroder (thigh) is out for Friday's game versus Boston."
+   },
+   {
+    "player": "Moussa Diabate",
+    "team": "CHA",
+    "status": "Out",
+    "note": "Diabate (quadriceps) has been ruled out for Friday's game against Boston, according to the Hornets' official injury report."
    },
    {
     "player": "Kon Knueppel",
@@ -147,6 +147,12 @@
   ],
   "UTAH@DAL": [
    {
+    "player": "Kyrie Irving",
+    "team": "DAL",
+    "status": "Day-To-Day",
+    "note": "Irving (illness) is probable for Friday's game against Utah."
+   },
+   {
     "player": "Sergio de Larrea",
     "team": "DAL",
     "status": "Out",
@@ -180,7 +186,7 @@
     "player": "Jusuf Nurkic",
     "team": "UTAH",
     "status": "Out",
-    "note": "Nurkic (foot) is out for Wednesday's game against the Pelicans."
+    "note": "Nurkic (toe) has begun participating in on-court activities as he continues recovering from a right foot injury sustained during an Oct. 4 preseason game against Denver. He will be re-evaluated in two weeks, the Jazz announced Friday."
    },
    {
     "player": "Jaren Jackson Jr.",
