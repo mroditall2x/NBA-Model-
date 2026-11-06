@@ -1,9 +1,9 @@
 game,team,player,stat,side,line,p,where,line_now,p_now,move,news,status
 PHI@CLE,CLE,Evan Mobley,3PM,Less,1.5,0.6608,Kalshi / Underdog,1.5,0.661,,False,Hold
-WSH@ATL,WSH,Alex Sarr,REB,Less,7.5,0.65,PrizePicks / Underdog,7.5,0.651,,False,Hold
-WSH@ATL,WSH,Alex Sarr,RA,Less,9.5,0.6464,PrizePicks / Underdog,9.5,0.65,,False,Hold
+WSH@ATL,WSH,Alex Sarr,REB,Less,7.5,0.65,PrizePicks / Underdog,7.5,0.57,,False,Lean
+WSH@ATL,WSH,Alex Sarr,RA,Less,9.5,0.6464,PrizePicks / Underdog,9.5,0.581,,False,Hold
 SA@SAC,SA,Stephon Castle,AST,More,5.5,0.6314,PrizePicks / Underdog,5.5,0.631,,False,Hold
 TOR@MIL,TOR,Jakob Poeltl,RA,Less,8.5,0.6302,Kalshi / Underdog,8.5,0.63,,False,Hold
-OKC@MEM,OKC,Shai Gilgeous-Alexander,3PM,Less,2.5,0.629,Kalshi / Underdog,2.5,0.627,,False,Hold
-OKC@MEM,MEM,Cedric Coward,REB,Less,7.5,0.6248,PrizePicks / Underdog,7.5,0.622,,False,Hold
+OKC@MEM,OKC,Shai Gilgeous-Alexander,3PM,Less,2.5,0.629,Kalshi / Underdog,2.5,0.629,,False,Hold
+OKC@MEM,MEM,Cedric Coward,REB,Less,7.5,0.6248,PrizePicks / Underdog,7.5,0.625,,False,Hold
 UTAH@DAL,DAL,Naji Marshall,AST,Less,3.5,0.6212,Kalshi / Underdog,3.5,0.621,,False,Hold
