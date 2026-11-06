@@ -2,7 +2,7 @@
   python3 fetch_lines.py YYYY-MM-DD [--props-teams HOU,BOS [--merge-props] | --props-all] [--snap]
 Writes slate/MMDD/lines.json (consensus spread/total/ML per game), props_p1.txt + pp_compact.json (player props),
 odds_raw.json (everything pulled, for line-movement history). --snap also saves *.open copies for line_moves.py.
-Credits: game lines ~3 per pull (all games); props = markets x regions per game (~16). Free plan: keep props to 1-2 teams.
+Credits: game lines ~3 per pull (all games); props = markets x regions per game (~16). 30k plan since 11/06: props_teams.json default = ALL.
 Key comes from env ODDS_API_KEY (GitHub secret) - never hard-code it."""
 import os, sys, json, statistics, urllib.request, shutil, datetime as dt
 from zoneinfo import ZoneInfo
@@ -14,7 +14,8 @@ args = sys.argv[2:]
 PROPS_ALL = '--props-all' in args
 MERGE = '--merge-props' in args      # refresh only these teams' games, keep every other game's props and lines
 _pt = json.load(open('props_teams.json')) if os.path.exists('props_teams.json') else {}   # per-date override, e.g. {"2026-11-01": "BOS,GS"}
-PROPS_TEAMS = set(args[args.index('--props-teams') + 1].split(',')) if '--props-teams' in args else set((_pt.get(DATE) or os.environ.get('PROPS_TEAMS', 'HOU')).split(','))
+PROPS_TEAMS = set(args[args.index('--props-teams') + 1].split(',')) if '--props-teams' in args else set((_pt.get(DATE) or _pt.get('default') or os.environ.get('PROPS_TEAMS', 'HOU')).split(','))
+PROPS_ALL = PROPS_ALL or ('--props-teams' not in args and 'ALL' in PROPS_TEAMS)   # 'ALL' (per-date or 'default' in props_teams.json) = every game
 ABB = {'Dallas Mavericks': 'DAL', 'Minnesota Timberwolves': 'MIN', 'San Antonio Spurs': 'SA', 'Denver Nuggets': 'DEN', 'Golden State Warriors': 'GS',
        'Los Angeles Clippers': 'LAC', 'LA Clippers': 'LAC', 'Los Angeles Lakers': 'LAL', 'Boston Celtics': 'BOS', 'Brooklyn Nets': 'BKN',
        'Cleveland Cavaliers': 'CLE', 'Miami Heat': 'MIA', 'New York Knicks': 'NY', 'Philadelphia 76ers': 'PHI', 'Washington Wizards': 'WSH',
