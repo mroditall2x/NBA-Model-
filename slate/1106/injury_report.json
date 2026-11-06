@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-06T22:22:29.701657+00:00",
+ "checked": "2026-11-06T23:22:29.930442+00:00",
  "games": {
   "WSH@ATL": [
    {
@@ -41,8 +41,8 @@
    {
     "player": "Anthony Davis",
     "team": "WSH",
-    "status": "Day-To-Day",
-    "note": "Davis is questionable for Friday's game against the Hawks due to a right ankle sprain, Josh Robbins of The Athletic reports."
+    "status": "Out",
+    "note": "Davis (ankle) is listed as out for Friday's game against the Hawks."
    },
    {
     "player": "Reece Beekman",
@@ -103,12 +103,6 @@
   ],
   "PHI@CLE": [
    {
-    "player": "Tyrese Proctor",
-    "team": "CLE",
-    "status": "Day-To-Day",
-    "note": "Proctor (ankle) is questionable to play in Friday's game against the 76ers."
-   },
-   {
     "player": "Jaylon Tyson",
     "team": "CLE",
     "status": "Out",
@@ -129,7 +123,7 @@
    {
     "player": "Adem Bona",
     "team": "PHI",
-    "status": "Day-To-Day",
+    "status": "Out",
     "note": "Bona (back) is doubtful to play in Friday's game against the Cavaliers, Ky Carlin of USA Today reports."
    },
    {
@@ -147,22 +141,10 @@
   ],
   "UTAH@DAL": [
    {
-    "player": "Kyrie Irving",
-    "team": "DAL",
-    "status": "Day-To-Day",
-    "note": "Irving (illness) is probable for Friday's game against Utah."
-   },
-   {
     "player": "Sergio de Larrea",
     "team": "DAL",
     "status": "Out",
     "note": "De Larrea (knee) is out for Friday's game against Utah."
-   },
-   {
-    "player": "Santi Aldama",
-    "team": "DAL",
-    "status": "Out",
-    "note": "Aldama (knee) is probable to suit up for Friday's game against the Jazz."
    },
    {
     "player": "Max Christie",

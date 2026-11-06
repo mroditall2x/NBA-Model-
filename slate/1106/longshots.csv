@@ -1,13 +1,13 @@
 game,team,player,combo,chance,fair_odds,min,min_bump,why,avg,size,special
-OKC@MEM,OKC,Isaiah Hartenstein,10+ pts & 14+ reb,0.159,+530,30.2,-5.7,Jalen Williams out,11.8 reb / 3.8 ast / 10.3 pts,24,True
+OKC@MEM,OKC,Isaiah Hartenstein,10+ pts & 14+ reb,0.16,+524,30.3,-5.7,Jalen Williams out,11.9 reb / 3.8 ast / 10.3 pts,24,True
+WSH@ATL,WSH,Alex Sarr,15+ pts & 9+ reb,0.158,+532,26.4,0.9,Anthony Davis out,7.4 reb / 1.8 ast / 14.3 pts,24,True
 TOR@MIL,TOR,Jamal Shead,10+ pts & 7+ ast,0.153,+552,26.8,10.7,Kawhi Leonard out; +11 min,1.9 reb / 5.9 ast / 8.9 pts,17,True
-WSH@ATL,WSH,Alex Sarr,15+ pts & 8+ reb,0.149,+569,24.7,-3.5,Anthony Davis out,6.8 reb / 1.7 ast / 13.3 pts,23,True
-WSH@ATL,WSH,Trae Young,25+ pts & 10+ ast,0.139,+619,34.1,-1.3,Anthony Davis out,3.1 reb / 8.5 ast / 21.5 pts,35,True
-WSH@ATL,ATL,Onyeka Okongwu,20+ pts & 12+ reb,0.127,+690,34.8,-2.8,Jalen Johnson out,10.5 reb / 3.7 ast / 17.1 pts,32,True
-WSH@ATL,WSH,AJ Dybantsa,15+ pts & 8+ reb,0.123,+710,29.8,19.0,Anthony Davis out; +19 min,6.2 reb / 1.9 ast / 12.2 pts,23,True
+WSH@ATL,WSH,Bub Carrington,10+ pts & 4+ ast,0.145,+590,24.2,0.0,Anthony Davis out,2.9 reb / 3.1 ast / 8.6 pts,14,True
+WSH@ATL,WSH,Trae Young,25+ pts & 10+ ast,0.144,+593,34.5,0.8,Anthony Davis out,3.1 reb / 8.6 ast / 21.8 pts,35,True
+WSH@ATL,ATL,Onyeka Okongwu,20+ pts & 12+ reb,0.125,+702,34.7,-2.9,Jalen Johnson out,10.4 reb / 3.7 ast / 17.2 pts,32,True
 POR@LAL,POR,Donovan Clingan,15+ pts & 12+ reb,0.121,+728,28.7,-0.8,Ja Morant out,10.5 reb / 1.7 ast / 12.1 pts,27,True
+WSH@ATL,WSH,AJ Dybantsa,15+ pts & 8+ reb,0.118,+750,29.6,20.2,Anthony Davis out; +20 min,6.2 reb / 1.9 ast / 12.2 pts,23,True
 SA@SAC,SA,Dylan Harper,20+ pts & 6+ ast,0.116,+765,31.9,5.6,+6 min,4.5 reb / 5.3 ast / 15.8 pts,26,True
+OKC@MEM,MEM,Ty Jerome,25+ pts & 7+ ast,0.116,+765,29.8,3.3,+3 min,3.5 reb / 6.2 ast / 19.4 pts,32,True
 MIN@NO,MIN,Rudy Gobert,15+ pts & 2+ ast,0.115,+769,31.4,-0.4,Anthony Edwards out,10.8 reb / 1.6 ast / 11.3 pts,17,True
-OKC@MEM,MEM,Ty Jerome,25+ pts & 7+ ast,0.115,+767,29.9,3.3,+3 min,3.5 reb / 6.2 ast / 19.5 pts,32,True
-OKC@MEM,MEM,Cameron Boozer,20+ pts & 8+ reb,0.114,+778,36.3,13.2,+13 min,6.9 reb / 3.1 ast / 15.3 pts,28,True
-TOR@MIL,TOR,Scottie Barnes,25+ pts & 7+ ast,0.113,+788,35.1,4.7,Kawhi Leonard out; +5 min,7.4 reb / 6.1 ast / 19.9 pts,32,True
+PHI@CLE,PHI,Joel Embiid,25+ pts & 10+ reb,0.115,+766,31.6,3.7,+4 min,8.6 reb / 2.9 ast / 21.2 pts,35,True
