@@ -19,7 +19,8 @@ def imp(o):
     return -o / (-o + 100) if o < 0 else 100 / (o + 100)
 
 
-p, t = S.load((2025, 2026)); pri = S.pos_priors(p); lg = S.league(t[t.season == 2026])
+p, t = S.load((2025, 2026, 2027)); p = p[p.game_date < pd.Timestamp(DATE)]; t = t[t.game_date < pd.Timestamp(DATE)]   # current season in, nothing from the slate date on
+pri = S.pos_priors(p); lg = S.league(t[t.season == 2026])
 R = pd.read_parquet(f'{S.ROOT}/rosters/parquet/rosters_2027.parquet'); R['pid'] = R.athlete_id.astype('int64')
 S.NAMES.update(dict(zip(R.pid, R.display_name)))   # rookies: real names, so their props match
 rot = json.load(open(f'slate/{DATE}_rotations.json'))
