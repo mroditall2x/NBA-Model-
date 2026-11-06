@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-06T20:22:27.784117+00:00",
+ "checked": "2026-11-06T21:22:30.579528+00:00",
  "games": {
   "WSH@ATL": [
    {
@@ -323,12 +323,6 @@
   ],
   "POR@LAL": [
    {
-    "player": "Sandro Mamukelashvili",
-    "team": "LAL",
-    "status": "Day-To-Day",
-    "note": "Mamukelashvili (illness) is listed as questionable for Friday's game against Portland."
-   },
-   {
     "player": "Vit Krejci",
     "team": "POR",
     "status": "Out",
@@ -348,6 +342,12 @@
    }
   ],
   "SA@SAC": [
+   {
+    "player": "De'Andre Hunter",
+    "team": "SAC",
+    "status": "Day-To-Day",
+    "note": "Hunter is questionable for Friday against the Spurs due to an illness."
+   },
    {
     "player": "Maxime Raynaud",
     "team": "SAC",

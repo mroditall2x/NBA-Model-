@@ -1,0 +1,10 @@
+game,model_spread_home,mkt_spread_home,p_home_cover,mkt_home_cover,model_total,mkt_total,p_over,mkt_over,p_home_win,mkt_home_win,poss,full_game_note,ev_tag
+WSH@ATL,-15.8,-8.0,0.699,0.507,235.0,229.5,0.615,0.5,0.881,0.726,104.6,skip: model >6 off market,
+BOS@CHA,0.1,9.5,0.754,0.489,215.1,208.0,0.638,0.5,0.497,0.234,95.1,skip: model >6 off market,
+PHI@CLE,-5.4,2.5,0.713,0.5,231.6,231.5,0.495,0.5,0.656,0.429,101.3,skip: model >6 off market,
+UTAH@DAL,-2.7,-7.0,0.361,0.498,247.3,225.5,0.885,0.5,0.583,0.691,106.1,skip: model >6 off market,
+OKC@MEM,9.6,4.5,0.348,0.509,234.1,223.5,0.716,0.5,0.234,0.39,102.9,skip: model >6 off market,
+TOR@MIL,7.0,4.5,0.422,0.5,222.0,229.0,0.329,0.5,0.3,0.377,98.0,skip: model >6 off market,
+MIN@NO,3.0,3.5,0.509,0.5,233.2,230.5,0.549,0.5,0.409,0.403,103.1,,
+POR@LAL,-1.9,-3.0,0.463,0.5,226.3,231.5,0.375,0.5,0.559,0.579,100.3,,
+SA@SAC,7.7,17.5,0.776,0.5,232.6,231.5,0.519,0.5,0.278,0.107,100.7,skip: model >6 off market,
