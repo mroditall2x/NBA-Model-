@@ -1,0 +1,53 @@
+game,team,player,minutes,PTS,REB,AST,3PM,STL,BLK,OREB
+ORL@PHX,ORL,Franz Wagner,38.0,15.0,8.0,15.0,0.0,4.0,0.0,1.0
+ORL@PHX,ORL,Wendell Carter Jr.,34.0,27.0,13.0,2.0,2.0,1.0,1.0,4.0
+ORL@PHX,ORL,Desmond Bane,32.0,15.0,6.0,0.0,3.0,0.0,0.0,1.0
+ORL@PHX,ORL,Anthony Black,31.0,10.0,7.0,6.0,1.0,1.0,0.0,4.0
+ORL@PHX,ORL,Jase Richardson,26.0,10.0,2.0,3.0,2.0,2.0,2.0,1.0
+ORL@PHX,ORL,Jamal Cain,25.0,5.0,5.0,0.0,1.0,0.0,0.0,1.0
+ORL@PHX,ORL,Tristan da Silva,30.0,18.0,2.0,1.0,4.0,0.0,0.0,1.0
+ORL@PHX,ORL,Nikola Vucevic,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ORL@PHX,ORL,Goga Bitadze,8.0,4.0,5.0,0.0,0.0,0.0,0.0,2.0
+ORL@PHX,ORL,Colin Castleton,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+ORL@PHX,ORL,Jevon Carter,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ORL@PHX,ORL,Alex Morales,6.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+ORL@PHX,PHX,Dillon Brooks,29.0,24.0,1.0,1.0,4.0,2.0,1.0,0.0
+ORL@PHX,PHX,Miles Bridges,31.0,18.0,13.0,5.0,3.0,2.0,0.0,2.0
+ORL@PHX,PHX,Oso Ighodaro,24.0,2.0,5.0,1.0,0.0,0.0,1.0,2.0
+ORL@PHX,PHX,Devin Booker,34.0,30.0,1.0,8.0,4.0,3.0,0.0,1.0
+ORL@PHX,PHX,Jalen Green,24.0,6.0,0.0,3.0,0.0,2.0,0.0,0.0
+ORL@PHX,PHX,Ryan Dunn,25.0,11.0,3.0,3.0,1.0,0.0,1.0,0.0
+ORL@PHX,PHX,Koa Peat,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+ORL@PHX,PHX,Duop Reath,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ORL@PHX,PHX,Khaman Maluach,22.0,8.0,6.0,2.0,0.0,2.0,0.0,1.0
+ORL@PHX,PHX,Luke Kennard,21.0,12.0,1.0,5.0,3.0,0.0,0.0,0.0
+ORL@PHX,PHX,Collin Gillespie,24.0,6.0,2.0,2.0,2.0,3.0,0.0,0.0
+ORL@PHX,PHX,Jamaree Bouyea,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ORL@PHX,PHX,Pat Spencer,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+MIA@GS,MIA,Giannis Antetokounmpo,31.0,20.0,14.0,4.0,1.0,0.0,0.0,3.0
+MIA@GS,MIA,Andrew Wiggins,21.0,2.0,6.0,4.0,0.0,0.0,1.0,1.0
+MIA@GS,MIA,Bam Adebayo,33.0,18.0,10.0,0.0,0.0,1.0,1.0,3.0
+MIA@GS,MIA,Klay Thompson,23.0,11.0,0.0,3.0,2.0,0.0,2.0,0.0
+MIA@GS,MIA,Davion Mitchell,38.0,22.0,2.0,8.0,4.0,1.0,0.0,0.0
+MIA@GS,MIA,Bobby Portis,14.0,0.0,5.0,0.0,0.0,0.0,0.0,1.0
+MIA@GS,MIA,Myron Gardner,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+MIA@GS,MIA,Nikola Jovic,12.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0
+MIA@GS,MIA,Nick Richards,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+MIA@GS,MIA,Tim Hardaway Jr.,4.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+MIA@GS,MIA,Dru Smith,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+MIA@GS,MIA,Pelle Larsson,29.0,13.0,1.0,4.0,3.0,3.0,0.0,0.0
+MIA@GS,MIA,Ryan Conwell,30.0,13.0,1.0,2.0,3.0,3.0,0.0,1.0
+MIA@GS,GS,Draymond Green,27.0,2.0,5.0,11.0,0.0,1.0,1.0,1.0
+MIA@GS,GS,Yaxel Lendeborg,30.0,17.0,8.0,6.0,1.0,3.0,1.0,1.0
+MIA@GS,GS,Stephen Curry,28.0,29.0,1.0,4.0,6.0,1.0,0.0,0.0
+MIA@GS,GS,Brandin Podziemski,32.0,9.0,6.0,3.0,2.0,1.0,1.0,0.0
+MIA@GS,GS,Will Richard,16.0,10.0,0.0,2.0,2.0,0.0,1.0,0.0
+MIA@GS,GS,Georges Niang,22.0,13.0,4.0,3.0,2.0,1.0,0.0,0.0
+MIA@GS,GS,Graham Ike,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+MIA@GS,GS,Malevy Leons,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+MIA@GS,GS,Al Horford,18.0,8.0,5.0,1.0,2.0,0.0,0.0,1.0
+MIA@GS,GS,Charles Bassey,14.0,8.0,7.0,0.0,0.0,0.0,3.0,3.0
+MIA@GS,GS,Gary Payton II,10.0,9.0,0.0,0.0,1.0,1.0,0.0,0.0
+MIA@GS,GS,De'Anthony Melton,17.0,5.0,6.0,2.0,0.0,3.0,0.0,1.0
+MIA@GS,GS,Brandon Williams,21.0,10.0,1.0,4.0,0.0,0.0,2.0,0.0
+MIA@GS,GS,LJ Cryer,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
