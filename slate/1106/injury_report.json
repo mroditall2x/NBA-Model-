@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-06T17:22:32.936196+00:00",
+ "checked": "2026-11-06T18:22:30.617777+00:00",
  "games": {
   "WSH@ATL": [
    {
@@ -71,28 +71,22 @@
   ],
   "BOS@CHA": [
    {
-    "player": "Payton Pritchard",
-    "team": "BOS",
-    "status": "Day-To-Day",
-    "note": "Pritchard (eye) is questionable for Friday against Charlotte, Taylor Snow of the Celtics' official site reports."
-   },
-   {
     "player": "Devin Carter",
     "team": "BOS",
     "status": "Out",
     "note": "Carter (illness) practiced with the G League's Maine Celtics on Wednesday."
    },
    {
+    "player": "Moussa Diabate",
+    "team": "CHA",
+    "status": "Day-To-Day",
+    "note": "Diabate (quadriceps) has been ruled out for Friday's game against Boston, according to the Hornets' official injury report."
+   },
+   {
     "player": "Dennis Schroder",
     "team": "CHA",
     "status": "Day-To-Day",
     "note": "Schroder (thigh) is questionable for Friday's game against the Celtics."
-   },
-   {
-    "player": "Moussa Diabate",
-    "team": "CHA",
-    "status": "Day-To-Day",
-    "note": "Diabate (quadriceps) is questionable for Friday's game against the Celtics."
    },
    {
     "player": "Kon Knueppel",
@@ -259,16 +253,28 @@
     "note": "Jones (ankle/two-way player) is out for Friday's game against Toronto."
    },
    {
-    "player": "Kyle Anderson",
+    "player": "Jakob Poeltl",
     "team": "TOR",
     "status": "Day-To-Day",
-    "note": "Anderson is questionable for Friday against the Bucks due to illness."
+    "note": "Poeltl (shoulder) is listed as probable for Friday's game against Milwaukee."
+   },
+   {
+    "player": "Immanuel Quickley",
+    "team": "TOR",
+    "status": "Day-To-Day",
+    "note": "Quickley (hamstring) is questionable for Friday against the Bucks."
    },
    {
     "player": "Scottie Barnes",
     "team": "TOR",
     "status": "Day-To-Day",
-    "note": "Barnes (groin) is questionable to play Friday's game against the Bucks."
+    "note": "Barnes (adductor) was not present at the morning shootaround, Michael Grange of Sportsnet.careports."
+   },
+   {
+    "player": "Kyle Anderson",
+    "team": "TOR",
+    "status": "Day-To-Day",
+    "note": "Anderson is questionable for Friday against the Bucks due to illness."
    },
    {
     "player": "Kawhi Leonard",
@@ -287,8 +293,8 @@
    {
     "player": "Terrence Shannon Jr.",
     "team": "MIN",
-    "status": "Day-To-Day",
-    "note": "Shannon (hip) is questionable for Friday's game against New Orleans."
+    "status": "Out",
+    "note": "Shannon (hip) has been ruled out for Friday's game against New Orleans."
    },
    {
     "player": "Anthony Edwards",
@@ -307,12 +313,6 @@
     "team": "NO",
     "status": "Out",
     "note": "Missi (knee) is out for Friday's game against Minnesota."
-   },
-   {
-    "player": "Trey Murphy III",
-    "team": "NO",
-    "status": "Day-To-Day",
-    "note": "Murphy (knee) is probable for Friday's game against Minnesota."
    }
   ],
   "POR@LAL": [
