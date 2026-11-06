@@ -1,7 +1,13 @@
 {
- "checked": "2026-11-06T21:22:30.579528+00:00",
+ "checked": "2026-11-06T22:22:29.701657+00:00",
  "games": {
   "WSH@ATL": [
+   {
+    "player": "Jalen Johnson",
+    "team": "ATL",
+    "status": "Out",
+    "note": "Johnson (ankle) is out for Friday's game against the Wizards."
+   },
    {
     "player": "Keshon Gilbert",
     "team": "ATL",
@@ -19,12 +25,6 @@
     "team": "ATL",
     "status": "Out",
     "note": "Landale (hip) has been ruled out for Friday's game against the Wizards."
-   },
-   {
-    "player": "Jalen Johnson",
-    "team": "ATL",
-    "status": "Day-To-Day",
-    "note": "Johnson is questionable to suit up for Friday's game against Washington."
    },
    {
     "player": "Mouhamed Gueye",

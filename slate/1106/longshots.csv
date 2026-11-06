@@ -1,13 +1,13 @@
 game,team,player,combo,chance,fair_odds,min,min_bump,why,avg,size,special
-OKC@MEM,OKC,Isaiah Hartenstein,10+ pts & 14+ reb,0.159,+530,30.2,-5.7,Jalen Williams out,11.8 reb / 3.8 ast / 10.3 pts,24,True
+OKC@MEM,OKC,Isaiah Hartenstein,10+ pts & 14+ reb,0.158,+533,30.3,-5.5,Jalen Williams out,11.8 reb / 3.9 ast / 10.3 pts,24,True
 TOR@MIL,TOR,Jamal Shead,10+ pts & 7+ ast,0.153,+552,26.8,10.7,Kawhi Leonard out; +11 min,1.9 reb / 5.9 ast / 8.9 pts,17,True
-WSH@ATL,WSH,AJ Dybantsa,15+ pts & 6+ reb,0.121,+728,28.0,23.4,+23 min,5.1 reb / 1.9 ast / 11.0 pts,21,True
+WSH@ATL,ATL,Onyeka Okongwu,20+ pts & 12+ reb,0.122,+718,34.7,-2.8,Jalen Johnson out,10.3 reb / 3.7 ast / 17.1 pts,32,True
 POR@LAL,POR,Donovan Clingan,15+ pts & 12+ reb,0.121,+728,28.7,-0.8,Ja Morant out,10.5 reb / 1.7 ast / 12.1 pts,27,True
+WSH@ATL,WSH,AJ Dybantsa,15+ pts & 6+ reb,0.12,+733,28.1,23.7,+24 min,5.1 reb / 1.9 ast / 10.9 pts,21,True
 SA@SAC,SA,Dylan Harper,20+ pts & 6+ ast,0.116,+765,31.9,5.6,+6 min,4.5 reb / 5.3 ast / 15.8 pts,26,True
-OKC@MEM,MEM,Ty Jerome,25+ pts & 7+ ast,0.115,+767,29.9,3.3,+3 min,3.5 reb / 6.2 ast / 19.5 pts,32,True
+OKC@MEM,MEM,Ty Jerome,25+ pts & 7+ ast,0.116,+764,29.9,3.4,+3 min,3.5 reb / 6.2 ast / 19.6 pts,32,True
 MIN@NO,MIN,Rudy Gobert,15+ pts & 2+ ast,0.115,+769,31.4,-0.4,Anthony Edwards out,10.8 reb / 1.6 ast / 11.3 pts,17,True
-OKC@MEM,MEM,Cameron Boozer,20+ pts & 8+ reb,0.114,+778,36.3,13.2,+13 min,6.9 reb / 3.1 ast / 15.3 pts,28,True
+OKC@MEM,MEM,Cameron Boozer,20+ pts & 8+ reb,0.114,+777,36.4,13.0,+13 min,6.9 reb / 3.2 ast / 15.2 pts,28,True
 TOR@MIL,TOR,Scottie Barnes,25+ pts & 7+ ast,0.113,+788,35.1,4.7,Kawhi Leonard out; +5 min,7.4 reb / 6.1 ast / 19.9 pts,32,True
-OKC@MEM,MEM,Cameron Boozer,20+ pts & 4+ ast,0.113,+781,36.3,13.2,+13 min,6.9 reb / 3.1 ast / 15.3 pts,24,True
-OKC@MEM,OKC,Ajay Mitchell,20+ pts & 6+ reb,0.112,+789,36.9,4.2,Jalen Williams out; +4 min,4.8 reb / 4.5 ast / 16.9 pts,26,True
 PHI@CLE,PHI,Joel Embiid,25+ pts & 9+ reb,0.112,+797,29.9,5.1,+5 min,7.8 reb / 2.9 ast / 20.6 pts,34,True
+MIN@NO,MIN,Jonathan Kuminga,20+ pts & 7+ reb,0.11,+810,27.6,-3.4,Anthony Edwards out,5.8 reb / 2.6 ast / 16.4 pts,27,True
