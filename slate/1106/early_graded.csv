@@ -1,0 +1,9 @@
+game,team,player,stat,side,line,p,where,line_now,p_now,move,news,status,actual,result,date
+PHI@CLE,CLE,Evan Mobley,3PM,Less,1.5,0.6608,Kalshi / Underdog,1.5,0.655,,False,Hold,3.0,Loss,2026-11-06
+WSH@ATL,WSH,Alex Sarr,REB,Less,7.5,0.65,PrizePicks / Underdog,8.5,0.601,against,False,Hold,8.0,Loss,2026-11-06
+WSH@ATL,WSH,Alex Sarr,RA,Less,9.5,0.6464,PrizePicks / Underdog,10.5,0.6,against,False,Hold,11.0,Loss,2026-11-06
+SA@SAC,SA,Stephon Castle,AST,More,5.5,0.6314,PrizePicks / Underdog,5.5,0.634,,False,Hold,7.0,Win,2026-11-06
+TOR@MIL,TOR,Jakob Poeltl,RA,Less,8.5,0.6302,Kalshi / Underdog,8.5,0.495,,False,Drop,12.0,Loss,2026-11-06
+OKC@MEM,OKC,Shai Gilgeous-Alexander,3PM,Less,2.5,0.629,Kalshi / Underdog,2.5,0.628,,False,Hold,3.0,Loss,2026-11-06
+OKC@MEM,MEM,Cedric Coward,REB,Less,7.5,0.6248,PrizePicks / Underdog,7.5,0.623,,False,Hold,9.0,Loss,2026-11-06
+UTAH@DAL,DAL,Naji Marshall,AST,Less,3.5,0.6212,Kalshi / Underdog,3.5,0.622,,False,Hold,5.0,Loss,2026-11-06
