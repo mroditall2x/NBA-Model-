@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-07T17:22:30.026463+00:00",
+ "checked": "2026-11-07T18:22:31.409134+00:00",
  "games": {
   "DEN@IND": [
    {
@@ -49,26 +49,26 @@
    {
     "player": "Keshon Gilbert",
     "team": "ATL",
-    "status": "Day-To-Day",
-    "note": "Gilbert is out for Friday's game against the Wizards due to left knee inflammation."
+    "status": "Out",
+    "note": "Gilbert (knee) is out for Saturday's game against Brooklyn."
    },
    {
     "player": "Asa Newell",
     "team": "ATL",
-    "status": "Day-To-Day",
-    "note": "Newell (toe) is out for Friday's game against Washington."
-   },
-   {
-    "player": "Jalen Johnson",
-    "team": "ATL",
     "status": "Out",
-    "note": "Johnson (ankle) is out for Friday's game against the Wizards."
+    "note": "Newell (toe)  is out for Saturday's game against the Nets."
    },
    {
     "player": "Jock Landale",
     "team": "ATL",
     "status": "Out",
-    "note": "Landale (hip) has been ruled out for Friday's game against the Wizards."
+    "note": "Landale (hip) has been ruled out for Saturday's game against the Nets."
+   },
+   {
+    "player": "Jalen Johnson",
+    "team": "ATL",
+    "status": "Out",
+    "note": "Johnson (ankle) is probable for Saturday's game against Brooklyn."
    },
    {
     "player": "Mouhamed Gueye",
@@ -111,13 +111,13 @@
    {
     "player": "Sam Merrill",
     "team": "CLE",
-    "status": "Day-To-Day",
+    "status": "Out",
     "note": "Merrill (elbow) won't return to Friday's game against the 76ers, Dave McMenamin of ESPN.com reports."
    },
    {
     "player": "Jarrett Allen",
     "team": "CLE",
-    "status": "Day-To-Day",
+    "status": "Out",
     "note": "Allen (knee) is out for Friday's game against the 76ers."
    },
    {
