@@ -1,6 +1,44 @@
 {
- "checked": "2026-11-07T00:22:25.620011+00:00",
+ "checked": "2026-11-07T01:22:27.895879+00:00",
  "games": {
+  "BOS@CHA": [
+   {
+    "player": "Devin Carter",
+    "team": "BOS",
+    "status": "Out",
+    "note": "Carter (illness) practiced with the G League's Maine Celtics on Wednesday."
+   },
+   {
+    "player": "Brandon Miller",
+    "team": "CHA",
+    "status": "Day-To-Day",
+    "note": "Miller (groin) won't return to Friday's game against the Celtics, Brett Siegel of ClutchPoints.com reports."
+   },
+   {
+    "player": "Dennis Schroder",
+    "team": "CHA",
+    "status": "Out",
+    "note": "Schroder (thigh) is out for Friday's game versus Boston."
+   },
+   {
+    "player": "Moussa Diabate",
+    "team": "CHA",
+    "status": "Out",
+    "note": "Diabate (quadriceps) has been ruled out for Friday's game against Boston, according to the Hornets' official injury report."
+   },
+   {
+    "player": "Kon Knueppel",
+    "team": "CHA",
+    "status": "Out",
+    "note": "Knueppel (hamstring) is out for Friday's game against the Celtics."
+   },
+   {
+    "player": "Grant Williams",
+    "team": "CHA",
+    "status": "Out",
+    "note": "The Hornets recalled Williams (hamstring) from the G League's Greensboro Swarm on Wednesday."
+   }
+  ],
   "WSH@ATL": [
    {
     "player": "Jalen Johnson",
@@ -67,38 +105,6 @@
     "team": "WSH",
     "status": "Out",
     "note": "The Wizards announced Thursday that Watkins has undergone surgery for a torn ACL."
-   }
-  ],
-  "BOS@CHA": [
-   {
-    "player": "Devin Carter",
-    "team": "BOS",
-    "status": "Out",
-    "note": "Carter (illness) practiced with the G League's Maine Celtics on Wednesday."
-   },
-   {
-    "player": "Dennis Schroder",
-    "team": "CHA",
-    "status": "Out",
-    "note": "Schroder (thigh) is out for Friday's game versus Boston."
-   },
-   {
-    "player": "Moussa Diabate",
-    "team": "CHA",
-    "status": "Out",
-    "note": "Diabate (quadriceps) has been ruled out for Friday's game against Boston, according to the Hornets' official injury report."
-   },
-   {
-    "player": "Kon Knueppel",
-    "team": "CHA",
-    "status": "Out",
-    "note": "Knueppel (hamstring) is out for Friday's game against the Celtics."
-   },
-   {
-    "player": "Grant Williams",
-    "team": "CHA",
-    "status": "Out",
-    "note": "The Hornets recalled Williams (hamstring) from the G League's Greensboro Swarm on Wednesday."
    }
   ],
   "PHI@CLE": [
@@ -303,8 +309,8 @@
    {
     "player": "De'Andre Hunter",
     "team": "SAC",
-    "status": "Day-To-Day",
-    "note": "Hunter is questionable for Friday against the Spurs due to an illness."
+    "status": "Out",
+    "note": "Hunter (illness) is listed as out for Friday's game against San Antonio."
    },
    {
     "player": "Maxime Raynaud",

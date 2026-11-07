@@ -498,110 +498,102 @@ POR@LAL,LAL,Jake LaRavia,RA,4.64,2,7,22.0,-0.4,,book line,4.5,Less,0.525,0.583,-
 POR@LAL,LAL,Walker Kessler,RA,12.45,9,16,30.9,0.0,new team,PP standard,11.5,More,0.577,0.506,0.071,0.577,-102,103,PrizePicks / Underdog
 POR@LAL,LAL,Sandro Mamukelashvili,RA,5.86,3,8,20.8,-3.5,new team,book line,5.5,More,0.508,0.533,-0.025,0.508,-114,114,Kalshi / Underdog
 POR@LAL,LAL,Sandro Mamukelashvili,PRA,15.1,9,21,20.8,-3.5,new team,PP standard,13.5,More,0.548,0.5,0.048,0.548,-119,-119,PrizePicks / Underdog
-SA@SAC,SA,De'Aaron Fox,AST,5.81,3,8,29.1,-3.0,,PP standard,5.5,More,0.511,0.539,-0.028,0.511,-134,104,PrizePicks / Underdog
-SA@SAC,SA,Stephon Castle,AST,7.35,5,10,29.6,-0.4,,PP standard,5.5,More,0.719,0.531,0.188,0.719,-130,100,PrizePicks / Underdog
-SA@SAC,SAC,Darius Acuff Jr.,AST,3.39,2,5,36.0,13.9,minutes unclear (+14); small sample,PP standard,5.5,Less,0.847,0.489,0.358,0.153,-120,-109,PrizePicks / Underdog
-SA@SAC,SAC,Domantas Sabonis,AST,5.82,3,8,33.3,-3.0,,PP standard,5.5,More,0.507,0.495,0.012,0.507,-113,-118,PrizePicks / Underdog
-SA@SAC,SA,Dylan Harper,AST,5.25,3,7,31.9,5.6,minutes unclear (+6),PP standard,5.5,Less,0.577,0.569,0.008,0.423,117,-155,PrizePicks / Underdog
-SA@SAC,SAC,Malik Monk,AST,3.61,2,5,21.1,7.3,minutes unclear (+7),book line,4.5,Less,0.687,0.57,0.117,0.313,118,-155,Kalshi / Underdog
-SA@SAC,SA,Victor Wembanyama,AST,3.3,2,5,31.8,2.6,,book line,2.5,More,0.615,0.593,0.022,0.615,-172,130,Kalshi / Underdog
-SA@SAC,SA,Devin Vassell,AST,2.41,1,4,29.8,-2.6,,PP standard,2.5,Less,0.576,0.51,0.066,0.424,-108,-118,PrizePicks / Underdog
-SA@SAC,SAC,Zach LaVine,AST,3.21,1,5,33.4,0.1,,book line,2.5,More,0.591,0.452,0.139,0.591,106,-143,Kalshi / Underdog
-SA@SAC,SAC,De'Andre Hunter,AST,2.05,1,3,28.1,-3.8,,book line,1.5,More,0.578,0.466,0.112,0.578,101,-133,Kalshi / Underdog
-SA@SAC,SA,Victor Wembanyama,PTS,26.93,19,35,31.8,2.6,,PP standard,28.5,Less,0.59,0.516,0.073,0.41,-106,-122,PrizePicks / Underdog
-SA@SAC,SAC,Darius Acuff Jr.,PTS,15.3,9,21,36.0,13.9,minutes unclear (+14); small sample,PP standard,23.5,Less,0.858,0.508,0.35,0.142,-112,-120,PrizePicks / Underdog
-SA@SAC,SAC,Zach LaVine,PTS,18.37,11,25,33.4,0.1,,PP standard,19.5,Less,0.588,0.516,0.072,0.412,-106,-121,PrizePicks / Underdog
-SA@SAC,SA,Dylan Harper,PTS,15.79,10,22,31.9,5.6,minutes unclear (+6),PP standard,17.5,Less,0.626,0.525,0.101,0.374,-103,-128,PrizePicks / Underdog
-SA@SAC,SA,Stephon Castle,PTS,16.4,10,22,29.6,-0.4,,PP standard,16.5,Less,0.541,0.497,0.044,0.459,-116,-113,PrizePicks / Underdog
-SA@SAC,SA,De'Aaron Fox,PTS,16.78,10,23,29.1,-3.0,,PP standard,15.5,More,0.53,0.483,0.047,0.53,-107,-124,PrizePicks / Underdog
-SA@SAC,SAC,Domantas Sabonis,PTS,16.94,10,23,33.3,-3.0,,PP standard,13.5,More,0.648,0.508,0.14,0.648,-118,-110,PrizePicks / Underdog
-SA@SAC,SA,Devin Vassell,PTS,13.19,7,19,29.8,-2.6,,PP standard,11.5,More,0.561,0.506,0.055,0.561,-116,-110,PrizePicks / Underdog
-SA@SAC,SAC,De'Andre Hunter,PTS,13.75,8,19,28.1,-3.8,,PP standard,12.5,More,0.529,0.489,0.04,0.529,-109,-120,PrizePicks / Underdog
-SA@SAC,SAC,Malik Monk,PTS,10.47,5,16,21.1,7.3,minutes unclear (+7),PP standard,11.5,Less,0.607,0.518,0.089,0.393,-106,-124,PrizePicks / Underdog
-SA@SAC,SA,Keldon Johnson,PTS,11.61,5,17,20.9,-3.8,,PP standard,9.5,More,0.559,0.537,0.022,0.559,-130,105,PrizePicks / Underdog
-SA@SAC,SA,Julian Champagnie,PTS,10.07,4,15,25.7,-1.9,,PP standard,9.5,Less,0.532,0.511,0.02,0.468,-109,-120,PrizePicks / Underdog
-SA@SAC,SAC,Precious Achiuwa,PTS,10.74,5,16,25.4,-2.8,,PP standard,8.5,More,0.591,0.49,0.101,0.591,-110,-120,PrizePicks / Underdog
-SA@SAC,SA,Victor Wembanyama,PA,30.23,22,38,31.8,2.6,,PP standard,31.5,Less,0.576,0.507,0.069,0.424,-110,-117,PrizePicks / Underdog
-SA@SAC,SAC,Darius Acuff Jr.,PA,18.69,12,25,36.0,13.9,minutes unclear (+14); small sample,PP standard,28.5,Less,0.878,0.476,0.402,0.122,-122,100,PrizePicks / Underdog
-SA@SAC,SA,Stephon Castle,PA,23.75,17,30,29.6,-0.4,,PP standard,22.5,More,0.529,0.505,0.024,0.529,-115,-110,PrizePicks / Underdog
-SA@SAC,SA,Dylan Harper,PA,21.04,14,27,31.9,5.6,minutes unclear (+6),PP standard,22.5,Less,0.604,0.512,0.092,0.396,-108,-120,PrizePicks / Underdog
-SA@SAC,SAC,Zach LaVine,PA,21.58,14,29,33.4,0.1,,PP standard,22.5,Less,0.574,0.537,0.037,0.426,109,-125,PrizePicks / Underdog
-SA@SAC,SA,De'Aaron Fox,PA,22.58,15,29,29.1,-3.0,,PP standard,21.5,More,0.518,0.482,0.036,0.518,-106,-124,PrizePicks / Underdog
-SA@SAC,SAC,Domantas Sabonis,PA,22.76,15,30,33.3,-3.0,,PP standard,19.5,More,0.618,0.493,0.125,0.618,-110,-117,PrizePicks / Underdog
-SA@SAC,SAC,Malik Monk,PA,14.09,8,20,21.1,7.3,minutes unclear (+7),PP standard,15.5,Less,0.614,0.502,0.112,0.386,-112,-114,PrizePicks / Underdog
-SA@SAC,SA,Devin Vassell,PA,15.6,9,21,29.8,-2.6,,PP standard,14.5,More,0.525,0.513,0.012,0.525,-118,-106,PrizePicks / Underdog
-SA@SAC,SAC,De'Andre Hunter,PA,15.8,9,22,28.1,-3.8,,PP standard,13.5,More,0.587,0.494,0.093,0.587,-110,-116,PrizePicks / Underdog
-SA@SAC,SA,Victor Wembanyama,PR,38.49,29,47,31.8,2.6,,PP standard,39.5,Less,0.558,0.487,0.071,0.442,-118,-106,PrizePicks / Underdog
-SA@SAC,SAC,Darius Acuff Jr.,PR,21.52,14,29,36.0,13.9,minutes unclear (+14); small sample,PP standard,26.5,Less,0.736,0.492,0.244,0.264,-116,-108,PrizePicks / Underdog
-SA@SAC,SAC,Domantas Sabonis,PR,28.02,20,36,33.3,-3.0,,PP standard,26.5,More,0.536,0.516,0.021,0.536,-120,-105,PrizePicks / Underdog
-SA@SAC,SA,Dylan Harper,PR,20.31,14,27,31.9,5.6,minutes unclear (+6),PP standard,22.5,Less,0.639,0.498,0.141,0.361,-116,-114,PrizePicks / Underdog
-SA@SAC,SA,Stephon Castle,PR,21.44,15,28,29.6,-0.4,,PP standard,22.5,Less,0.584,0.515,0.069,0.416,-106,-120,PrizePicks / Underdog
-SA@SAC,SAC,Zach LaVine,PR,21.07,13,28,33.4,0.1,,PP standard,22.5,Less,0.598,0.52,0.077,0.402,-105,-125,PrizePicks / Underdog
-SA@SAC,SA,De'Aaron Fox,PR,20.16,13,27,29.1,-3.0,,PP standard,18.5,More,0.551,0.519,0.033,0.551,-122,-104,PrizePicks / Underdog
-SA@SAC,SAC,De'Andre Hunter,PR,17.49,11,24,28.1,-3.8,,PP standard,16.5,More,0.511,0.506,0.005,0.511,-116,-110,PrizePicks / Underdog
-SA@SAC,SA,Devin Vassell,PR,17.01,11,23,29.8,-2.6,,PP standard,16.5,Less,0.511,0.51,0.001,0.489,-110,-120,PrizePicks / Underdog
-SA@SAC,SAC,Precious Achiuwa,PR,16.98,11,23,25.4,-2.8,,PP standard,14.5,More,0.594,0.5,0.094,0.594,-110,-110,PrizePicks / Underdog
-SA@SAC,SA,Keldon Johnson,PR,15.88,9,23,20.9,-3.8,,PP standard,14.5,More,0.512,0.505,0.007,0.512,-115,-110,PrizePicks / Underdog
-SA@SAC,SA,Julian Champagnie,PR,15.15,8,22,25.7,-1.9,,PP standard,13.5,More,0.527,0.517,0.01,0.527,-123,-106,PrizePicks / Underdog
-SA@SAC,SAC,Malik Monk,PR,12.14,6,18,21.1,7.3,minutes unclear (+7),PP standard,13.5,Less,0.618,0.512,0.106,0.382,-108,-120,PrizePicks / Underdog
-SA@SAC,SA,Victor Wembanyama,PRA,41.79,32,51,31.8,2.6,,PP standard,43.5,Less,0.578,0.507,0.07,0.422,-110,-117,PrizePicks / Underdog
-SA@SAC,SAC,Darius Acuff Jr.,PRA,24.91,17,33,36.0,13.9,minutes unclear (+14); small sample,PP standard,32.5,Less,0.797,0.497,0.3,0.203,-115,-112,PrizePicks / Underdog
-SA@SAC,SAC,Domantas Sabonis,PRA,33.84,25,42,33.3,-3.0,,PP standard,32.5,More,0.524,0.5,0.024,0.524,-114,-114,PrizePicks / Underdog
-SA@SAC,SA,Stephon Castle,PRA,28.79,21,36,29.6,-0.4,,PP standard,28.5,Less,0.519,0.51,0.009,0.481,-110,-120,PrizePicks / Underdog
-SA@SAC,SA,Dylan Harper,PRA,25.56,18,32,31.9,5.6,minutes unclear (+6),PP standard,27.5,Less,0.618,0.499,0.119,0.382,-115,-114,PrizePicks / Underdog
-SA@SAC,SA,De'Aaron Fox,PRA,25.96,18,33,29.1,-3.0,,PP standard,24.5,More,0.537,0.505,0.032,0.537,-115,-110,PrizePicks / Underdog
-SA@SAC,SAC,Zach LaVine,PRA,24.27,16,32,33.4,0.1,,PP standard,24.5,Less,0.545,0.499,0.046,0.455,-115,-114,PrizePicks / Underdog
-SA@SAC,SA,Devin Vassell,PRA,19.43,13,26,29.8,-2.6,,PP standard,18.5,More,0.514,0.512,0.002,0.514,-120,-108,PrizePicks / Underdog
-SA@SAC,SAC,De'Andre Hunter,PRA,19.54,13,26,28.1,-3.8,,PP standard,18.5,More,0.514,0.489,0.025,0.514,-109,-120,PrizePicks / Underdog
-SA@SAC,SAC,Malik Monk,PRA,15.75,9,22,21.1,7.3,minutes unclear (+7),PP standard,18.5,Less,0.67,0.965,-0.295,0.33,-2,-120,PrizePicks / Underdog
-SA@SAC,SAC,Domantas Sabonis,REB,11.08,8,14,33.3,-3.0,,PP standard,12.5,Less,0.659,0.472,0.187,0.341,-130,-102,PrizePicks / Underdog
-SA@SAC,SA,Victor Wembanyama,REB,11.56,8,15,31.8,2.6,,PP standard,11.5,Less,0.518,0.485,0.033,0.482,-123,-108,PrizePicks / Underdog
-SA@SAC,SAC,Precious Achiuwa,REB,6.25,4,9,25.4,-2.8,,PP standard,5.5,More,0.563,0.552,0.011,0.563,-144,109,PrizePicks / Underdog
-SA@SAC,SA,Stephon Castle,REB,5.04,3,7,29.6,-0.4,,PP standard,5.5,Less,0.612,0.523,0.089,0.388,-103,-125,PrizePicks / Underdog
-SA@SAC,SA,Dylan Harper,REB,4.52,2,6,31.9,5.6,minutes unclear (+6),book line,5.5,Less,0.689,0.543,0.146,0.311,106,-136,Kalshi / Underdog
-SA@SAC,SAC,De'Andre Hunter,REB,3.73,2,5,28.1,-3.8,,PP standard,4.5,Less,0.675,0.49,0.185,0.325,-120,-110,PrizePicks / Underdog
-SA@SAC,SA,Keldon Johnson,REB,4.27,2,6,20.9,-3.8,,PP standard,4.5,Less,0.591,0.506,0.084,0.409,-110,-116,PrizePicks / Underdog
-SA@SAC,SA,Julian Champagnie,REB,5.08,3,7,25.7,-1.9,,book line,4.5,More,0.531,0.438,0.093,0.531,114,-150,Kalshi / Underdog
-SA@SAC,SA,Devin Vassell,REB,3.83,2,6,29.8,-2.6,,PP standard,4.5,Less,0.66,0.566,0.094,0.34,116,-152,PrizePicks / Underdog
-SA@SAC,SA,De'Aaron Fox,REB,3.38,2,5,29.1,-3.0,,PP standard,3.5,Less,0.576,0.491,0.086,0.424,-119,-110,PrizePicks / Underdog
-SA@SAC,SAC,Darius Acuff Jr.,REB,6.22,4,9,36.0,13.9,minutes unclear (+14); small sample,book line,3.5,More,0.816,0.461,0.355,0.816,104,-134,Kalshi / Underdog
-SA@SAC,SAC,Zach LaVine,REB,2.7,1,4,33.4,0.1,,book line,2.5,Less,0.52,0.439,0.081,0.48,-150,113,Kalshi / Underdog
-SA@SAC,SAC,Domantas Sabonis,RA,16.9,12,21,33.3,-3.0,,PP standard,18.5,Less,0.636,0.503,0.132,0.364,-112,-115,PrizePicks / Underdog
-SA@SAC,SA,Victor Wembanyama,RA,14.87,11,19,31.8,2.6,,PP standard,14.5,More,0.508,0.522,-0.014,0.508,-126,-104,PrizePicks / Underdog
-SA@SAC,SA,Stephon Castle,RA,12.4,9,16,29.6,-0.4,,PP standard,11.5,More,0.563,0.48,0.083,0.563,-105,-125,PrizePicks / Underdog
-SA@SAC,SA,Dylan Harper,RA,9.77,7,13,31.9,5.6,minutes unclear (+6),PP standard,10.5,Less,0.608,0.516,0.091,0.392,-106,-122,PrizePicks / Underdog
-SA@SAC,SA,De'Aaron Fox,RA,9.19,6,12,29.1,-3.0,,PP standard,9.5,Less,0.566,0.491,0.075,0.434,-119,-110,PrizePicks / Underdog
-SA@SAC,SAC,Darius Acuff Jr.,RA,9.61,6,13,36.0,13.9,minutes unclear (+14); small sample,book line,9.5,Less,0.523,0.548,-0.025,0.477,108,-140,Kalshi / Underdog
-SA@SAC,SA,Devin Vassell,RA,6.24,4,9,29.8,-2.6,,PP standard,6.5,Less,0.57,0.468,0.103,0.43,-125,105,PrizePicks / Underdog
-SA@SAC,SAC,De'Andre Hunter,RA,5.78,3,8,28.1,-3.8,,PP standard,6.5,Less,0.64,0.371,0.268,0.36,6,-126,PrizePicks / Underdog
-SA@SAC,SAC,Malik Monk,RA,5.28,3,8,21.1,7.3,minutes unclear (+7),book line,6.5,Less,0.693,0.541,0.152,0.307,105,-135,Kalshi / Underdog
-SA@SAC,SAC,Zach LaVine,RA,5.9,3,8,33.4,0.1,,PP standard,5.5,More,0.511,0.469,0.042,0.511,102,-128,PrizePicks / Underdog
-SA@SAC,SAC,Darius Acuff Jr.,3PM,1.64,0,3,36.0,13.9,minutes unclear (+14); small sample,PP standard,2.5,Less,0.756,0.488,0.268,0.244,-121,-109,PrizePicks / Underdog
-SA@SAC,SAC,Zach LaVine,3PM,2.36,1,4,33.4,0.1,,book line,2.5,Less,0.592,0.548,0.045,0.408,110,-136,Kalshi / Underdog
-SA@SAC,SA,Julian Champagnie,3PM,2.32,1,4,25.7,-1.9,,book line,2.5,Less,0.603,0.584,0.019,0.397,125,-166,Kalshi / Underdog
-SA@SAC,SA,Victor Wembanyama,3PM,2.41,1,4,31.8,2.6,,book line,1.5,More,0.643,0.6,0.043,0.643,-178,134,Kalshi / Underdog
-SA@SAC,SA,Devin Vassell,3PM,2.49,1,4,29.8,-2.6,,book line,1.5,More,0.656,0.569,0.087,0.656,-154,118,Kalshi / Underdog
-SA@SAC,SAC,De'Andre Hunter,3PM,1.74,0,3,28.1,-3.8,,book line,1.5,Less,0.512,0.455,0.058,0.488,-141,105,Kalshi / Underdog
-SA@SAC,SA,Stephon Castle,3PM,1.33,0,2,29.6,-0.4,,book line,1.5,Less,0.63,0.452,0.178,0.37,-142,107,Kalshi / Underdog
-SA@SAC,SAC,Malik Monk,3PM,1.55,0,3,21.1,7.3,minutes unclear (+7),PP standard,1.5,Less,0.565,0.494,0.071,0.435,-117,-111,PrizePicks / Underdog
-SA@SAC,SA,De'Aaron Fox,3PM,1.8,0,3,29.1,-3.0,,book line,1.5,More,0.504,0.408,0.096,0.504,130,-171,Kalshi / Underdog
-SA@SAC,SA,Dylan Harper,3PM,1.42,0,2,31.9,5.6,minutes unclear (+6),book line,1.5,Less,0.601,0.639,-0.037,0.399,159,-215,Kalshi / Underdog
-SA@SAC,SAC,Precious Achiuwa,AST,1.56,0,3,25.4,-2.8,,book line,1.5,Less,0.558,0.653,-0.095,0.442,171,-227,Kalshi / Underdog
-SA@SAC,SAC,Precious Achiuwa,PRA,18.54,12,25,25.4,-2.8,,PP standard,17.5,More,0.515,0.522,-0.007,0.515,-109,109,PrizePicks / Underdog
-SA@SAC,SAC,Malik Monk,REB,1.66,0,3,21.1,7.3,minutes unclear (+7),book line,1.5,Less,0.534,0.389,0.145,0.466,-190,140,Kalshi / Underdog
-SA@SAC,SA,Keldon Johnson,3PM,1.17,0,2,20.9,-3.8,,PP standard,0.5,More,0.604,0.121,0.482,0.604,-16,0,PrizePicks / Underdog
-SA@SAC,SA,Julian Champagnie,PA,11.51,5,17,25.7,-1.9,,book line,10.5,Less,0.504,0.483,0.021,0.496,-106,108,Kalshi / Underdog
-SA@SAC,SAC,Precious Achiuwa,PA,12.29,7,18,25.4,-2.8,,book line,11.5,Less,0.501,0.513,-0.012,0.499,106,-105,Kalshi / Underdog
-SA@SAC,SA,Keldon Johnson,PA,12.77,6,19,20.9,-3.8,,book line,11.5,More,0.51,0.471,0.039,0.51,113,-112,Kalshi / Underdog
-SA@SAC,SA,Luke Kornet,PR,9.16,5,13,16.8,-0.6,,book line,9.5,Less,0.588,0.516,0.072,0.412,107,-106,Kalshi / Underdog
-SA@SAC,SA,Luke Kornet,PRA,10.6,6,15,16.8,-0.6,,PP standard,10.5,Less,0.552,0.501,0.051,0.448,101,100,PrizePicks / Underdog
-SA@SAC,SA,Julian Champagnie,PRA,16.59,9,23,25.7,-1.9,,PP standard,15.5,Less,0.501,0.504,-0.003,0.499,102,-101,PrizePicks / Underdog
-SA@SAC,SA,Keldon Johnson,PRA,17.04,9,24,20.9,-3.8,,PP standard,15.5,More,0.517,0.511,0.006,0.517,-104,105,PrizePicks / Underdog
-SA@SAC,SA,Luke Kornet,REB,4.62,2,7,16.8,-0.6,,PP standard,4.5,Less,0.534,0.489,0.045,0.466,-104,105,PrizePicks / Underdog
-SA@SAC,SA,Keldon Johnson,RA,5.43,3,8,20.9,-3.8,,book line,5.5,Less,0.562,0.487,0.076,0.438,-105,106,Kalshi / Underdog
-SA@SAC,SA,Luke Kornet,RA,6.06,3,9,16.8,-0.6,,book line,5.5,More,0.516,0.523,-0.007,0.516,-109,110,Kalshi / Underdog
-SA@SAC,SAC,Precious Achiuwa,RA,7.8,5,11,25.4,-2.8,,PP standard,7.5,Less,0.5,0.473,0.027,0.5,-111,112,PrizePicks / Underdog
-SA@SAC,SA,Julian Champagnie,RA,6.52,4,9,25.7,-1.9,,book line,5.5,More,0.571,0.552,0.019,0.571,-122,124,Kalshi / Underdog
+SA@SAC,SA,De'Aaron Fox,AST,5.77,4,8,29.1,-3.1,,PP standard,5.5,More,0.507,0.539,-0.032,0.507,-134,104,PrizePicks / Underdog
+SA@SAC,SA,Stephon Castle,AST,7.38,5,10,29.5,-0.3,,PP standard,5.5,More,0.724,0.531,0.194,0.724,-130,100,PrizePicks / Underdog
+SA@SAC,SAC,Darius Acuff Jr.,AST,3.5,2,5,37.6,11.0,minutes unclear (+11); small sample,PP standard,5.5,Less,0.835,0.489,0.346,0.165,-120,-109,PrizePicks / Underdog
+SA@SAC,SAC,Domantas Sabonis,AST,6.16,4,8,35.5,-5.2,minutes unclear (-5),PP standard,5.5,More,0.56,0.495,0.065,0.56,-113,-118,PrizePicks / Underdog
+SA@SAC,SA,Dylan Harper,AST,5.27,3,7,31.8,5.7,minutes unclear (+6),PP standard,5.5,Less,0.572,0.569,0.003,0.428,117,-155,PrizePicks / Underdog
+SA@SAC,SAC,Malik Monk,AST,3.8,2,6,22.6,4.7,minutes unclear (+5),book line,4.5,Less,0.658,0.57,0.089,0.342,118,-155,Kalshi / Underdog
+SA@SAC,SA,Victor Wembanyama,AST,3.32,2,5,32.0,2.8,,book line,2.5,More,0.616,0.593,0.024,0.616,-172,130,Kalshi / Underdog
+SA@SAC,SA,Devin Vassell,AST,2.41,1,4,29.7,-2.7,,PP standard,2.5,Less,0.575,0.51,0.065,0.425,-108,-118,PrizePicks / Underdog
+SA@SAC,SAC,Zach LaVine,AST,3.3,2,5,35.2,-3.8,,book line,2.5,More,0.608,0.452,0.156,0.608,106,-143,Kalshi / Underdog
+SA@SAC,SA,Victor Wembanyama,PTS,27.01,19,35,32.0,2.8,,PP standard,28.5,Less,0.584,0.516,0.068,0.416,-106,-122,PrizePicks / Underdog
+SA@SAC,SAC,Darius Acuff Jr.,PTS,16.68,10,23,37.6,11.0,minutes unclear (+11); small sample,PP standard,23.5,Less,0.812,0.508,0.304,0.188,-112,-120,PrizePicks / Underdog
+SA@SAC,SAC,Zach LaVine,PTS,20.16,13,27,35.2,-3.8,,PP standard,19.5,Less,0.507,0.516,-0.008,0.493,-106,-121,PrizePicks / Underdog
+SA@SAC,SA,Dylan Harper,PTS,15.68,10,22,31.8,5.7,minutes unclear (+6),PP standard,17.5,Less,0.633,0.525,0.107,0.367,-103,-128,PrizePicks / Underdog
+SA@SAC,SA,Stephon Castle,PTS,16.35,10,22,29.5,-0.3,,PP standard,16.5,Less,0.543,0.497,0.046,0.457,-116,-113,PrizePicks / Underdog
+SA@SAC,SA,De'Aaron Fox,PTS,16.81,10,23,29.1,-3.1,,PP standard,15.5,More,0.53,0.483,0.047,0.53,-107,-124,PrizePicks / Underdog
+SA@SAC,SAC,Domantas Sabonis,PTS,18.58,12,25,35.5,-5.2,minutes unclear (-5),PP standard,13.5,More,0.727,0.508,0.219,0.727,-118,-110,PrizePicks / Underdog
+SA@SAC,SA,Devin Vassell,PTS,13.09,7,19,29.7,-2.7,,PP standard,11.5,More,0.553,0.506,0.047,0.553,-116,-110,PrizePicks / Underdog
+SA@SAC,SAC,Malik Monk,PTS,11.75,6,17,22.6,4.7,minutes unclear (+5),PP standard,11.5,Less,0.539,0.518,0.021,0.461,-106,-124,PrizePicks / Underdog
+SA@SAC,SA,Keldon Johnson,PTS,11.73,5,18,21.0,-3.8,,PP standard,9.5,More,0.566,0.537,0.029,0.566,-130,105,PrizePicks / Underdog
+SA@SAC,SA,Julian Champagnie,PTS,10.14,4,15,25.8,-2.0,,PP standard,9.5,Less,0.529,0.511,0.018,0.471,-109,-120,PrizePicks / Underdog
+SA@SAC,SAC,Precious Achiuwa,PTS,11.81,6,17,27.1,-5.1,minutes unclear (-5),PP standard,8.5,More,0.659,0.49,0.169,0.659,-110,-120,PrizePicks / Underdog
+SA@SAC,SA,Victor Wembanyama,PA,30.33,22,39,32.0,2.8,,PP standard,31.5,Less,0.569,0.507,0.062,0.431,-110,-117,PrizePicks / Underdog
+SA@SAC,SAC,Darius Acuff Jr.,PA,20.18,13,27,37.6,11.0,minutes unclear (+11); small sample,PP standard,28.5,Less,0.836,0.476,0.36,0.164,-122,100,PrizePicks / Underdog
+SA@SAC,SA,Stephon Castle,PA,23.72,17,30,29.5,-0.3,,PP standard,22.5,More,0.53,0.505,0.025,0.53,-115,-110,PrizePicks / Underdog
+SA@SAC,SA,Dylan Harper,PA,20.95,14,27,31.8,5.7,minutes unclear (+6),PP standard,22.5,Less,0.61,0.512,0.098,0.39,-108,-120,PrizePicks / Underdog
+SA@SAC,SAC,Zach LaVine,PA,23.46,15,31,35.2,-3.8,,PP standard,22.5,More,0.507,0.463,0.044,0.507,109,-125,PrizePicks / Underdog
+SA@SAC,SA,De'Aaron Fox,PA,22.59,15,29,29.1,-3.1,,PP standard,21.5,More,0.52,0.482,0.039,0.52,-106,-124,PrizePicks / Underdog
+SA@SAC,SAC,Domantas Sabonis,PA,24.74,17,32,35.5,-5.2,minutes unclear (-5),PP standard,19.5,More,0.708,0.493,0.215,0.708,-110,-117,PrizePicks / Underdog
+SA@SAC,SAC,Malik Monk,PA,15.55,9,22,22.6,4.7,minutes unclear (+5),PP standard,15.5,Less,0.545,0.502,0.043,0.455,-112,-114,PrizePicks / Underdog
+SA@SAC,SA,Devin Vassell,PA,15.49,9,21,29.7,-2.7,,PP standard,14.5,More,0.517,0.513,0.005,0.517,-118,-106,PrizePicks / Underdog
+SA@SAC,SA,Victor Wembanyama,PR,38.54,29,47,32.0,2.8,,PP standard,39.5,Less,0.55,0.487,0.063,0.45,-118,-106,PrizePicks / Underdog
+SA@SAC,SAC,Darius Acuff Jr.,PR,22.74,15,30,37.6,11.0,minutes unclear (+11); small sample,PP standard,26.5,Less,0.688,0.492,0.196,0.312,-116,-108,PrizePicks / Underdog
+SA@SAC,SAC,Domantas Sabonis,PR,29.67,22,37,35.5,-5.2,minutes unclear (-5),PP standard,26.5,More,0.611,0.516,0.095,0.611,-120,-105,PrizePicks / Underdog
+SA@SAC,SA,Dylan Harper,PR,20.15,14,26,31.8,5.7,minutes unclear (+6),PP standard,22.5,Less,0.647,0.498,0.149,0.353,-116,-114,PrizePicks / Underdog
+SA@SAC,SA,Stephon Castle,PR,21.28,14,28,29.5,-0.3,,PP standard,22.5,Less,0.589,0.515,0.075,0.411,-106,-120,PrizePicks / Underdog
+SA@SAC,SAC,Zach LaVine,PR,22.87,15,30,35.2,-3.8,,PP standard,22.5,Less,0.521,0.52,0.0,0.479,-105,-125,PrizePicks / Underdog
+SA@SAC,SA,De'Aaron Fox,PR,20.18,13,27,29.1,-3.1,,PP standard,18.5,More,0.55,0.519,0.031,0.55,-122,-104,PrizePicks / Underdog
+SA@SAC,SA,Devin Vassell,PR,16.92,11,23,29.7,-2.7,,PP standard,16.5,Less,0.514,0.51,0.004,0.486,-110,-120,PrizePicks / Underdog
+SA@SAC,SAC,Precious Achiuwa,PR,18.0,11,24,27.1,-5.1,minutes unclear (-5),PP standard,14.5,More,0.647,0.5,0.147,0.647,-110,-110,PrizePicks / Underdog
+SA@SAC,SA,Keldon Johnson,PR,15.99,9,23,21.0,-3.8,,PP standard,14.5,More,0.518,0.505,0.012,0.518,-115,-110,PrizePicks / Underdog
+SA@SAC,SA,Julian Champagnie,PR,15.15,8,22,25.8,-2.0,,PP standard,13.5,More,0.528,0.517,0.01,0.528,-123,-106,PrizePicks / Underdog
+SA@SAC,SAC,Malik Monk,PR,13.45,7,19,22.6,4.7,minutes unclear (+5),PP standard,13.5,Less,0.55,0.512,0.038,0.45,-108,-120,PrizePicks / Underdog
+SA@SAC,SA,Victor Wembanyama,PRA,41.86,32,51,32.0,2.8,,PP standard,43.5,Less,0.573,0.507,0.066,0.427,-110,-117,PrizePicks / Underdog
+SA@SAC,SAC,Darius Acuff Jr.,PRA,26.24,18,34,37.6,11.0,minutes unclear (+11); small sample,PP standard,32.5,Less,0.757,0.497,0.26,0.243,-115,-112,PrizePicks / Underdog
+SA@SAC,SAC,Domantas Sabonis,PRA,35.83,27,45,35.5,-5.2,minutes unclear (-5),PP standard,32.5,More,0.605,0.5,0.105,0.605,-114,-114,PrizePicks / Underdog
+SA@SAC,SA,Stephon Castle,PRA,28.66,21,36,29.5,-0.3,,PP standard,28.5,Less,0.522,0.51,0.012,0.478,-110,-120,PrizePicks / Underdog
+SA@SAC,SA,Dylan Harper,PRA,25.42,18,32,31.8,5.7,minutes unclear (+6),PP standard,27.5,Less,0.628,0.499,0.129,0.372,-115,-114,PrizePicks / Underdog
+SA@SAC,SA,De'Aaron Fox,PRA,25.95,18,33,29.1,-3.1,,PP standard,24.5,More,0.536,0.505,0.031,0.536,-115,-110,PrizePicks / Underdog
+SA@SAC,SAC,Zach LaVine,PRA,26.17,18,34,35.2,-3.8,,PP standard,24.5,More,0.534,0.501,0.033,0.534,-115,-114,PrizePicks / Underdog
+SA@SAC,SA,Devin Vassell,PRA,19.33,13,25,29.7,-2.7,,PP standard,18.5,More,0.51,0.512,-0.002,0.51,-120,-108,PrizePicks / Underdog
+SA@SAC,SAC,Malik Monk,PRA,17.25,10,24,22.6,4.7,minutes unclear (+5),PP standard,18.5,Less,0.602,0.965,-0.363,0.398,-2,-120,PrizePicks / Underdog
+SA@SAC,SAC,Domantas Sabonis,REB,11.09,8,14,35.5,-5.2,minutes unclear (-5),PP standard,12.5,Less,0.663,0.472,0.191,0.337,-130,-102,PrizePicks / Underdog
+SA@SAC,SA,Victor Wembanyama,REB,11.53,8,15,32.0,2.8,,PP standard,11.5,Less,0.523,0.485,0.038,0.477,-123,-108,PrizePicks / Underdog
+SA@SAC,SAC,Precious Achiuwa,REB,6.19,4,9,27.1,-5.1,minutes unclear (-5),PP standard,5.5,More,0.552,0.552,-0.0,0.552,-144,109,PrizePicks / Underdog
+SA@SAC,SA,Stephon Castle,REB,4.94,3,7,29.5,-0.3,,PP standard,5.5,Less,0.625,0.523,0.102,0.375,-103,-125,PrizePicks / Underdog
+SA@SAC,SA,Dylan Harper,REB,4.47,2,6,31.8,5.7,minutes unclear (+6),book line,5.5,Less,0.699,0.543,0.156,0.301,106,-136,Kalshi / Underdog
+SA@SAC,SA,Keldon Johnson,REB,4.26,2,6,21.0,-3.8,,PP standard,4.5,Less,0.591,0.506,0.085,0.409,-110,-116,PrizePicks / Underdog
+SA@SAC,SA,Julian Champagnie,REB,5.0,3,7,25.8,-2.0,,book line,4.5,More,0.52,0.438,0.082,0.52,114,-150,Kalshi / Underdog
+SA@SAC,SA,Devin Vassell,REB,3.83,2,6,29.7,-2.7,,PP standard,4.5,Less,0.658,0.566,0.093,0.342,116,-152,PrizePicks / Underdog
+SA@SAC,SA,De'Aaron Fox,REB,3.36,2,5,29.1,-3.1,,PP standard,3.5,Less,0.578,0.491,0.087,0.422,-119,-110,PrizePicks / Underdog
+SA@SAC,SAC,Darius Acuff Jr.,REB,6.06,4,8,37.6,11.0,minutes unclear (+11); small sample,book line,3.5,More,0.811,0.461,0.35,0.811,104,-134,Kalshi / Underdog
+SA@SAC,SAC,Zach LaVine,REB,2.71,1,4,35.2,-3.8,,book line,2.5,Less,0.512,0.439,0.073,0.488,-150,113,Kalshi / Underdog
+SA@SAC,SAC,Domantas Sabonis,RA,17.25,13,22,35.5,-5.2,minutes unclear (-5),PP standard,18.5,Less,0.613,0.503,0.11,0.387,-112,-115,PrizePicks / Underdog
+SA@SAC,SA,Victor Wembanyama,RA,14.85,11,19,32.0,2.8,,PP standard,14.5,More,0.509,0.522,-0.013,0.509,-126,-104,PrizePicks / Underdog
+SA@SAC,SA,Stephon Castle,RA,12.32,9,16,29.5,-0.3,,PP standard,11.5,More,0.554,0.48,0.074,0.554,-105,-125,PrizePicks / Underdog
+SA@SAC,SA,Dylan Harper,RA,9.74,7,13,31.8,5.7,minutes unclear (+6),PP standard,10.5,Less,0.613,0.516,0.096,0.387,-106,-122,PrizePicks / Underdog
+SA@SAC,SA,De'Aaron Fox,RA,9.13,6,12,29.1,-3.1,,PP standard,9.5,Less,0.571,0.491,0.08,0.429,-119,-110,PrizePicks / Underdog
+SA@SAC,SAC,Darius Acuff Jr.,RA,9.56,6,13,37.6,11.0,minutes unclear (+11); small sample,book line,9.5,Less,0.525,0.548,-0.024,0.475,108,-140,Kalshi / Underdog
+SA@SAC,SA,Devin Vassell,RA,6.24,4,9,29.7,-2.7,,PP standard,6.5,Less,0.568,0.468,0.101,0.432,-125,105,PrizePicks / Underdog
+SA@SAC,SAC,Malik Monk,RA,5.5,3,8,22.6,4.7,minutes unclear (+5),book line,6.5,Less,0.666,0.541,0.126,0.334,105,-135,Kalshi / Underdog
+SA@SAC,SAC,Zach LaVine,RA,6.01,3,8,35.2,-3.8,,PP standard,5.5,More,0.531,0.469,0.062,0.531,102,-128,PrizePicks / Underdog
+SA@SAC,SAC,Darius Acuff Jr.,3PM,1.83,0,3,37.6,11.0,minutes unclear (+11); small sample,PP standard,2.5,Less,0.711,0.488,0.223,0.289,-121,-109,PrizePicks / Underdog
+SA@SAC,SAC,Zach LaVine,3PM,2.65,1,4,35.2,-3.8,,book line,2.5,Less,0.532,0.548,-0.015,0.468,110,-136,Kalshi / Underdog
+SA@SAC,SA,Julian Champagnie,3PM,2.33,1,4,25.8,-2.0,,book line,2.5,Less,0.602,0.584,0.018,0.398,125,-166,Kalshi / Underdog
+SA@SAC,SA,Victor Wembanyama,3PM,2.43,1,4,32.0,2.8,,book line,1.5,More,0.641,0.6,0.041,0.641,-178,134,Kalshi / Underdog
+SA@SAC,SA,Devin Vassell,3PM,2.47,1,4,29.7,-2.7,,book line,1.5,More,0.65,0.569,0.08,0.65,-154,118,Kalshi / Underdog
+SA@SAC,SA,Stephon Castle,3PM,1.33,0,2,29.5,-0.3,,book line,1.5,Less,0.629,0.452,0.178,0.371,-142,107,Kalshi / Underdog
+SA@SAC,SAC,Malik Monk,3PM,1.78,0,3,22.6,4.7,minutes unclear (+5),PP standard,1.5,Less,0.507,0.494,0.013,0.493,-117,-111,PrizePicks / Underdog
+SA@SAC,SA,De'Aaron Fox,3PM,1.79,0,3,29.1,-3.1,,book line,1.5,More,0.502,0.408,0.094,0.502,130,-171,Kalshi / Underdog
+SA@SAC,SA,Dylan Harper,3PM,1.4,0,2,31.8,5.7,minutes unclear (+6),book line,1.5,Less,0.608,0.639,-0.031,0.392,159,-215,Kalshi / Underdog
+SA@SAC,SAC,Precious Achiuwa,AST,1.65,0,3,27.1,-5.1,minutes unclear (-5),book line,1.5,Less,0.532,0.653,-0.121,0.468,171,-227,Kalshi / Underdog
+SA@SAC,SAC,Precious Achiuwa,PRA,19.65,13,26,27.1,-5.1,minutes unclear (-5),PP standard,17.5,More,0.571,0.522,0.05,0.571,-109,109,PrizePicks / Underdog
+SA@SAC,SAC,Malik Monk,REB,1.7,0,3,22.6,4.7,minutes unclear (+5),book line,1.5,Less,0.526,0.389,0.137,0.474,-190,140,Kalshi / Underdog
+SA@SAC,SA,Keldon Johnson,3PM,1.19,0,2,21.0,-3.8,,PP standard,0.5,More,0.608,0.121,0.487,0.608,-16,0,PrizePicks / Underdog
+SA@SAC,SA,Julian Champagnie,PA,11.59,5,17,25.8,-2.0,,book line,10.5,Less,0.501,0.483,0.018,0.499,-106,108,Kalshi / Underdog
+SA@SAC,SAC,Precious Achiuwa,PA,13.46,8,19,27.1,-5.1,minutes unclear (-5),book line,11.5,More,0.571,0.487,0.085,0.571,106,-105,Kalshi / Underdog
+SA@SAC,SA,Keldon Johnson,PA,12.9,6,19,21.0,-3.8,,book line,11.5,More,0.515,0.471,0.044,0.515,113,-112,Kalshi / Underdog
+SA@SAC,SA,Luke Kornet,PR,9.18,5,13,16.9,-0.6,,book line,9.5,Less,0.583,0.516,0.067,0.417,107,-106,Kalshi / Underdog
+SA@SAC,SA,Luke Kornet,PRA,10.64,6,15,16.9,-0.6,,PP standard,10.5,Less,0.551,0.501,0.049,0.449,101,100,PrizePicks / Underdog
+SA@SAC,SA,Julian Champagnie,PRA,16.59,9,23,25.8,-2.0,,PP standard,15.5,Less,0.501,0.504,-0.002,0.499,102,-101,PrizePicks / Underdog
+SA@SAC,SA,Keldon Johnson,PRA,17.17,10,24,21.0,-3.8,,PP standard,15.5,More,0.525,0.511,0.014,0.525,-104,105,PrizePicks / Underdog
+SA@SAC,SA,Luke Kornet,REB,4.6,2,7,16.9,-0.6,,PP standard,4.5,Less,0.54,0.489,0.051,0.46,-104,105,PrizePicks / Underdog
+SA@SAC,SA,Keldon Johnson,RA,5.44,3,8,21.0,-3.8,,book line,5.5,Less,0.564,0.487,0.077,0.436,-105,106,Kalshi / Underdog
+SA@SAC,SA,Luke Kornet,RA,6.06,3,9,16.9,-0.6,,book line,5.5,More,0.512,0.523,-0.011,0.512,-109,110,Kalshi / Underdog
+SA@SAC,SAC,Precious Achiuwa,RA,7.85,5,11,27.1,-5.1,minutes unclear (-5),PP standard,7.5,Less,0.5,0.473,0.027,0.5,-111,112,PrizePicks / Underdog
+SA@SAC,SA,Julian Champagnie,RA,6.45,4,9,25.8,-2.0,,book line,5.5,More,0.564,0.552,0.013,0.564,-122,124,Kalshi / Underdog
 WSH@ATL,ATL,C.J. McCollum,AST,4.79,3,7,30.0,-7.6,minutes unclear (-8),PP standard,3.5,More,0.68,0.558,0.122,0.68,-144,114,PrizePicks / Underdog
 WSH@ATL,WSH,Trae Young,AST,8.37,6,11,34.6,1.5,,PP standard,8.5,Less,0.543,0.447,0.096,0.457,-145,109,PrizePicks / Underdog
 WSH@ATL,WSH,Kyshawn George,AST,3.43,2,5,34.3,2.0,,PP standard,4.5,Less,0.728,0.559,0.17,0.272,112,-148,PrizePicks / Underdog
