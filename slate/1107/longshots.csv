@@ -1,13 +1,13 @@
 game,team,player,combo,chance,fair_odds,min,min_bump,why,avg,size,special
-DEN@IND,IND,Andrew Nembhard,15+ pts & 10+ ast,0.158,+534,31.1,1.4,Tyrese Haliburton out,2.8 reb / 8.1 ast / 14.5 pts,25,True
 WSH@OKC,OKC,Isaiah Hartenstein,10+ pts & 14+ reb,0.155,+544,28.9,-6.1,Jalen Williams out,11.8 reb / 3.6 ast / 10.2 pts,24,True
-ORL@GS,ORL,Wendell Carter Jr.,15+ pts & 10+ reb,0.153,+554,36.0,-2.3,Desmond Bane out,8.5 reb / 2.5 ast / 13.7 pts,25,True
-SA@POR,SA,Victor Wembanyama,30+ pts & 13+ reb,0.123,+711,31.5,3.0,+3 min,11.3 reb / 3.1 ast / 25.7 pts,43,True
-ORL@GS,GS,Yaxel Lendeborg,20+ pts & 9+ reb,0.123,+713,36.5,6.8,+7 min,7.6 reb / 2.9 ast / 16.7 pts,29,True
+DEN@IND,IND,Andrew Nembhard,15+ pts & 10+ ast,0.151,+561,31.2,1.4,Tyrese Haliburton out,2.8 reb / 8.1 ast / 14.5 pts,25,True
+ORL@GS,ORL,Wendell Carter Jr.,15+ pts & 10+ reb,0.149,+570,36.0,-2.3,Desmond Bane out,8.5 reb / 2.5 ast / 13.7 pts,25,True
+ORL@GS,GS,Yaxel Lendeborg,20+ pts & 9+ reb,0.128,+683,36.5,6.8,+7 min,7.6 reb / 2.9 ast / 16.8 pts,29,True
+ORL@GS,ORL,Tristan da Silva,15+ pts & 6+ reb,0.123,+715,34.5,0.4,Desmond Bane out,4.8 reb / 2.7 ast / 12.5 pts,21,True
 WSH@OKC,WSH,AJ Dybantsa,15+ pts & 6+ reb,0.121,+725,28.6,20.0,+20 min,5.2 reb / 1.8 ast / 10.8 pts,21,True
-DEN@IND,IND,Jarace Walker,15+ pts & 6+ reb,0.121,+724,26.3,0.0,Tyrese Haliburton out,4.8 reb / 2.8 ast / 11.5 pts,21,True
+DEN@IND,IND,Jarace Walker,15+ pts & 6+ reb,0.12,+735,26.3,0.0,Tyrese Haliburton out,4.8 reb / 2.8 ast / 11.3 pts,21,True
+SA@POR,POR,Sidy Cissoko,10+ pts & 2+ ast,0.111,+802,25.9,0.0,Ja Morant out,3.0 reb / 1.7 ast / 6.4 pts,12,True
 HOU@PHX,HOU,Fred VanVleet,15+ pts & 5+ ast,0.11,+806,29.9,6.2,+6 min,3.0 reb / 4.1 ast / 11.3 pts,20,True
-BKN@ATL,ATL,Luguentz Dort,15+ pts & 2+ ast,0.107,+834,32.3,0.3,Jalen Johnson out,4.6 reb / 1.8 ast / 10.2 pts,17,True
+SA@POR,POR,Donovan Clingan,15+ pts & 15+ reb,0.108,+827,31.0,-2.9,Ja Morant out,12.5 reb / 1.8 ast / 12.6 pts,30,True
 BKN@ATL,ATL,CJ McCollum,25+ pts & 5+ ast,0.107,+833,28.4,-10.3,Jalen Johnson out,3.4 reb / 4.4 ast / 19.2 pts,30,True
-SA@POR,POR,Deni Avdija,30+ pts & 8+ reb,0.103,+872,36.5,-0.4,Ja Morant out,6.7 reb / 5.7 ast / 24.2 pts,38,True
-BKN@ATL,ATL,Onyeka Okongwu,20+ pts & 11+ reb,0.101,+887,33.6,-6.0,Jalen Johnson out,9.0 reb / 3.6 ast / 16.5 pts,31,True
+BKN@ATL,ATL,Luguentz Dort,15+ pts & 2+ ast,0.107,+834,32.3,0.3,Jalen Johnson out,4.6 reb / 1.8 ast / 10.2 pts,17,True
