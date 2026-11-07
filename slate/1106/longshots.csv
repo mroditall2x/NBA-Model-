@@ -1,13 +1,13 @@
 game,team,player,combo,chance,fair_odds,min,min_bump,why,avg,size,special
-OKC@MEM,OKC,Isaiah Hartenstein,10+ pts & 14+ reb,0.16,+524,30.3,-5.7,Jalen Williams out,11.9 reb / 3.8 ast / 10.3 pts,24,True
-WSH@ATL,WSH,Alex Sarr,15+ pts & 9+ reb,0.158,+532,26.4,0.9,Anthony Davis out,7.4 reb / 1.8 ast / 14.3 pts,24,True
-TOR@MIL,TOR,Jamal Shead,10+ pts & 7+ ast,0.153,+552,26.8,10.7,Kawhi Leonard out; +11 min,1.9 reb / 5.9 ast / 8.9 pts,17,True
-WSH@ATL,WSH,Bub Carrington,10+ pts & 4+ ast,0.145,+590,24.2,0.0,Anthony Davis out,2.9 reb / 3.1 ast / 8.6 pts,14,True
-WSH@ATL,WSH,Trae Young,25+ pts & 10+ ast,0.144,+593,34.5,0.8,Anthony Davis out,3.1 reb / 8.6 ast / 21.8 pts,35,True
-WSH@ATL,ATL,Onyeka Okongwu,20+ pts & 12+ reb,0.125,+702,34.7,-2.9,Jalen Johnson out,10.4 reb / 3.7 ast / 17.2 pts,32,True
+OKC@MEM,OKC,Isaiah Hartenstein,10+ pts & 14+ reb,0.164,+511,30.3,-5.7,Jalen Williams out,11.9 reb / 3.9 ast / 10.3 pts,24,True
+WSH@ATL,WSH,Alex Sarr,15+ pts & 9+ reb,0.153,+553,26.5,1.5,Anthony Davis out,7.3 reb / 1.8 ast / 14.1 pts,24,True
+WSH@ATL,WSH,AJ Dybantsa,15+ pts & 7+ reb,0.142,+605,29.4,21.1,Anthony Davis out; +21 min,6.1 reb / 1.8 ast / 11.9 pts,22,True
+WSH@ATL,WSH,Trae Young,25+ pts & 10+ ast,0.14,+615,34.6,1.5,Anthony Davis out,3.0 reb / 8.4 ast / 21.5 pts,35,True
+WSH@ATL,ATL,Onyeka Okongwu,20+ pts & 12+ reb,0.134,+645,34.5,-3.4,Jalen Johnson out,10.5 reb / 3.7 ast / 17.3 pts,32,True
+WSH@ATL,WSH,Bub Carrington,10+ pts & 4+ ast,0.133,+653,24.1,0.0,Anthony Davis out,2.8 reb / 3.0 ast / 8.3 pts,14,True
+TOR@MIL,TOR,Jakob Poeltl,15+ pts & 8+ reb,0.131,+666,25.1,-6.1,"Immanuel Quickley, Kawhi Leonard, Scottie Barnes out",6.7 reb / 2.2 ast / 12.3 pts,23,True
 POR@LAL,POR,Donovan Clingan,15+ pts & 12+ reb,0.121,+728,28.7,-0.8,Ja Morant out,10.5 reb / 1.7 ast / 12.1 pts,27,True
-WSH@ATL,WSH,AJ Dybantsa,15+ pts & 8+ reb,0.118,+750,29.6,20.2,Anthony Davis out; +20 min,6.2 reb / 1.9 ast / 12.2 pts,23,True
-SA@SAC,SA,Dylan Harper,20+ pts & 6+ ast,0.116,+765,31.9,5.6,+6 min,4.5 reb / 5.3 ast / 15.8 pts,26,True
-OKC@MEM,MEM,Ty Jerome,25+ pts & 7+ ast,0.116,+765,29.8,3.3,+3 min,3.5 reb / 6.2 ast / 19.4 pts,32,True
-MIN@NO,MIN,Rudy Gobert,15+ pts & 2+ ast,0.115,+769,31.4,-0.4,Anthony Edwards out,10.8 reb / 1.6 ast / 11.3 pts,17,True
-PHI@CLE,PHI,Joel Embiid,25+ pts & 10+ reb,0.115,+766,31.6,3.7,+4 min,8.6 reb / 2.9 ast / 21.2 pts,35,True
+TOR@MIL,TOR,Ja'Kobe Walter,20+ pts & 3+ ast,0.118,+749,35.2,-0.3,"Immanuel Quickley, Kawhi Leonard, Scottie Barnes out",4.3 reb / 2.4 ast / 15.7 pts,23,True
+PHI@CLE,PHI,Joel Embiid,25+ pts & 10+ reb,0.116,+765,31.5,3.5,+4 min,8.7 reb / 2.9 ast / 21.2 pts,35,True
+TOR@MIL,TOR,Ja'Kobe Walter,20+ pts & 5+ reb,0.116,+762,35.2,-0.3,"Immanuel Quickley, Kawhi Leonard, Scottie Barnes out",4.3 reb / 2.4 ast / 15.7 pts,25,True
+WSH@ATL,WSH,Kyshawn George,20+ pts & 4+ ast,0.116,+763,34.3,2.0,Anthony Davis out,6.1 reb / 3.4 ast / 14.8 pts,24,True

@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-06T23:22:29.930442+00:00",
+ "checked": "2026-11-07T00:22:25.620011+00:00",
  "games": {
   "WSH@ATL": [
    {
@@ -103,28 +103,22 @@
   ],
   "PHI@CLE": [
    {
+    "player": "Jarrett Allen",
+    "team": "CLE",
+    "status": "Out",
+    "note": "Allen (knee) is out for Friday's game against the 76ers."
+   },
+   {
     "player": "Jaylon Tyson",
     "team": "CLE",
     "status": "Out",
     "note": "Tyson (ankle) is out for Friday's game against the 76ers."
    },
    {
-    "player": "Peyton Watson",
-    "team": "CLE",
-    "status": "Day-To-Day",
-    "note": "Watson (hamstring) is questionable for Friday's game against the 76ers."
-   },
-   {
-    "player": "Jarrett Allen",
-    "team": "CLE",
-    "status": "Day-To-Day",
-    "note": "Allen (knee) is questionable for Friday's game against Philadelphia."
-   },
-   {
     "player": "Adem Bona",
     "team": "PHI",
     "status": "Out",
-    "note": "Bona (back) is doubtful to play in Friday's game against the Cavaliers, Ky Carlin of USA Today reports."
+    "note": "Bona (neck) is listed as out for Friday's game versus the Cavaliers."
    },
    {
     "player": "Dominick Barlow",
@@ -145,12 +139,6 @@
     "team": "DAL",
     "status": "Out",
     "note": "De Larrea (knee) is out for Friday's game against Utah."
-   },
-   {
-    "player": "Max Christie",
-    "team": "DAL",
-    "status": "Day-To-Day",
-    "note": "Christie (hip) is probable for Friday's game against the Jazz."
    },
    {
     "player": "Tarik Biberovic",
@@ -241,28 +229,16 @@
     "note": "Jones (ankle/two-way player) is out for Friday's game against Toronto."
    },
    {
-    "player": "Jakob Poeltl",
+    "player": "Scottie Barnes",
     "team": "TOR",
-    "status": "Day-To-Day",
-    "note": "Poeltl (shoulder) is listed as probable for Friday's game against Milwaukee."
+    "status": "Out",
+    "note": "Barnes (adductor) is listed as out for Friday's game against Milwaukee, Michael Grange of Sportsnet.ca reports."
    },
    {
     "player": "Immanuel Quickley",
     "team": "TOR",
-    "status": "Day-To-Day",
-    "note": "Quickley (hamstring) is questionable for Friday against the Bucks."
-   },
-   {
-    "player": "Scottie Barnes",
-    "team": "TOR",
-    "status": "Day-To-Day",
-    "note": "Barnes (adductor) was not present at the morning shootaround, Michael Grange of Sportsnet.careports."
-   },
-   {
-    "player": "Kyle Anderson",
-    "team": "TOR",
-    "status": "Day-To-Day",
-    "note": "Anderson is questionable for Friday against the Bucks due to illness."
+    "status": "Out",
+    "note": "Quickley (hamstring) won't play Friday in Milwaukee, Michael Grange of Sportsnet.ca reports."
    },
    {
     "player": "Kawhi Leonard",
