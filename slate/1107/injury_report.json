@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-07T18:22:31.409134+00:00",
+ "checked": "2026-11-07T19:22:29.426617+00:00",
  "games": {
   "DEN@IND": [
    {
@@ -99,32 +99,26 @@
     "team": "BKN",
     "status": "Out",
     "note": "The Nets exercised Demin's third-year team option for the 2027-28 season, Sharif Phillips-Keaton of USA Today reports Thursday."
-   },
-   {
-    "player": "Tyler Bilodeau",
-    "team": "BKN",
-    "status": "Out",
-    "note": "Bilodeau (shoulder) has been ruled out for Sunday's game against Indiana."
    }
   ],
   "NY@CLE": [
    {
+    "player": "Jaylon Tyson",
+    "team": "CLE",
+    "status": "Out",
+    "note": "Tyson (ankle) is out for Saturday's game against the Knicks."
+   },
+   {
     "player": "Sam Merrill",
     "team": "CLE",
     "status": "Out",
-    "note": "Merrill (elbow) won't return to Friday's game against the 76ers, Dave McMenamin of ESPN.com reports."
+    "note": "Merrill (elbow) is out for Saturday's game against the Knicks."
    },
    {
     "player": "Jarrett Allen",
     "team": "CLE",
     "status": "Out",
-    "note": "Allen (knee) is out for Friday's game against the 76ers."
-   },
-   {
-    "player": "Jaylon Tyson",
-    "team": "CLE",
-    "status": "Out",
-    "note": "Tyson (ankle) is out for Friday's game against the 76ers."
+    "note": "Allen (knee) is out for Saturday's game against the Knicks"
    },
    {
     "player": "Josh Hart",
