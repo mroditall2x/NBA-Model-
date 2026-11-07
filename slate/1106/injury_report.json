@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-07T02:22:31.871131+00:00",
+ "checked": "2026-11-07T03:22:31.062331+00:00",
  "games": {
   "BOS@CHA": [
    {
@@ -112,7 +112,7 @@
     "player": "Sam Merrill",
     "team": "CLE",
     "status": "Out",
-    "note": "Merrill is in the starting lineup for Friday's game against the 76ers, Serena Winters of FanDuel Sports Network Ohio reports."
+    "note": "Merrill (elbow) won't return to Friday's game against the 76ers, Dave McMenamin of ESPN.com reports."
    },
    {
     "player": "Jarrett Allen",
@@ -266,6 +266,12 @@
    }
   ],
   "MIN@NO": [
+   {
+    "player": "Joan Beringer",
+    "team": "MIN",
+    "status": "Out",
+    "note": "Beringer was ruled out for the second half of Friday's game against the Pelicans due to a nasal fracture, Dane Moore of 'The Dane Moore NBA Podcast' reports."
+   },
    {
     "player": "Terrence Shannon Jr.",
     "team": "MIN",
