@@ -1,0 +1,13 @@
+game,team,player,combo,chance,fair_odds,min,min_bump,why,avg,size,special
+DEN@IND,IND,Andrew Nembhard,15+ pts & 10+ ast,0.154,+550,31.2,1.4,Tyrese Haliburton out,2.8 reb / 8.2 ast / 14.5 pts,25,True
+ORL@GS,GS,Yaxel Lendeborg,20+ pts & 9+ reb,0.129,+677,36.6,6.8,+7 min,7.6 reb / 2.9 ast / 16.9 pts,29,True
+WSH@OKC,WSH,Anthony Davis,20+ pts & 12+ reb,0.128,+683,31.0,4.8,+5 min,9.8 reb / 2.2 ast / 16.9 pts,32,True
+DEN@IND,IND,Jarace Walker,15+ pts & 6+ reb,0.125,+701,26.3,0.0,Tyrese Haliburton out,4.9 reb / 2.8 ast / 11.4 pts,21,True
+SA@POR,SA,Victor Wembanyama,30+ pts & 13+ reb,0.122,+722,31.5,3.3,+3 min,11.4 reb / 3.0 ast / 25.3 pts,43,True
+NY@CLE,CLE,Peyton Watson,15+ pts & 2+ ast,0.122,+720,27.4,3.8,+4 min,4.0 reb / 1.6 ast / 10.7 pts,17,True
+HOU@PHX,HOU,Fred VanVleet,15+ pts & 5+ ast,0.113,+788,29.9,6.5,+6 min,3.0 reb / 4.2 ast / 11.3 pts,20,True
+BKN@ATL,ATL,Onyeka Okongwu,20+ pts & 10+ reb,0.112,+792,32.4,-5.2,Jalen Johnson out,8.8 reb / 3.4 ast / 16.0 pts,30,True
+NY@CLE,CLE,Peyton Watson,15+ pts & 5+ reb,0.107,+838,27.4,3.8,+4 min,4.0 reb / 1.6 ast / 10.7 pts,20,True
+WSH@OKC,OKC,Ajay Mitchell,20+ pts & 6+ reb,0.106,+846,35.8,5.4,Jalen Williams out; +5 min,4.5 reb / 4.3 ast / 17.1 pts,26,True
+SA@POR,POR,Deni Avdija,30+ pts & 8+ reb,0.102,+880,36.7,0.3,Ja Morant out,6.8 reb / 5.7 ast / 24.0 pts,38,True
+BKN@ATL,ATL,Luguentz Dort,15+ pts & 2+ ast,0.1,+898,31.4,0.9,Jalen Johnson out,4.5 reb / 1.7 ast / 10.1 pts,17,True
