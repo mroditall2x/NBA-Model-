@@ -4,18 +4,18 @@
    "away": "DEN",
    "home": "IND",
    "id": "e76682ca6c25a37b0a53cec226b91aab",
-   "commence": "2026-11-07T22:10:00Z",
-   "home_spread": 8.0,
+   "commence": "2026-11-07T22:13:00Z",
+   "home_spread": 11.5,
    "spread_odds": [
-    -108,
-    -110
+    -115,
+    -115
    ],
-   "ml_home": 260,
-   "ml_away": -325,
-   "total": 229.0,
+   "ml_home": 468,
+   "ml_away": -732,
+   "total": 218.5,
    "total_odds": [
-    -110,
-    -110
+    -112,
+    -117
    ]
   },
   {
@@ -23,12 +23,12 @@
    "home": "ATL",
    "id": "ee45341df802cfb42dd48f1ad60c8b81",
    "commence": "2026-11-08T00:40:00Z",
-   "home_spread": -7.0,
+   "home_spread": -6.5,
    "spread_odds": [
-    -110,
-    -110
+    -115,
+    -105
    ],
-   "ml_home": -278,
+   "ml_home": -280,
    "ml_away": 225,
    "total": 226.5,
    "total_odds": [
@@ -46,8 +46,8 @@
     -110,
     -110
    ],
-   "ml_home": 179,
-   "ml_away": -215,
+   "ml_home": 170,
+   "ml_away": -200,
    "total": 223.5,
    "total_odds": [
     -110,
@@ -59,17 +59,17 @@
    "home": "OKC",
    "id": "6faeaee3bdf2a167eb67f93c44d3ef37",
    "commence": "2026-11-08T01:10:00Z",
-   "home_spread": -12.0,
+   "home_spread": -11.5,
    "spread_odds": [
     -110,
     -110
    ],
-   "ml_home": -599,
-   "ml_away": 443,
-   "total": 222.5,
+   "ml_home": -550,
+   "ml_away": 415,
+   "total": 223.5,
    "total_odds": [
-    -111,
-    -108
+    -110,
+    -110
    ]
   },
   {
@@ -83,7 +83,7 @@
     -115
    ],
    "ml_home": -280,
-   "ml_away": 230,
+   "ml_away": 225,
    "total": 219.5,
    "total_odds": [
     -110,
@@ -115,8 +115,8 @@
    "commence": "2026-11-08T03:00:00Z",
    "home_spread": 5.5,
    "spread_odds": [
-    -113,
-    -107
+    -112,
+    -108
    ],
    "ml_home": 174,
    "ml_away": -210,
