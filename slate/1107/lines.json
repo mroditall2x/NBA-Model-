@@ -5,12 +5,12 @@
    "home": "IND",
    "id": "e76682ca6c25a37b0a53cec226b91aab",
    "commence": "2026-11-07T22:10:00Z",
-   "home_spread": 7.5,
+   "home_spread": 8.0,
    "spread_odds": [
-    -107,
-    -115
+    -106,
+    -110
    ],
-   "ml_home": 252,
+   "ml_home": 260,
    "ml_away": -320,
    "total": 229.5,
    "total_odds": [
@@ -23,17 +23,17 @@
    "home": "ATL",
    "id": "ee45341df802cfb42dd48f1ad60c8b81",
    "commence": "2026-11-08T00:40:00Z",
-   "home_spread": -7.5,
+   "home_spread": -7.0,
    "spread_odds": [
     -110,
     -110
    ],
-   "ml_home": -320,
-   "ml_away": 250,
-   "total": 228.0,
+   "ml_home": -275,
+   "ml_away": 225,
+   "total": 226.5,
    "total_odds": [
-    -112,
-    -108
+    -108,
+    -112
    ]
   },
   {
@@ -48,7 +48,7 @@
    ],
    "ml_home": 170,
    "ml_away": -205,
-   "total": 223.0,
+   "total": 223.5,
    "total_odds": [
     -110,
     -110
@@ -64,8 +64,8 @@
     -110,
     -110
    ],
-   "ml_home": -575,
-   "ml_away": 430,
+   "ml_home": -598,
+   "ml_away": 425,
    "total": 222.5,
    "total_odds": [
     -110,
@@ -77,14 +77,14 @@
    "home": "GS",
    "id": "39099dc03208d0771daaab5f7993478a",
    "commence": "2026-11-08T01:40:00Z",
-   "home_spread": -5.5,
+   "home_spread": -7.0,
    "spread_odds": [
     -110,
     -110
    ],
-   "ml_home": -220,
-   "ml_away": 184,
-   "total": 222.5,
+   "ml_home": -275,
+   "ml_away": 222,
+   "total": 220.0,
    "total_odds": [
     -110,
     -110
@@ -97,12 +97,12 @@
    "commence": "2026-11-08T02:10:00Z",
    "home_spread": 6.5,
    "spread_odds": [
-    -109,
+    -110,
     -110
    ],
-   "ml_home": 221,
-   "ml_away": -270,
-   "total": 223.5,
+   "ml_home": 215,
+   "ml_away": -260,
+   "total": 224.0,
    "total_odds": [
     -110,
     -110
@@ -115,12 +115,12 @@
    "commence": "2026-11-08T03:00:00Z",
    "home_spread": 5.5,
    "spread_odds": [
-    -112,
-    -108
+    -114,
+    -106
    ],
-   "ml_home": 171,
+   "ml_home": 170,
    "ml_away": -205,
-   "total": 226.5,
+   "total": 229.5,
    "total_odds": [
     -110,
     -110

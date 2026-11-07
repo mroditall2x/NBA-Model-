@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-07T19:22:29.426617+00:00",
+ "checked": "2026-11-07T20:22:32.027736+00:00",
  "games": {
   "DEN@IND": [
    {
@@ -131,8 +131,8 @@
    {
     "player": "Jaylin Williams",
     "team": "OKC",
-    "status": "Day-To-Day",
-    "note": "Williams (back) has been ruled out for Friday's game against the Grizzlies."
+    "status": "Out",
+    "note": "Williams (back) has been ruled out for Saturday's game against the Wizards, Brandon Rahbar of DailyThunder.com reports."
    },
    {
     "player": "Thomas Sorber",
@@ -162,7 +162,7 @@
     "player": "Anthony Davis",
     "team": "WSH",
     "status": "Day-To-Day",
-    "note": "Davis (ankle) is listed as out for Friday's game against the Hawks."
+    "note": "Davis (ankle) is questionable for Saturday's game against the Thunder."
    },
    {
     "player": "Reece Beekman",
@@ -225,6 +225,12 @@
     "team": "GS",
     "status": "Out",
     "note": "Butler (knee) could return sometime between January and February as he continues recovering from a torn right ACL, Anthony Slater of ESPN reports."
+   },
+   {
+    "player": "Desmond Bane",
+    "team": "ORL",
+    "status": "Out",
+    "note": "Bane (illness) has been ruled out for Saturday's game against the Warriors."
    },
    {
     "player": "Jonathan Isaac",

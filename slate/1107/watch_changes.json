@@ -1,1 +1,1 @@
-{"games": ["BKN@ATL"], "refreshed": [], "capped": [], "changes": [{"game": "BKN@ATL", "team": "BKN", "player": "Tyler Bilodeau", "status": "Active", "text": "Tyler Bilodeau Out -> Active"}]}
+{"games": ["ORL@GS", "WSH@OKC"], "refreshed": ["ORL@GS", "WSH@OKC"], "capped": [], "changes": [{"game": "ORL@GS", "team": "ORL", "player": "Desmond Bane", "status": "Out", "text": "Desmond Bane Active -> Out"}, {"game": "WSH@OKC", "team": "OKC", "player": "Jaylin Williams", "status": "Out", "text": "Jaylin Williams Day-To-Day -> Out"}]}
