@@ -1,12 +1,12 @@
 {
- "checked": "2026-11-08T18:22:28.146728+00:00",
+ "checked": "2026-11-08T19:22:32.997781+00:00",
  "games": {
   "PHI@CHI": [
    {
     "player": "Norman Powell",
     "team": "CHI",
-    "status": "Day-To-Day",
-    "note": "Powell (shoulder) is listed as questionable for Sunday's game against the 76ers."
+    "status": "Out",
+    "note": "Powell (shoulder) has been ruled out for Sunday's game against the 76ers, Adam Aaronson of PhillyVoice.com reports."
    },
    {
     "player": "Tobe Awaka",
@@ -19,12 +19,6 @@
     "team": "CHI",
     "status": "Day-To-Day",
     "note": "Smith (finger) is probable for Sunday's game against Philadelphia."
-   },
-   {
-    "player": "Nic Claxton",
-    "team": "CHI",
-    "status": "Out",
-    "note": "Claxton (hamstring) has been downgraded to questionable for Sunday's game against the 76ers."
    },
    {
     "player": "Zach Collins",
@@ -73,8 +67,8 @@
    {
     "player": "Luka Doncic",
     "team": "LAL",
-    "status": "Day-To-Day",
-    "note": "Doncic (back) is questionable for Sunday's game against the Pistons."
+    "status": "Out",
+    "note": "Doncic has been ruled out for Sunday's game at Detroit due to lower-back tightness, Trevor Lane of LakersNation.com reports."
    }
   ],
   "UTAH@MIN": [
@@ -153,7 +147,20 @@
     "note": "Lively (foot) is listed as out for Monday's game against the Kings."
    }
   ],
-  "BOS@MIL": [],
+  "BOS@MIL": [
+   {
+    "player": "Mitchell Robinson",
+    "team": "BOS",
+    "status": "Day-To-Day",
+    "note": "Robinson (illness) is questionable for Sunday's game versus Milwaukee, Bobby Krivitsky of Forbes.com reports."
+   },
+   {
+    "player": "Gary Trent Jr.",
+    "team": "MIL",
+    "status": "Day-To-Day",
+    "note": "Trent (illness) has been downgraded to questionable for Sunday's game against Boston."
+   }
+  ],
   "NO@LAC": [
    {
     "player": "Brandon Ingram",
