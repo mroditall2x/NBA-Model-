@@ -1,9 +1,9 @@
 game,team,player,stat,line,side,p,price,ev,mean,where
 BKN@DAL,DAL,Naji Marshall,3PM,0.5,Less,0.561,155,0.43,0.59,Kalshi / Novig / books
-MIA@SAC,MIA,Bam Adebayo,3PM,1.5,More,0.507,177,0.403,1.84,Kalshi / Novig / books
+MIA@SAC,MIA,Bam Adebayo,3PM,1.5,More,0.506,177,0.402,1.84,Kalshi / Novig / books
 UTAH@MIN,UTAH,Lauri Markkanen,3PM,2.5,Less,0.616,119,0.349,1.9,Kalshi / Novig / books
-MIA@SAC,MIA,Davion Mitchell,REB,2.5,More,0.555,117,0.205,3.19,Kalshi / Novig / books
+MIA@SAC,SAC,Domantas Sabonis,REB,12.5,Less,0.596,101,0.198,11.06,Kalshi / Novig / books
+MIA@SAC,MIA,Davion Mitchell,REB,2.5,More,0.552,117,0.198,3.19,Kalshi / Novig / books
 NO@LAC,LAC,Kris Dunn,REB,4.5,More,0.535,122,0.189,5.1,Kalshi / Novig / books
 BKN@DAL,DAL,P.J. Washington,3PM,1.5,Less,0.588,102,0.188,1.26,Kalshi / Novig / books
 BOS@MIL,BOS,Jordan Walsh,3PM,0.5,Less,0.525,126,0.186,0.78,Kalshi / Novig / books
-UTAH@MIN,MIN,Rudy Gobert,RA,13.5,Less,0.589,-105,0.15,12.21,PrizePicks / Underdog

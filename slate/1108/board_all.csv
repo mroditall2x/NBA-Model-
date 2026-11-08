@@ -365,102 +365,109 @@ NO@LAC,LAC,Kris Dunn,REB,5.1,3,7,32.2,-1.4,,PP standard,4.5,More,0.559,0.423,0.1
 NO@LAC,LAC,Kris Dunn,3PM,1.06,0,2,32.2,-1.4,,book line,1.5,Less,0.714,0.642,0.072,0.286,162,-218,Kalshi / Underdog
 NO@LAC,NO,Karlo Matkovic,PRA,11.67,7,16,19.8,5.3,minutes unclear (+5),PP standard,13.5,Less,0.668,0.491,0.177,0.332,-103,104,PrizePicks / Underdog
 NO@LAC,NO,Karlo Matkovic,RA,5.89,3,8,19.8,5.3,minutes unclear (+5),book line,6.5,Less,0.62,0.554,0.066,0.38,125,-123,Kalshi / Underdog
-MIA@SAC,SAC,Domantas Sabonis,AST,6.29,4,9,33.5,-3.3,,PP standard,5.5,More,0.581,0.532,0.048,0.581,-132,100,PrizePicks / Underdog
-MIA@SAC,MIA,Pelle Larsson,AST,3.6,2,5,29.4,0.2,,book line,3.5,Less,0.525,0.544,-0.019,0.475,106,-137,Kalshi / Underdog
-MIA@SAC,SAC,Darius Acuff Jr.,AST,3.71,2,5,36.7,14.3,minutes unclear (+14); small sample,PP standard,6.5,Less,0.893,0.535,0.358,0.107,102,-132,PrizePicks / Underdog
-MIA@SAC,MIA,Bam Adebayo,AST,3.55,2,5,33.0,-0.6,,book line,3.5,Less,0.536,0.555,-0.019,0.464,110,-146,Kalshi / Underdog
-MIA@SAC,MIA,Davion Mitchell,AST,7.75,5,10,35.1,4.0,,PP standard,7.5,More,0.509,0.472,0.037,0.509,-102,-130,PrizePicks / Underdog
-MIA@SAC,SAC,Malik Monk,AST,3.32,1,5,18.1,0.3,,book line,3.5,Less,0.585,0.558,0.027,0.415,114,-144,Kalshi / Underdog
-MIA@SAC,MIA,Giannis Antetokounmpo,AST,6.61,4,9,33.6,2.9,new team,PP standard,5.5,More,0.626,0.544,0.082,0.626,-139,105,PrizePicks / Underdog
-MIA@SAC,SAC,Zach LaVine,AST,3.51,2,5,34.5,0.4,,PP standard,2.5,More,0.645,0.49,0.155,0.645,-110,-120,PrizePicks / Underdog
-MIA@SAC,SAC,Domantas Sabonis,PTS,18.17,11,24,33.5,-3.3,,PP standard,14.5,More,0.66,0.481,0.179,0.66,-106,-125,PrizePicks / Underdog
-MIA@SAC,MIA,Pelle Larsson,PTS,11.23,6,16,29.4,0.2,,PP standard,11.5,Less,0.563,0.495,0.068,0.437,-117,-112,PrizePicks / Underdog
-MIA@SAC,SAC,De'Andre Hunter,PTS,14.43,8,20,27.4,-2.0,,PP standard,13.5,More,0.511,0.475,0.035,0.511,-102,-126,PrizePicks / Underdog
-MIA@SAC,MIA,Klay Thompson,PTS,12.75,6,18,22.8,0.6,new team,PP standard,12.5,Less,0.542,0.518,0.024,0.458,-106,-124,PrizePicks / Underdog
-MIA@SAC,MIA,Bobby Portis,PTS,10.51,5,16,19.9,-3.5,new team,PP standard,8.5,More,0.569,0.478,0.091,0.569,-105,-127,PrizePicks / Underdog
-MIA@SAC,SAC,Darius Acuff Jr.,PTS,16.83,10,23,36.7,14.3,minutes unclear (+14); small sample,PP standard,24.5,Less,0.837,0.511,0.326,0.163,-109,-120,PrizePicks / Underdog
-MIA@SAC,SAC,Malik Monk,PTS,9.71,4,15,18.1,0.3,,PP standard,9.5,Less,0.548,0.527,0.021,0.452,-102,-129,PrizePicks / Underdog
-MIA@SAC,MIA,Giannis Antetokounmpo,PTS,29.38,22,37,33.6,2.9,new team,PP standard,29.5,Less,0.521,0.49,0.031,0.479,-120,-110,PrizePicks / Underdog
-MIA@SAC,SAC,Precious Achiuwa,PTS,10.36,5,15,23.0,-7.8,minutes unclear (-8),PP standard,8.5,More,0.568,0.486,0.082,0.568,-108,-122,PrizePicks / Underdog
-MIA@SAC,MIA,Bam Adebayo,PTS,19.73,13,26,33.0,-0.6,,PP standard,19.5,Less,0.52,0.499,0.021,0.48,-115,-114,PrizePicks / Underdog
-MIA@SAC,MIA,Andrew Wiggins,PTS,11.78,6,17,25.2,-6.0,minutes unclear (-6),PP standard,10.5,More,0.528,0.492,0.036,0.528,-111,-119,PrizePicks / Underdog
-MIA@SAC,MIA,Davion Mitchell,PTS,10.37,5,15,35.1,4.0,,PP standard,13.5,Less,0.725,0.514,0.211,0.275,-107,-121,PrizePicks / Underdog
-MIA@SAC,SAC,Zach LaVine,PTS,20.36,13,27,34.5,0.4,,PP standard,20.5,Less,0.539,0.491,0.048,0.461,-119,-110,PrizePicks / Underdog
-MIA@SAC,MIA,Pelle Larsson,PA,14.83,9,20,29.4,0.2,,PP standard,15.5,Less,0.581,0.51,0.071,0.419,-110,-120,PrizePicks / Underdog
-MIA@SAC,SAC,Domantas Sabonis,PA,24.46,17,32,33.5,-3.3,,PP standard,20.5,More,0.653,0.484,0.169,0.653,-106,-122,PrizePicks / Underdog
-MIA@SAC,MIA,Klay Thompson,PA,14.34,8,20,22.8,0.6,new team,PP standard,14.5,Less,0.556,0.521,0.034,0.444,-104,-125,PrizePicks / Underdog
-MIA@SAC,SAC,Darius Acuff Jr.,PA,20.54,13,28,36.7,14.3,minutes unclear (+14); small sample,PP standard,31.5,Less,0.894,0.526,0.367,0.106,100,-125,PrizePicks / Underdog
-MIA@SAC,MIA,Bam Adebayo,PA,23.28,16,30,33.0,-0.6,,PP standard,23.5,Less,0.539,0.518,0.021,0.461,-105,-122,PrizePicks / Underdog
-MIA@SAC,MIA,Andrew Wiggins,PA,14.0,8,20,25.2,-6.0,minutes unclear (-6),PP standard,12.5,More,0.537,0.481,0.056,0.537,-106,-125,PrizePicks / Underdog
-MIA@SAC,MIA,Giannis Antetokounmpo,PA,35.99,28,44,33.6,2.9,new team,PP standard,36.5,Less,0.535,0.51,0.025,0.465,-110,-120,PrizePicks / Underdog
-MIA@SAC,MIA,Davion Mitchell,PA,18.12,12,24,35.1,4.0,,PP standard,20.5,Less,0.661,0.483,0.179,0.339,-123,-106,PrizePicks / Underdog
-MIA@SAC,SAC,Malik Monk,PA,13.04,7,19,18.1,0.3,,PP standard,12.5,Less,0.523,0.504,0.019,0.477,-110,-114,PrizePicks / Underdog
-MIA@SAC,SAC,Zach LaVine,PA,23.87,16,31,34.5,0.4,,PP standard,23.5,Less,0.515,0.51,0.004,0.485,-110,-120,PrizePicks / Underdog
-MIA@SAC,SAC,Domantas Sabonis,PR,29.7,22,37,33.5,-3.3,,PP standard,27.5,More,0.573,0.488,0.085,0.573,-107,-119,PrizePicks / Underdog
-MIA@SAC,MIA,Klay Thompson,PR,14.79,8,21,22.8,0.6,new team,PP standard,14.5,Less,0.533,0.499,0.034,0.467,-115,-114,PrizePicks / Underdog
-MIA@SAC,SAC,De'Andre Hunter,PR,18.26,12,25,27.4,-2.0,,PP standard,17.5,More,0.506,0.496,0.01,0.506,-111,-115,PrizePicks / Underdog
-MIA@SAC,MIA,Pelle Larsson,PR,14.92,9,20,29.4,0.2,,PP standard,15.5,Less,0.574,0.505,0.069,0.426,-110,-115,PrizePicks / Underdog
-MIA@SAC,MIA,Bobby Portis,PR,15.61,9,22,19.9,-3.5,new team,PP standard,13.5,More,0.562,0.514,0.049,0.562,-119,-106,PrizePicks / Underdog
-MIA@SAC,SAC,Darius Acuff Jr.,PR,23.39,16,31,36.7,14.3,minutes unclear (+14); small sample,PP standard,27.5,Less,0.699,0.5,0.199,0.301,-114,-114,PrizePicks / Underdog
-MIA@SAC,SAC,Precious Achiuwa,PR,16.17,10,22,23.0,-7.8,minutes unclear (-8),PP standard,14.5,More,0.554,0.5,0.054,0.554,-115,-115,PrizePicks / Underdog
-MIA@SAC,MIA,Bam Adebayo,PR,29.29,22,37,33.0,-0.6,,PP standard,29.5,Less,0.535,0.496,0.039,0.465,-114,-110,PrizePicks / Underdog
-MIA@SAC,MIA,Andrew Wiggins,PR,15.65,9,22,25.2,-6.0,minutes unclear (-6),PP standard,13.5,More,0.572,0.53,0.042,0.572,-129,100,PrizePicks / Underdog
-MIA@SAC,MIA,Giannis Antetokounmpo,PR,39.94,31,48,33.6,2.9,new team,PP standard,41.5,Less,0.575,0.494,0.081,0.425,-118,-112,PrizePicks / Underdog
-MIA@SAC,MIA,Davion Mitchell,PR,13.56,8,19,35.1,4.0,,PP standard,15.5,Less,0.654,0.497,0.157,0.346,-115,-112,PrizePicks / Underdog
-MIA@SAC,SAC,Zach LaVine,PR,23.24,15,31,34.5,0.4,,PP standard,23.5,Less,0.541,0.501,0.04,0.459,-114,-115,PrizePicks / Underdog
-MIA@SAC,MIA,Pelle Larsson,PRA,18.52,12,24,29.4,0.2,,PP standard,18.5,Less,0.535,0.481,0.055,0.465,-124,-105,PrizePicks / Underdog
-MIA@SAC,SAC,Domantas Sabonis,PRA,35.99,27,45,33.5,-3.3,,PP standard,33.5,More,0.577,0.493,0.084,0.577,-110,-117,PrizePicks / Underdog
-MIA@SAC,MIA,Davion Mitchell,PRA,21.31,15,27,35.1,4.0,,PP standard,22.5,Less,0.596,0.484,0.111,0.404,-121,-106,PrizePicks / Underdog
-MIA@SAC,MIA,Klay Thompson,PRA,16.38,9,23,22.8,0.6,new team,PP standard,16.5,Less,0.557,0.503,0.054,0.443,-112,-115,PrizePicks / Underdog
-MIA@SAC,SAC,Darius Acuff Jr.,PRA,27.1,19,35,36.7,14.3,minutes unclear (+14); small sample,PP standard,34.5,Less,0.787,0.518,0.268,0.213,-106,-124,PrizePicks / Underdog
-MIA@SAC,MIA,Bam Adebayo,PRA,32.84,25,41,33.0,-0.6,,PP standard,32.5,Less,0.508,0.492,0.017,0.492,-116,-108,PrizePicks / Underdog
-MIA@SAC,MIA,Andrew Wiggins,PRA,17.87,11,24,25.2,-6.0,minutes unclear (-6),PP standard,15.5,More,0.574,0.507,0.067,0.574,-117,-110,PrizePicks / Underdog
-MIA@SAC,MIA,Giannis Antetokounmpo,PRA,46.55,37,55,33.6,2.9,new team,PP standard,48.5,Less,0.585,0.493,0.092,0.415,-116,-109,PrizePicks / Underdog
-MIA@SAC,SAC,Zach LaVine,PRA,26.75,18,35,34.5,0.4,,PP standard,26.5,Less,0.518,0.509,0.009,0.482,-110,-119,PrizePicks / Underdog
-MIA@SAC,SAC,De'Andre Hunter,REB,3.83,2,6,27.4,-2.0,,PP standard,4.5,Less,0.661,0.568,0.093,0.339,118,-152,PrizePicks / Underdog
-MIA@SAC,MIA,Pelle Larsson,REB,3.69,2,5,29.4,0.2,,book line,3.5,Less,0.509,0.539,-0.03,0.491,104,-134,Kalshi / Underdog
-MIA@SAC,MIA,Klay Thompson,REB,2.04,1,3,22.8,0.6,new team,book line,2.5,Less,0.67,0.592,0.078,0.33,130,-170,Kalshi / Underdog
-MIA@SAC,SAC,Domantas Sabonis,REB,11.53,8,15,33.5,-3.3,,PP standard,12.5,Less,0.617,0.47,0.147,0.383,-128,101,PrizePicks / Underdog
-MIA@SAC,MIA,Bobby Portis,REB,5.1,3,7,19.9,-3.5,new team,PP standard,5.5,Less,0.603,0.539,0.064,0.397,103,-136,PrizePicks / Underdog
-MIA@SAC,MIA,Bam Adebayo,REB,9.56,7,12,33.0,-0.6,,PP standard,9.5,Less,0.52,0.49,0.03,0.48,-120,-110,PrizePicks / Underdog
-MIA@SAC,SAC,Darius Acuff Jr.,REB,6.56,4,9,36.7,14.3,minutes unclear (+14); small sample,book line,3.5,More,0.845,0.391,0.454,0.845,140,-185,Kalshi / Underdog
-MIA@SAC,MIA,Andrew Wiggins,REB,3.87,2,6,25.2,-6.0,minutes unclear (-6),book line,3.5,More,0.51,0.459,0.051,0.51,104,-137,Kalshi / Underdog
-MIA@SAC,MIA,Davion Mitchell,REB,3.19,1,5,35.1,4.0,,book line,2.5,More,0.592,0.432,0.16,0.592,117,-154,Kalshi / Underdog
-MIA@SAC,MIA,Giannis Antetokounmpo,REB,10.56,7,14,33.6,2.9,new team,PP standard,12.5,Less,0.715,0.531,0.184,0.285,100,-130,PrizePicks / Underdog
-MIA@SAC,SAC,Zach LaVine,REB,2.88,1,4,34.5,0.4,,book line,2.5,More,0.523,0.562,-0.04,0.523,-150,114,Kalshi / Underdog
-MIA@SAC,SAC,Domantas Sabonis,RA,17.82,13,22,33.5,-3.3,,PP standard,18.5,Less,0.57,0.477,0.094,0.43,-127,-104,PrizePicks / Underdog
-MIA@SAC,MIA,Pelle Larsson,RA,7.29,5,10,29.4,0.2,,PP standard,6.5,More,0.571,0.966,-0.396,0.571,-128,-2,PrizePicks / Underdog
-MIA@SAC,MIA,Klay Thompson,RA,3.63,2,5,22.8,0.6,new team,PP standard,4.5,Less,0.691,0.576,0.114,0.309,122,-158,PrizePicks / Underdog
-MIA@SAC,SAC,Darius Acuff Jr.,RA,10.26,7,14,36.7,14.3,minutes unclear (+14); small sample,book line,9.5,More,0.546,0.483,0.063,0.546,-107,-124,Kalshi / Underdog
-MIA@SAC,MIA,Andrew Wiggins,RA,6.09,3,9,25.2,-6.0,minutes unclear (-6),PP standard,5.5,More,0.529,0.434,0.094,0.529,115,-154,PrizePicks / Underdog
-MIA@SAC,MIA,Giannis Antetokounmpo,RA,17.17,13,21,33.6,2.9,new team,PP standard,18.5,Less,0.625,0.512,0.112,0.375,-108,-120,PrizePicks / Underdog
-MIA@SAC,SAC,Zach LaVine,RA,6.39,4,9,34.5,0.4,,PP standard,5.5,More,0.584,0.491,0.092,0.584,-107,-115,PrizePicks / Underdog
-MIA@SAC,MIA,Davion Mitchell,RA,10.94,8,14,35.1,4.0,,PP standard,9.5,More,0.632,0.51,0.122,0.632,-120,-110,PrizePicks / Underdog
-MIA@SAC,MIA,Bam Adebayo,RA,13.11,10,17,33.0,-0.6,,PP standard,12.5,More,0.537,0.535,0.002,0.537,-128,105,PrizePicks / Underdog
-MIA@SAC,SAC,De'Andre Hunter,3PM,1.85,0,3,27.4,-2.0,,book line,1.5,More,0.514,0.572,-0.058,0.514,-154,120,Kalshi / Underdog
-MIA@SAC,MIA,Klay Thompson,3PM,3.25,1,5,22.8,0.6,new team,book line,3.5,Less,0.599,0.594,0.006,0.401,130,-174,Kalshi / Underdog
-MIA@SAC,MIA,Bobby Portis,3PM,1.5,0,3,19.9,-3.5,new team,book line,1.5,Less,0.584,0.652,-0.068,0.416,169,-228,Kalshi / Underdog
-MIA@SAC,SAC,Darius Acuff Jr.,3PM,1.83,0,3,36.7,14.3,minutes unclear (+14); small sample,book line,2.5,Less,0.713,0.431,0.282,0.287,-154,118,Kalshi / Underdog
-MIA@SAC,MIA,Bam Adebayo,3PM,1.84,0,3,33.0,-0.6,,book line,1.5,More,0.511,0.336,0.175,0.511,177,-250,Kalshi / Underdog
-MIA@SAC,MIA,Andrew Wiggins,3PM,1.69,0,3,25.2,-6.0,minutes unclear (-6),book line,1.5,Less,0.531,0.54,-0.01,0.469,104,-136,Kalshi / Underdog
-MIA@SAC,MIA,Davion Mitchell,3PM,1.63,0,3,35.1,4.0,,book line,1.5,Less,0.541,0.447,0.095,0.459,-144,110,Kalshi / Underdog
-MIA@SAC,SAC,Zach LaVine,3PM,2.63,1,4,34.5,0.4,,PP standard,2.5,Less,0.533,0.496,0.037,0.467,-118,-114,PrizePicks / Underdog
-MIA@SAC,MIA,Andrew Wiggins,AST,2.22,1,4,25.2,-6.0,minutes unclear (-6),PP standard,1.5,More,0.607,0.51,0.097,0.607,-122,-112,PrizePicks / Underdog
-MIA@SAC,MIA,Klay Thompson,AST,1.59,0,3,22.8,0.6,new team,book line,1.5,Less,0.559,0.441,0.118,0.441,-147,113,Kalshi / Underdog
-MIA@SAC,SAC,Precious Achiuwa,REB,5.81,3,8,23.0,-7.8,minutes unclear (-8),PP standard,5.5,Less,0.5,0.458,0.042,0.5,-136,105,PrizePicks / Underdog
-MIA@SAC,MIA,Pelle Larsson,3PM,1.01,0,2,29.4,0.2,,book line,0.5,More,0.57,0.65,-0.081,0.57,-235,165,Kalshi / Underdog
-MIA@SAC,SAC,Malik Monk,3PM,1.45,0,3,18.1,0.3,,book line,1.5,Less,0.598,0.543,0.056,0.402,106,-136,Kalshi / Underdog
-MIA@SAC,SAC,De'Andre Hunter,PRA,20.4,13,27,27.4,-2.0,,PP standard,19.5,More,0.508,0.501,0.007,0.508,100,101,PrizePicks / Underdog
-MIA@SAC,MIA,Bobby Portis,PRA,16.95,10,23,19.9,-3.5,new team,PP standard,15.5,More,0.523,0.515,0.008,0.523,-105,107,PrizePicks / Underdog
-MIA@SAC,SAC,Malik Monk,PRA,14.53,8,21,18.1,0.3,,PP standard,14.5,Less,0.547,0.184,0.363,0.453,-104,-13,PrizePicks / Underdog
-MIA@SAC,MIA,Bobby Portis,RA,6.44,4,9,19.9,-3.5,new team,PP standard,7.5,Less,0.664,0.538,0.126,0.336,117,-116,PrizePicks / Underdog
-MIA@SAC,MIA,Giannis Antetokounmpo,3PM,0.43,0,1,33.6,2.9,new team,PP standard,0.5,Less,0.688,0.5,0.188,0.312,-119,-119,PrizePicks / Underdog
-MIA@SAC,MIA,Bobby Portis,PA,11.86,6,17,19.9,-3.5,new team,book line,9.5,More,0.584,0.523,0.061,0.584,-109,110,Kalshi / Underdog
-MIA@SAC,SAC,De'Andre Hunter,PA,16.57,10,23,27.4,-2.0,,book line,14.5,More,0.57,0.526,0.044,0.57,-110,112,Kalshi / Underdog
-MIA@SAC,SAC,Malik Monk,PR,11.21,5,17,18.1,0.3,,book line,11.5,Less,0.572,0.526,0.046,0.428,112,-110,Kalshi / Underdog
-MIA@SAC,SAC,De'Andre Hunter,RA,5.97,4,8,27.4,-2.0,,book line,6.5,Less,0.613,0.547,0.066,0.387,121,-120,Kalshi / Underdog
-MIA@SAC,SAC,Malik Monk,RA,4.82,2,7,18.1,0.3,,book line,5.5,Less,0.634,0.562,0.071,0.366,129,-128,Kalshi / Underdog
-MIA@SAC,SAC,Malik Monk,REB,1.5,0,3,18.1,0.3,,book line,1.5,Less,0.584,0.578,0.006,0.416,120,-165,Kalshi / Underdog
+MIA@SAC,SAC,Domantas Sabonis,AST,6.36,4,9,32.3,-2.9,,PP standard,5.5,More,0.589,0.532,0.057,0.589,-132,100,PrizePicks / Underdog
+MIA@SAC,MIA,Pelle Larsson,AST,3.61,2,5,29.4,0.3,,book line,3.5,Less,0.53,0.544,-0.014,0.47,106,-137,Kalshi / Underdog
+MIA@SAC,SAC,Darius Acuff Jr.,AST,3.8,2,6,35.6,14.3,minutes unclear (+14); small sample,PP standard,6.5,Less,0.883,0.535,0.349,0.117,102,-132,PrizePicks / Underdog
+MIA@SAC,MIA,Bam Adebayo,AST,3.54,2,5,33.1,-0.4,,book line,3.5,Less,0.533,0.555,-0.021,0.467,110,-146,Kalshi / Underdog
+MIA@SAC,MIA,Davion Mitchell,AST,7.71,5,10,35.0,3.8,,PP standard,7.5,More,0.5,0.472,0.028,0.5,-102,-130,PrizePicks / Underdog
+MIA@SAC,SAC,Malik Monk,AST,3.35,1,5,17.4,0.6,,book line,3.5,Less,0.576,0.558,0.018,0.424,114,-144,Kalshi / Underdog
+MIA@SAC,MIA,Giannis Antetokounmpo,AST,6.64,4,9,33.6,2.9,new team,PP standard,5.5,More,0.636,0.544,0.092,0.636,-139,105,PrizePicks / Underdog
+MIA@SAC,SAC,Zach LaVine,AST,3.6,2,5,33.4,0.5,,PP standard,2.5,More,0.664,0.49,0.174,0.664,-110,-120,PrizePicks / Underdog
+MIA@SAC,SAC,Domantas Sabonis,PTS,17.6,11,24,32.3,-2.9,,PP standard,14.5,More,0.624,0.481,0.143,0.624,-106,-125,PrizePicks / Underdog
+MIA@SAC,MIA,Pelle Larsson,PTS,11.16,6,16,29.4,0.3,,PP standard,11.5,Less,0.569,0.495,0.074,0.431,-117,-112,PrizePicks / Underdog
+MIA@SAC,SAC,De'Andre Hunter,PTS,14.03,8,20,26.6,-1.7,,PP standard,13.5,Less,0.511,0.525,-0.014,0.489,-102,-126,PrizePicks / Underdog
+MIA@SAC,MIA,Klay Thompson,PTS,12.66,6,19,22.6,0.5,new team,PP standard,12.5,Less,0.546,0.518,0.028,0.454,-106,-124,PrizePicks / Underdog
+MIA@SAC,MIA,Bobby Portis,PTS,10.55,5,16,20.1,-3.6,new team,PP standard,8.5,More,0.571,0.478,0.093,0.571,-105,-127,PrizePicks / Underdog
+MIA@SAC,SAC,Darius Acuff Jr.,PTS,16.43,10,23,35.6,14.3,minutes unclear (+14); small sample,PP standard,24.5,Less,0.85,0.511,0.339,0.15,-109,-120,PrizePicks / Underdog
+MIA@SAC,SAC,Malik Monk,PTS,9.27,4,14,17.4,0.6,,PP standard,9.5,Less,0.573,0.527,0.046,0.427,-102,-129,PrizePicks / Underdog
+MIA@SAC,MIA,Giannis Antetokounmpo,PTS,29.39,22,37,33.6,2.9,new team,PP standard,29.5,Less,0.527,0.49,0.037,0.473,-120,-110,PrizePicks / Underdog
+MIA@SAC,SAC,Precious Achiuwa,PTS,10.12,5,15,22.4,-7.4,minutes unclear (-7),PP standard,8.5,More,0.551,0.486,0.065,0.551,-108,-122,PrizePicks / Underdog
+MIA@SAC,MIA,Bam Adebayo,PTS,19.73,13,26,33.1,-0.4,,PP standard,19.5,Less,0.517,0.499,0.018,0.483,-115,-114,PrizePicks / Underdog
+MIA@SAC,MIA,Andrew Wiggins,PTS,11.82,6,17,25.1,-6.0,minutes unclear (-6),PP standard,10.5,More,0.519,0.492,0.027,0.519,-111,-119,PrizePicks / Underdog
+MIA@SAC,SAC,Keegan Murray,PTS,8.09,3,13,21.3,10.0,minutes unclear (+10),PP standard,9.5,Less,0.649,0.508,0.141,0.351,-110,-118,PrizePicks / Underdog
+MIA@SAC,MIA,Davion Mitchell,PTS,10.35,5,15,35.0,3.8,,PP standard,13.5,Less,0.725,0.514,0.211,0.275,-107,-121,PrizePicks / Underdog
+MIA@SAC,SAC,Zach LaVine,PTS,19.68,12,27,33.4,0.5,,PP standard,20.5,Less,0.569,0.491,0.078,0.431,-119,-110,PrizePicks / Underdog
+MIA@SAC,MIA,Pelle Larsson,PA,14.77,9,20,29.4,0.3,,PP standard,15.5,Less,0.585,0.51,0.075,0.415,-110,-120,PrizePicks / Underdog
+MIA@SAC,SAC,Domantas Sabonis,PA,23.97,16,31,32.3,-2.9,,PP standard,20.5,More,0.626,0.484,0.143,0.626,-106,-122,PrizePicks / Underdog
+MIA@SAC,MIA,Klay Thompson,PA,14.23,7,21,22.6,0.5,new team,PP standard,14.5,Less,0.56,0.521,0.038,0.44,-104,-125,PrizePicks / Underdog
+MIA@SAC,SAC,Darius Acuff Jr.,PA,20.23,13,27,35.6,14.3,minutes unclear (+14); small sample,PP standard,31.5,Less,0.899,0.526,0.373,0.101,100,-125,PrizePicks / Underdog
+MIA@SAC,MIA,Bam Adebayo,PA,23.27,16,30,33.1,-0.4,,PP standard,23.5,Less,0.541,0.518,0.023,0.459,-105,-122,PrizePicks / Underdog
+MIA@SAC,MIA,Andrew Wiggins,PA,14.03,8,20,25.1,-6.0,minutes unclear (-6),PP standard,12.5,More,0.527,0.481,0.047,0.527,-106,-125,PrizePicks / Underdog
+MIA@SAC,MIA,Giannis Antetokounmpo,PA,36.03,28,44,33.6,2.9,new team,PP standard,36.5,Less,0.536,0.51,0.025,0.464,-110,-120,PrizePicks / Underdog
+MIA@SAC,MIA,Davion Mitchell,PA,18.06,12,24,35.0,3.8,,PP standard,20.5,Less,0.665,0.483,0.182,0.335,-123,-106,PrizePicks / Underdog
+MIA@SAC,SAC,Malik Monk,PA,12.62,6,18,17.4,0.6,,PP standard,12.5,Less,0.542,0.504,0.038,0.458,-110,-114,PrizePicks / Underdog
+MIA@SAC,SAC,Zach LaVine,PA,23.28,15,31,33.4,0.5,,PP standard,23.5,Less,0.54,0.51,0.03,0.46,-110,-120,PrizePicks / Underdog
+MIA@SAC,SAC,Domantas Sabonis,PR,28.66,21,36,32.3,-2.9,,PP standard,27.5,More,0.523,0.488,0.035,0.523,-107,-119,PrizePicks / Underdog
+MIA@SAC,MIA,Klay Thompson,PR,14.67,8,21,22.6,0.5,new team,PP standard,14.5,Less,0.537,0.499,0.038,0.463,-115,-114,PrizePicks / Underdog
+MIA@SAC,SAC,De'Andre Hunter,PR,17.73,11,24,26.6,-1.7,,PP standard,17.5,Less,0.528,0.504,0.023,0.472,-111,-115,PrizePicks / Underdog
+MIA@SAC,MIA,Pelle Larsson,PR,14.82,9,20,29.4,0.3,,PP standard,15.5,Less,0.58,0.505,0.075,0.42,-110,-115,PrizePicks / Underdog
+MIA@SAC,MIA,Bobby Portis,PR,15.66,9,22,20.1,-3.6,new team,PP standard,13.5,More,0.565,0.514,0.052,0.565,-119,-106,PrizePicks / Underdog
+MIA@SAC,SAC,Darius Acuff Jr.,PR,22.74,15,30,35.6,14.3,minutes unclear (+14); small sample,PP standard,27.5,Less,0.722,0.5,0.222,0.278,-114,-114,PrizePicks / Underdog
+MIA@SAC,SAC,Precious Achiuwa,PR,15.74,10,22,22.4,-7.4,minutes unclear (-7),PP standard,14.5,More,0.527,0.5,0.027,0.527,-115,-115,PrizePicks / Underdog
+MIA@SAC,MIA,Bam Adebayo,PR,29.33,22,37,33.1,-0.4,,PP standard,29.5,Less,0.535,0.496,0.039,0.465,-114,-110,PrizePicks / Underdog
+MIA@SAC,MIA,Andrew Wiggins,PR,15.69,9,22,25.1,-6.0,minutes unclear (-6),PP standard,13.5,More,0.564,0.53,0.034,0.564,-129,100,PrizePicks / Underdog
+MIA@SAC,MIA,Giannis Antetokounmpo,PR,39.98,31,48,33.6,2.9,new team,PP standard,41.5,Less,0.577,0.494,0.083,0.423,-118,-112,PrizePicks / Underdog
+MIA@SAC,SAC,Keegan Murray,PR,11.4,6,17,21.3,10.0,minutes unclear (+10),PP standard,13.5,Less,0.667,0.469,0.198,0.333,-130,100,PrizePicks / Underdog
+MIA@SAC,MIA,Davion Mitchell,PR,13.54,8,19,35.0,3.8,,PP standard,15.5,Less,0.655,0.497,0.158,0.345,-115,-112,PrizePicks / Underdog
+MIA@SAC,SAC,Zach LaVine,PR,22.47,15,30,33.4,0.5,,PP standard,23.5,Less,0.574,0.501,0.073,0.426,-114,-115,PrizePicks / Underdog
+MIA@SAC,MIA,Pelle Larsson,PRA,18.43,12,24,29.4,0.3,,PP standard,18.5,Less,0.543,0.481,0.063,0.457,-124,-105,PrizePicks / Underdog
+MIA@SAC,SAC,Domantas Sabonis,PRA,35.02,26,44,32.3,-2.9,,PP standard,33.5,More,0.535,0.493,0.042,0.535,-110,-117,PrizePicks / Underdog
+MIA@SAC,MIA,Davion Mitchell,PRA,21.25,15,27,35.0,3.8,,PP standard,22.5,Less,0.601,0.484,0.117,0.399,-121,-106,PrizePicks / Underdog
+MIA@SAC,MIA,Klay Thompson,PRA,16.25,9,23,22.6,0.5,new team,PP standard,16.5,Less,0.556,0.503,0.053,0.444,-112,-115,PrizePicks / Underdog
+MIA@SAC,SAC,Darius Acuff Jr.,PRA,26.54,18,34,35.6,14.3,minutes unclear (+14); small sample,PP standard,34.5,Less,0.803,0.518,0.285,0.197,-106,-124,PrizePicks / Underdog
+MIA@SAC,MIA,Bam Adebayo,PRA,32.87,25,41,33.1,-0.4,,PP standard,32.5,Less,0.511,0.492,0.019,0.489,-116,-108,PrizePicks / Underdog
+MIA@SAC,MIA,Andrew Wiggins,PRA,17.9,11,24,25.1,-6.0,minutes unclear (-6),PP standard,15.5,More,0.567,0.507,0.06,0.567,-117,-110,PrizePicks / Underdog
+MIA@SAC,MIA,Giannis Antetokounmpo,PRA,46.62,37,56,33.6,2.9,new team,PP standard,48.5,Less,0.583,0.493,0.09,0.417,-116,-109,PrizePicks / Underdog
+MIA@SAC,SAC,Zach LaVine,PRA,26.07,18,34,33.4,0.5,,PP standard,26.5,Less,0.547,0.509,0.037,0.453,-110,-119,PrizePicks / Underdog
+MIA@SAC,SAC,De'Andre Hunter,REB,3.7,2,5,26.6,-1.7,,PP standard,4.5,Less,0.681,0.568,0.113,0.319,118,-152,PrizePicks / Underdog
+MIA@SAC,MIA,Pelle Larsson,REB,3.66,2,5,29.4,0.3,,book line,3.5,Less,0.518,0.539,-0.021,0.482,104,-134,Kalshi / Underdog
+MIA@SAC,MIA,Klay Thompson,REB,2.01,1,3,22.6,0.5,new team,book line,2.5,Less,0.676,0.592,0.084,0.324,130,-170,Kalshi / Underdog
+MIA@SAC,SAC,Domantas Sabonis,REB,11.06,8,14,32.3,-2.9,,PP standard,12.5,Less,0.66,0.47,0.191,0.34,-128,101,PrizePicks / Underdog
+MIA@SAC,MIA,Bobby Portis,REB,5.11,3,7,20.1,-3.6,new team,PP standard,5.5,Less,0.601,0.539,0.062,0.399,103,-136,PrizePicks / Underdog
+MIA@SAC,MIA,Bam Adebayo,REB,9.6,7,12,33.1,-0.4,,PP standard,9.5,Less,0.513,0.49,0.023,0.487,-120,-110,PrizePicks / Underdog
+MIA@SAC,SAC,Darius Acuff Jr.,REB,6.31,4,9,35.6,14.3,minutes unclear (+14); small sample,book line,3.5,More,0.831,0.391,0.44,0.831,140,-185,Kalshi / Underdog
+MIA@SAC,MIA,Andrew Wiggins,REB,3.87,2,6,25.1,-6.0,minutes unclear (-6),book line,3.5,More,0.511,0.459,0.052,0.511,104,-137,Kalshi / Underdog
+MIA@SAC,SAC,Keegan Murray,REB,3.31,1,5,21.3,10.0,minutes unclear (+10),PP standard,4.5,Less,0.735,0.362,0.373,0.265,0,-131,PrizePicks / Underdog
+MIA@SAC,MIA,Davion Mitchell,REB,3.19,1,5,35.0,3.8,,book line,2.5,More,0.587,0.432,0.155,0.587,117,-154,Kalshi / Underdog
+MIA@SAC,MIA,Giannis Antetokounmpo,REB,10.59,8,14,33.6,2.9,new team,PP standard,12.5,Less,0.712,0.531,0.182,0.288,100,-130,PrizePicks / Underdog
+MIA@SAC,SAC,Zach LaVine,REB,2.79,1,4,33.4,0.5,,book line,2.5,More,0.503,0.562,-0.059,0.503,-150,114,Kalshi / Underdog
+MIA@SAC,SAC,Domantas Sabonis,RA,17.42,13,22,32.3,-2.9,,PP standard,18.5,Less,0.598,0.477,0.121,0.402,-127,-104,PrizePicks / Underdog
+MIA@SAC,MIA,Pelle Larsson,RA,7.27,5,10,29.4,0.3,,PP standard,6.5,More,0.568,0.966,-0.398,0.568,-128,-2,PrizePicks / Underdog
+MIA@SAC,MIA,Klay Thompson,RA,3.59,2,5,22.6,0.5,new team,PP standard,4.5,Less,0.695,0.576,0.118,0.305,122,-158,PrizePicks / Underdog
+MIA@SAC,SAC,Darius Acuff Jr.,RA,10.11,7,13,35.6,14.3,minutes unclear (+14); small sample,book line,9.5,More,0.533,0.483,0.05,0.533,-107,-124,Kalshi / Underdog
+MIA@SAC,MIA,Andrew Wiggins,RA,6.08,3,9,25.1,-6.0,minutes unclear (-6),PP standard,5.5,More,0.526,0.434,0.092,0.526,115,-154,PrizePicks / Underdog
+MIA@SAC,MIA,Giannis Antetokounmpo,RA,17.23,13,21,33.6,2.9,new team,PP standard,18.5,Less,0.621,0.512,0.109,0.378,-108,-120,PrizePicks / Underdog
+MIA@SAC,SAC,Zach LaVine,RA,6.39,4,9,33.4,0.5,,PP standard,5.5,More,0.582,0.491,0.09,0.582,-107,-115,PrizePicks / Underdog
+MIA@SAC,MIA,Davion Mitchell,RA,10.9,8,14,35.0,3.8,,PP standard,9.5,More,0.625,0.51,0.115,0.625,-120,-110,PrizePicks / Underdog
+MIA@SAC,MIA,Bam Adebayo,RA,13.14,10,17,33.1,-0.4,,PP standard,12.5,More,0.544,0.535,0.008,0.544,-128,105,PrizePicks / Underdog
+MIA@SAC,SAC,De'Andre Hunter,3PM,1.78,0,3,26.6,-1.7,,book line,1.5,Less,0.506,0.428,0.078,0.494,-154,120,Kalshi / Underdog
+MIA@SAC,MIA,Klay Thompson,3PM,3.22,1,5,22.6,0.5,new team,book line,3.5,Less,0.6,0.594,0.007,0.4,130,-174,Kalshi / Underdog
+MIA@SAC,MIA,Bobby Portis,3PM,1.52,0,3,20.1,-3.6,new team,book line,1.5,Less,0.579,0.652,-0.073,0.421,169,-228,Kalshi / Underdog
+MIA@SAC,SAC,Darius Acuff Jr.,3PM,1.76,0,3,35.6,14.3,minutes unclear (+14); small sample,book line,2.5,Less,0.727,0.431,0.296,0.273,-154,118,Kalshi / Underdog
+MIA@SAC,MIA,Bam Adebayo,3PM,1.84,0,3,33.1,-0.4,,book line,1.5,More,0.51,0.336,0.174,0.51,177,-250,Kalshi / Underdog
+MIA@SAC,MIA,Andrew Wiggins,3PM,1.7,0,3,25.1,-6.0,minutes unclear (-6),book line,1.5,Less,0.532,0.54,-0.008,0.468,104,-136,Kalshi / Underdog
+MIA@SAC,SAC,Keegan Murray,3PM,1.03,0,2,21.3,10.0,minutes unclear (+10),book line,1.5,Less,0.724,0.586,0.138,0.276,127,-166,Kalshi / Underdog
+MIA@SAC,MIA,Davion Mitchell,3PM,1.62,0,3,35.0,3.8,,book line,1.5,Less,0.55,0.447,0.103,0.45,-144,110,Kalshi / Underdog
+MIA@SAC,SAC,Zach LaVine,3PM,2.53,1,4,33.4,0.5,,PP standard,2.5,Less,0.552,0.496,0.056,0.448,-118,-114,PrizePicks / Underdog
+MIA@SAC,MIA,Andrew Wiggins,AST,2.21,1,4,25.1,-6.0,minutes unclear (-6),PP standard,1.5,More,0.598,0.51,0.088,0.598,-122,-112,PrizePicks / Underdog
+MIA@SAC,MIA,Klay Thompson,AST,1.57,0,3,22.6,0.5,new team,book line,1.5,Less,0.563,0.441,0.122,0.437,-147,113,Kalshi / Underdog
+MIA@SAC,SAC,Precious Achiuwa,REB,5.62,3,8,22.4,-7.4,minutes unclear (-7),PP standard,5.5,Less,0.528,0.458,0.07,0.472,-136,105,PrizePicks / Underdog
+MIA@SAC,MIA,Pelle Larsson,3PM,1.0,0,2,29.4,0.3,,book line,0.5,More,0.569,0.65,-0.081,0.569,-235,165,Kalshi / Underdog
+MIA@SAC,SAC,Malik Monk,3PM,1.39,0,2,17.4,0.6,,book line,1.5,Less,0.613,0.543,0.07,0.387,106,-136,Kalshi / Underdog
+MIA@SAC,SAC,De'Andre Hunter,PRA,19.95,13,26,26.6,-1.7,,PP standard,19.5,Less,0.516,0.499,0.017,0.484,100,101,PrizePicks / Underdog
+MIA@SAC,MIA,Bobby Portis,PRA,17.05,10,23,20.1,-3.6,new team,PP standard,15.5,More,0.528,0.515,0.013,0.528,-105,107,PrizePicks / Underdog
+MIA@SAC,SAC,Keegan Murray,PRA,12.58,7,18,21.3,10.0,minutes unclear (+10),PP standard,15.5,Less,0.701,0.528,0.172,0.299,113,-111,PrizePicks / Underdog
+MIA@SAC,SAC,Malik Monk,PRA,14.06,7,20,17.4,0.6,,PP standard,14.5,Less,0.57,0.184,0.386,0.43,-104,-13,PrizePicks / Underdog
+MIA@SAC,MIA,Bobby Portis,RA,6.5,4,9,20.1,-3.6,new team,PP standard,7.5,Less,0.663,0.538,0.125,0.337,117,-116,PrizePicks / Underdog
+MIA@SAC,MIA,Giannis Antetokounmpo,3PM,0.44,0,1,33.6,2.9,new team,PP standard,0.5,Less,0.681,0.5,0.181,0.319,-119,-119,PrizePicks / Underdog
+MIA@SAC,MIA,Bobby Portis,PA,11.94,6,17,20.1,-3.6,new team,book line,9.5,More,0.591,0.523,0.069,0.591,-109,110,Kalshi / Underdog
+MIA@SAC,SAC,Keegan Murray,PA,9.27,4,14,21.3,10.0,minutes unclear (+10),book line,10.5,Less,0.634,0.478,0.155,0.366,-109,109,Kalshi / Underdog
+MIA@SAC,SAC,De'Andre Hunter,PA,16.25,10,22,26.6,-1.7,,book line,14.5,More,0.555,0.526,0.029,0.555,-110,112,Kalshi / Underdog
+MIA@SAC,SAC,Malik Monk,PR,10.7,5,16,17.4,0.6,,book line,11.5,Less,0.598,0.526,0.072,0.402,112,-110,Kalshi / Underdog
+MIA@SAC,SAC,De'Andre Hunter,RA,5.92,3,8,26.6,-1.7,,book line,6.5,Less,0.615,0.547,0.068,0.385,121,-120,Kalshi / Underdog
+MIA@SAC,SAC,Keegan Murray,RA,4.48,2,7,21.3,10.0,minutes unclear (+10),book line,5.5,Less,0.686,0.523,0.163,0.314,110,-109,Kalshi / Underdog
+MIA@SAC,SAC,Malik Monk,RA,4.78,2,7,17.4,0.6,,book line,5.5,Less,0.641,0.562,0.078,0.359,129,-128,Kalshi / Underdog
+MIA@SAC,SAC,Malik Monk,REB,1.43,0,2,17.4,0.6,,book line,1.5,Less,0.602,0.578,0.024,0.398,120,-165,Kalshi / Underdog
 PHI@CHI,PHI,Joel Embiid,AST,2.98,1,4,29.5,2.2,small sample,book line,3.5,Less,0.653,0.563,0.09,0.347,115,-150,Kalshi / Underdog
 PHI@CHI,PHI,Tyrese Maxey,AST,5.25,3,7,38.1,1.4,,PP standard,5.5,Less,0.573,0.48,0.093,0.427,-125,-105,PrizePicks / Underdog
 PHI@CHI,PHI,VJ Edgecombe,AST,3.23,2,5,32.5,0.2,,book line,3.5,Less,0.6,0.573,0.027,0.4,120,-157,Kalshi / Underdog
