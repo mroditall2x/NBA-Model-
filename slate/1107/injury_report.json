@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-07T23:22:29.637963+00:00",
+ "checked": "2026-11-08T00:22:27.283306+00:00",
  "games": {
   "DEN@IND": [
    {
@@ -131,8 +131,8 @@
    {
     "player": "Anthony Davis",
     "team": "WSH",
-    "status": "Day-To-Day",
-    "note": "Davis (ankle) is questionable for Saturday's game against the Thunder."
+    "status": "Out",
+    "note": "Davis (ankle) won't play Saturday against the Thunder."
    },
    {
     "player": "Reece Beekman",
@@ -161,28 +161,10 @@
   ],
   "ORL@GS": [
    {
-    "player": "Draymond Green",
-    "team": "GS",
-    "status": "Day-To-Day",
-    "note": "Green (elbow) is listed as questionable ahead of Saturday's game against Orlando."
-   },
-   {
-    "player": "Gary Payton II",
-    "team": "GS",
-    "status": "Day-To-Day",
-    "note": "Payton is questionable to play Saturday against the Magic due to right calf tightness."
-   },
-   {
     "player": "Kristaps Porzingis",
     "team": "GS",
     "status": "Out",
     "note": "Porzingis announced on his social media that he's stepping away from basketball."
-   },
-   {
-    "player": "Gui Santos",
-    "team": "GS",
-    "status": "Day-To-Day",
-    "note": "Santos (knee) is questionable for Saturday's game versus Orlando, per Nick Friedell of The Athletic."
    },
    {
     "player": "Moses Moody",
