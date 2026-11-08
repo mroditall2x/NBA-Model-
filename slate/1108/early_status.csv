@@ -1,6 +1,6 @@
 game,team,player,stat,side,line,p,where,line_now,p_now,move,news,status
 LAL@DET,DET,Daniss Jenkins,3PM,Less,1.5,0.6572,Kalshi / Underdog,1.5,0.657,,False,Hold
-BKN@DAL,BKN,Michael Porter Jr,AST,More,1.5,0.656,Kalshi / Underdog,1.5,0.656,,True,Hold
+BKN@DAL,BKN,Michael Porter Jr,AST,More,1.5,0.656,Kalshi / Underdog,1.5,0.656,,False,Hold
 BKN@DAL,DAL,Naji Marshall,AST,Less,3.5,0.6392,Kalshi / Underdog,3.5,0.639,,False,Hold
 NO@LAC,LAC,Kris Dunn,3PM,Less,1.5,0.6295999999999999,Kalshi / Underdog,1.5,0.63,,False,Hold
 BKN@DAL,DAL,Daniel Gafford,AST,Less,1.5,0.6265999999999999,Kalshi / Underdog,1.5,0.627,,False,Hold
