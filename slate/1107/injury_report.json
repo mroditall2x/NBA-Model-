@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-08T02:22:31.022387+00:00",
+ "checked": "2026-11-08T03:22:29.383724+00:00",
  "games": {
   "DEN@IND": [
    {
@@ -129,6 +129,12 @@
     "note": "Williams (leg) underwent successful surgery Wednesday to \"address a fractured left fibula and reconstruction of ankle ligaments following a fracture and dislocation.\" He will be re-evaluated before the end of the regular season, Tim MacMahon of ESPN.com reports."
    },
    {
+    "player": "Deandre Ayton",
+    "team": "WSH",
+    "status": "Out",
+    "note": "Ayton won't return to Saturday's game against the Thunder due to a lower leg injury."
+   },
+   {
     "player": "Anthony Davis",
     "team": "WSH",
     "status": "Out",
@@ -243,6 +249,12 @@
   ],
   "SA@POR": [
    {
+    "player": "Ja Morant",
+    "team": "POR",
+    "status": "Out",
+    "note": "Head coach Micah Nori said Morant met with a doctor in Los Angeles, who gave him a positive outlook on his recovery from the hamstring injury. While Nori declined to update Morant's timetable, he added Morant \"may not be out for as long as we thought,\" Trail Blazers Insider Sean Highkin reports."
+   },
+   {
     "player": "Robert Williams III",
     "team": "POR",
     "status": "Out",
@@ -253,12 +265,6 @@
     "team": "POR",
     "status": "Out",
     "note": "Head coach Micah Nori said that Krejci suffered a left leg fracture during Wednesday's 132-119 win over the Suns, Brett Siegel of ClutchPoints.com reports."
-   },
-   {
-    "player": "Ja Morant",
-    "team": "POR",
-    "status": "Out",
-    "note": "Morant has been diagnosed with a Grade 2 left hamstring strain and is expected to miss four weeks, Portland announced Friday."
    },
    {
     "player": "Shaedon Sharpe",
