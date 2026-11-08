@@ -1,11 +1,11 @@
 game,team,player,stat,tier,line,side,p,price,ev,top,mean,lo,hi,min,gap,where
-LAL@DET,DET,Daniss Jenkins,3PM,standard,1.5,Less,0.6572,-205,-0.022,True,0.91,0,2,22.3,-1.6,Kalshi / Underdog
-BKN@DAL,BKN,Michael Porter Jr,AST,standard,1.5,More,0.656,-186,0.009,True,2.98,1,4,35.1,-0.5,Kalshi / Underdog
-BKN@DAL,DAL,Naji Marshall,AST,standard,3.5,Less,0.6392,-164,0.029,True,2.57,1,4,21.3,1.9,Kalshi / Underdog
-NO@LAC,LAC,Kris Dunn,3PM,standard,1.5,Less,0.6295999999999999,-218,-0.082,True,1.06,0,2,32.1,-1.6,Kalshi / Underdog
-BKN@DAL,DAL,Daniel Gafford,AST,standard,1.5,Less,0.6265999999999999,-130,0.109,True,1.07,0,2,20.0,-1.4,Kalshi / Underdog
-LAL@DET,DET,Cade Cunningham,3PM,standard,2.5,Less,0.626,-142,0.067,False,1.82,0,3,34.7,-1.0,Kalshi / Underdog
-UTAH@MIN,UTAH,Lauri Markkanen,3PM,standard,2.5,Less,0.6164,119,0.35,False,1.91,0,3,31.6,-0.0,Kalshi / Underdog
+BKN@DAL,BKN,Michael Porter Jr,AST,standard,1.5,More,0.6584,-186,0.012,True,3.0,1,5,35.1,-0.4,Kalshi / Underdog
+LAL@DET,DET,Daniss Jenkins,3PM,standard,1.5,Less,0.6548,-204,-0.024,True,0.92,0,2,22.4,-1.7,Kalshi / Underdog
+BKN@DAL,DAL,Naji Marshall,AST,standard,3.5,Less,0.6368,-164,0.025,True,2.58,1,4,21.4,2.0,Kalshi / Underdog
+LAL@DET,DET,Cade Cunningham,3PM,standard,2.5,Less,0.6295999999999999,-145,0.064,True,1.81,0,3,34.6,-0.9,Kalshi / Underdog
+NO@LAC,LAC,Kris Dunn,3PM,standard,1.5,Less,0.6284,-218,-0.083,True,1.06,0,2,32.2,-1.4,Kalshi / Underdog
+BKN@DAL,DAL,Daniel Gafford,AST,standard,1.5,Less,0.6265999999999999,-130,0.109,False,1.08,0,2,20.1,-1.4,Kalshi / Underdog
+UTAH@MIN,UTAH,Lauri Markkanen,3PM,standard,2.5,Less,0.6157999999999999,119,0.349,False,1.9,0,3,31.7,0.2,Kalshi / Underdog
 BOS@MIL,MIL,Kyle Kuzma,RA,standard,7.5,Less,0.6157999999999999,-143,0.046,False,6.26,4,9,25.3,-2.7,PrizePicks / Underdog
-UTAH@MIN,UTAH,Keyonte George,3PM,standard,2.5,Less,0.608,-180,-0.054,False,1.97,1,3,34.0,-0.2,Kalshi / Underdog
+UTAH@MIN,UTAH,Keyonte George,3PM,standard,2.5,Less,0.6104,-180,-0.05,False,1.96,1,3,34.2,0.1,Kalshi / Underdog
 BOS@MIL,MIL,Myles Turner,RA,standard,7.5,Less,0.6062000000000001,-138,0.045,False,6.35,4,9,27.3,-0.1,PrizePicks / Underdog
