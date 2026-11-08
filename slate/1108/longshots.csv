@@ -1,13 +1,13 @@
 game,team,player,combo,chance,fair_odds,min,min_bump,why,avg,size,special
-PHI@CHI,CHI,Isaac Okoro,10+ pts & 3+ reb,0.15,+567,24.9,-1.5,Norman Powell out,2.4 reb / 1.4 ast / 8.3 pts,13,True
-LAL@DET,LAL,Jake LaRavia,10+ pts & 4+ reb,0.147,+579,26.5,2.1,Luka Doncic out,3.5 reb / 1.8 ast / 7.7 pts,14,True
-PHI@CHI,CHI,Jalen Smith,15+ pts & 8+ reb,0.139,+622,25.3,-1.4,Norman Powell out,7.0 reb / 1.4 ast / 11.9 pts,23,True
-LAL@DET,LAL,Walker Kessler,15+ pts & 13+ reb,0.129,+677,35.2,0.8,Luka Doncic out,11.2 reb / 2.3 ast / 12.9 pts,28,True
-PHI@CHI,CHI,Tre Jones,15+ pts & 6+ ast,0.128,+679,24.5,-3.2,Norman Powell out,2.7 reb / 4.8 ast / 12.8 pts,21,True
-LAL@DET,LAL,Austin Reaves,30+ pts & 7+ ast,0.126,+693,38.1,3.7,Luka Doncic out; +4 min,4.2 reb / 6.2 ast / 23.9 pts,37,True
-UTAH@MIN,MIN,Jonathan Kuminga,20+ pts & 3+ ast,0.125,+703,26.9,-3.6,Anthony Edwards out,6.1 reb / 2.5 ast / 15.9 pts,23,True
-UTAH@MIN,MIN,Jaden McDaniels,20+ pts & 6+ reb,0.124,+708,36.7,4.7,Anthony Edwards out; +5 min,5.1 reb / 2.9 ast / 16.3 pts,26,True
-BKN@DAL,BKN,Nolan Traore,15+ pts & 2+ reb,0.118,+750,25.3,3.5,+4 min,1.9 reb / 4.7 ast / 10.4 pts,17,True
-UTAH@MIN,MIN,Jonathan Kuminga,20+ pts & 7+ reb,0.111,+799,26.9,-3.6,Anthony Edwards out,6.1 reb / 2.5 ast / 15.9 pts,27,True
-LAL@DET,DET,Ausar Thompson,15+ pts & 4+ ast,0.108,+825,28.8,5.4,+5 min,6.1 reb / 3.4 ast / 11.0 pts,19,True
+UTAH@MIN,MIN,Jaden McDaniels,20+ pts & 6+ reb,0.128,+681,36.6,4.6,Anthony Edwards out; +5 min,5.2 reb / 3.0 ast / 16.3 pts,26,True
+UTAH@MIN,MIN,Jonathan Kuminga,20+ pts & 3+ ast,0.127,+689,26.9,-3.4,Anthony Edwards out,6.1 reb / 2.5 ast / 15.9 pts,23,True
+LAL@DET,LAL,Walker Kessler,15+ pts & 13+ reb,0.123,+715,35.2,1.0,Luka Doncic out,11.1 reb / 2.3 ast / 12.8 pts,28,True
+BKN@DAL,BKN,Nolan Traore,15+ pts & 2+ reb,0.12,+734,25.4,3.6,+4 min,1.9 reb / 4.7 ast / 10.5 pts,17,True
+PHI@CHI,CHI,Jalen Smith,15+ pts & 9+ reb,0.119,+737,25.2,-2.6,Norman Powell out,7.0 reb / 1.5 ast / 12.7 pts,24,True
+UTAH@MIN,MIN,Jonathan Kuminga,20+ pts & 7+ reb,0.113,+788,26.9,-3.4,Anthony Edwards out,6.1 reb / 2.5 ast / 15.9 pts,27,True
+LAL@DET,DET,Ausar Thompson,15+ pts & 4+ ast,0.112,+793,29.0,5.7,+6 min,6.1 reb / 3.4 ast / 11.1 pts,19,True
+LAL@DET,LAL,Austin Reaves,30+ pts & 7+ ast,0.112,+791,38.1,4.0,Luka Doncic out; +4 min,4.2 reb / 6.1 ast / 23.7 pts,37,True
 NO@LAC,LAC,Rui Hachimura,20+ pts & 6+ reb,0.107,+833,33.5,9.5,+10 min,5.3 reb / 1.0 ast / 14.7 pts,26,True
+UTAH@MIN,MIN,Ayo Dosunmu,20+ pts & 6+ ast,0.107,+831,33.9,5.2,Anthony Edwards out; +5 min,4.6 reb / 4.6 ast / 16.6 pts,26,True
+LAL@DET,DET,Ausar Thompson,15+ pts & 7+ reb,0.107,+835,29.0,5.7,+6 min,6.1 reb / 3.4 ast / 11.1 pts,22,True
+UTAH@MIN,MIN,Ayo Dosunmu,20+ pts & 6+ reb,0.105,+853,33.9,5.2,Anthony Edwards out; +5 min,4.6 reb / 4.6 ast / 16.6 pts,26,True

@@ -1,11 +1,11 @@
-game,team,player,stat,tier,line,side,p,price,ev,top,mean,lo,hi,min,gap,where
-BKN@DAL,BKN,Michael Porter Jr,AST,standard,1.5,More,0.6584,-186,0.012,True,3.0,1,5,35.1,-0.4,Kalshi / Underdog
-LAL@DET,DET,Daniss Jenkins,3PM,standard,1.5,Less,0.6548,-204,-0.024,True,0.92,0,2,22.4,-1.7,Kalshi / Underdog
-BKN@DAL,DAL,Naji Marshall,AST,standard,3.5,Less,0.6368,-164,0.025,True,2.58,1,4,21.4,2.0,Kalshi / Underdog
-LAL@DET,DET,Cade Cunningham,3PM,standard,2.5,Less,0.6295999999999999,-145,0.064,True,1.81,0,3,34.6,-0.9,Kalshi / Underdog
-NO@LAC,LAC,Kris Dunn,3PM,standard,1.5,Less,0.6284,-218,-0.083,True,1.06,0,2,32.2,-1.4,Kalshi / Underdog
-BKN@DAL,DAL,Daniel Gafford,AST,standard,1.5,Less,0.6265999999999999,-130,0.109,False,1.08,0,2,20.1,-1.4,Kalshi / Underdog
-UTAH@MIN,UTAH,Lauri Markkanen,3PM,standard,2.5,Less,0.6157999999999999,119,0.349,False,1.9,0,3,31.7,0.2,Kalshi / Underdog
-BOS@MIL,MIL,Kyle Kuzma,RA,standard,7.5,Less,0.6157999999999999,-143,0.046,False,6.26,4,9,25.3,-2.7,PrizePicks / Underdog
-UTAH@MIN,UTAH,Keyonte George,3PM,standard,2.5,Less,0.6104,-180,-0.05,False,1.96,1,3,34.2,0.1,Kalshi / Underdog
-MIA@SAC,SAC,De'Andre Hunter,REB,standard,4.5,Less,0.6086,-152,0.009,False,3.7,2,5,26.6,-1.7,PrizePicks / Underdog
+game,team,player,stat,tier,line,side,p,price,ev,top,mean,lo,hi,min,gap,where,line_open,line_now,move,line_move,keep
+BKN@DAL,BKN,Michael Porter Jr,AST,standard,1.5,More,0.6614,-186,0.017,True,3.03,1,5,35.1,-0.3,Kalshi / Underdog,1.5,1.5,0.0,,True
+LAL@DET,DET,Daniss Jenkins,3PM,standard,1.5,Less,0.6548,-204,-0.024,True,0.91,0,2,22.3,-1.6,Kalshi / Underdog,,,,,True
+BKN@DAL,DAL,Naji Marshall,AST,standard,3.5,Less,0.635,-164,0.022,True,2.6,1,4,21.4,1.8,Kalshi / Underdog,3.5,3.5,0.0,,True
+LAL@DET,DET,Cade Cunningham,3PM,standard,2.5,Less,0.6325999999999999,-145,0.069,True,1.8,0,3,34.6,-0.8,Kalshi / Underdog,,,,,True
+BKN@DAL,DAL,Daniel Gafford,AST,standard,1.5,Less,0.6284,-130,0.112,True,1.07,0,2,20.1,-1.5,Kalshi / Underdog,1.5,1.5,0.0,,True
+NO@LAC,LAC,Kris Dunn,3PM,standard,1.5,Less,0.6284,-218,-0.083,False,1.06,0,2,32.2,-1.4,Kalshi / Underdog,,,,,True
+BOS@MIL,MIL,Kyle Kuzma,RA,standard,7.5,Less,0.6157999999999999,-143,0.046,False,6.26,4,9,25.3,-2.7,PrizePicks / Underdog,7.5,7.5,0.0,,True
+UTAH@MIN,UTAH,Lauri Markkanen,3PM,standard,2.5,Less,0.614,119,0.345,False,1.91,0,3,31.6,0.1,Kalshi / Underdog,,,,,True
+MIA@SAC,SAC,De'Andre Hunter,REB,standard,4.5,Less,0.6128,-152,0.016,False,3.67,2,5,26.5,-1.6,PrizePicks / Underdog,4.5,4.5,0.0,,True
+UTAH@MIN,UTAH,Keyonte George,3PM,standard,2.5,Less,0.6122000000000001,-180,-0.048,False,1.95,1,3,34.1,-0.1,Kalshi / Underdog,,,,,True
