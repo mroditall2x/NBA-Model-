@@ -1,0 +1,7 @@
+game,team,player,stat,tier,line,side,p,price,ev,top,mean,lo,hi,min,gap,where
+LAL@DET,DET,Daniss Jenkins,3PM,standard,1.5,Less,0.6572,-205,-0.022,True,0.91,0,2,22.3,-1.6,Kalshi / Underdog
+BKN@DAL,BKN,Michael Porter Jr,AST,standard,1.5,More,0.656,-186,0.009,True,2.98,1,4,35.1,-0.5,Kalshi / Underdog
+BKN@DAL,DAL,Naji Marshall,AST,standard,3.5,Less,0.6392,-164,0.029,True,2.57,1,4,21.3,1.9,Kalshi / Underdog
+NO@LAC,LAC,Kris Dunn,3PM,standard,1.5,Less,0.6295999999999999,-218,-0.082,True,1.06,0,2,32.1,-1.6,Kalshi / Underdog
+BKN@DAL,DAL,Daniel Gafford,AST,standard,1.5,Less,0.6265999999999999,-130,0.109,True,1.07,0,2,20.0,-1.4,Kalshi / Underdog
+LAL@DET,DET,Cade Cunningham,3PM,standard,2.5,Less,0.626,-142,0.067,False,1.82,0,3,34.7,-1.0,Kalshi / Underdog

@@ -1,0 +1,13 @@
+game,team,player,combo,chance,fair_odds,min,min_bump,why,avg,size,special
+LAL@DET,LAL,Walker Kessler,10+ pts & 12+ reb,0.174,+475,31.7,3.9,+4 min,10.4 reb / 1.7 ast / 10.2 pts,22,True
+LAL@DET,LAL,Luka Doncic,35+ pts & 8+ ast,0.135,+642,35.7,6.5,+6 min,6.3 reb / 7.1 ast / 29.6 pts,43,True
+UTAH@MIN,MIN,Jaden McDaniels,20+ pts & 6+ reb,0.129,+678,36.7,4.2,Anthony Edwards out; +4 min,5.2 reb / 3.0 ast / 16.4 pts,26,True
+BKN@DAL,BKN,Nolan Traore,15+ pts & 2+ reb,0.119,+744,25.5,3.8,+4 min,1.9 reb / 4.7 ast / 10.4 pts,17,True
+UTAH@MIN,MIN,Jonathan Kuminga,20+ pts & 7+ reb,0.113,+787,26.9,-3.5,Anthony Edwards out,6.0 reb / 2.6 ast / 15.9 pts,27,True
+UTAH@MIN,MIN,Ayo Dosunmu,20+ pts & 6+ ast,0.112,+797,33.9,5.2,Anthony Edwards out; +5 min,4.6 reb / 4.6 ast / 16.7 pts,26,True
+LAL@DET,DET,Ausar Thompson,15+ pts & 4+ ast,0.108,+828,28.3,4.0,+4 min,6.0 reb / 3.3 ast / 11.0 pts,19,True
+UTAH@MIN,MIN,Ayo Dosunmu,20+ pts & 6+ reb,0.107,+839,33.9,5.2,Anthony Edwards out; +5 min,4.6 reb / 4.6 ast / 16.7 pts,26,True
+NO@LAC,LAC,Rui Hachimura,20+ pts & 6+ reb,0.106,+845,33.5,9.6,+10 min,5.3 reb / 1.0 ast / 14.7 pts,26,True
+LAL@DET,LAL,Austin Reaves,25+ pts & 6+ ast,0.101,+885,36.5,5.7,+6 min,4.0 reb / 4.9 ast / 19.8 pts,31,True
+LAL@DET,DET,Ausar Thompson,15+ pts & 7+ reb,0.099,+906,28.3,4.0,+4 min,6.0 reb / 3.3 ast / 11.0 pts,22,True
+BKN@DAL,DAL,Kyrie Irving,25+ pts & 5+ reb,0.098,+919,28.4,5.3,+5 min,4.0 reb / 3.7 ast / 18.5 pts,30,True
