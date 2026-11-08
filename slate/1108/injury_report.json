@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-08T22:22:31.567689+00:00",
+ "checked": "2026-11-08T23:22:35.083776+00:00",
  "games": {
   "PHI@CHI": [
    {
@@ -65,18 +65,6 @@
     "team": "MIN",
     "status": "Out",
     "note": "DiVincenzo (Achilles) remains confident that he'll return during the 2026-27 season, Jon Krawczynski of The Athletic reports."
-   },
-   {
-    "player": "Keyonte George",
-    "team": "UTAH",
-    "status": "Day-To-Day",
-    "note": "George (illness) has been downgraded to questionable for Sunday's game against Minnesota."
-   },
-   {
-    "player": "Lauri Markkanen",
-    "team": "UTAH",
-    "status": "Day-To-Day",
-    "note": "Markkanen is questionable for Sunday's game against the Timberwolves due to a right wrist sprain."
    },
    {
     "player": "Jusuf Nurkic",
@@ -182,6 +170,12 @@
    }
   ],
   "MIA@SAC": [
+   {
+    "player": "Domantas Sabonis",
+    "team": "SAC",
+    "status": "Day-To-Day",
+    "note": "Sabonis has been downgraded to questionable for Sunday's game against Miami due to left knee soreness."
+   },
    {
     "player": "Maxime Raynaud",
     "team": "SAC",
