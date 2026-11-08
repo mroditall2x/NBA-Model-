@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-08T16:22:29.057874+00:00",
+ "checked": "2026-11-08T17:22:34.238506+00:00",
  "games": {
   "PHI@CHI": [
    {
@@ -59,16 +59,16 @@
   ],
   "LAL@DET": [
    {
+    "player": "Jalen Duren",
+    "team": "DET",
+    "status": "Out",
+    "note": "Duren (hamstring) has begun on-court activity and will be re-evaluated in two weeks, Hunter Patterson of The Athletic reports."
+   },
+   {
     "player": "Isaiah Joe",
     "team": "DET",
     "status": "Out",
     "note": "Joe (hip) has been ruled out for Sunday's game against the Lakers."
-   },
-   {
-    "player": "Jalen Duren",
-    "team": "DET",
-    "status": "Out",
-    "note": "Duren will be re-evaluated in two weeks due to a right hamstring strain, Eric Vincent of ClutchPoints.com reports."
    },
    {
     "player": "Luka Doncic",
@@ -97,6 +97,12 @@
     "note": "DiVincenzo (Achilles) remains confident that he'll return during the 2026-27 season, Jon Krawczynski of The Athletic reports."
    },
    {
+    "player": "Keyonte George",
+    "team": "UTAH",
+    "status": "Day-To-Day",
+    "note": "George (illness) has been downgraded to questionable for Sunday's game against Minnesota."
+   },
+   {
     "player": "Lauri Markkanen",
     "team": "UTAH",
     "status": "Day-To-Day",
@@ -116,6 +122,12 @@
    }
   ],
   "BKN@DAL": [
+   {
+    "player": "Grant Nelson",
+    "team": "BKN",
+    "status": "Day-To-Day",
+    "note": "Nelson signed a two-way contract with the Nets on Friday, Michael Scotto of HoopsHype.com reports."
+   },
    {
     "player": "Mikel Brown Jr.",
     "team": "BKN",
