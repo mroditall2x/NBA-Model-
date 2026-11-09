@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-09T17:22:28.178988+00:00",
+ "checked": "2026-11-09T18:22:30.139756+00:00",
  "games": {
   "LAL@ATL": [
    {
@@ -33,19 +33,25 @@
     "note": "Veesaar was diagnosed with a torn right ACL and is expected to miss the 2026-27 season, the Hawks announced Monday."
    },
    {
-    "player": "Luka Doncic",
-    "team": "LAL",
-    "status": "Day-To-Day",
-    "note": "Doncic has been ruled out for Sunday's game at Detroit due to lower-back tightness, Trevor Lane of LakersNation.com reports."
-   },
-   {
     "player": "Quentin Grimes",
     "team": "LAL",
+    "status": "Out",
+    "note": "Grimes (finger) is out for Monday's game against Atlanta, per Dave McMenamin of ESPN.com."
+   },
+   {
+    "player": "Austin Reaves",
+    "team": "LAL",
     "status": "Day-To-Day",
-    "note": "Grimes (finger) did not return to Sunday's game against the Pistons."
+    "note": "Reaves is questionable for Monday's game against the Hawks due to an illness, per Dave McMenamin of ESPN.com."
    }
   ],
   "CLE@CHA": [
+   {
+    "player": "Moussa Diabate",
+    "team": "CHA",
+    "status": "Day-To-Day",
+    "note": "Diabate (quadriceps) is doubtful for Monday's game against the Cavaliers."
+   },
    {
     "player": "Grant Williams",
     "team": "CHA",
@@ -57,12 +63,6 @@
     "team": "CHA",
     "status": "Out",
     "note": "Knueppel (hamstring) was diagnosed with a left hamstring strain Sunday and will be re-evaluated in four weeks."
-   },
-   {
-    "player": "Moussa Diabate",
-    "team": "CHA",
-    "status": "Day-To-Day",
-    "note": "Diabate (quadriceps) is questionable for Monday's game against the Cavaliers."
    },
    {
     "player": "Dennis Schroder",
@@ -274,7 +274,7 @@
     "player": "Oscar Tshiebwe",
     "team": "HOU",
     "status": "Out",
-    "note": "Tshiebwe finished Wednesday's 132-100 win over the Bucks with seven points (3-3 FG, 1-2 FT), five rebounds, two assists, one block and one steal over 14 minutes."
+    "note": "Tshiebwe has been ruled out for Monday's game against the Nuggets due to an illness."
    },
    {
     "player": "Clint Capela",
