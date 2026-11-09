@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-09T22:22:25.622155+00:00",
+ "checked": "2026-11-09T23:22:31.369247+00:00",
  "games": {
   "LAL@ATL": [
    {
@@ -27,24 +27,24 @@
     "note": "Veesaar was diagnosed with a torn right ACL and is expected to miss the 2026-27 season, the Hawks announced Monday."
    },
    {
+    "player": "Austin Reaves",
+    "team": "LAL",
+    "status": "Out",
+    "note": "Reaves (illness) has been ruled out for Monday's game against Atlanta, Benjamin Royer of The Orange County Register reports."
+   },
+   {
     "player": "Quentin Grimes",
     "team": "LAL",
     "status": "Out",
     "note": "Grimes (finger) is out for Monday's game against Atlanta, per Dave McMenamin of ESPN.com."
-   },
-   {
-    "player": "Austin Reaves",
-    "team": "LAL",
-    "status": "Day-To-Day",
-    "note": "Reaves is questionable for Monday's game against the Hawks due to an illness, per Dave McMenamin of ESPN.com."
    }
   ],
   "CLE@CHA": [
    {
     "player": "Moussa Diabate",
     "team": "CHA",
-    "status": "Day-To-Day",
-    "note": "Diabate (quadriceps) is doubtful for Monday's game against the Cavaliers."
+    "status": "Out",
+    "note": "Diabate (quadriceps) has been downgraded to out for Monday's game against Cleveland."
    },
    {
     "player": "Grant Williams",
@@ -77,12 +77,6 @@
     "note": "Merrill (elbow) is listed as out for Monday's game against the Hornets."
    },
    {
-    "player": "Jarrett Allen",
-    "team": "CLE",
-    "status": "Day-To-Day",
-    "note": "Allen (knee) is questionable for Monday's game against Charlotte."
-   },
-   {
     "player": "Jaylon Tyson",
     "team": "CLE",
     "status": "Out",
@@ -105,20 +99,14 @@
    {
     "player": "Bilal Coulibaly",
     "team": "WSH",
-    "status": "Day-To-Day",
-    "note": "Coulibaly (hand) is listed as questionable for Monday's game against Detroit."
+    "status": "Out",
+    "note": "Coulibaly (hand) is out for Monday's game against the Pistons."
    },
    {
     "player": "Tristan Vukcevic",
     "team": "WSH",
     "status": "Out",
     "note": "Vukcevic (hip) has been ruled out for Monday's game against Detroit."
-   },
-   {
-    "player": "Anthony Davis",
-    "team": "WSH",
-    "status": "Day-To-Day",
-    "note": "Davis (ankle) is listed as questionable for Monday's game in Detroit."
    },
    {
     "player": "Reece Beekman",
@@ -159,28 +147,28 @@
     "note": "Saunders signed a two-way contract with the Grizzlies on Saturday, Shams Charania of ESPN reports."
    },
    {
+    "player": "Immanuel Quickley",
+    "team": "TOR",
+    "status": "Out",
+    "note": "Quickley (hamstring) has been ruled out for Monday's game against Memphis, Esfandiar Baraheni of The Athletic reports."
+   },
+   {
     "player": "Collin Murray-Boyles",
     "team": "TOR",
-    "status": "Day-To-Day",
-    "note": "Murray-Boyles (illness) is questionable for Monday's game versus Memphis, per Josh Lewenberg of TSN.ca."
+    "status": "Out",
+    "note": "Murray-Boyles (illness) is out for Monday's game against the Grizzlies, Esfandiar Baraheni of The Athletic reports."
+   },
+   {
+    "player": "Scottie Barnes",
+    "team": "TOR",
+    "status": "Out",
+    "note": "Barnes (groin) is out for Monday's game against the Grizzlies, Esfandiar Baraheni of The Athletic reports."
    },
    {
     "player": "Nate Bittle",
     "team": "TOR",
     "status": "Out",
     "note": "Bittle (foot) is listed as out for Monday's game against Memphis."
-   },
-   {
-    "player": "Immanuel Quickley",
-    "team": "TOR",
-    "status": "Day-To-Day",
-    "note": "Quickley (hamstring) was a limited participant in Sunday's practice and will be listed as questionable for Monday's game against the Grizzlies, Michael Grange of Sportsnet.ca reports."
-   },
-   {
-    "player": "Scottie Barnes",
-    "team": "TOR",
-    "status": "Day-To-Day",
-    "note": "Barnes (adductor) was a limited participant in Sunday's practice and will be listed as questionable for Monday's game against the Grizzlies, Michael Grange of Sportsnet.ca reports."
    },
    {
     "player": "Kawhi Leonard",
@@ -193,7 +181,7 @@
    {
     "player": "Morez Johnson Jr.",
     "team": "DAL",
-    "status": "Day-To-Day",
+    "status": "Out",
     "note": "Johnson (leg) is questionable for Monday's game against Indiana."
    },
    {
