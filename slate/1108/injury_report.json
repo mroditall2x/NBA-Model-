@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-09T00:22:27.934032+00:00",
+ "checked": "2026-11-09T01:22:26.624974+00:00",
  "games": {
   "PHI@CHI": [
    {
@@ -45,6 +45,12 @@
     "team": "DET",
     "status": "Out",
     "note": "Joe (hip) has been ruled out for Sunday's game against the Lakers."
+   },
+   {
+    "player": "Quentin Grimes",
+    "team": "LAL",
+    "status": "Day-To-Day",
+    "note": "Grimes will start in Sunday's game against the Pistons."
    },
    {
     "player": "Luka Doncic",
@@ -125,12 +131,6 @@
   ],
   "BOS@MIL": [
    {
-    "player": "Mitchell Robinson",
-    "team": "BOS",
-    "status": "Day-To-Day",
-    "note": "Robinson (illness) is questionable for Sunday's game versus Milwaukee, Bobby Krivitsky of Forbes.com reports."
-   },
-   {
     "player": "Gary Trent Jr.",
     "team": "MIL",
     "status": "Out",
@@ -179,8 +179,8 @@
    {
     "player": "Domantas Sabonis",
     "team": "SAC",
-    "status": "Day-To-Day",
-    "note": "Sabonis has been downgraded to questionable for Sunday's game against Miami due to left knee soreness."
+    "status": "Out",
+    "note": "Sabonis (knee) is out for Sunday's game against the Heat."
    },
    {
     "player": "Maxime Raynaud",

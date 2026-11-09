@@ -12,13 +12,19 @@ LAL@DET,LAL,Collin Sexton,REB,2.5,Less,0.655,1.65,19.5,lean,Kalshi / Underdog
 LAL@DET,LAL,Ziaire Williams,RA,4.5,Less,0.636,3.44,22.5,lean,Kalshi / Underdog
 LAL@DET,LAL,Walker Kessler,AST,1.5,More,0.585,2.28,35.2,lean,Kalshi / Underdog
 LAL@DET,LAL,Sandro Mamukelashvili,PA,11.5,More,0.534,13.14,23.9,lean,Kalshi / Underdog
+UTAH@MIN,MIN,Jonathan Kuminga,3PM,1.5,Less,0.596,1.22,26.9,lean,PrizePicks / Underdog
+UTAH@MIN,MIN,Rudy Gobert,RA,13.5,Less,0.589,12.23,29.8,card,PrizePicks / Underdog
+UTAH@MIN,MIN,LaMelo Ball,3PM,3.5,More,0.56,4.32,28.4,lean,PrizePicks / Underdog
+UTAH@MIN,UTAH,Lauri Markkanen,3PM,2.5,Less,0.614,1.91,31.6,card,Kalshi / Underdog
+UTAH@MIN,UTAH,Keyonte George,3PM,2.5,Less,0.612,1.95,34.1,card,Kalshi / Underdog
+UTAH@MIN,UTAH,Ace Bailey,AST,1.5,More,0.562,2.16,31.5,lean,Kalshi / Underdog
 BKN@DAL,BKN,Michael Porter Jr,AST,1.5,More,0.661,3.03,35.1,card,Kalshi / Underdog
 BKN@DAL,BKN,Day'Ron Sharpe,RA,11.5,Less,0.592,10.3,25.0,card,PrizePicks / Underdog
 BKN@DAL,BKN,Julius Randle,AST,4.5,More,0.558,5.36,35.4,lean,PrizePicks / Underdog
-BOS@MIL,BOS,Jayson Tatum,3PM,2.5,More,0.586,3.52,33.9,card,PrizePicks / Underdog
-BOS@MIL,BOS,Jordan Walsh,RA,4.5,Less,0.565,4.11,17.7,lean,Kalshi / Underdog
-BOS@MIL,BOS,Mitchell Robinson,PTS,5.5,Less,0.55,5.25,17.2,lean,PrizePicks / Underdog
-BOS@MIL,BOS,Paul George,RA,8.5,Less,0.533,8.26,30.7,lean,PrizePicks / Underdog
+BOS@MIL,BOS,Jayson Tatum,3PM,2.5,More,0.586,3.53,34.0,card,PrizePicks / Underdog
+BOS@MIL,BOS,Jordan Walsh,RA,4.5,Less,0.561,4.14,17.7,lean,Kalshi / Underdog
+BOS@MIL,BOS,Mitchell Robinson,PTS,5.5,Less,0.552,5.21,17.3,lean,PrizePicks / Underdog
+BOS@MIL,BOS,Paul George,RA,8.5,Less,0.534,8.26,30.6,lean,PrizePicks / Underdog
 BKN@DAL,DAL,Naji Marshall,AST,3.5,Less,0.635,2.6,21.4,card,Kalshi / Underdog
 BKN@DAL,DAL,Daniel Gafford,AST,1.5,Less,0.628,1.07,20.1,card,Kalshi / Underdog
 BKN@DAL,DAL,P.J. Washington,PR,20.5,Less,0.532,20.1,29.7,lean,PrizePicks / Underdog
@@ -29,12 +35,9 @@ MIA@SAC,MIA,Klay Thompson,RA,4.5,Less,0.615,3.62,22.8,lean,PrizePicks / Underdog
 MIA@SAC,MIA,Bobby Portis,PA,9.5,More,0.554,11.96,20.1,lean,Kalshi / Underdog
 MIA@SAC,MIA,Pelle Larsson,PA,15.5,Less,0.55,14.78,29.3,lean,PrizePicks / Underdog
 BOS@MIL,MIL,Jaime Jaquez Jr,3PM,1.5,Less,0.653,0.93,27.9,lean,Kalshi / Underdog
-BOS@MIL,MIL,Kyle Kuzma,RA,7.5,Less,0.616,6.26,25.3,card,PrizePicks / Underdog
-BOS@MIL,MIL,Tyler Herro,PTS,20.5,Less,0.563,19.0,32.4,lean,PrizePicks / Underdog
-BOS@MIL,MIL,Myles Turner,PTS,9.5,More,0.537,11.26,27.3,lean,PrizePicks / Underdog
-UTAH@MIN,MIN,Jonathan Kuminga,3PM,1.5,Less,0.596,1.22,26.9,lean,PrizePicks / Underdog
-UTAH@MIN,MIN,Rudy Gobert,RA,13.5,Less,0.589,12.23,29.8,card,PrizePicks / Underdog
-UTAH@MIN,MIN,LaMelo Ball,3PM,3.5,More,0.56,4.32,28.4,lean,PrizePicks / Underdog
+BOS@MIL,MIL,Kyle Kuzma,RA,7.5,Less,0.615,6.28,25.3,card,PrizePicks / Underdog
+BOS@MIL,MIL,Tyler Herro,PTS,20.5,Less,0.562,19.02,32.5,lean,PrizePicks / Underdog
+BOS@MIL,MIL,Myles Turner,PTS,9.5,More,0.535,11.23,27.3,lean,PrizePicks / Underdog
 NO@LAC,NO,Jeremiah Fears,3PM,1.5,Less,0.571,1.38,27.3,lean,Kalshi / Underdog
 NO@LAC,NO,Zion Williamson,PR,26.5,Less,0.541,25.59,31.3,lean,PrizePicks / Underdog
 NO@LAC,NO,Trey Murphy III,PRA,23.5,Less,0.534,23.01,30.3,lean,PrizePicks / Underdog
@@ -43,6 +46,3 @@ MIA@SAC,SAC,De'Andre Hunter,REB,4.5,Less,0.613,3.67,26.5,card,PrizePicks / Under
 MIA@SAC,SAC,Domantas Sabonis,REB,12.5,Less,0.599,11.05,32.2,card,PrizePicks / Underdog
 MIA@SAC,SAC,Zach LaVine,AST,2.5,More,0.595,3.59,33.4,card,PrizePicks / Underdog
 MIA@SAC,SAC,Malik Monk,PR,11.5,Less,0.559,10.66,17.4,lean,Kalshi / Underdog
-UTAH@MIN,UTAH,Lauri Markkanen,3PM,2.5,Less,0.614,1.91,31.6,card,Kalshi / Underdog
-UTAH@MIN,UTAH,Keyonte George,3PM,2.5,Less,0.612,1.95,34.1,card,Kalshi / Underdog
-UTAH@MIN,UTAH,Ace Bailey,AST,1.5,More,0.562,2.16,31.5,lean,Kalshi / Underdog

@@ -1,93 +1,75 @@
 {
  "games": [
   {
-   "away": "PHI",
-   "home": "CHI",
-   "id": "a5d2d9c68b7446860de658aa4bc33c5b",
-   "commence": "2026-11-08T20:40:00Z",
-   "home_spread": 5.5,
-   "spread_odds": [
-    105,
-    -135
-   ],
-   "ml_home": 2162,
-   "ml_away": -7500,
-   "total": 249.5,
-   "total_odds": [
-    -130,
-    -1
-   ]
-  },
-  {
    "away": "LAL",
    "home": "DET",
    "id": "182e2b5349fa0ff4ad3c0e8359c1a9a0",
-   "commence": "2026-11-08T23:10:00Z",
-   "home_spread": -7.5,
+   "commence": "2026-11-08T23:11:00Z",
+   "home_spread": 3.75,
    "spread_odds": [
-    -109,
-    -111
+    -120,
+    -112
    ],
-   "ml_home": -275,
-   "ml_away": 225,
-   "total": 216.5,
+   "ml_home": 245,
+   "ml_away": -338,
+   "total": 218.0,
    "total_odds": [
-    -110,
-    -110
+    -115,
+    -115
    ]
   },
   {
    "away": "UTAH",
    "home": "MIN",
    "id": "758ca94b2abd151c0593b182254dab32",
-   "commence": "2026-11-09T00:10:00Z",
-   "home_spread": -11.5,
+   "commence": "2026-11-09T00:11:00Z",
+   "home_spread": -12.5,
    "spread_odds": [
-    -115,
-    -105
-   ],
-   "ml_home": -625,
-   "ml_away": 440,
-   "total": 222.5,
-   "total_odds": [
     -110,
-    -110
+    -119
+   ],
+   "ml_home": -1000,
+   "ml_away": 575,
+   "total": 221.5,
+   "total_odds": [
+    -114,
+    -114
    ]
   },
   {
    "away": "BKN",
    "home": "DAL",
    "id": "c5b6599e8e4949749798dcdadceb68d4",
-   "commence": "2026-11-09T00:40:00Z",
-   "home_spread": -7.5,
+   "commence": "2026-11-09T00:41:00Z",
+   "home_spread": -17.5,
    "spread_odds": [
-    -110,
-    -110
+    -113,
+    -114
    ],
-   "ml_home": -300,
-   "ml_away": 245,
-   "total": 223.5,
+   "ml_home": -2250,
+   "ml_away": 950,
+   "total": 232.5,
    "total_odds": [
-    -110,
-    -110
+    -118,
+    -111
    ]
   },
   {
    "away": "BOS",
    "home": "MIL",
    "id": "98eae523edadc7d4d42ab37222eb2c88",
-   "commence": "2026-11-09T01:10:00Z",
-   "home_spread": 13.0,
+   "commence": "2026-11-09T01:12:00Z",
+   "home_spread": 7.5,
    "spread_odds": [
     -110,
-    -110
+    -120
    ],
-   "ml_home": 525,
-   "ml_away": -750,
-   "total": 222.0,
+   "ml_home": 230,
+   "ml_away": -310,
+   "total": 224.5,
    "total_odds": [
-    -109,
-    -110
+    -115,
+    -115
    ]
   },
   {
@@ -113,17 +95,35 @@
    "home": "SAC",
    "id": "7ea5547b35ef782963e4f384d3414dfa",
    "commence": "2026-11-09T02:10:00Z",
-   "home_spread": 10.0,
+   "home_spread": 11.5,
    "spread_odds": [
     -110,
-    -110
+    -112
    ],
-   "ml_home": 334,
-   "ml_away": -440,
-   "total": 237.0,
+   "ml_home": 420,
+   "ml_away": -575,
+   "total": 236.0,
    "total_odds": [
     -110,
     -110
+   ]
+  },
+  {
+   "away": "PHI",
+   "home": "CHI",
+   "id": "a5d2d9c68b7446860de658aa4bc33c5b",
+   "commence": "2026-11-08T20:40:00Z",
+   "home_spread": 5.5,
+   "spread_odds": [
+    105,
+    -135
+   ],
+   "ml_home": 2162,
+   "ml_away": -7500,
+   "total": 249.5,
+   "total_odds": [
+    -130,
+    -1
    ]
   }
  ]

@@ -1,8 +1,4 @@
 game,team,kind,note
-PHI@CHI,PHI,watch,"PHI offense often stuck late in the clock (40.4% of shots, #3)"
-PHI@CHI,CHI,edge,"CHI offense top-8 in rim shots (34.2%, #4) vs PHI D that allows #5"
-PHI@CHI,CHI,clash,CHI leans on spot-up 3s (#2) but PHI D takes it away (#26 allowed)
-PHI@CHI,CHI,edge,"CHI offense top-8 in transition (11.3%, #5) vs PHI D that allows #4"
 LAL@DET,LAL,edge,"LAL offense top-8 in transition (11.5%, #4) vs DET D that allows #8"
 LAL@DET,LAL,watch,"LAL offense often stuck late in the clock (38.6% of shots, #5)"
 LAL@DET,DET,watch,"DET offense often stuck late in the clock (36.1% of shots, #8)"
@@ -13,3 +9,7 @@ NO@LAC,NO,edge,"NO offense top-8 in rim shots (45.2%, #1) vs LAC D that allows #
 NO@LAC,NO,edge,"NO offense top-8 in transition (11.3%, #6) vs LAC D that allows #7"
 MIA@SAC,MIA,edge,"MIA offense top-8 in rim shots (33.4%, #7) vs SAC D that allows #7"
 MIA@SAC,MIA,edge,"MIA offense top-8 in transition (11.2%, #7) vs SAC D that allows #1"
+PHI@CHI,PHI,watch,"PHI offense often stuck late in the clock (40.4% of shots, #3)"
+PHI@CHI,CHI,edge,"CHI offense top-8 in rim shots (34.2%, #4) vs PHI D that allows #5"
+PHI@CHI,CHI,clash,CHI leans on spot-up 3s (#2) but PHI D takes it away (#26 allowed)
+PHI@CHI,CHI,edge,"CHI offense top-8 in transition (11.3%, #5) vs PHI D that allows #4"
