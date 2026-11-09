@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-08T23:22:35.083776+00:00",
+ "checked": "2026-11-09T00:22:27.934032+00:00",
  "games": {
   "PHI@CHI": [
    {
@@ -67,6 +67,12 @@
     "note": "DiVincenzo (Achilles) remains confident that he'll return during the 2026-27 season, Jon Krawczynski of The Athletic reports."
    },
    {
+    "player": "Lauri Markkanen",
+    "team": "UTAH",
+    "status": "Out",
+    "note": "Markkanen (wrist) is out for Sunday's game against the Timberwolves, Shreyas Laddha of The Salt Lake Tribune reports."
+   },
+   {
     "player": "Jusuf Nurkic",
     "team": "UTAH",
     "status": "Out",
@@ -127,8 +133,8 @@
    {
     "player": "Gary Trent Jr.",
     "team": "MIL",
-    "status": "Day-To-Day",
-    "note": "Trent (illness) has been downgraded to questionable for Sunday's game against Boston."
+    "status": "Out",
+    "note": "Trent (illness) won't play in Sunday's game versus the Celtics."
    }
   ],
   "NO@LAC": [

@@ -5,6 +5,13 @@ PHI@CHI,PHI,Dean Wade,AST,1.5,Less,0.639,1.02,20.2,lean,Kalshi / Underdog
 PHI@CHI,PHI,Tyrese Maxey,REB,3.5,More,0.586,4.62,38.1,card,PrizePicks / Underdog
 PHI@CHI,PHI,Jaylen Brown,REB,6.5,More,0.541,7.25,32.5,lean,PrizePicks / Underdog
 PHI@CHI,PHI,VJ Edgecombe,PA,16.5,Less,0.537,16.06,32.5,lean,PrizePicks / Underdog
+LAL@DET,DET,Daniss Jenkins,3PM,1.5,Less,0.655,0.91,22.3,card,Kalshi / Underdog
+LAL@DET,DET,Cade Cunningham,3PM,2.5,Less,0.633,1.8,34.6,card,Kalshi / Underdog
+LAL@DET,DET,John Collins,PTS,11.5,More,0.516,12.67,26.7,lean,PrizePicks / Underdog
+LAL@DET,LAL,Collin Sexton,REB,2.5,Less,0.655,1.65,19.5,lean,Kalshi / Underdog
+LAL@DET,LAL,Ziaire Williams,RA,4.5,Less,0.636,3.44,22.5,lean,Kalshi / Underdog
+LAL@DET,LAL,Walker Kessler,AST,1.5,More,0.585,2.28,35.2,lean,Kalshi / Underdog
+LAL@DET,LAL,Sandro Mamukelashvili,PA,11.5,More,0.534,13.14,23.9,lean,Kalshi / Underdog
 BKN@DAL,BKN,Michael Porter Jr,AST,1.5,More,0.661,3.03,35.1,card,Kalshi / Underdog
 BKN@DAL,BKN,Day'Ron Sharpe,RA,11.5,Less,0.592,10.3,25.0,card,PrizePicks / Underdog
 BKN@DAL,BKN,Julius Randle,AST,4.5,More,0.558,5.36,35.4,lean,PrizePicks / Underdog
@@ -15,15 +22,8 @@ BOS@MIL,BOS,Paul George,RA,8.5,Less,0.533,8.26,30.7,lean,PrizePicks / Underdog
 BKN@DAL,DAL,Naji Marshall,AST,3.5,Less,0.635,2.6,21.4,card,Kalshi / Underdog
 BKN@DAL,DAL,Daniel Gafford,AST,1.5,Less,0.628,1.07,20.1,card,Kalshi / Underdog
 BKN@DAL,DAL,P.J. Washington,PR,20.5,Less,0.532,20.1,29.7,lean,PrizePicks / Underdog
-LAL@DET,DET,Daniss Jenkins,3PM,1.5,Less,0.655,0.91,22.3,card,Kalshi / Underdog
-LAL@DET,DET,Cade Cunningham,3PM,2.5,Less,0.633,1.8,34.6,card,Kalshi / Underdog
-LAL@DET,DET,John Collins,PTS,11.5,More,0.516,12.67,26.7,lean,PrizePicks / Underdog
 NO@LAC,LAC,Kris Dunn,3PM,1.5,Less,0.628,1.06,32.2,card,Kalshi / Underdog
 NO@LAC,LAC,Brook Lopez,PTS,12.5,Less,0.567,11.44,25.9,lean,PrizePicks / Underdog
-LAL@DET,LAL,Collin Sexton,REB,2.5,Less,0.655,1.65,19.5,lean,Kalshi / Underdog
-LAL@DET,LAL,Ziaire Williams,RA,4.5,Less,0.636,3.44,22.5,lean,Kalshi / Underdog
-LAL@DET,LAL,Walker Kessler,AST,1.5,More,0.585,2.28,35.2,lean,Kalshi / Underdog
-LAL@DET,LAL,Sandro Mamukelashvili,PA,11.5,More,0.534,13.14,23.9,lean,Kalshi / Underdog
 MIA@SAC,MIA,Giannis Antetokounmpo,REB,12.5,Less,0.628,10.6,33.5,lean,PrizePicks / Underdog
 MIA@SAC,MIA,Klay Thompson,RA,4.5,Less,0.615,3.62,22.8,lean,PrizePicks / Underdog
 MIA@SAC,MIA,Bobby Portis,PA,9.5,More,0.554,11.96,20.1,lean,Kalshi / Underdog
