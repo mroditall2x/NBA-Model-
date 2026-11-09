@@ -1,0 +1,12 @@
+game,team,player,stat,tier,line,side,p,price,ev,top,mean,lo,hi,min,gap,where,actual,result,group
+LAL@DET,DET,Daniss Jenkins,3PM,standard,1.5,Less,0.6548,-204,-0.024,True,0.91,0,2,22.3,-1.6,Kalshi / Underdog,8.0,Loss,other
+LAL@DET,DET,Cade Cunningham,3PM,standard,2.5,Less,0.6325999999999999,-145,0.069,True,1.8,0,3,34.6,-0.8,Kalshi / Underdog,1.0,Win,other
+UTAH@MIN,UTAH,Lauri Markkanen,3PM,standard,2.5,Less,0.614,119,0.345,False,1.91,0,3,31.6,0.1,Kalshi / Underdog,,DNP,other
+UTAH@MIN,UTAH,Keyonte George,3PM,standard,2.5,Less,0.6122000000000001,-180,-0.048,False,1.95,1,3,34.1,-0.1,Kalshi / Underdog,0.0,Win,other
+BKN@DAL,BKN,Michael Porter Jr,AST,standard,1.5,More,0.6614,-186,0.017,True,3.03,1,5,35.1,-0.3,Kalshi / Underdog,0.0,Loss,reb/ast
+BKN@DAL,DAL,Naji Marshall,AST,standard,3.5,Less,0.635,-164,0.022,True,2.6,1,4,21.4,1.8,Kalshi / Underdog,2.0,Win,reb/ast
+BKN@DAL,DAL,Daniel Gafford,AST,standard,1.5,Less,0.6284,-130,0.112,False,1.07,0,2,20.1,-1.5,Kalshi / Underdog,2.0,Loss,reb/ast
+BOS@MIL,MIL,Kyle Kuzma,RA,standard,7.5,Less,0.6145999999999999,-143,0.044,False,6.28,4,9,25.3,-2.6,PrizePicks / Underdog,4.0,Win,reb/ast
+BOS@MIL,MIL,Myles Turner,RA,standard,7.5,Less,0.608,-138,0.049,False,6.32,4,9,27.3,-0.1,PrizePicks / Underdog,12.0,Loss,reb/ast
+BOS@MIL,MIL,Myles Turner,AST,standard,1.5,Less,0.6008,-108,0.157,False,1.21,0,2,27.3,-0.1,PrizePicks / Underdog,7.0,Loss,reb/ast
+NO@LAC,LAC,Kris Dunn,3PM,standard,1.5,Less,0.6284,-218,-0.083,True,1.06,0,2,32.2,-1.4,Kalshi / Underdog,2.0,Loss,other
