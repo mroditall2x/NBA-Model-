@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-09T18:22:30.139756+00:00",
+ "checked": "2026-11-09T19:22:32.768684+00:00",
  "games": {
   "LAL@ATL": [
    {
@@ -97,16 +97,22 @@
   ],
   "WSH@DET": [
    {
+    "player": "Isaiah Joe",
+    "team": "DET",
+    "status": "Out",
+    "note": "Joe (hip) is out for Monday against the Wizards."
+   },
+   {
     "player": "Jalen Duren",
     "team": "DET",
     "status": "Out",
     "note": "Duren (hamstring) has begun on-court activity and will be re-evaluated in two weeks, Hunter Patterson of The Athletic reports."
    },
    {
-    "player": "Isaiah Joe",
-    "team": "DET",
-    "status": "Out",
-    "note": "Joe (hip) has been ruled out for Sunday's game against the Lakers."
+    "player": "Bilal Coulibaly",
+    "team": "WSH",
+    "status": "Day-To-Day",
+    "note": "Coulibaly (hand) is listed as questionable for Monday's game against Detroit."
    },
    {
     "player": "Tristan Vukcevic",
@@ -159,6 +165,12 @@
     "note": "Saunders signed a two-way contract with the Grizzlies on Saturday, Shams Charania of ESPN reports."
    },
    {
+    "player": "Collin Murray-Boyles",
+    "team": "TOR",
+    "status": "Day-To-Day",
+    "note": "Murray-Boyles (illness) is questionable for Monday's game versus Memphis, per Josh Lewenberg of TSN.ca."
+   },
+   {
     "player": "Nate Bittle",
     "team": "TOR",
     "status": "Out",
@@ -184,6 +196,12 @@
    }
   ],
   "IND@DAL": [
+   {
+    "player": "Morez Johnson Jr.",
+    "team": "DAL",
+    "status": "Day-To-Day",
+    "note": "Johnson (leg) is questionable for Monday's game against Indiana."
+   },
    {
     "player": "Sergio de Larrea",
     "team": "DAL",
@@ -303,16 +321,16 @@
     "note": "Williams underwent surgery Thursday to repair a torn labrum in his left shoulder and will miss an extended period of time, Shams Charania of ESPN reports."
    },
    {
+    "player": "Devin Vassell",
+    "team": "SA",
+    "status": "Out",
+    "note": "Vassell (groin) is out for Monday's game against the Suns, Tom Orsborn of the San Antonio Express-News reports."
+   },
+   {
     "player": "Tobias Harris",
     "team": "SA",
     "status": "Out",
     "note": "Harris (calf) is listed as out for Monday's game against Phoenix."
-   },
-   {
-    "player": "Devin Vassell",
-    "team": "SA",
-    "status": "Day-To-Day",
-    "note": "Vassell is questionable for Monday's game against the Suns due to left adductor tightness."
    },
    {
     "player": "Jayden Quaintance",
