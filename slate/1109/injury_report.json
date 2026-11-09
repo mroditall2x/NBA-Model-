@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-09T21:22:30.124996+00:00",
+ "checked": "2026-11-09T22:22:25.622155+00:00",
  "games": {
   "LAL@ATL": [
    {
@@ -13,12 +13,6 @@
     "team": "ATL",
     "status": "Out",
     "note": "Gilbert (knee) has been ruled out for Monday's game against the Lakers."
-   },
-   {
-    "player": "Jock Landale",
-    "team": "ATL",
-    "status": "Out",
-    "note": "Landale (hip) is listed as questionable for Monday's game against the Lakers."
    },
    {
     "player": "Mouhamed Gueye",
@@ -375,6 +369,12 @@
     "team": "GS",
     "status": "Out",
     "note": "Butler (knee) could return sometime between January and February as he continues recovering from a torn right ACL, Anthony Slater of ESPN reports."
+   },
+   {
+    "player": "Zion Williamson",
+    "team": "NO",
+    "status": "Out",
+    "note": "Williamson (rest) is out for Monday's game against the Warriors."
    },
    {
     "player": "Trendon Watford",
