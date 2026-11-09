@@ -1,38 +1,6 @@
 {
- "checked": "2026-11-09T01:22:26.624974+00:00",
+ "checked": "2026-11-09T02:22:28.808545+00:00",
  "games": {
-  "PHI@CHI": [
-   {
-    "player": "Norman Powell",
-    "team": "CHI",
-    "status": "Out",
-    "note": "Powell (shoulder) has been ruled out for Sunday's game against the 76ers, Adam Aaronson of PhillyVoice.com reports."
-   },
-   {
-    "player": "Zach Collins",
-    "team": "CHI",
-    "status": "Out",
-    "note": "Collins (illness) is out for Sunday's game against Philadelphia."
-   },
-   {
-    "player": "Adem Bona",
-    "team": "PHI",
-    "status": "Out",
-    "note": "Bona (back) is out for Sunday's game in Chicago."
-   },
-   {
-    "player": "Dominick Barlow",
-    "team": "PHI",
-    "status": "Out",
-    "note": "Head coach Nick Nurse said Wednesday that Barlow (back) likely needs another 10-12 days before he's cleared to return to the court, Derek Bodner of AllPHLY.com reports."
-   },
-   {
-    "player": "Ariel Hukporti",
-    "team": "PHI",
-    "status": "Out",
-    "note": "Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania of ESPN."
-   }
-  ],
   "LAL@DET": [
    {
     "player": "Jalen Duren",
@@ -50,7 +18,7 @@
     "player": "Quentin Grimes",
     "team": "LAL",
     "status": "Day-To-Day",
-    "note": "Grimes will start in Sunday's game against the Pistons."
+    "note": "Grimes (finger) did not return to Sunday's game against the Pistons."
    },
    {
     "player": "Luka Doncic",
@@ -193,6 +161,38 @@
     "team": "SAC",
     "status": "Out",
     "note": "Simmons underwent successful surgery Tuesday to repair a torn right Achilles tendon, James Ham of ESPN 1320 Sacramento reports."
+   }
+  ],
+  "PHI@CHI": [
+   {
+    "player": "Norman Powell",
+    "team": "CHI",
+    "status": "Out",
+    "note": "Powell (shoulder) has been ruled out for Sunday's game against the 76ers, Adam Aaronson of PhillyVoice.com reports."
+   },
+   {
+    "player": "Zach Collins",
+    "team": "CHI",
+    "status": "Out",
+    "note": "Collins (illness) is out for Sunday's game against Philadelphia."
+   },
+   {
+    "player": "Adem Bona",
+    "team": "PHI",
+    "status": "Out",
+    "note": "Bona (back) is out for Sunday's game in Chicago."
+   },
+   {
+    "player": "Dominick Barlow",
+    "team": "PHI",
+    "status": "Out",
+    "note": "Head coach Nick Nurse said Wednesday that Barlow (back) likely needs another 10-12 days before he's cleared to return to the court, Derek Bodner of AllPHLY.com reports."
+   },
+   {
+    "player": "Ariel Hukporti",
+    "team": "PHI",
+    "status": "Out",
+    "note": "Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania of ESPN."
    }
   ]
  }
