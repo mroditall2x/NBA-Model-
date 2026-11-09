@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-09T19:22:32.768684+00:00",
+ "checked": "2026-11-09T20:22:30.752006+00:00",
  "games": {
   "LAL@ATL": [
    {
@@ -250,37 +250,37 @@
     "player": "Cameron Johnson",
     "team": "DEN",
     "status": "Day-To-Day",
-    "note": "Johnson (lower body) is questionable for Monday's game against Houston."
-   },
-   {
-    "player": "DeMar DeRozan",
-    "team": "DEN",
-    "status": "Day-To-Day",
-    "note": "DeRozan is questionable for Monday's game against the Rockets due to lower back spasms."
+    "note": "Johnson (ankle) is probable for Monday against Houston."
    },
    {
     "player": "Christian Braun",
     "team": "DEN",
     "status": "Day-To-Day",
-    "note": "Braun (calf/illness) is listed as questionable for Monday's game against Houston."
-   },
-   {
-    "player": "Jamal Murray",
-    "team": "DEN",
-    "status": "Day-To-Day",
-    "note": "Murray is questionable for Monday's game against the Rockets due to a left shin contusion."
+    "note": "Braun (left calf contusion/illness) is probable for Monday's matchup against the Rockets."
    },
    {
     "player": "Aaron Gordon",
     "team": "DEN",
     "status": "Day-To-Day",
-    "note": "Gordon (lower body injury management) is listed as questionable for Monday's game against the Rockets."
+    "note": "Gordon (left calf injury management) is probable for Monday's game against Houston."
    },
    {
     "player": "Nikola Jokic",
     "team": "DEN",
     "status": "Day-To-Day",
-    "note": "Jokic (elbow) is listed as questionable for Monday's game in Houston."
+    "note": "Jokic (right elbow sprain) is probable for Monday's game against the Rockets."
+   },
+   {
+    "player": "DeMar DeRozan",
+    "team": "DEN",
+    "status": "Day-To-Day",
+    "note": "DeRozan (back) is probable for Monday against Houston."
+   },
+   {
+    "player": "Jamal Murray",
+    "team": "DEN",
+    "status": "Day-To-Day",
+    "note": "Murray (leg) is probable for Monday against Houston."
    },
    {
     "player": "Julian Strawther",
@@ -340,6 +340,12 @@
    }
   ],
   "NO@GS": [
+   {
+    "player": "Gary Payton II",
+    "team": "GS",
+    "status": "Day-To-Day",
+    "note": "Payton (left knee soreness) is listed as questionable for Monday's game against New Orleans."
+   },
    {
     "player": "Will Richard",
     "team": "GS",
