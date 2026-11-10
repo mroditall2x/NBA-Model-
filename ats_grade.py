@@ -98,6 +98,9 @@ if __name__ == '__main__':
         T = teams(A); T.to_csv('ats_teams.csv', index=False)
         print(f"\n{len(A)} games {A.date.min()} to {A.date.max()} | favorites {(A.cover_home.where(A.home_spread<0,-A.cover_home)>0).mean():.0%} cover | overs {(A.ou=='over').mean():.0%}")
         M = A[A.model_ats.isin(['W', 'L'])]
+        dog = (M.model_side == 'home') == (M.home_spread > 0)     # model took the underdog
+        print(f"balance: model picked the underdog in {dog.mean():.0%} of games (aim ~50%) | "
+              f"fav picks {(M[~dog].model_ats=='W').sum()}-{(M[~dog].model_ats=='L').sum()} | dog picks {(M[dog].model_ats=='W').sum()}-{(M[dog].model_ats=='L').sum()}")
         for lab, x in (('model side, all', M), ('model side, 3+ pts off', M[M.model_edge.abs() >= 3]), ('model side, not skipped', M[M.skip_note.fillna('') == ''])):
             print(f"{lab}: {(x.model_ats=='W').sum()}-{(x.model_ats=='L').sum()}" + (f" ({(x.model_ats=='W').mean():.0%})" if len(x) else ''))
         print('\n' + T.to_string(index=False))
