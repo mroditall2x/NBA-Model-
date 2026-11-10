@@ -1,0 +1,68 @@
+date,game,home,away,home_score,away_score,open_spread,home_spread,cover_home,ats,open_total,total,final_total,ou,home_rest,away_rest,model_side,model_edge,model_ats,skip_note,src
+2026-10-28,CHA@DET,DET,CHA,97.0,89.0,,-7.5,0.5,home,,214.5,186.0,under,0,1,home,0.2,W,,hoopr
+2026-10-28,DEN@NO,NO,DEN,91.0,104.0,,4.5,-8.5,away,,240.5,195.0,under,3,1,home,0.9,L,,hoopr
+2026-10-28,GS@MIN,MIN,GS,114.0,119.0,,-3.5,-8.5,away,,227.5,233.0,over,1,1,home,1.7,L,,hoopr
+2026-10-28,HOU@MIL,MIL,HOU,100.0,132.0,,8.5,-23.5,away,,225.5,232.0,over,1,1,home,0.9,L,,hoopr
+2026-10-28,LAL@LAC,LAC,LAL,87.0,103.0,,4.5,-11.5,away,,228.5,190.0,under,2,0,home,5.5,L,skip: model >6 off market,hoopr
+2026-10-28,MIA@ATL,ATL,MIA,117.0,129.0,,-1.5,-13.5,away,,241.5,246.0,over,1,1,home,1.7,L,,hoopr
+2026-10-28,NY@CHI,CHI,NY,127.0,133.0,,6.5,0.5,home,,231.5,260.0,over,1,0,home,0.1,W,,hoopr
+2026-10-28,OKC@DAL,DAL,OKC,120.0,96.0,,6.5,30.5,home,,228.5,216.0,under,1,1,away,-3.2,L,,hoopr
+2026-10-28,ORL@TOR,TOR,ORL,129.0,99.0,,-4.5,25.5,home,,222.5,228.0,over,2,2,away,-0.2,L,,hoopr
+2026-10-28,PHI@IND,IND,PHI,109.0,114.0,,5.5,0.5,home,,235.5,223.0,under,1,2,home,2.0,W,,hoopr
+2026-10-28,SA@UTAH,UTAH,SA,111.0,117.0,,12.5,6.5,home,,234.5,228.0,under,1,0,home,3.0,W,skip: model >6 off market,hoopr
+2026-10-28,WSH@CLE,CLE,WSH,121.0,111.0,,-9.5,0.5,home,,239.5,232.0,under,1,1,home,7.8,W,skip: model >6 off market,hoopr
+2026-10-30,CHI@BOS,BOS,CHI,125.0,111.0,,-14.5,-0.5,away,,236.5,236.0,under,2,1,away,-3.6,W,skip: model >6 off market,hoopr
+2026-10-30,DEN@PHX,PHX,DEN,120.0,127.0,,4.5,-2.5,away,,231.5,247.0,over,3,1,home,4.4,L,,hoopr
+2026-10-30,HOU@DAL,DAL,HOU,116.0,111.0,,6.5,11.5,home,,224.5,227.0,over,1,1,home,0.4,W,,hoopr
+2026-10-30,LAC@MIN,MIN,LAC,127.0,101.0,,-6.5,19.5,home,,223.5,228.0,over,1,1,away,-4.1,L,,hoopr
+2026-10-31,ATL@NO,NO,ATL,121.0,99.0,-7.0,-7.0,15.0,home,226.5,226.5,220.0,under,1,1,away,-10.2,L,skip: model >6 off market,espn
+2026-10-31,CLE@MIL,MIL,CLE,111.0,136.0,8.5,8.5,-16.5,away,235.5,235.5,247.0,over,2,1,home,1.4,L,skip: model >6 off market,espn
+2026-10-31,MIN@SA,SA,MIN,121.0,111.0,-12.5,-12.5,-2.5,away,229.5,229.5,232.0,over,2,0,away,-5.4,W,,espn
+2026-10-31,OKC@HOU,HOU,OKC,119.0,98.0,-2.5,-2.5,18.5,home,219.5,219.5,217.0,under,0,2,away,-4.2,L,,espn
+2026-10-31,PHI@CHA,CHA,PHI,104.0,109.0,-5.5,-5.5,-10.5,away,209.5,209.5,213.0,over,0,0,away,-1.4,W,skip: model >6 off market,espn
+2026-10-31,SAC@MEM,MEM,SAC,136.0,105.0,-7.5,-7.5,23.5,home,228.5,228.5,241.0,over,1,1,away,-7.7,L,skip: model >6 off market,espn
+2026-11-01,LAC@GS,GS,LAC,124.0,112.0,-2.5,1.5,13.5,home,221.5,222.5,236.0,over,1,1,home,0.5,W,,espn
+2026-11-01,TOR@LAL,LAL,TOR,131.0,125.0,-3.0,-3.5,2.5,home,225.5,223.5,256.0,over,1,1,away,-2.6,L,,espn
+2026-11-02,MIA@LAL,LAL,MIA,138.0,117.0,-2.0,-11.5,9.5,home,236.5,270.0,255.0,under,0,2,away,-8.5,L,skip: model >6 off market,espn
+2026-11-02,PHX@GS,GS,PHX,116.0,113.0,-2.5,6.25,9.2,home,227.5,226.5,229.0,over,0,2,home,7.0,W,skip: model >6 off market,espn
+2026-11-02,POR@DEN,DEN,POR,110.0,118.0,-4.0,6.0,-2.0,away,231.5,228.0,228.0,push,2,1,home,7.3,L,skip: model >6 off market,espn
+2026-11-02,TOR@LAC,LAC,TOR,118.0,125.0,4.5,-1.5,-8.5,away,219.5,229.0,243.0,over,0,0,away,-0.5,W,skip: model >6 off market,espn
+2026-11-04,ATL@WSH,WSH,ATL,105.0,120.0,3.0,3.0,-12.0,away,232.5,231.0,225.0,under,1,1,away,-9.1,W,skip: model >6 off market,espn
+2026-11-04,CHA@BKN,BKN,CHA,114.0,104.0,3.5,3.5,13.5,home,213.0,213.5,218.0,over,1,1,away,-3.5,L,,espn
+2026-11-04,CHI@NY,NY,CHI,135.0,105.0,-12.5,-12.0,18.0,home,233.5,233.5,240.0,over,1,1,away,-1.6,L,,espn
+2026-11-04,CLE@OKC,OKC,CLE,124.0,116.0,-3.5,-3.5,4.5,home,227.0,226.5,240.0,over,1,1,home,1.1,W,,espn
+2026-11-04,DAL@SA,SA,DAL,112.0,111.0,-12.0,-12.5,-11.5,away,227.0,227.0,223.0,under,1,1,home,0.6,L,skip: model >6 off market,espn
+2026-11-04,IND@MEM,MEM,IND,103.0,107.0,-6.5,-6.0,-10.0,away,229.0,228.5,210.0,under,1,1,away,-2.7,W,skip: model >6 off market,espn
+2026-11-04,LAL@SAC,SAC,LAL,103.0,116.0,12.5,12.0,-1.0,away,234.5,233.5,219.0,under,1,1,home,8.5,L,skip: model >6 off market,espn
+2026-11-04,MIA@LAC,LAC,MIA,116.0,117.0,5.0,5.5,4.5,home,233.5,233.5,233.0,under,1,1,home,8.1,W,skip: model >6 off market,espn
+2026-11-04,MIL@BOS,BOS,MIL,109.0,102.0,-11.5,-11.5,-4.5,away,223.0,221.5,211.0,under,1,1,home,2.9,L,,espn
+2026-11-04,MIN@HOU,HOU,MIN,107.0,117.0,-7.5,-7.5,-17.5,away,220.5,219.5,224.0,over,1,1,away,-3.4,W,,espn
+2026-11-04,PHI@DET,DET,PHI,106.0,112.0,-2.5,-2.5,-8.5,away,219.0,219.5,218.0,under,1,1,home,6.0,L,skip: model >6 off market,espn
+2026-11-04,POR@PHX,PHX,POR,119.0,132.0,3.0,3.0,-10.0,away,228.0,227.5,251.0,over,1,1,home,2.8,L,,espn
+2026-11-04,TOR@DEN,DEN,TOR,128.0,109.0,-4.5,-4.5,14.5,home,230.5,231.5,237.0,over,1,1,away,-2.6,L,,espn
+2026-11-04,UTAH@NO,NO,UTAH,120.0,113.0,-6.0,-5.0,2.0,home,233.5,232.0,233.0,over,1,1,away,-1.9,L,skip: model >6 off market,espn
+2026-11-05,MIA@GS,GS,MIA,120.0,100.0,-7.5,-3.5,16.5,home,234.0,235.5,220.0,under,2,0,away,-3.6,L,,espn
+2026-11-05,ORL@PHX,PHX,ORL,117.0,104.0,-1.0,-1.5,11.5,home,223.0,222.5,221.0,under,0,2,away,-0.3,L,,espn
+2026-11-06,BOS@CHA,CHA,BOS,80.0,119.0,8.5,18.5,-20.5,away,208.0,212.5,199.0,under,1,1,home,18.4,L,skip: model >6 off market,espn
+2026-11-06,MIN@NO,NO,MIN,109.0,115.0,4.0,3.5,-2.5,away,230.5,230.5,224.0,under,1,1,home,0.5,L,,espn
+2026-11-06,OKC@MEM,MEM,OKC,97.0,128.0,4.0,4.0,-27.0,away,224.5,224.0,225.0,over,1,1,away,-5.6,W,skip: model >6 off market,espn
+2026-11-06,PHI@CLE,CLE,PHI,119.0,95.0,2.5,3.0,27.0,home,230.5,232.0,214.0,under,1,1,home,7.8,W,skip: model >6 off market,espn
+2026-11-06,POR@LAL,LAL,POR,124.0,118.0,-3.0,-3.0,3.0,home,231.5,231.5,242.0,over,1,1,away,-1.1,L,,espn
+2026-11-06,SA@SAC,SAC,SA,109.0,124.0,16.5,17.5,2.5,home,229.5,231.5,233.0,over,1,1,home,10.1,W,skip: model >6 off market,espn
+2026-11-06,TOR@MIL,MIL,TOR,107.0,121.0,6.5,3.5,-10.5,away,230.0,227.5,228.0,over,1,1,away,-3.7,W,,espn
+2026-11-06,UTAH@DAL,DAL,UTAH,112.0,100.0,-7.5,-6.5,5.5,home,226.5,225.5,212.0,under,1,1,away,-3.7,L,skip: model >6 off market,espn
+2026-11-06,WSH@ATL,ATL,WSH,139.0,132.0,-7.5,-12.5,-5.5,away,228.5,228.5,271.0,over,1,1,home,3.9,L,skip: model >6 off market,espn
+2026-11-07,BKN@ATL,ATL,BKN,124.0,121.0,-6.5,-6.5,-3.5,away,227.0,226.5,245.0,over,0,2,home,5.6,L,,espn
+2026-11-07,DEN@IND,IND,DEN,102.0,114.0,7.5,11.5,-0.5,away,229.0,218.5,216.0,under,2,2,home,5.6,L,skip: model >6 off market,espn
+2026-11-07,HOU@PHX,PHX,HOU,102.0,99.0,6.5,6.5,9.5,home,223.5,224.0,201.0,under,1,2,home,5.1,W,skip: model >6 off market,espn
+2026-11-07,NY@CLE,CLE,NY,97.0,109.0,5.0,5.0,-7.0,away,223.0,223.5,206.0,under,0,2,home,4.5,L,,espn
+2026-11-07,ORL@GS,GS,ORL,126.0,119.0,-5.5,-7.5,-0.5,away,222.5,219.5,245.0,over,1,1,away,-7.2,W,skip: model >6 off market,espn
+2026-11-07,SA@POR,POR,SA,103.0,125.0,5.5,5.5,-16.5,away,226.0,229.5,228.0,under,0,0,home,3.5,L,,espn
+2026-11-07,WSH@OKC,OKC,WSH,114.0,75.0,-12.0,-11.5,27.5,home,222.5,223.5,189.0,under,0,0,home,8.2,W,skip: model >6 off market,espn
+2026-11-08,BKN@DAL,DAL,BKN,130.0,93.0,-7.5,-17.5,19.5,home,222.5,232.5,223.0,under,1,0,away,-12.1,L,skip: model >6 off market,espn
+2026-11-08,BOS@MIL,MIL,BOS,97.0,117.0,13.0,7.5,-12.5,away,222.0,224.5,214.0,under,1,1,away,-1.9,W,,espn
+2026-11-08,LAL@DET,DET,LAL,116.0,121.0,-4.5,3.75,-1.2,away,221.5,218.0,237.0,over,3,1,home,10.8,L,skip: model >6 off market,espn
+2026-11-08,MIA@SAC,SAC,MIA,108.0,114.0,10.0,11.5,5.5,home,238.0,236.0,222.0,under,1,2,home,7.7,W,skip: model >6 off market,espn
+2026-11-08,NO@LAC,LAC,NO,139.0,123.0,1.5,1.5,17.5,home,227.0,226.5,262.0,over,3,1,home,8.2,W,skip: model >6 off market,espn
+2026-11-08,PHI@CHI,CHI,PHI,121.0,127.0,9.5,5.5,-0.5,away,237.5,249.5,248.0,under,3,1,home,3.2,L,skip: model >6 off market,espn
+2026-11-08,UTAH@MIN,MIN,UTAH,115.0,100.0,-11.5,-12.5,2.5,home,224.0,221.5,215.0,under,1,1,away,-3.1,L,skip: model >6 off market,espn

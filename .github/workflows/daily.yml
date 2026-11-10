@@ -37,10 +37,10 @@ jobs:
           echo "mmdd=${D:5:2}${D:8:2}" >> $GITHUB_OUTPUT
       - name: grade yesterday (8:30)
         if: (github.event.schedule == '34 14 * * *' || github.event.inputs.job == 'grade')
-        run: D=$(date -d yesterday +%F); python3 espn_box.py $D || true; python3 grade_day.py $D || true; python3 fb_grade.py $D || true
+        run: D=$(date -d yesterday +%F); python3 espn_box.py $D || true; python3 grade_day.py $D || true; python3 fb_grade.py $D || true; python3 ats_grade.py $D || true
       - name: grade only (manual / backup)
         if: github.event.inputs.grade_only == 'true'
-        run: D="${{ github.event.inputs.date }}"; D=${D:-$(date -d yesterday +%F)}; python3 espn_box.py $D || true; python3 grade_day.py $D; python3 fb_grade.py $D || true
+        run: D="${{ github.event.inputs.date }}"; D=${D:-$(date -d yesterday +%F)}; python3 espn_box.py $D || true; python3 grade_day.py $D; python3 fb_grade.py $D || true; python3 ats_grade.py $D || true
       - name: opening snapshot (11:00)
         if: (github.event.schedule == '7 17 * * *' || github.event.inputs.job == 'open')
         run: python3 fetch_lines.py ${{ steps.job.outputs.date }} --snap
@@ -78,6 +78,6 @@ jobs:
         if: always() && github.event.inputs.test != 'true'
         run: |
           git config user.name "nba-bot"; git config user.email "nba-bot@users.noreply.github.com"
-          touch early_log.csv; git add graded_log.csv fb_log.csv early_log.csv slate || true
+          touch early_log.csv; git add graded_log.csv fb_log.csv early_log.csv ats_log.csv ats_teams.csv slate || true
           git commit -m "nba run $(date '+%F %H:%M')" || echo "nothing to commit"
           git pull --rebase -q && git push
