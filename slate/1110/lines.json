@@ -7,12 +7,12 @@
    "commence": "2026-11-11T00:40:00Z",
    "home_spread": -15.5,
    "spread_odds": [
-    -108,
-    -110
+    -105,
+    -115
    ],
-   "ml_home": -1020,
-   "ml_away": 666,
-   "total": 221.0,
+   "ml_home": -1055,
+   "ml_away": 675,
+   "total": 222.0,
    "total_odds": [
     -110,
     -110
@@ -25,12 +25,12 @@
    "commence": "2026-11-11T01:10:00Z",
    "home_spread": 1.5,
    "spread_odds": [
-    -114,
-    -107
+    -106,
+    -114
    ],
-   "ml_home": -103,
-   "ml_away": -117,
-   "total": 217.25,
+   "ml_home": 100,
+   "ml_away": -120,
+   "total": 217.5,
    "total_odds": [
     -110,
     -110
@@ -44,7 +44,7 @@
    "home_spread": -3.5,
    "spread_odds": [
     -110,
-    -110
+    -108
    ],
    "ml_home": -165,
    "ml_away": 140,
@@ -59,17 +59,17 @@
    "home": "UTAH",
    "id": "9ac02cb22adf276b325b1e9c9c6c588e",
    "commence": "2026-11-11T02:10:00Z",
-   "home_spread": 8.5,
+   "home_spread": 9.5,
    "spread_odds": [
     -115,
-    -107
+    -105
    ],
-   "ml_home": 280,
-   "ml_away": -350,
-   "total": 228.5,
+   "ml_home": 325,
+   "ml_away": -425,
+   "total": 228.0,
    "total_odds": [
     -110,
-    -112
+    -110
    ]
   },
   {
@@ -79,11 +79,11 @@
    "commence": "2026-11-11T03:10:00Z",
    "home_spread": 6.0,
    "spread_odds": [
-    -110,
-    -110
+    -105,
+    -113
    ],
-   "ml_home": 190,
-   "ml_away": -230,
+   "ml_home": 192,
+   "ml_away": -235,
    "total": 223.0,
    "total_odds": [
     -110,
@@ -100,12 +100,12 @@
     -110,
     -110
    ],
-   "ml_home": 110,
-   "ml_away": -130,
-   "total": 224.5,
+   "ml_home": 114,
+   "ml_away": -132,
+   "total": 225.0,
    "total_odds": [
-    -106,
-    -113
+    -110,
+    -110
    ]
   }
  ]

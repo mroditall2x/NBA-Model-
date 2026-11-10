@@ -1,13 +1,13 @@
 game,team,player,combo,chance,fair_odds,min,min_bump,why,avg,size,special
-OKC@POR,OKC,Isaiah Hartenstein,10+ pts & 13+ reb,0.156,+543,29.7,-2.1,Jalen Williams out,11.1 reb / 3.7 ast / 9.8 pts,23,True
-MIA@UTAH,UTAH,Lauri Markkanen,25+ pts & 9+ reb,0.144,+594,33.2,0.9,Keyonte George out,7.2 reb / 2.2 ast / 22.3 pts,34,True
-BOS@PHI,PHI,Joel Embiid,20+ pts & 10+ reb,0.132,+657,29.7,3.7,+4 min,8.6 reb / 2.8 ast / 17.4 pts,30,True
-MIA@UTAH,UTAH,Jaxson Hayes,10+ pts & 8+ reb,0.129,+676,24.3,1.6,Keyonte George out,6.2 reb / 1.6 ast / 8.9 pts,18,True
-MIL@NY,MIL,Brayden Burries,15+ pts & 3+ ast,0.126,+697,24.5,6.1,+6 min,5.0 reb / 2.4 ast / 11.3 pts,18,True
-OKC@POR,POR,Damian Lillard,25+ pts & 6+ ast,0.119,+744,33.3,-3.0,Ja Morant out,3.9 reb / 4.9 ast / 20.4 pts,31,True
-MIA@UTAH,MIA,Davion Mitchell,15+ pts & 9+ ast,0.118,+748,35.3,5.0,+5 min,2.8 reb / 7.7 ast / 12.0 pts,24,True
-MIA@UTAH,UTAH,Ace Bailey,20+ pts & 3+ ast,0.118,+751,32.2,-3.2,Keyonte George out,6.0 reb / 2.4 ast / 15.2 pts,23,True
-MIL@NY,MIL,Brayden Burries,15+ pts & 6+ reb,0.118,+748,24.5,6.1,+6 min,5.0 reb / 2.4 ast / 11.3 pts,21,True
-MIA@UTAH,MIA,Pelle Larsson,15+ pts & 4+ ast,0.114,+776,30.0,3.6,+4 min,3.7 reb / 3.5 ast / 11.0 pts,19,True
-OKC@POR,POR,Toumani Camara,15+ pts & 6+ reb,0.112,+789,32.5,-0.1,Ja Morant out,4.6 reb / 1.6 ast / 12.7 pts,21,True
-OKC@POR,OKC,Shai Gilgeous-Alexander,40+ pts & 7+ ast,0.109,+815,37.5,-1.7,Jalen Williams out,4.4 reb / 6.3 ast / 33.0 pts,47,True
+OKC@POR,OKC,Isaiah Hartenstein,10+ pts & 13+ reb,0.149,+571,29.6,-2.3,Jalen Williams out,11.0 reb / 3.8 ast / 9.8 pts,23,True
+BOS@PHI,PHI,Joel Embiid,20+ pts & 10+ reb,0.131,+665,29.8,3.6,+4 min,8.6 reb / 2.8 ast / 17.5 pts,30,True
+MIL@NY,MIL,Brayden Burries,15+ pts & 3+ ast,0.126,+696,24.4,5.9,+6 min,5.0 reb / 2.4 ast / 11.4 pts,18,True
+MIA@UTAH,UTAH,Darryn Peterson,25+ pts & 6+ ast,0.121,+726,35.9,2.2,"Keyonte George, Lauri Markkanen out",4.7 reb / 5.2 ast / 19.5 pts,31,True
+MIL@NY,MIL,Brayden Burries,15+ pts & 6+ reb,0.121,+725,24.4,5.9,+6 min,5.0 reb / 2.4 ast / 11.4 pts,21,True
+OKC@POR,POR,Damian Lillard,25+ pts & 6+ ast,0.119,+740,33.2,-3.2,Ja Morant out,3.9 reb / 4.9 ast / 20.5 pts,31,True
+OKC@POR,POR,Toumani Camara,15+ pts & 6+ reb,0.11,+807,32.3,-0.4,Ja Morant out,4.5 reb / 1.6 ast / 12.7 pts,21,True
+MIA@UTAH,UTAH,Jaxson Hayes,15+ pts & 2+ ast,0.11,+811,26.4,2.1,"Keyonte George, Lauri Markkanen out",6.6 reb / 1.7 ast / 10.5 pts,17,True
+MIA@UTAH,MIA,Davion Mitchell,15+ pts & 9+ ast,0.11,+808,34.6,3.3,+3 min,2.7 reb / 7.6 ast / 11.9 pts,24,True
+OKC@POR,OKC,Shai Gilgeous-Alexander,40+ pts & 5+ reb,0.104,+862,37.6,-1.6,Jalen Williams out,4.4 reb / 6.3 ast / 33.0 pts,45,True
+MIA@UTAH,MIA,Klay Thompson,20+ pts & 2+ ast,0.102,+879,24.4,3.6,+4 min,2.2 reb / 1.8 ast / 13.1 pts,22,True
+ORL@SAC,ORL,Anthony Black,20+ pts & 5+ ast,0.101,+886,28.5,7.3,+7 min,4.1 reb / 4.2 ast / 14.4 pts,25,True
