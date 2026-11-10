@@ -1,11 +1,11 @@
-game,team,player,stat,tier,line,side,p,price,ev,top,mean,lo,hi,min,gap,where,line_open,line_now,move,line_move,keep
-ORL@SAC,ORL,Jamal Cain,3PM,standard,1.5,Less,0.6344,-185,-0.023,True,1.04,0,2,17.6,1.5,Kalshi / Underdog,,,,,True
-ORL@SAC,ORL,Desmond Bane,3PM,standard,3.5,Less,0.632,-169,0.006,True,2.59,1,4,33.4,0.5,Kalshi / Underdog,,,,,True
-LAC@PHX,PHX,Dillon Brooks,AST,standard,2.5,Less,0.6224,-188,-0.047,True,1.9,1,3,31.7,-1.6,Kalshi / Underdog,2.5,2.5,0.0,,True
-MIL@NY,MIL,Jaime Jaquez Jr,3PM,standard,1.5,Less,0.6175999999999999,-196,-0.067,True,1.12,0,2,28.3,1.6,Kalshi / Underdog,,,,,True
-OKC@POR,OKC,Alex Caruso,3PM,standard,1.5,Less,0.6116,-217,-0.107,True,1.15,0,2,19.0,-0.6,Kalshi / Underdog,,,,,True
-ORL@SAC,ORL,Jase Richardson,3PM,standard,1.5,Less,0.6086,-199,-0.086,False,1.17,0,2,23.5,1.2,Kalshi / Underdog,,,,,True
-LAC@PHX,PHX,Devin Booker,AST,standard,4.5,More,0.6014,-150,0.002,False,5.8,4,8,35.4,-1.4,PrizePicks / Underdog,4.5,4.5,0.0,,True
-ORL@SAC,SAC,Domantas Sabonis,RA,standard,18.5,Less,0.6002000000000001,-119,0.105,False,16.62,12,21,31.1,0.8,PrizePicks / Underdog,18.5,18.5,0.0,,True
-ORL@SAC,ORL,Jamal Cain,RA,standard,4.5,Less,0.5996,109,0.253,False,3.75,2,6,17.6,1.5,Kalshi / Underdog,4.5,4.5,0.0,,True
-ORL@SAC,ORL,Jamal Cain,REB,standard,3.5,Less,0.593,-114,0.113,False,2.96,1,5,17.6,1.5,PrizePicks / Underdog,3.5,3.5,0.0,,True
+game,team,player,stat,tier,line,side,p,price,ev,top,mean,lo,hi,min,gap,where
+ORL@SAC,ORL,Jamal Cain,3PM,standard,1.5,Less,0.6344,-185,-0.023,True,1.04,0,2,17.6,1.5,Kalshi / Underdog
+ORL@SAC,ORL,Desmond Bane,3PM,standard,3.5,Less,0.632,-169,0.006,True,2.59,1,4,33.4,0.5,Kalshi / Underdog
+LAC@PHX,PHX,Dillon Brooks,AST,standard,2.5,Less,0.6224,-188,-0.047,True,1.9,1,3,31.7,-1.6,Kalshi / Underdog
+MIL@NY,MIL,Jaime Jaquez Jr,3PM,standard,1.5,Less,0.6175999999999999,-196,-0.067,True,1.12,0,2,28.3,1.6,Kalshi / Underdog
+OKC@POR,OKC,Alex Caruso,3PM,standard,1.5,Less,0.6116,-217,-0.107,True,1.15,0,2,19.0,-0.6,Kalshi / Underdog
+ORL@SAC,ORL,Jase Richardson,3PM,standard,1.5,Less,0.6086,-199,-0.086,False,1.17,0,2,23.5,1.2,Kalshi / Underdog
+LAC@PHX,PHX,Devin Booker,AST,standard,4.5,More,0.6014,-150,0.002,False,5.8,4,8,35.4,-1.4,PrizePicks / Underdog
+ORL@SAC,SAC,Domantas Sabonis,RA,standard,18.5,Less,0.6002000000000001,-119,0.105,False,16.62,12,21,31.1,0.8,PrizePicks / Underdog
+ORL@SAC,ORL,Jamal Cain,RA,standard,4.5,Less,0.5996,109,0.253,False,3.75,2,6,17.6,1.5,Kalshi / Underdog
+ORL@SAC,ORL,Jamal Cain,REB,standard,3.5,Less,0.593,-114,0.113,False,2.96,1,5,17.6,1.5,PrizePicks / Underdog
