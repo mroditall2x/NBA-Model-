@@ -18,7 +18,7 @@ import pandas as pd
 
 ROOT = os.environ.get('NBA_DATA', '/home/claude/nba/repo/nba')
 TEAM_HL, PLAYER_HL, MIN_HL = 25, 30, 6          # half-lives in games
-SEASON_DISC = 0.7                               # weight multiplier for prior-season games
+SEASON_DISC = 0.4                               # weight multiplier for prior-season games (0.7 -> 0.4 on 11/10: replay 10/28-11/08)
 TEAM_K, P2_K, P3_K, FT_K = 8, 100, 150, 40
 RATE_K = float(os.environ.get('RATE_K', 60))
 USAGE_POW = float(os.environ.get('USAGE_POW', 1.1))

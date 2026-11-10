@@ -39,6 +39,8 @@ B=pd.read_csv(f'{D}/board_all.csv'); B['flags']=B['flags'].fillna('')
 B['adj']=0.5+0.6*(B.model-0.5)                       # calibration shrink (k=0.6)
 ok=(B['gap'].abs()<=4)&~B['flags'].str.contains('new team|small|unclear')
 ok&=~((B.side=='Less')&(B['gap']>2))&~((B.side=='More')&(B['gap']<-2))
+# role change (card_slate flag, added 11/10): no Unders when this season's last 8 run 25%+ above the model, no Overs when 25%+ below
+ok&=~((B.side=='Less')&B['flags'].str.contains('role up'))&~((B.side=='More')&B['flags'].str.contains('role down'))
 std=B[ok&B.type.isin(['PP standard','book line'])&~B.stat.isin(['STL','BLK','STL+BLK'])]
 std=std[(std.adj>=0.58)&(std.edge>=0.05)&~((std['min']>=35)&(std.side=='Less')&(std.adj<0.62))]
 std=std[~((std.stat=='PTS')&(std.side=='Less')&(std.adj<0.60))]          # straight PTS Unders need 60%; combos preferred

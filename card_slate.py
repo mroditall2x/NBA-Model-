@@ -5,7 +5,7 @@ rows=json.load(open(f'{D}/pp_compact.json')); gap=json.load(open(f'{D}/min_gap.j
 STAT={'Points':'pts','Rebounds':'reb','Assists':'ast','Points + Assists':'pa','Points + Rebounds':'pr','Rebounds + Assists':'ra','Pts + Reb + Ast':'pra','Steals':'stl','Blocks':'blk','Steals + Blocks':'stocks','Three Pointers':'fg3m'}
 AB={'Points':'PTS','Rebounds':'REB','Assists':'AST','Points + Assists':'PA','Points + Rebounds':'PR','Rebounds + Assists':'RA','Pts + Reb + Ast':'PRA','Steals':'STL','Blocks':'BLK','Steals + Blocks':'Stl+Blk','Three Pointers':'3PM'}
 import glob,os; sims={os.path.basename(f)[4:-8]:pd.read_parquet(f) for f in glob.glob(f'{D}/sim_*.parquet')}
-p,t=S.load((2025,2026)); last=p.sort_values('game_date').groupby('pid').tail(1)
+p,t=S.load((2025,2026,2027)); last=p.sort_values('game_date').groupby('pid').tail(1)
 lt={norm(n):tm for n,tm in zip(last.name,last.team)}; ng=p.groupby('name').size(); ngk={norm(k):v for k,v in ng.items()}
 imp=lambda o:(-o)/(-o+100) if o<0 else 100/(o+100)
 # matchup (defense vs position) at the strength the 2-season backtest supported (research/dvp: pts .5 reb .25 ast .5 3pm .25 stl .5 blk .5)
@@ -24,6 +24,18 @@ def stat_vals(x,stn,opp,k):
     combo={'pa':('pts','ast'),'pr':('pts','reb'),'ra':('reb','ast'),'pra':('pts','reb','ast'),'stocks':('stl','blk')}
     if stn in combo and all(c in x for c in combo[stn]): return sum(f(c) for c in combo[stn])
     return f(stn)
+# role-change check (added 11/10): this season's last few games vs the model's average. The model learns slowly
+# (30-game half-life), so a player whose role just grew (Wagner/Draymond AST in early Nov) still projects low.
+# 'role up' blocks Unders and 'role down' blocks Overs on that stat (see run_day card rules).
+RECENT_N=8
+_md=D.rstrip('/')[-4:]; _slate_date=pd.Timestamp(f"{2026 if int(_md[:2])>=9 else 2027}-{_md[:2]}-{_md[2:]}")
+_cur=p[(p.season==p.season.max())&(p.game_date<_slate_date)].copy(); _cur['k']=_cur.name.map(norm)
+_cur['pa']=_cur.pts+_cur.ast; _cur['pr']=_cur.pts+_cur.reb; _cur['ra']=_cur.reb+_cur.ast; _cur['pra']=_cur.pts+_cur.reb+_cur.ast; _cur['stocks']=_cur.stl+_cur.blk
+_byk={k:x.tail(RECENT_N) for k,x in _cur.groupby('k')}
+def recent_avg(k,stn):
+    x=_byk.get(k)
+    if x is None or len(x)<5 or stn not in x: return None
+    return float(x[stn].mean())
 out=[]
 for g,pl,st,l,o,u,pp,gob,dem in rows:
     k=norm(pl); x=sims.get(g); x=x[x.key==k] if x is not None else pd.DataFrame()
@@ -36,6 +48,11 @@ for g,pl,st,l,o,u,pp,gob,dem in rows:
     if abs(gp)>4: flags.append(f'minutes unclear ({gp:+.0f})')
     if lt.get(k) and lt[k]!=team: flags.append('new team')
     if ngk.get(k,0)<60: flags.append('small sample')
+    rv=recent_avg(k,STAT[st]); mv=float(v.mean())
+    if rv is not None and mv>0:
+        dmin={'pts':4,'pa':4,'pr':4,'pra':5,'ra':2}.get(STAT[st],1.0)
+        if rv>=1.25*mv and rv-mv>=dmin: flags.append(f'role up (last {RECENT_N}: {rv:.1f})')
+        elif rv<=0.75*mv and mv-rv>=dmin: flags.append(f'role down (last {RECENT_N}: {rv:.1f})')
     base=dict(game=g,team=team,player=pl,stat=AB[st],mean=round(v.mean(),2),lo=int(np.percentile(v,20)),hi=int(np.percentile(v,80)),min=round(x['min'].mean(),1),gap=gp,flags='; '.join(flags))
     if l:
         L=float(l); q=pov(L); side='More' if q>.5 else 'Less'; P=max(q,1-q)
