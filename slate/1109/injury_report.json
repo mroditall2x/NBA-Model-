@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-10T02:22:36.768461+00:00",
+ "checked": "2026-11-10T03:22:33.534659+00:00",
  "games": {
   "LAL@ATL": [
    {
@@ -29,21 +29,27 @@
    {
     "player": "Austin Reaves",
     "team": "LAL",
-    "status": "Out",
+    "status": "Day-To-Day",
     "note": "Reaves (illness) has been ruled out for Monday's game against Atlanta, Benjamin Royer of The Orange County Register reports."
    },
    {
     "player": "Quentin Grimes",
     "team": "LAL",
-    "status": "Out",
+    "status": "Day-To-Day",
     "note": "Grimes (finger) is out for Monday's game against Atlanta, per Dave McMenamin of ESPN.com."
    }
   ],
   "CLE@CHA": [
    {
+    "player": "Brandon Miller",
+    "team": "CHA",
+    "status": "Day-To-Day",
+    "note": "Miller (groin) is listed as out for Monday's game against Cleveland."
+   },
+   {
     "player": "Moussa Diabate",
     "team": "CHA",
-    "status": "Out",
+    "status": "Day-To-Day",
     "note": "Diabate (quadriceps) has been downgraded to out for Monday's game against Cleveland."
    },
    {
@@ -65,15 +71,9 @@
     "note": "Schroder has been diagnosed with a left hamstring strain and will be reevaluated in two weeks, Michael Scotto of HoopsHype.com reports."
    },
    {
-    "player": "Brandon Miller",
-    "team": "CHA",
-    "status": "Out",
-    "note": "Miller (groin) is listed as out for Monday's game against Cleveland."
-   },
-   {
     "player": "Sam Merrill",
     "team": "CLE",
-    "status": "Out",
+    "status": "Day-To-Day",
     "note": "Merrill (elbow) is listed as out for Monday's game against the Hornets."
    },
    {
@@ -99,7 +99,7 @@
    {
     "player": "Bilal Coulibaly",
     "team": "WSH",
-    "status": "Out",
+    "status": "Day-To-Day",
     "note": "Coulibaly (hand) is out for Monday's game against the Pistons."
    },
    {
@@ -129,22 +129,22 @@
   ],
   "MEM@TOR": [
    {
+    "player": "Isaiah Stewart",
+    "team": "MEM",
+    "status": "Day-To-Day",
+    "note": "Stewart (knee) has been ruled out for Monday's game against Toronto."
+   },
+   {
     "player": "Quinten Post",
     "team": "MEM",
     "status": "Day-To-Day",
-    "note": "Post is doubtful to return to Monday's game against Toronto due to a head injury."
+    "note": "Post (head) didn't return to Monday's 118-102 win over the Raptors. He ended the night with one rebound in two minutes."
    },
    {
     "player": "Scotty Pippen Jr.",
     "team": "MEM",
     "status": "Out",
     "note": "Pippen (back) won't play in Monday's game versus the Raptors."
-   },
-   {
-    "player": "Isaiah Stewart",
-    "team": "MEM",
-    "status": "Out",
-    "note": "Stewart (knee) has been ruled out for Monday's game against Toronto."
    },
    {
     "player": "Richie Saunders",
@@ -155,19 +155,19 @@
    {
     "player": "Immanuel Quickley",
     "team": "TOR",
-    "status": "Out",
+    "status": "Day-To-Day",
     "note": "Quickley (hamstring) has been ruled out for Monday's game against Memphis, Esfandiar Baraheni of The Athletic reports."
    },
    {
     "player": "Collin Murray-Boyles",
     "team": "TOR",
-    "status": "Out",
+    "status": "Day-To-Day",
     "note": "Murray-Boyles (illness) is out for Monday's game against the Grizzlies, Esfandiar Baraheni of The Athletic reports."
    },
    {
     "player": "Scottie Barnes",
     "team": "TOR",
-    "status": "Out",
+    "status": "Day-To-Day",
     "note": "Barnes (groin) is out for Monday's game against the Grizzlies, Esfandiar Baraheni of The Athletic reports."
    },
    {
