@@ -41,6 +41,8 @@ ok=(B['gap'].abs()<=4)&~B['flags'].str.contains('new team|small|unclear')
 ok&=~((B.side=='Less')&(B['gap']>2))&~((B.side=='More')&(B['gap']<-2))
 # role change (card_slate flag, added 11/10): no Unders when this season's last 8 run 25%+ above the model, no Overs when 25%+ below
 ok&=~((B.side=='Less')&B['flags'].str.contains('role up'))&~((B.side=='More')&B['flags'].str.contains('role down'))
+# returning starter (rot_blend/card_slate, 11/10): teammates whose recent bump came while he was out get no Overs
+ok&=~((B.side=='More')&B['flags'].str.contains('teammate back'))
 std=B[ok&B.type.isin(['PP standard','book line'])&~B.stat.isin(['STL','BLK','STL+BLK'])]
 std=std[(std.adj>=0.58)&(std.edge>=0.05)&~((std['min']>=35)&(std.side=='Less')&(std.adj<0.62))]
 std=std[~((std.stat=='PTS')&(std.side=='Less')&(std.adj<0.60))]          # straight PTS Unders need 60%; combos preferred

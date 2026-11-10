@@ -32,6 +32,12 @@ _md=D.rstrip('/')[-4:]; _slate_date=pd.Timestamp(f"{2026 if int(_md[:2])>=9 else
 _cur=p[(p.season==p.season.max())&(p.game_date<_slate_date)].copy(); _cur['k']=_cur.name.map(norm)
 _cur['pa']=_cur.pts+_cur.ast; _cur['pr']=_cur.pts+_cur.reb; _cur['ra']=_cur.reb+_cur.ast; _cur['pra']=_cur.pts+_cur.reb+_cur.ast; _cur['stocks']=_cur.stl+_cur.blk
 _byk={k:x.tail(RECENT_N) for k,x in _cur.groupby('k')}
+# returning players (rot_blend.py, 11/10): the returner's own minutes are a guess first game back -> 'minutes unclear';
+# teammates' recent bump came while he was out -> 'teammate back' (blocks Overs, replaces role up)
+_rf=f"slate/{_slate_date.date()}_returning.json"
+_RET=json.load(open(_rf)) if os.path.exists(_rf) else {}
+RET_K={tm:{norm(r['player']):r for r in rs} for tm,rs in _RET.items()}
+RET_REG={tm:[r['player'] for r in rs if r['normal_min']>=20] for tm,rs in _RET.items()}
 def recent_avg(k,stn):
     x=_byk.get(k)
     if x is None or len(x)<5 or stn not in x: return None
@@ -49,7 +55,10 @@ for g,pl,st,l,o,u,pp,gob,dem in rows:
     if lt.get(k) and lt[k]!=team: flags.append('new team')
     if ngk.get(k,0)<60: flags.append('small sample')
     rv=recent_avg(k,STAT[st]); mv=float(v.mean())
-    if rv is not None and mv>0:
+    if k in RET_K.get(team,{}): flags.append(f"returning (missed {RET_K[team][k]['missed']}) - minutes unclear")
+    elif RET_REG.get(team) and rv is not None and mv>0 and rv>=1.15*mv:
+        flags.append(f"teammate back ({', '.join(RET_REG[team])}; last {RECENT_N}: {rv:.1f})")
+    elif rv is not None and mv>0:
         dmin={'pts':4,'pa':4,'pr':4,'pra':5,'ra':2}.get(STAT[st],1.0)
         if rv>=1.25*mv and rv-mv>=dmin: flags.append(f'role up (last {RECENT_N}: {rv:.1f})')
         elif rv<=0.75*mv and mv-rv>=dmin: flags.append(f'role down (last {RECENT_N}: {rv:.1f})')

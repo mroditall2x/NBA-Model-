@@ -25,3 +25,26 @@ Unders from 10/31-11/08 (three straight losing days 11/06-11/08).
 Caveats: 10 days, ~80 card picks. SEASON_DISC 0.4 was a single try tested on the same days, so expect less going
 forward (~60-65%). Re-run on fresh days in ~2 weeks (`replay_1028_1108_season_run.sh` + `_grade.py`).
 SEASON_DISC also feeds team ratings, so full-game numbers (games.csv) shift too; not separately tested.
+
+# Returning players (11/10/26, second change)
+Problem: `rot_blend.py` averaged this-season minutes over every TEAM game, so a starter back from injury looked like a
+part-timer (Dejounte Murray 11/04 given 24, played 45; Strus 11/02 13 vs 23; Jalen Johnson 11/07 28 vs 36), and
+teammates kept the minutes they got while he was out.
+
+Shipped (`rot_blend.py`, `card_slate.py`, `run_day.py`):
+- Returning player = active today after missing 2+ straight team games, with his own prop line (or, when the game has
+  no props, a 20+ min regular who has played this season). Minutes = his normal (games he was available for, blended
+  with last season) x 0.9. Saved to `slate/<date>_returning.json`.
+- Card: the returner is flagged `returning ... minutes unclear` (off the card, first game back). Teammates of a 20+ min
+  returner whose last 8 run 15%+ above the model are flagged `teammate back` -> no Overs (their bump came while he was out).
+
+Full-pipeline replay 10/28-11/08 (rot_blend -> pass 1 -> market blend -> pass 2 -> card), vs this morning's version:
+| version | card | Unders | pool | returner minutes MAE / bias (13) | teammates MAE (130) |
+|---|---|---|---|---|---|
+| base (this morning) | 53-21 71.6% | 69.6% | 67.4% | 5.74 / -4.9 | 5.99 |
+| returners + available-games minutes for all | 48-28 63.2% | 60.0% | 61.8% | 5.50 / +1.2 | 5.48 |
+| returners + drop no-line players | 52-23 69.3% | 66.0% | 68.7% | 5.88 / +2.0 | 6.11 |
+| **returners only (shipped)** | 53-22 70.7% | 68.1% | 68.4% | 5.92 / +2.0 | 6.12 |
+The window had few real returns of regulars, so this is a safety change (no bets on a returner's guessed minutes, no
+Overs on teammates losing his shots) more than a proven edge. Grade it from `returning.json` as cases pile up
+(a star back from a long absence, e.g. Haliburton/Kawhi, is the case it is built for).
