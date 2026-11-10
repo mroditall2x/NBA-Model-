@@ -99,7 +99,8 @@ def _ev(r):   # moneyline EV+ tag: calibrated model win% beats market by 3+ pts;
     a,h=r.game.split('@'); out=[]
     for team,p,m in ((h,r.p_home_win,r.mkt_home_win),(a,1-r.p_home_win,1-r.mkt_home_win)):
         c=m+0.5*(p-m)          # meet the market halfway (model alone over-rates dogs)
-        if c-m>=0.03 and (m<0.5 or c>=0.65): out.append(f"EV+ {team} ML ({'fav' if m>=0.5 else 'dog'}) {round(c*100)}% vs mkt {round(m*100)}%")
+        # 11/10: favorites only. Dog tags went 3-7 (and 5-17 with the newer model in replay) 10/28-11/09: the model over-rates dogs
+        if c-m>=0.03 and m>=0.5 and c>=0.65: out.append(f"EV+ {team} ML ({'fav' if m>=0.5 else 'dog'}) {round(c*100)}% vs mkt {round(m*100)}%")
     return '; '.join(out)
 G['ev_tag']=[_ev(r) for r in G.itertuples()]
 G.to_csv(f'{D}/games.csv',index=False)

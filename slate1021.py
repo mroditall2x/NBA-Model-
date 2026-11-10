@@ -6,6 +6,7 @@ import nba_sim as S
 DATE = sys.argv[1] if len(sys.argv) > 1 else '2026-10-21'
 DIR = sys.argv[2] if len(sys.argv) > 2 and not sys.argv[2].startswith('--') else 'slate/1021'
 N = 20000
+SPREAD_SCALE = float(os.environ.get('SPREAD_SCALE', 1.4))
 STAT = {'PTS': 'pts', 'REB': 'reb', 'AST': 'ast', 'PA': 'pa', 'PR': 'pr', 'RA': 'ra', 'PRA': 'pra', 'STL': 'stl', 'BLK': 'blk', 'SB': 'stocks'}
 ALIAS = {'bobby portis jr': 'bobby portis', 'nicolas claxton': 'nic claxton'}
 
@@ -97,6 +98,11 @@ for g in lines:
     df = S.to_frame(Gk, boxes); df['key'] = df.player.map(norm)
     if os.environ.get('SAVE_SIM'): df.to_parquet(f'{DIR}/sim_{gk}.parquet')
     mm = scm[:, 0] - scm[:, 1]; mt = scm.sum(1)
+    # 11/10: the model's margins run too close to zero (avg |spread| 4.9 vs market 6.9 on 75 games 10/28-11/09), so it
+    # leaned the underdog in 73% of games (dogs 21-34 ATS) while favorites won by 9.3 vs a 6.9 spread. Stretch the
+    # expected margin by SPREAD_SCALE (= market/model spread size) before spread, cover and win %. Props are unaffected
+    # (they run anchored to the market spread/total).
+    mm = mm + (SPREAD_SCALE - 1) * mm.mean()
     sh, sa = imp(g['spread_odds'][0]), imp(g['spread_odds'][1]); oo, uu = imp(g['total_odds'][0]), imp(g['total_odds'][1])
     mh, ma = imp(g['ml_home']), imp(g['ml_away'])
     games_out.append(dict(game=gk, model_spread_home=round(-mm.mean(), 1), mkt_spread_home=g['home_spread'],
