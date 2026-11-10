@@ -94,6 +94,23 @@ if not os.path.exists(f'{D}/card_early.csv'):            # first build of the da
     card[(card.p>=0.62)|(card.tier=='goblin')].to_csv(f'{D}/card_early.csv',index=False)
 G=pd.read_csv(f'{D}/games.csv')
 G['full_game_note']=['skip: model >6 off market' if abs(r.model_total-r.mkt_total)>6 or abs(r.model_spread_home-r.mkt_spread_home)>6 else '' for r in G.itertuples()]
+# 11/10 (NO@GS 11/09: model NO +11.5 / NO ML EV+ while the spread went GS -9.5 -> -11.5 and GS won by 51):
+# when the spread moved 1+ pt or the moneyline 3+ pts of win% since the morning line AGAINST the model's side,
+# follow the market: the side lean and any ML tag are dropped (the move is usually injury/lineup news).
+_fm={}
+try:
+    _o={f"{g['away']}@{g['home']}":g for g in json.load(open(f'{D}/lines.json.open'))['games']}
+    _n={f"{g['away']}@{g['home']}":g for g in json.load(open(f'{D}/lines.json'))['games']}
+    _imp=lambda x:(-x/(-x+100)) if x<0 else 100/(x+100)
+    for r in G.itertuples():
+        o,n=_o.get(r.game),_n.get(r.game)
+        if not o or not n: continue
+        ds=n['home_spread']-o['home_spread']; home=r.p_home_cover>0.5
+        ph0=_imp(o['ml_home'])/(_imp(o['ml_home'])+_imp(o['ml_away'])); ph1=_imp(n['ml_home'])/(_imp(n['ml_home'])+_imp(n['ml_away']))
+        if (abs(ds)>=1 and (ds>0)==home) or (abs(ph1-ph0)>=0.03 and (ph1>ph0)!=(r.p_home_win>0.5)):
+            _fm[r.game]=f"follow market: spread {o['home_spread']:+g} -> {n['home_spread']:+g} vs model"
+except Exception as e: print('market-move check skipped:',e)
+G['full_game_note']=[r.full_game_note or _fm.get(r.game,'') for r in G.itertuples()]
 def _ev(r):   # moneyline EV+ tag: calibrated model win% beats market by 3+ pts; favorites also need 65%+
     if r.full_game_note: return ''
     a,h=r.game.split('@'); out=[]
