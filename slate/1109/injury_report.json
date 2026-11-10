@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-09T23:22:31.369247+00:00",
+ "checked": "2026-11-10T00:22:33.759816+00:00",
  "games": {
   "LAL@ATL": [
    {
@@ -182,7 +182,7 @@
     "player": "Morez Johnson Jr.",
     "team": "DAL",
     "status": "Out",
-    "note": "Johnson (leg) is questionable for Monday's game against Indiana."
+    "note": "Johnson (leg) has been ruled out for Monday's game against the Pacers."
    },
    {
     "player": "Sergio de Larrea",
@@ -201,12 +201,6 @@
     "team": "DAL",
     "status": "Out",
     "note": "Lively (foot) is listed as out for Monday's game against the Kings."
-   },
-   {
-    "player": "T.J. McConnell",
-    "team": "IND",
-    "status": "Day-To-Day",
-    "note": "McConnell is questionable for Monday's game against the Mavericks due to a right hamstring strain."
    },
    {
     "player": "Tyrese Haliburton",
@@ -271,22 +265,22 @@
     "note": "Strawther (knee) was diagnosed with a left knee sprain Friday and will be re-evaluated in six weeks, Vinny Benedetto of The Denver Gazette reports."
    },
    {
-    "player": "Oscar Tshiebwe",
-    "team": "HOU",
-    "status": "Out",
-    "note": "Tshiebwe has been ruled out for Monday's game against the Nuggets due to an illness."
-   },
-   {
     "player": "Clint Capela",
     "team": "HOU",
     "status": "Out",
-    "note": "Capela (ankle) is listed as out for Monday's game against Denver."
+    "note": "Head coach Ime Udoka stated Monday that Capela (ankle) could be cleared to return either Nov. 15 in Washington or Nov. 16 in Miami, Lachard Binkley of SI.com reports."
    },
    {
     "player": "Steven Adams",
     "team": "HOU",
     "status": "Out",
-    "note": "Head coach Ime Udoka said Wednesday that Adams (calf) is still without a timetable to return and will be evaluated on a \"weekly basis,\" Varun Shankar of the Houston Chronicle reports."
+    "note": "Head coach Ime Udoka said Monday that Adams could return as soon as Sunday's game at Washington, Lachard Binkley of SI.com reports."
+   },
+   {
+    "player": "Oscar Tshiebwe",
+    "team": "HOU",
+    "status": "Out",
+    "note": "Tshiebwe has been ruled out for Monday's game against the Nuggets due to an illness."
    }
   ],
   "SA@PHX": [
