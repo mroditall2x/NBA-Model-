@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-10T00:22:33.759816+00:00",
+ "checked": "2026-11-10T01:22:26.194777+00:00",
  "games": {
   "LAL@ATL": [
    {
@@ -129,6 +129,12 @@
   ],
   "MEM@TOR": [
    {
+    "player": "Quinten Post",
+    "team": "MEM",
+    "status": "Day-To-Day",
+    "note": "Post is doubtful to return to Monday's game against Toronto due to a head injury."
+   },
+   {
     "player": "Scotty Pippen Jr.",
     "team": "MEM",
     "status": "Out",
@@ -223,42 +229,6 @@
   ],
   "DEN@HOU": [
    {
-    "player": "Cameron Johnson",
-    "team": "DEN",
-    "status": "Day-To-Day",
-    "note": "Johnson (ankle) is probable for Monday against Houston."
-   },
-   {
-    "player": "Christian Braun",
-    "team": "DEN",
-    "status": "Day-To-Day",
-    "note": "Braun (left calf contusion/illness) is probable for Monday's matchup against the Rockets."
-   },
-   {
-    "player": "Aaron Gordon",
-    "team": "DEN",
-    "status": "Day-To-Day",
-    "note": "Gordon (left calf injury management) is probable for Monday's game against Houston."
-   },
-   {
-    "player": "Nikola Jokic",
-    "team": "DEN",
-    "status": "Day-To-Day",
-    "note": "Jokic (right elbow sprain) is probable for Monday's game against the Rockets."
-   },
-   {
-    "player": "DeMar DeRozan",
-    "team": "DEN",
-    "status": "Day-To-Day",
-    "note": "DeRozan (back) is probable for Monday against Houston."
-   },
-   {
-    "player": "Jamal Murray",
-    "team": "DEN",
-    "status": "Day-To-Day",
-    "note": "Murray (leg) is probable for Monday against Houston."
-   },
-   {
     "player": "Julian Strawther",
     "team": "DEN",
     "status": "Out",
@@ -288,7 +258,7 @@
     "player": "Jordan Goodwin",
     "team": "PHX",
     "status": "Out",
-    "note": "Goodwin (calf) is questionable for Monday's game against the Spurs."
+    "note": "Goodwin (calf) has been ruled out for Monday's game against the Spurs, Kellan Olson of ArizonaSports.com reports."
    },
    {
     "player": "Mark Williams",

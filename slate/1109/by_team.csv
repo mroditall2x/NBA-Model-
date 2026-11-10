@@ -18,18 +18,6 @@ LAL@ATL,LAL,Luka Doncic,AST,8.5,More,0.574,9.71,38.2,lean,PrizePicks / Underdog
 WSH@DET,WSH,Trae Young,RA,11.5,Less,0.612,9.89,32.3,card,PrizePicks / Underdog
 WSH@DET,WSH,Alex Sarr,RA,8.5,Less,0.607,7.25,25.3,card,PrizePicks / Underdog
 IND@DAL,DAL,Caleb Martin,3PM,0.5,Less,0.663,0.3,13.3,card,PrizePicks / Underdog
-DEN@HOU,DEN,Christian Braun,3PM,1.5,Less,0.631,1.04,32.5,card,Kalshi / Underdog
-DEN@HOU,DEN,Jamal Murray,AST,6.5,Less,0.621,5.33,35.3,card,PrizePicks / Underdog
-DEN@HOU,DEN,Aaron Gordon,PTS,13.5,Less,0.555,12.64,27.8,lean,PrizePicks / Underdog
-DEN@HOU,DEN,Nikola Jokic,REB,10.5,More,0.544,11.48,35.0,lean,PrizePicks / Underdog
-NO@GS,GS,Draymond Green,AST,6.5,Less,0.621,5.32,26.7,card,PrizePicks / Underdog
-NO@GS,GS,Gui Santos,PTS,8.5,Less,0.576,7.65,18.0,lean,PrizePicks / Underdog
-NO@GS,GS,Georges Niang,REB,2.5,More,0.55,3.21,20.5,lean,Kalshi / Underdog
-NO@GS,GS,Brandin Podziemski,PA,19.5,Less,0.54,18.91,30.4,lean,PrizePicks / Underdog
-DEN@HOU,HOU,Amen Thompson,3PM,0.5,Less,0.646,0.34,33.6,card,Kalshi / Underdog
-DEN@HOU,HOU,Tari Eason,AST,1.5,Less,0.612,1.16,24.4,card,Kalshi / Underdog
-DEN@HOU,HOU,Marcus Smart,PR,9.5,Less,0.564,8.92,21.2,lean,Kalshi / Underdog
-DEN@HOU,HOU,Jabari Smith Jr,REB,6.5,More,0.54,7.27,34.8,lean,PrizePicks / Underdog
 IND@DAL,IND,Andrew Nembhard,RA,8.5,More,0.647,11.14,31.0,card,PrizePicks / Underdog
 IND@DAL,IND,Pascal Siakam,REB,6.5,Less,0.553,6.09,31.9,lean,PrizePicks / Underdog
 IND@DAL,IND,Aaron Nesmith,PR,15.5,Less,0.548,14.78,26.5,lean,PrizePicks / Underdog
@@ -37,11 +25,20 @@ MEM@TOR,MEM,Cedric Coward,REB,6.5,Less,0.604,5.52,28.5,card,PrizePicks / Underdo
 MEM@TOR,MEM,Cam Spencer,REB,2.5,Less,0.578,2.2,23.5,lean,PrizePicks / Underdog
 MEM@TOR,MEM,Ty Jerome,AST,5.5,More,0.556,6.34,29.6,lean,PrizePicks / Underdog
 MEM@TOR,MEM,Zach Edey,PTS,8.5,More,0.531,9.97,23.5,lean,PrizePicks / Underdog
-NO@GS,NO,Jeremiah Fears,RA,9.5,Less,0.567,8.71,33.8,lean,PrizePicks / Underdog
-NO@GS,NO,Derik Queen,AST,2.5,More,0.547,3.15,27.6,lean,Kalshi / Underdog
-SA@PHX,PHX,Miles Bridges,PRA,24.5,More,0.516,25.64,33.6,lean,PrizePicks / Underdog
-SA@PHX,PHX,Jalen Green,RA,6.5,Less,0.502,6.83,28.1,lean,PrizePicks / Underdog
-SA@PHX,SA,Stephon Castle,3PM,1.5,Less,0.58,1.31,32.3,card,PrizePicks / Underdog
-SA@PHX,SA,Victor Wembanyama,3PM,1.5,More,0.579,2.33,34.3,lean,Kalshi / Underdog
-SA@PHX,SA,Keldon Johnson,REB,5.5,Less,0.568,5.05,25.5,lean,Kalshi / Underdog
-SA@PHX,SA,Julian Champagnie,PTS,11.5,Less,0.544,10.98,31.5,lean,PrizePicks / Underdog
+DEN@HOU,DEN,Christian Braun,AST,2.5,Less,0.598,2.05,32.3,card,Kalshi / Underdog
+DEN@HOU,DEN,Aaron Gordon,AST,2.5,Less,0.588,2.11,28.2,card,PrizePicks / Underdog
+NO@GS,GS,Gui Santos,PA,10.5,Less,0.587,9.06,18.4,card,Kalshi / Underdog
+NO@GS,GS,Draymond Green,RA,12.5,Less,0.585,11.3,27.7,card,PrizePicks / Underdog
+NO@GS,GS,Brandin Podziemski,PA,19.5,Less,0.558,18.39,31.4,lean,PrizePicks / Underdog
+NO@GS,GS,Stephen Curry,REB,3.5,More,0.541,4.12,31.6,lean,PrizePicks / Underdog
+DEN@HOU,HOU,Amen Thompson,3PM,0.5,Less,0.624,0.4,34.4,card,Kalshi / Underdog
+DEN@HOU,HOU,Tari Eason,3PM,1.5,Less,0.611,1.16,24.1,card,Kalshi / Underdog
+DEN@HOU,HOU,Marcus Smart,AST,2.5,Less,0.601,2.05,20.4,card,Kalshi / Underdog
+DEN@HOU,HOU,Jabari Smith Jr,PA,17.5,Less,0.548,16.71,34.9,lean,PrizePicks / Underdog
+NO@GS,NO,Jeremiah Fears,RA,9.5,Less,0.535,9.27,33.8,lean,PrizePicks / Underdog
+SA@PHX,PHX,Devin Booker,AST,4.5,More,0.58,5.61,36.1,lean,PrizePicks / Underdog
+SA@PHX,PHX,Jalen Green,AST,2.5,More,0.556,3.2,29.1,lean,Kalshi / Underdog
+SA@PHX,SA,Keldon Johnson,3PM,1.5,Less,0.64,1.0,26.1,card,Kalshi / Underdog
+SA@PHX,SA,Victor Wembanyama,3PM,1.5,More,0.577,2.31,33.5,lean,Kalshi / Underdog
+SA@PHX,SA,Dylan Harper,PR,22.5,Less,0.545,21.6,33.8,lean,PrizePicks / Underdog
+SA@PHX,SA,Julian Champagnie,PTS,11.5,Less,0.534,11.26,31.5,lean,PrizePicks / Underdog
