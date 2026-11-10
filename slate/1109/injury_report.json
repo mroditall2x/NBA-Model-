@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-10T03:22:33.534659+00:00",
+ "checked": "2026-11-10T04:22:29.222332+00:00",
  "games": {
   "LAL@ATL": [
    {
@@ -187,7 +187,7 @@
    {
     "player": "Morez Johnson Jr.",
     "team": "DAL",
-    "status": "Out",
+    "status": "Day-To-Day",
     "note": "Johnson (leg) has been ruled out for Monday's game against the Pacers."
    },
    {
@@ -235,6 +235,12 @@
     "note": "Strawther (knee) was diagnosed with a left knee sprain Friday and will be re-evaluated in six weeks, Vinny Benedetto of The Denver Gazette reports."
    },
    {
+    "player": "Oscar Tshiebwe",
+    "team": "HOU",
+    "status": "Day-To-Day",
+    "note": "Tshiebwe has been ruled out for Monday's game against the Nuggets due to an illness."
+   },
+   {
     "player": "Clint Capela",
     "team": "HOU",
     "status": "Out",
@@ -245,12 +251,6 @@
     "team": "HOU",
     "status": "Out",
     "note": "Head coach Ime Udoka said Monday that Adams could return as soon as Sunday's game at Washington, Lachard Binkley of SI.com reports."
-   },
-   {
-    "player": "Oscar Tshiebwe",
-    "team": "HOU",
-    "status": "Out",
-    "note": "Tshiebwe has been ruled out for Monday's game against the Nuggets due to an illness."
    }
   ],
   "SA@PHX": [
