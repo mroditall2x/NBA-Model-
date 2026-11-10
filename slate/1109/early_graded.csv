@@ -1,0 +1,11 @@
+game,team,player,stat,side,line,p,where,line_now,p_now,move,news,status,actual,result,date
+IND@DAL,DAL,Caleb Martin,3PM,Less,0.5,0.6584,PrizePicks / Underdog,0.5,0.64,,False,Hold,0.0,Win,2026-11-09
+WSH@DET,DET,Daniss Jenkins,3PM,Less,1.5,0.6572,Kalshi / Underdog,1.5,0.574,,False,Lean,2.0,Loss,2026-11-09
+CLE@CHA,CLE,Evan Mobley,3PM,Less,1.5,0.6512,Kalshi / Underdog,1.5,0.586,,False,Hold,2.0,Loss,2026-11-09
+DEN@HOU,HOU,Amen Thompson,3PM,Less,0.5,0.6446,Kalshi / Underdog,0.5,0.624,,False,Hold,0.0,Win,2026-11-09
+DEN@HOU,DEN,Christian Braun,3PM,Less,1.5,0.638,Kalshi / Underdog,1.5,0.592,,False,Hold,0.0,Win,2026-11-09
+IND@DAL,IND,Andrew Nembhard,RA,More,8.5,0.6374,PrizePicks / Underdog,8.5,0.611,,False,Hold,15.0,Win,2026-11-09
+WSH@DET,DET,Cade Cunningham,3PM,Less,2.5,0.632,Kalshi / Underdog,2.5,0.585,,False,Hold,0.0,Win,2026-11-09
+MEM@TOR,TOR,R.J. Barrett,AST,Less,4.5,0.6248,Kalshi / Underdog,4.5,0.552,,False,Lean,2.0,Win,2026-11-09
+WSH@DET,WSH,Alex Sarr,RA,Less,8.5,0.6235999999999999,PrizePicks / Underdog,8.5,0.55,,False,Lean,8.0,Win,2026-11-09
+LAL@ATL,ATL,Nickeil Alexander-Walker,AST,More,2.5,0.62,Kalshi / Underdog,2.5,0.513,,False,Drop,4.0,Win,2026-11-09
