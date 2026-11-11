@@ -1,11 +1,11 @@
-game,team,player,stat,tier,line,side,p,price,ev,top,mean,lo,hi,min,gap,where
-BOS@TOR,BOS,Jordan Walsh,AST,standard,1.5,Less,0.6577999999999999,-312,-0.131,True,0.92,0,2,17.6,-2.4,Kalshi / Underdog
-GS@HOU,GS,Al Horford,3PM,standard,1.5,Less,0.65,-230,-0.067,True,0.94,0,2,18.4,-1.8,Kalshi / Underdog
-GS@HOU,HOU,Reed Sheppard,3PM,standard,2.5,Less,0.617,-156,0.013,True,1.9,0,3,17.7,-0.9,Kalshi / Underdog
-BKN@NO,BKN,Nolan Traore,REB,standard,2.5,Less,0.614,-160,-0.002,True,1.95,1,3,24.2,2.0,Kalshi / Underdog
-GS@HOU,GS,Brandin Podziemski,3PM,standard,2.5,Less,0.6134,-186,-0.057,True,1.93,0,3,32.2,2.0,Kalshi / Underdog
-GS@HOU,HOU,Tari Eason,AST,standard,1.5,Less,0.611,-139,0.051,False,1.16,0,2,22.1,-3.3,Kalshi / Underdog
-CLE@NY,NY,Karl-Anthony Towns,REB,standard,12.5,More,0.6092000000000001,-123,0.104,False,14.65,11,18,34.6,-1.6,PrizePicks / Underdog
-DEN@MEM,DEN,DeMar DeRozan,REB,standard,2.5,Less,0.608,-178,-0.05,False,1.99,1,3,21.0,-3.7,Kalshi / Underdog
-CLE@NY,NY,Karl-Anthony Towns,RA,standard,15.5,More,0.6038,-130,0.068,False,17.82,14,22,34.6,-1.6,PrizePicks / Underdog
-LAL@MIL,MIL,Jaime Jaquez Jr,3PM,standard,1.5,Less,0.6014,-168,-0.041,False,1.21,0,2,29.6,-0.3,Kalshi / Underdog
+game,team,player,stat,tier,line,side,p,price,ev,top,mean,lo,hi,min,gap,where,line_open,line_now,move,line_move,keep
+BOS@TOR,BOS,Jordan Walsh,AST,standard,1.5,Less,0.662,-312,-0.126,True,0.9,0,2,17.6,-2.3,Kalshi / Underdog,1.5,1.5,0.0,,True
+GS@HOU,GS,Al Horford,3PM,standard,1.5,Less,0.6506,-230,-0.067,True,0.94,0,2,18.4,-1.7,Kalshi / Underdog,,,,,True
+OKC@POR,POR,Sidy Cissoko,AST,standard,2.5,Less,0.623,-167,-0.004,True,1.9,1,3,23.6,1.8,Kalshi / Underdog,2.5,2.5,0.0,,True
+GS@HOU,HOU,Reed Sheppard,3PM,standard,2.5,Less,0.6212,-156,0.019,True,1.89,0,3,17.7,-0.8,Kalshi / Underdog,,,,,True
+GS@HOU,HOU,Tari Eason,AST,standard,1.5,Less,0.6134,-139,0.055,True,1.16,0,2,22.1,-3.2,Kalshi / Underdog,1.5,1.5,0.0,,True
+DEN@MEM,DEN,DeMar DeRozan,REB,standard,2.5,Less,0.6032000000000001,-178,-0.058,False,2.02,1,3,21.1,-3.7,Kalshi / Underdog,2.5,2.5,0.0,,True
+LAL@MIL,MIL,Jaime Jaquez Jr,3PM,standard,1.5,Less,0.6014,-168,-0.041,False,1.21,0,2,29.6,-0.3,Kalshi / Underdog,,,,,True
+GS@HOU,GS,Brandin Podziemski,AST,standard,2.5,More,0.599,-175,-0.059,False,3.59,2,5,32.1,2.1,Kalshi / Underdog,2.5,2.5,0.0,,True
+WSH@IND,WSH,Tre Johnson,REB,standard,2.5,Less,0.5984,-128,0.066,False,2.05,1,3,20.1,-2.8,PrizePicks / Underdog,2.5,2.5,0.0,,True
+WSH@IND,WSH,Trae Young,AST,standard,9.5,Less,0.5984,-147,0.005,False,8.33,6,11,32.2,1.2,PrizePicks / Underdog,9.5,9.5,0.0,,True
