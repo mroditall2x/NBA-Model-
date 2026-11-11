@@ -7,12 +7,12 @@
    "commence": "2026-11-12T00:10:00Z",
    "home_spread": 5.5,
    "spread_odds": [
-    -108,
-    -110
+    -112,
+    -107
    ],
-   "ml_home": 183,
-   "ml_away": -215,
-   "total": 215.5,
+   "ml_home": 175,
+   "ml_away": -210,
+   "total": 216.0,
    "total_odds": [
     -110,
     -110
@@ -23,14 +23,14 @@
    "home": "NY",
    "id": "095441822e3b9b1b84bff9e482b9057a",
    "commence": "2026-11-12T00:10:00Z",
-   "home_spread": -3.5,
+   "home_spread": -5.0,
    "spread_odds": [
     -110,
     -110
    ],
-   "ml_home": -175,
-   "ml_away": 145,
-   "total": 222.5,
+   "ml_home": -205,
+   "ml_away": 170,
+   "total": 222.0,
    "total_odds": [
     -110,
     -110
@@ -43,15 +43,15 @@
    "commence": "2026-11-12T00:10:00Z",
    "home_spread": -3.0,
    "spread_odds": [
-    -110,
-    -110
+    -115,
+    -105
    ],
-   "ml_home": -145,
-   "ml_away": 125,
+   "ml_home": -151,
+   "ml_away": 129,
    "total": 227.5,
    "total_odds": [
-    -113,
-    -106
+    -110,
+    -110
    ]
   },
   {
@@ -62,7 +62,7 @@
    "home_spread": -3.5,
    "spread_odds": [
     -109,
-    -111
+    -112
    ],
    "ml_home": -160,
    "ml_away": 135,
@@ -80,14 +80,14 @@
    "home_spread": 15.5,
    "spread_odds": [
     -110,
-    -110
+    -108
    ],
-   "ml_home": 750,
+   "ml_home": 740,
    "ml_away": -1200,
    "total": 238.0,
    "total_odds": [
-    -110,
-    -110
+    -112,
+    -108
    ]
   },
   {
@@ -95,13 +95,13 @@
    "home": "MEM",
    "id": "21792501482fecfaacd3a4a24776c9e6",
    "commence": "2026-11-12T01:10:00Z",
-   "home_spread": 3.5,
+   "home_spread": 4.0,
    "spread_odds": [
     -110,
     -110
    ],
-   "ml_home": 138,
-   "ml_away": -162,
+   "ml_home": 145,
+   "ml_away": -170,
    "total": 230.5,
    "total_odds": [
     -110,
@@ -115,11 +115,11 @@
    "commence": "2026-11-12T01:10:00Z",
    "home_spread": 14.5,
    "spread_odds": [
-    -110,
-    -110
+    -108,
+    -111
    ],
-   "ml_home": 550,
-   "ml_away": -800,
+   "ml_home": 575,
+   "ml_away": -850,
    "total": 229.0,
    "total_odds": [
     -110,
@@ -131,13 +131,13 @@
    "home": "UTAH",
    "id": "423255883d0e6c5d1a94a533b90e935b",
    "commence": "2026-11-12T02:10:00Z",
-   "home_spread": 4.0,
+   "home_spread": 4.5,
    "spread_odds": [
-    -110,
-    -110
+    -114,
+    -106
    ],
-   "ml_home": 146,
-   "ml_away": -172,
+   "ml_home": 150,
+   "ml_away": -180,
    "total": 214.5,
    "total_odds": [
     -110,
@@ -152,14 +152,14 @@
    "home_spread": -6.5,
    "spread_odds": [
     -110,
-    -110
+    -108
    ],
    "ml_home": -260,
-   "ml_away": 217,
-   "total": 220.5,
+   "ml_away": 215,
+   "total": 220.0,
    "total_odds": [
-    -107,
-    -111
+    -109,
+    -110
    ]
   },
   {
@@ -167,14 +167,14 @@
    "home": "POR",
    "id": "d4f288eeb0132970825be17748f2b4f0",
    "commence": "2026-11-12T03:10:00Z",
-   "home_spread": 1.0,
+   "home_spread": -2.5,
    "spread_odds": [
     -110,
     -110
    ],
-   "ml_home": -105,
-   "ml_away": -113,
-   "total": 225.5,
+   "ml_home": -145,
+   "ml_away": 122,
+   "total": 224.5,
    "total_odds": [
     -110,
     -110
