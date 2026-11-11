@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-11T01:22:33.561221+00:00",
+ "checked": "2026-11-11T02:22:33.043767+00:00",
  "games": {
   "MIL@NY": [
    {
@@ -37,6 +37,12 @@
   ],
   "LAC@PHX": [
    {
+    "player": "Cam Christie",
+    "team": "LAC",
+    "status": "Out",
+    "note": "Christie (ankle) is listed as out for Tuesday's game against Phoenix."
+   },
+   {
     "player": "Yanic Konan Niederhauser",
     "team": "LAC",
     "status": "Out",
@@ -47,12 +53,6 @@
     "team": "LAC",
     "status": "Out",
     "note": "Ingram (Achilles) has been ruled out for Tuesday's game at Phoenix, Ohm Youngmisuk of ESPN.com reports."
-   },
-   {
-    "player": "Cam Christie",
-    "team": "LAC",
-    "status": "Day-To-Day",
-    "note": "Christie is questionable for Tuesday's game against the Suns due to a right ankle sprain, Ohm Youngmisuk of ESPN.com reports."
    },
    {
     "player": "Bradley Beal",
@@ -103,8 +103,8 @@
    {
     "player": "Tristan da Silva",
     "team": "ORL",
-    "status": "Day-To-Day",
-    "note": "Da Silva is questionable for Tuesday's game against the Kings due to a left calf strain."
+    "status": "Out",
+    "note": "Da Silva (calf) has been ruled out for Tuesday's game against the Kings, Jason Beede of the Orlando Sentinel reports."
    },
    {
     "player": "Jalen Suggs",

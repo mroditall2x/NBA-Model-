@@ -4,17 +4,17 @@
    "away": "MIL",
    "home": "NY",
    "id": "3689d555c9a1c81e3d300375b4c80530",
-   "commence": "2026-11-11T00:40:00Z",
-   "home_spread": -16.0,
+   "commence": "2026-11-11T00:41:00Z",
+   "home_spread": -14.5,
    "spread_odds": [
-    -110,
+    -118,
     -110
    ],
-   "ml_home": -1180,
-   "ml_away": 740,
-   "total": 221.5,
+   "ml_home": -10000,
+   "ml_away": 2000,
+   "total": 211.5,
    "total_odds": [
-    -110,
+    -116,
     -110
    ]
   },
@@ -22,54 +22,54 @@
    "away": "BOS",
    "home": "PHI",
    "id": "cfa503c66cd505776a910921875ef7dd",
-   "commence": "2026-11-11T01:10:00Z",
-   "home_spread": 1.5,
+   "commence": "2026-11-11T01:14:00Z",
+   "home_spread": 7.5,
    "spread_odds": [
-    -106,
-    -110
+    -116,
+    -114
    ],
-   "ml_home": 105,
-   "ml_away": -124,
-   "total": 217.5,
+   "ml_home": 250,
+   "ml_away": -342,
+   "total": 219.5,
    "total_odds": [
-    -110,
-    -110
+    -115,
+    -115
    ]
   },
   {
    "away": "LAC",
    "home": "PHX",
    "id": "8178ff2ec61f604b61dfe6d7b8d71103",
-   "commence": "2026-11-11T02:10:00Z",
+   "commence": "2026-11-11T02:11:00Z",
    "home_spread": -3.5,
    "spread_odds": [
-    -114,
-    -105
+    -103,
+    -115
    ],
-   "ml_home": -173,
-   "ml_away": 146,
-   "total": 224.5,
+   "ml_home": -160,
+   "ml_away": 138,
+   "total": 217.5,
    "total_odds": [
-    -110,
-    -110
+    -108,
+    -122
    ]
   },
   {
    "away": "MIA",
    "home": "UTAH",
    "id": "9ac02cb22adf276b325b1e9c9c6c588e",
-   "commence": "2026-11-11T02:10:00Z",
-   "home_spread": 6.5,
+   "commence": "2026-11-11T02:12:00Z",
+   "home_spread": 10.5,
    "spread_odds": [
-    -108,
+    -120,
     -110
    ],
-   "ml_home": 210,
-   "ml_away": -260,
-   "total": 226.5,
+   "ml_home": 340,
+   "ml_away": -500,
+   "total": 234.5,
    "total_odds": [
     -110,
-    -110
+    -119
    ]
   },
   {
@@ -79,15 +79,15 @@
    "commence": "2026-11-11T03:10:00Z",
    "home_spread": 5.5,
    "spread_odds": [
-    -108,
-    -112
+    -110,
+    -110
    ],
    "ml_home": 180,
-   "ml_away": -220,
+   "ml_away": -215,
    "total": 222.0,
    "total_odds": [
     -110,
-    -110
+    -108
    ]
   },
   {
@@ -97,15 +97,15 @@
    "commence": "2026-11-11T04:10:00Z",
    "home_spread": 1.5,
    "spread_odds": [
-    -105,
-    -115
-   ],
-   "ml_home": 105,
-   "ml_away": -125,
-   "total": 226.5,
-   "total_odds": [
     -110,
     -110
+   ],
+   "ml_home": 108,
+   "ml_away": -128,
+   "total": 226.0,
+   "total_odds": [
+    -110,
+    -108
    ]
   }
  ]

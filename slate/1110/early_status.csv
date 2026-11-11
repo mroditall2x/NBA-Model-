@@ -1,4 +1,4 @@
 game,team,player,stat,side,line,p,where,line_now,p_now,move,news,status
-ORL@SAC,ORL,Jamal Cain,3PM,Less,1.5,0.6344,Kalshi / Underdog,1.5,0.636,,False,Hold
-ORL@SAC,ORL,Desmond Bane,3PM,Less,3.5,0.632,Kalshi / Underdog,3.5,0.636,,False,Hold
-LAC@PHX,PHX,Dillon Brooks,AST,Less,2.5,0.6224,Kalshi / Underdog,2.5,0.624,,False,Hold
+ORL@SAC,ORL,Jamal Cain,3PM,Less,1.5,0.6344,Kalshi / Underdog,1.5,0.579,,True,Lean
+ORL@SAC,ORL,Desmond Bane,3PM,Less,3.5,0.632,Kalshi / Underdog,3.5,0.595,,True,Hold
+LAC@PHX,PHX,Dillon Brooks,AST,Less,2.5,0.6224,Kalshi / Underdog,2.5,0.633,,False,Hold
