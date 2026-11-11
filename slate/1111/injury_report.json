@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-11T16:22:29.320399+00:00",
+ "checked": "2026-11-11T17:22:34.230094+00:00",
  "games": {
   "BOS@TOR": [
    {
@@ -113,8 +113,8 @@
    {
     "player": "Mikel Brown Jr.",
     "team": "BKN",
-    "status": "Day-To-Day",
-    "note": "Brown (rest) is not listed on the injury report ahead of Wednesday's meeting in New Orleans."
+    "status": "Out",
+    "note": "Brown has been ruled out for Wednesday's game against the Pelicans due to an illness, Sharif Phillips-Keaton of USA Today reports."
    },
    {
     "player": "Nolan Traore",
@@ -129,16 +129,22 @@
     "note": "Demin (leg) is probable for Wednesday's game against the Pelicans, Erik Slater of ClutchPoints.com reports."
    },
    {
-    "player": "Trendon Watford",
+    "player": "Bennedict Mathurin",
     "team": "NO",
     "status": "Out",
-    "note": "Watford (ankle) is out for Wednesday's game against the Nets."
+    "note": "Mathurin has been ruled out for Wednesday's game against the Nets due to a right thumb sprain."
    },
    {
     "player": "Trey Murphy III",
     "team": "NO",
     "status": "Day-To-Day",
-    "note": "Murphy (knee) is probable for Wednesday's game against the Nets."
+    "note": "Murphy (knee) is doubtful for Wednesday's game against the Nets."
+   },
+   {
+    "player": "Trendon Watford",
+    "team": "NO",
+    "status": "Out",
+    "note": "Watford (ankle) is out for Wednesday's game against the Nets."
    },
    {
     "player": "Yves Missi",
@@ -295,16 +301,16 @@
   ],
   "GS@HOU": [
    {
+    "player": "Will Richard",
+    "team": "GS",
+    "status": "Day-To-Day",
+    "note": "Richard (thumb) is questionable for Wednesday's game against Houston."
+   },
+   {
     "player": "Gary Payton II",
     "team": "GS",
     "status": "Out",
     "note": "Payton (knee) is out for Wednesday's game against Houston."
-   },
-   {
-    "player": "Will Richard",
-    "team": "GS",
-    "status": "Out",
-    "note": "Richard (thumb) is questionable for Wednesday's game against Houston."
    },
    {
     "player": "Brandon Williams",
