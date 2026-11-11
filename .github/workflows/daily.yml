@@ -78,6 +78,6 @@ jobs:
         if: always() && github.event.inputs.test != 'true'
         run: |
           git config user.name "nba-bot"; git config user.email "nba-bot@users.noreply.github.com"
-          touch early_log.csv; git add graded_log.csv fb_log.csv early_log.csv ats_log.csv ats_teams.csv slate || true
+          touch early_log.csv; git add graded_log.csv fb_log.csv early_log.csv ats_log.csv ats_teams.csv bet_ledger.csv ledger_issues.csv performance.md model_report.md slate || true
           git commit -m "nba run $(date '+%F %H:%M')" || echo "nothing to commit"
           git pull --rebase -q && git push

@@ -66,7 +66,7 @@ for g,pl,st,l,o,u,pp,gob,dem in rows:
     if l:
         L=float(l); q=pov(L); side='More' if q>.5 else 'Less'; P=max(q,1-q)
         mk=imp(int(o))/(imp(int(o))+imp(int(u))); mk=mk if side=='More' else 1-mk
-        out.append({**base,'type':'PP standard' if pp else 'book line','line':L,'side':side,'model':round(P,3),'market':round(mk,3),'edge':round(P-mk,3),'p_over':round(q,3),'o':int(o),'u':int(u)})
+        out.append({**base,'type':'PP standard' if pp else 'book line','line':L,'side':side,'model':round(P,3),'market':round(mk,3),'edge':round(P-mk,3),'p_over':round(q,3),'o':int(o),'u':int(u),'p_push':round(float((v==L).mean()),3)})   # p_push: chance of landing exactly on a whole-number line (11/10)
     for L in [float(z) for z in gob.split(',') if z]:
         out.append({**base,'type':'goblin','line':L,'side':'More','model':round(pov(L),3),'market':None,'edge':round(pov(L)-.70,3)})
     for L in [float(z) for z in dem.split(',') if z]:

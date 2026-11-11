@@ -43,6 +43,8 @@ if '--no-log' not in sys.argv and not partial:
     L=pd.read_csv('graded_log.csv'); L=L[L.date.astype(str)!=DATE]; L.to_csv('graded_log.csv',index=False)   # re-grading a day replaces it, never duplicates
     G[cols].to_csv('graded_log.csv',mode='a',header=False,index=False)
     print(len(G),'picks logged for',DATE)
+    import subprocess   # 11/10: append-only bet ledger (units/ROI/drawdown -> performance.md) + model error report
+    subprocess.run(f'python3 ledger.py add {DATE}', shell=True); subprocess.run('python3 model_report.py > /dev/null', shell=True)
 
 if os.path.exists(f'{D}/early_status.csv') or os.path.exists(f'{D}/card_early.csv'):
     X=pd.read_csv(f'{D}/early_status.csv') if os.path.exists(f'{D}/early_status.csv') else pd.read_csv(f'{D}/card_early.csv').assign(status='Hold')
@@ -51,7 +53,7 @@ if os.path.exists(f'{D}/early_status.csv') or os.path.exists(f'{D}/card_early.cs
     X['result']=['DNP' if pd.isna(a) else 'Push' if a==l else 'Win' if ((a>l) if sd=='More' else (a<l)) else 'Loss' for a,l,sd in zip(X.actual,X.line,X.side)]
     X['date']=DATE; X.to_csv(f'{D}/early_graded.csv',index=False)
     if '--no-log' not in sys.argv and not partial:
-        EL=pd.read_csv('early_log.csv') if os.path.exists('early_log.csv') else pd.DataFrame()
+        EL=pd.read_csv('early_log.csv') if os.path.exists('early_log.csv') and os.path.getsize('early_log.csv')>0 else pd.DataFrame()   # 11/10: empty file used to crash here
         if len(EL): EL=EL[EL.date.astype(str)!=DATE]
         pd.concat([EL,X]).to_csv('early_log.csv',index=False)
     print(X.groupby('status').result.value_counts().unstack(fill_value=0))

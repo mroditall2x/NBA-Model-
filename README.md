@@ -3,3 +3,4 @@ Monte Carlo possession sim for NBA player props, spreads and totals (hoopR data)
 
 Daily: GitHub Actions grades yesterday at 8:30 AM CT. To build a card: commit `slate/MMDD/lines.json` + `props_p1.txt` (+ `pp_compact.json`) then run the workflow with the date, or run `python3 run_day.py YYYY-MM-DD` locally.
 Line movement: `python3 line_moves.py snap slate/MMDD` in the morning, `python3 line_moves.py check slate/MMDD` before tip.
+Record: `performance.md` (units, ROI, drawdown from the append-only `bet_ledger.csv`). Model check: `model_report.md` (report only). Both update after each grade.
