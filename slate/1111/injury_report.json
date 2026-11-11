@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-11T21:22:31.947851+00:00",
+ "checked": "2026-11-11T22:22:24.785770+00:00",
  "games": {
   "BOS@TOR": [
    {
@@ -123,16 +123,16 @@
   ],
   "BKN@NO": [
    {
+    "player": "Nolan Traore",
+    "team": "BKN",
+    "status": "Out",
+    "note": "Traore (calf) has been ruled out for Wednesday's game against the Pelicans, Ian Begley of SportsNet New York reports."
+   },
+   {
     "player": "Mikel Brown Jr.",
     "team": "BKN",
     "status": "Out",
     "note": "Brown has been ruled out for Wednesday's game against the Pelicans due to an illness, Sharif Phillips-Keaton of USA Today reports."
-   },
-   {
-    "player": "Nolan Traore",
-    "team": "BKN",
-    "status": "Day-To-Day",
-    "note": "Traore (calf) is listed as questionable for Wednesday's game against New Orleans."
    },
    {
     "player": "Bennedict Mathurin",
@@ -378,7 +378,13 @@
     "player": "Jaylin Williams",
     "team": "OKC",
     "status": "Out",
-    "note": "Williams (back) has been ruled out for Tuesday's game against the Trail Blazers."
+    "note": "Williams (back) has been ruled out for Wednesday's game against Portland and remains out indefinitely."
+   },
+   {
+    "player": "Ajay Mitchell",
+    "team": "OKC",
+    "status": "Out",
+    "note": "Mitchell has been ruled out for Wednesday's game against the Trail Blazers due to a left ankle sprain."
    },
    {
     "player": "Thomas Sorber",
