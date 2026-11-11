@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-11T19:22:33.624385+00:00",
+ "checked": "2026-11-11T21:22:31.947851+00:00",
  "games": {
   "BOS@TOR": [
    {
@@ -161,6 +161,12 @@
   ],
   "SA@CHI": [
    {
+    "player": "Tobe Awaka",
+    "team": "CHI",
+    "status": "Out",
+    "note": "Awaka (back) has been ruled out for Wednesday's game against the Spurs."
+   },
+   {
     "player": "Caleb Wilson",
     "team": "CHI",
     "status": "Day-To-Day",
@@ -171,12 +177,6 @@
     "team": "CHI",
     "status": "Day-To-Day",
     "note": "Powell (shoulder) is listed as questionable for Wednesday's game versus the Spurs."
-   },
-   {
-    "player": "Tobe Awaka",
-    "team": "CHI",
-    "status": "Day-To-Day",
-    "note": "Awaka (back) is questionable for Wednesday's game against the Spurs."
    },
    {
     "player": "Zach Collins",
@@ -257,10 +257,16 @@
   ],
   "ORL@UTAH": [
    {
+    "player": "Jamal Cain",
+    "team": "ORL",
+    "status": "Day-To-Day",
+    "note": "Cain is questionable for Wednesday's game against the Jazz due to a left shoulder contusion."
+   },
+   {
     "player": "Tristan da Silva",
     "team": "ORL",
     "status": "Day-To-Day",
-    "note": "Da Silva (calf) has been ruled out for Tuesday's game against the Kings, Jason Beede of the Orlando Sentinel reports."
+    "note": "Da Silva (calf) is listed as questionable for Wednesday's game at Utah."
    },
    {
     "player": "Jalen Suggs",
@@ -293,16 +299,16 @@
     "note": "Team president Jeff Weltman said Monday that Nelson (ankle) remains about a month away from returning to the court after offseason surgery, per Philip Rossman-Reich of OrlandoMagicDaily.com."
    },
    {
+    "player": "Keyonte George",
+    "team": "UTAH",
+    "status": "Day-To-Day",
+    "note": "George (ankle) is questionable for Wednesday's game against Orlando."
+   },
+   {
     "player": "Lauri Markkanen",
     "team": "UTAH",
     "status": "Out",
     "note": "Markkanen has been diagnosed with a non-displaced fracture in his right hand and will be sidelined for at least one month, Shams Charania of ESPN reports."
-   },
-   {
-    "player": "Keyonte George",
-    "team": "UTAH",
-    "status": "Day-To-Day",
-    "note": "George (ankle) has been ruled out for Tuesday's game against the Heat."
    },
    {
     "player": "Jusuf Nurkic",
@@ -399,16 +405,22 @@
     "note": "Williams (leg) underwent successful surgery Wednesday to \"address a fractured left fibula and reconstruction of ankle ligaments following a fracture and dislocation.\" He will be re-evaluated before the end of the regular season, Tim MacMahon of ESPN.com reports."
    },
    {
-    "player": "Ja Morant",
+    "player": "Chris Youngblood",
     "team": "POR",
     "status": "Out",
-    "note": "Head coach Micah Nori said Morant met with a doctor in Los Angeles, who gave him a positive outlook on his recovery from the hamstring injury. While Nori declined to update Morant's timetable, he added Morant \"may not be out for as long as we thought,\" Trail Blazers Insider Sean Highkin reports."
+    "note": "Youngblood has been ruled out for Wednesday's game against the Thunder."
    },
    {
     "player": "Vit Krejci",
     "team": "POR",
     "status": "Out",
-    "note": "Head coach Micah Nori said that Krejci suffered a left leg fracture during Wednesday's 132-119 win over the Suns, Brett Siegel of ClutchPoints.com reports."
+    "note": "Krejci underwent surgery on his fractured left ankle Wednesday and will be re-evaluated in eight weeks, Brett Siegel of ClutchPoints.com reports."
+   },
+   {
+    "player": "Ja Morant",
+    "team": "POR",
+    "status": "Out",
+    "note": "Head coach Micah Nori said Morant met with a doctor in Los Angeles, who gave him a positive outlook on his recovery from the hamstring injury. While Nori declined to update Morant's timetable, he added Morant \"may not be out for as long as we thought,\" Trail Blazers Insider Sean Highkin reports."
    },
    {
     "player": "Shaedon Sharpe",
