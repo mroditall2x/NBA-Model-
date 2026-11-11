@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-11T18:22:33.424900+00:00",
+ "checked": "2026-11-11T19:22:33.624385+00:00",
  "games": {
   "BOS@TOR": [
    {
@@ -161,6 +161,12 @@
   ],
   "SA@CHI": [
    {
+    "player": "Caleb Wilson",
+    "team": "CHI",
+    "status": "Day-To-Day",
+    "note": "Wilson has been downgraded to questionable for Wednesday's game against the Spurs due to right hip soreness."
+   },
+   {
     "player": "Norman Powell",
     "team": "CHI",
     "status": "Day-To-Day",
@@ -233,14 +239,20 @@
    {
     "player": "Quentin Grimes",
     "team": "LAL",
-    "status": "Day-To-Day",
-    "note": "Grimes (finger) is listed as questionable for Wednesday's game in Milwaukee."
+    "status": "Out",
+    "note": "Grimes (finger) has been ruled out for Wednesday's game against the Bucks."
    },
    {
     "player": "Tyler Herro",
     "team": "MIL",
     "status": "Day-To-Day",
-    "note": "Herro (knee) is listed as out for Tuesday's game against New York."
+    "note": "Herro (knee) is listed as questionable for Wednesday's game against the Lakers."
+   },
+   {
+    "player": "Myles Turner",
+    "team": "MIL",
+    "status": "Out",
+    "note": "Turner has been ruled out for Wednesday's game against the Lakers due to rest."
    }
   ],
   "ORL@UTAH": [
@@ -281,16 +293,16 @@
     "note": "Team president Jeff Weltman said Monday that Nelson (ankle) remains about a month away from returning to the court after offseason surgery, per Philip Rossman-Reich of OrlandoMagicDaily.com."
    },
    {
+    "player": "Lauri Markkanen",
+    "team": "UTAH",
+    "status": "Out",
+    "note": "Markkanen has been diagnosed with a non-displaced fracture in his right hand and will be sidelined for at least one month, Shams Charania of ESPN reports."
+   },
+   {
     "player": "Keyonte George",
     "team": "UTAH",
     "status": "Day-To-Day",
     "note": "George (ankle) has been ruled out for Tuesday's game against the Heat."
-   },
-   {
-    "player": "Lauri Markkanen",
-    "team": "UTAH",
-    "status": "Day-To-Day",
-    "note": "Markkanen is out for Tuesday's game versus the Heat with a right wrist sprain."
    },
    {
     "player": "Jusuf Nurkic",
@@ -310,7 +322,7 @@
     "player": "Will Richard",
     "team": "GS",
     "status": "Day-To-Day",
-    "note": "Richard (thumb) is questionable for Wednesday's game against Houston."
+    "note": "Richard (thumb) has been upgraded to probable for Wednesday's game at Houston."
    },
    {
     "player": "Gary Payton II",
