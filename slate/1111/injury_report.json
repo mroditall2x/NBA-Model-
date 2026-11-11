@@ -1,12 +1,18 @@
 {
- "checked": "2026-11-11T17:22:34.230094+00:00",
+ "checked": "2026-11-11T18:22:33.424900+00:00",
  "games": {
   "BOS@TOR": [
    {
+    "player": "Paul George",
+    "team": "BOS",
+    "status": "Out",
+    "note": "George (illness) has been ruled out for Wednesday's game against Toronto, Taylor Snow of the Celtics' official site reports."
+   },
+   {
     "player": "Trayce Jackson-Davis",
     "team": "TOR",
-    "status": "Day-To-Day",
-    "note": "Jackson-Davis is questionable for Wednesday's game against Boston with an illness."
+    "status": "Out",
+    "note": "Jackson-Davis (illness) has been ruled out for Wednesday's game against the Celtics, Blake Murphy of Sportsnet.ca reports."
    },
    {
     "player": "Collin Murray-Boyles",
@@ -53,10 +59,16 @@
     "note": "Tyson (ankle) is questionable to face the Knicks on Wednesday."
    },
    {
+    "player": "Karl-Anthony Towns",
+    "team": "NY",
+    "status": "Day-To-Day",
+    "note": "Towns (calf) is listed as questionable for Wednesday's game against Cleveland."
+   },
+   {
     "player": "Josh Hart",
     "team": "NY",
     "status": "Out",
-    "note": "Hart (illness) won't play Tuesday against the Bucks, Kristian Winfield of the New York Daily News reports."
+    "note": "Hart (illness) is probable for Wednesday's game against the Cavaliers."
    }
   ],
   "WSH@IND": [
@@ -121,12 +133,6 @@
     "team": "BKN",
     "status": "Day-To-Day",
     "note": "Traore (calf) is listed as questionable for Wednesday's game against New Orleans."
-   },
-   {
-    "player": "Egor Demin",
-    "team": "BKN",
-    "status": "Out",
-    "note": "Demin (leg) is probable for Wednesday's game against the Pelicans, Erik Slater of ClutchPoints.com reports."
    },
    {
     "player": "Bennedict Mathurin",

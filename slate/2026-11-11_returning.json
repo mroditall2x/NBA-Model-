@@ -17,13 +17,22 @@
    "final_min": 17.9
   }
  ],
+ "BKN": [
+  {
+   "player": "Egor Demin",
+   "missed": 6,
+   "normal_min": 22.9,
+   "proj_min": 20.6,
+   "final_min": 21.8
+  }
+ ],
  "TOR": [
   {
    "player": "Immanuel Quickley",
    "missed": 2,
-   "normal_min": 33.5,
-   "proj_min": 30.1,
-   "final_min": 34.5
+   "normal_min": 33.9,
+   "proj_min": 30.5,
+   "final_min": 34.3
   }
  ]
 }
