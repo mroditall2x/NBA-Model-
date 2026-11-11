@@ -29,6 +29,11 @@ PROP = {'player_points': ('PTS', 'Points'), 'player_rebounds': ('REB', 'Rebounds
         'player_threes': ('3PM', 'Three Pointers'), 'player_points_alternate': ('PTS_ALT', 'Points Alt'),
         'player_first_basket': ('FB', 'First Basket')}
 DFS = {'prizepicks', 'underdog'}
+EXCH = {'novig', 'kalshi'}   # exchanges (11/10): saved to exch_props.json as places to bet, kept OUT of the market average
+# props are pulled by bookmaker list instead of regions=us,us_dfs: up to 20 books = 2 regions = same credits as before.
+# Same books the us + us_dfs pull returned, plus Novig and Kalshi (us_ex). Override with PROP_BOOKS=a,b,c
+PROP_BOOKS = os.environ.get('PROP_BOOKS') or ('draftkings,fanduel,betmgm,williamhill_us,fanatics,betrivers,bovada,betonlineag,mybookieag,'
+                                             'lowvig,betus,prizepicks,underdog,parlayplay,dabble_us_dfs,pick6,novig,kalshi')
 
 def get(url):
     with urllib.request.urlopen(url, timeout=60) as r:
@@ -78,11 +83,14 @@ if MERGE and os.path.exists(f'{D}/lines.json'):      # finished games drop off t
 json.dump({'games': out}, open(f'{D}/lines.json', 'w'), indent=1)
 print(f'{len(out)} games ->', f'{D}/lines.json')
 
-props_txt, compact, alt_rows, fb = [], [], [], {}
+props_txt, compact, alt_rows, fb, exch = [], [], [], {}, {}
 for g in out:
     if not (PROPS_ALL or {g['home'], g['away']} & PROPS_TEAMS): continue
     gk = f"{g['away']}@{g['home']}"
-    ev = get(f"{BASE}/events/{g['id']}/odds?apiKey={KEY}&regions=us,us_dfs&markets={','.join(PROP)}&oddsFormat=american")
+    try: ev = get(f"{BASE}/events/{g['id']}/odds?apiKey={KEY}&bookmakers={PROP_BOOKS}&markets={','.join(PROP)}&oddsFormat=american")
+    except Exception as e:   # e.g. a bookmaker key the API no longer knows -> the old regions pull (no exchanges)
+        print('bookmaker-list props pull failed (', e, ') -> regions=us,us_dfs')
+        ev = get(f"{BASE}/events/{g['id']}/odds?apiKey={KEY}&regions=us,us_dfs&markets={','.join(PROP)}&oddsFormat=american")
     raw['props'][gk] = ev
     lines = {}   # (player, market) -> {line: [(over, under)], 'dfs': [lines]}
     for b in ev.get('bookmakers', []):
@@ -90,6 +98,10 @@ for g in out:
             for o in m['outcomes']:
                 key = (o.get('description'), m['key']); L = o.get('point')
                 if key[0] is None or L is None: continue
+                if b['key'] in EXCH:
+                    if m['key'] in PROP and PROP[m['key']][0] not in ('PTS_ALT', 'FB'):
+                        exch.setdefault((gk, key[0], PROP[m['key']][1], L, b['key']), {})[o['name']] = o['price']
+                    continue
                 d = lines.setdefault(key, {'book': {}, 'dfs': set()})
                 if b['key'] in DFS: d['dfs'].add(L); continue
                 if abs(o['price']) >= 100: d['book'].setdefault(L, {}).setdefault(b['key'], {})[o['name']] = o['price']
@@ -126,12 +138,17 @@ for g in out:
             compact.append([gk, player, label, str(pp), '-119', '-119', str(pp), '', ''])
 if not raw['props']: print('game lines only - keeping the props already pulled')
 else:
+  exch_old = []
   if MERGE:
     hit = set(raw['props'])
     if os.path.exists(f'{D}/props_p1.txt'): props_txt = [l for l in open(f'{D}/props_p1.txt').read().splitlines() if l and l.split('|')[0] not in hit] + props_txt
     if os.path.exists(f'{D}/pp_compact.json'): compact = [r for r in json.load(open(f'{D}/pp_compact.json')) if r[0] not in hit] + compact
     if os.path.exists(f'{D}/pts_alt.json'): alt_rows = [r for r in json.load(open(f'{D}/pts_alt.json')) if r[0] not in hit] + alt_rows
     if os.path.exists(f'{D}/fb_odds.json'): fb = {**json.load(open(f'{D}/fb_odds.json')), **fb}
+    if os.path.exists(f'{D}/exch_props.json'): exch_old = [r for r in json.load(open(f'{D}/exch_props.json')) if r[0] not in hit]
+  ex_rows = exch_old + [[gk_, pl, lab, L, bk, v.get('Over'), v.get('Under')] for (gk_, pl, lab, L, bk), v in exch.items()]
+  json.dump(ex_rows, open(f'{D}/exch_props.json', 'w'))
+  print('exchange prop prices:', {bk: sum(1 for r in ex_rows if r[4] == bk) for bk in sorted(EXCH)}, '->', f'{D}/exch_props.json')
   open(f'{D}/props_p1.txt', 'w').write('\n'.join(props_txt) + '\n')
   json.dump(compact, open(f'{D}/pp_compact.json', 'w'))
   json.dump(alt_rows, open(f'{D}/pts_alt.json', 'w'))

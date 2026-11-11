@@ -71,15 +71,28 @@ if 'pp_line' not in card: card['pp_line']=None
 # 11/10 price check (Deon): judge each pick at the price it would actually be played at.
 #  - book side -200 or shorter: PrizePicks pulls props that juiced, so it's books only at that price
 #  - book side -120 to -199 and PrizePicks hangs the same line: played on PrizePicks/Underdog (~-120, the DFS break-even)
-#  - no book price (DFS-only line): unchanged
+#  - Novig / Kalshi on the same line (exchanges, no vig): used when they pay more (Deon plays juiced Unders there)
+#  - no price anywhere (DFS-only line): unchanged
 # then drop standard picks whose EV at that price is below 0 (replay 10/28-11/09: +12% / +7% ROI vs +3% / -1%, both periods).
+_EX={}   # Novig / Kalshi prices on the exact line (fetch_lines.py -> exch_props.json, 11/10)
+if os.path.exists(f'{D}/exch_props.json'):
+    for _g,_pl,_lab,_L,_bk,_o,_u in json.load(open(f'{D}/exch_props.json')):
+        try: _EX.setdefault((_g,_pl,_AB.get(_lab,_lab),float(_L)),{})[_bk]=(_o,_u)
+        except Exception: pass
+_BK={'novig':'Novig','kalshi':'Kalshi'}
+def _pay(a): return a/100 if a>0 else 100/-a
 def _play(r):
-    bp=r.price
-    if bp is None or bp!=bp: return bp,r.where
-    if bp<=-200: return bp,'books only (too juiced for PrizePicks)'
-    _pl=r.pp_line
-    if r.type=='PP standard' and _pl==_pl and _pl is not None and float(_pl)==float(r.line) and bp<-120: return -120.0,'PrizePicks / Underdog'
-    return bp,r.where
+    """best place to play this side: books, PrizePicks/Underdog (~-120, only if not juiced to -200), Novig, Kalshi"""
+    bp=r.price; c=[]
+    if bp==bp and bp is not None:
+        c.append((bp,'books only (too juiced for PrizePicks)' if bp<=-200 else r.where))
+        _pl=r.pp_line
+        if bp>-200 and r.type=='PP standard' and _pl==_pl and _pl is not None and float(_pl)==float(r.line) and bp<-120: c.append((-120.0,'PrizePicks / Underdog'))
+    for bk,(o,u) in _EX.get((r.game,r.player,r.stat,float(r.line)),{}).items():
+        v=o if r.side=='More' else u
+        if v is not None and v==v and abs(v)>=100: c.append((float(v),_BK.get(bk,bk)))
+    if not c: return bp,r.where                                    # DFS-only line, no price anywhere: unchanged
+    return max(c,key=lambda x:_pay(x[0]))
 _pw=[_play(r) for r in card.itertuples()]
 card['price']=[a for a,_ in _pw]; card['where']=[w for _,w in _pw]
 # p is the win chance when the bet has action, so on whole-number lines EV is scaled by the chance it doesn't push

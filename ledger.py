@@ -183,7 +183,7 @@ def report():
     if L.empty: print('ledger empty'); return
     L = L.sort_values(['date', 'posted_at', 'logged_at'], na_position='first')
     L['stat_group'] = L.stat.map(lambda s: 'points' if s in ('PTS', 'PA', 'PR', 'PRA') else 'reb/ast' if s in ('REB', 'AST', 'RA') else 'other')
-    L['price_basis'] = L.price_src.map({'book': 'real book price', 'assumed_dfs': 'DFS (-120 assumed)', 'none': 'no price (goblin / untagged)'})
+    L['price_basis'] = L.price_src.map({'book': 'real price (book or exchange)', 'assumed_dfs': 'DFS (-120 assumed)', 'none': 'no price (goblin / untagged)'})
     out = [f'# Model performance\n\n_Updated {now()} CT from `bet_ledger.csv`. Flat 1 unit per pick. '
            'Rows are never deleted or edited, losses and voids included._\n']
     for name, x in (('Live (logged at grading, from the day this tracker started)', L[L.source == 'live']),
