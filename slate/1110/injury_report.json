@@ -1,18 +1,12 @@
 {
- "checked": "2026-11-10T23:22:32.599806+00:00",
+ "checked": "2026-11-11T00:22:31.567457+00:00",
  "games": {
   "MIL@NY": [
    {
-    "player": "Kel'el Ware",
-    "team": "MIL",
-    "status": "Day-To-Day",
-    "note": "Ware is questionable for Tuesday's game against the Knicks due to a left ankle sprain."
-   },
-   {
     "player": "Tyler Herro",
     "team": "MIL",
-    "status": "Day-To-Day",
-    "note": "Herro (contusion) is listed as questionable for Tuesday's game against the Knicks."
+    "status": "Out",
+    "note": "Herro (knee) is listed as out for Tuesday's game against New York."
    },
    {
     "player": "Josh Hart",

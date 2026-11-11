@@ -1,13 +1,13 @@
 game,team,player,combo,chance,fair_odds,min,min_bump,why,avg,size,special
 OKC@POR,OKC,Isaiah Hartenstein,10+ pts & 13+ reb,0.152,+560,29.7,-2.2,Jalen Williams out,11.0 reb / 3.8 ast / 9.8 pts,23,True
-BOS@PHI,PHI,Joel Embiid,20+ pts & 10+ reb,0.13,+669,29.6,3.6,+4 min,8.5 reb / 2.8 ast / 17.4 pts,30,True
+MIA@UTAH,MIA,Giannis Antetokounmpo,30+ pts & 14+ reb,0.133,+653,33.1,3.3,+3 min,11.8 reb / 5.5 ast / 28.3 pts,44,True
+BOS@PHI,PHI,Joel Embiid,20+ pts & 10+ reb,0.131,+665,29.8,3.6,+4 min,8.6 reb / 2.8 ast / 17.5 pts,30,True
 OKC@POR,POR,Damian Lillard,25+ pts & 6+ ast,0.124,+707,33.2,-3.5,Ja Morant out,3.9 reb / 4.9 ast / 20.7 pts,31,True
-MIA@UTAH,UTAH,Darryn Peterson,25+ pts & 6+ ast,0.121,+726,35.9,2.2,"Keyonte George, Lauri Markkanen out",4.7 reb / 5.2 ast / 19.5 pts,31,True
-MIA@UTAH,MIA,Davion Mitchell,15+ pts & 9+ ast,0.11,+808,34.6,3.3,+3 min,2.7 reb / 7.6 ast / 11.9 pts,24,True
-MIA@UTAH,UTAH,Jaxson Hayes,15+ pts & 2+ ast,0.11,+811,26.4,2.1,"Keyonte George, Lauri Markkanen out",6.6 reb / 1.7 ast / 10.5 pts,17,True
-OKC@POR,POR,Donovan Clingan,15+ pts & 13+ reb,0.102,+884,28.8,1.0,Ja Morant out,11.1 reb / 1.6 ast / 11.7 pts,28,True
-MIA@UTAH,MIA,Klay Thompson,20+ pts & 2+ ast,0.102,+879,24.4,3.6,+4 min,2.2 reb / 1.8 ast / 13.1 pts,22,True
-ORL@SAC,ORL,Anthony Black,20+ pts & 5+ ast,0.101,+887,28.7,7.5,+8 min,4.1 reb / 4.2 ast / 14.4 pts,25,True
-OKC@POR,POR,Deni Avdija,30+ pts & 8+ reb,0.097,+931,35.5,-0.6,Ja Morant out,7.0 reb / 5.8 ast / 23.7 pts,38,True
-ORL@SAC,ORL,Anthony Black,20+ pts & 5+ reb,0.096,+943,28.7,7.5,+8 min,4.1 reb / 4.2 ast / 14.4 pts,25,True
-OKC@POR,POR,Deni Avdija,30+ pts & 7+ ast,0.093,+970,35.5,-0.6,Ja Morant out,7.0 reb / 5.8 ast / 23.7 pts,37,True
+MIA@UTAH,UTAH,Ace Bailey,20+ pts & 8+ reb,0.118,+745,34.5,-4.7,"Keyonte George, Lauri Markkanen out",6.2 reb / 2.6 ast / 17.6 pts,28,True
+MIA@UTAH,UTAH,Darryn Peterson,25+ pts & 6+ ast,0.118,+748,35.8,1.9,"Keyonte George, Lauri Markkanen out",4.8 reb / 5.3 ast / 19.7 pts,31,True
+MIA@UTAH,UTAH,Jaxson Hayes,15+ pts & 2+ ast,0.112,+793,26.5,1.8,"Keyonte George, Lauri Markkanen out",6.6 reb / 1.7 ast / 10.6 pts,17,True
+MIL@NY,MIL,Jaime Jaquez Jr.,20+ pts & 6+ reb,0.11,+812,30.7,-0.9,Tyler Herro out,5.1 reb / 3.8 ast / 15.3 pts,26,True
+MIL@NY,MIL,Ryan Rollins,20+ pts & 6+ ast,0.109,+817,30.0,0.3,Tyler Herro out,4.2 reb / 5.0 ast / 14.4 pts,26,True
+MIA@UTAH,MIA,Pelle Larsson,15+ pts & 4+ ast,0.109,+816,30.1,3.9,+4 min,3.7 reb / 3.5 ast / 10.9 pts,19,True
+MIL@NY,MIL,Ryan Rollins,20+ pts & 5+ reb,0.104,+863,30.0,0.3,Tyler Herro out,4.2 reb / 5.0 ast / 14.4 pts,25,True
+MIA@UTAH,MIA,Davion Mitchell,15+ pts & 9+ ast,0.104,+857,34.8,4.1,+4 min,2.8 reb / 7.4 ast / 11.7 pts,24,True
