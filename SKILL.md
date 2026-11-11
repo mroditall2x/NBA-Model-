@@ -754,3 +754,10 @@ if __name__ == '__main__':
 - Deon SGP cashed: Clingan PR <23, Boozer 4+ AST (12), Under 232.5 -> $117 on $25.
 - Lessons: missing props != OUT (Boozer had no posted props but played 12 ast) — check ESPN injury feed instead. Outlier EV+ tag on an underdog ML is a signal worth tracking ('EV+ dog' category).
 - Line movement rule (Deon 10/30, spreads, totals, moneylines and props): ML = 3+ pts of no-vig win prob. snapshot lines in the morning (gh/line_moves.py snap) and re-check before tip. A move of 1+ pt (0.5 on prop lines under 5) AGAINST the model's side = drop the leg or follow the market if tied to injury news; a move TOWARD the model = keep. Log open vs close on every pick.
+
+## Tracking + quality checks (added 11/10/26)
+- `bet_ledger.csv` = the official record. Every card pick, appended at grading (`ledger.py add`, called by grade_day.py), with posted time (`card_stamps.csv`), price, app, result and flat 1-unit units. Append-only: never edit or delete rows; re-grades that disagree go to `ledger_issues.csv` + email. DFS lines with no book price count at -120; goblins get win rate only. History before 11/10 is backfilled (source=backfill).
+- `performance.md` = record, units, ROI, cumulative profit, max drawdown (live vs history, by price basis/tier/stat/side/top-5). Rebuilt after every grade.
+- `model_report.md` = where the model is wrong (calibration buckets, stat, side, tier, line size, projection bias, price check, repeat players, out-of-sample calibration test). REPORT ONLY. A change needs a LIKELY REAL pattern + an out-of-sample pass + Deon's OK.
+- `data_check.py` runs inside run_day.py before the card: warns (card banner `data_warnings.txt` + one email) on box scores behind, injury feed failed, lines for wrong date or 5h+ old, no props. `STRICT_DATA=1` stops the build when box scores are 2+ game days behind.
+- EV on whole-number lines is scaled by (1 - p_push) (board_all.csv now has p_push). Card picks/ranking unchanged (ranked by p).

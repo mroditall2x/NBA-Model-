@@ -1,0 +1,454 @@
+date,game,player,stat,side,line,team,tier,top,model_p,price,price_src,book,posted_at,actual,result,units,source,logged_at,flag
+2026-10-20,BOS@DET,Ausar Thompson,REB,Less,6.5,,untiered,,,,none,,,11.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-20,BOS@DET,Jayson Tatum,REB,Less,8.5,,untiered,,,,none,,,4.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-20,BOS@DET,Paul Reed,REB,Less,5.0,,untiered,,,-120.0,assumed_dfs,,,6.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS); no model_p (pre-calibration log)
+2026-10-20,BOS@DET,Baylor Scheierman,REB,Less,3.5,,untiered,,,,none,,,3.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-20,BOS@DET,Neemias Queta,REB,Less,7.5,,untiered,,,,none,,,4.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-20,BOS@DET,Ausar Thompson,PR,Less,16.5,,untiered,,,,none,,,22.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-20,BOS@DET,Jayson Tatum,PR,Less,35.5,,untiered,,,,none,,,17.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-20,BOS@DET,Paul Reed,PR,Less,13.0,,untiered,,,-120.0,assumed_dfs,,,12.0,Win,0.833,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS); no model_p (pre-calibration log)
+2026-10-20,BOS@DET,Neemias Queta,PR,Less,16.5,,untiered,,,,none,,,7.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-20,BOS@DET,Ausar Thompson,RA,Less,10.0,,untiered,,,-120.0,assumed_dfs,,,16.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS); no model_p (pre-calibration log)
+2026-10-20,BOS@DET,Jayson Tatum,RA,Less,14.5,,untiered,,,,none,,,15.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-20,BOS@DET,Paul Reed,RA,Less,6.5,,untiered,,,,none,,,8.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-20,BOS@DET,Ausar Thompson,PRA,Less,20.5,,untiered,,,,none,,,27.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-20,BOS@DET,Jayson Tatum,PRA,Less,41.5,,untiered,,,,none,,,28.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-20,BOS@DET,Paul Reed,PRA,Less,14.5,,untiered,,,,none,,,14.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-20,BOS@DET,Ausar Thompson,PTS,Less,10.0,,untiered,,,-120.0,assumed_dfs,,,11.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS); no model_p (pre-calibration log)
+2026-10-20,BOS@DET,Paul Reed,PTS,Less,7.5,,untiered,,,,none,,,6.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-20,BOS@DET,Jayson Tatum,AST,Less,6.0,,untiered,,,-120.0,assumed_dfs,,,11.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS); no model_p (pre-calibration log)
+2026-10-20,BOS@DET,Paul Reed,AST,Less,1.5,,untiered,,,,none,,,2.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-20,BOS@DET,Ausar Thompson,PA,Less,13.5,,untiered,,,,none,,,16.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-20,BOS@DET,Jayson Tatum,PA,Less,33.0,,untiered,,,-120.0,assumed_dfs,,,24.0,Win,0.833,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS); no model_p (pre-calibration log)
+2026-10-20,BOS@DET,Paul Reed,PA,Less,9.5,,untiered,,,,none,,,8.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-20,BOS@DET,Ausar Thompson,BLK,Less,1.5,,untiered,,,,none,,,0.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-20,BOS@DET,Duncan Robinson,STL,Less,0.5,,untiered,,,,none,,,1.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-20,BOS@DET,Jayson Tatum,STL,Less,1.5,,untiered,,,,none,,,0.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-20,BOS@DET,Sam Hauser,STL,Less,0.5,,untiered,,,,none,,,0.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-20,BOS@DET,Baylor Scheierman,STL,Less,0.5,,untiered,,,,none,,,1.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-20,BOS@DET,Ausar Thompson,STL+BLK,Less,3.5,,untiered,,,,none,,,1.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-20,PHI@NY,Karl-Anthony Towns,PTS,More,18.0,,untiered,,,-120.0,assumed_dfs,,,19.0,Win,0.833,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS); no model_p (pre-calibration log)
+2026-10-20,PHI@NY,Joel Embiid,PTS,Less,22.0,,untiered,,,-120.0,assumed_dfs,,,13.0,Win,0.833,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS); no model_p (pre-calibration log)
+2026-10-20,PHI@NY,Andre Drummond,PTS,Less,5.5,,untiered,,,,none,,,12.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-20,PHI@NY,Karl-Anthony Towns,AST,Less,5.0,,untiered,,,-120.0,assumed_dfs,,,1.0,Win,0.833,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS); no model_p (pre-calibration log)
+2026-10-20,PHI@NY,Joel Embiid,AST,Less,3.5,,untiered,,,,none,,,6.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-20,PHI@NY,LeBron James,AST,Less,7.5,,untiered,,,,none,,,7.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-20,PHI@NY,Joel Embiid,PA,Less,25.5,,untiered,,,,none,,,19.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-20,PHI@NY,LeBron James,PA,Less,23.5,,untiered,,,,none,,,21.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-20,PHI@NY,Jaylen Brown,REB,More,5.5,,untiered,,,,none,,,8.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-20,PHI@NY,Joel Embiid,PR,Less,30.0,,untiered,,,-120.0,assumed_dfs,,,24.0,Win,0.833,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS); no model_p (pre-calibration log)
+2026-10-20,PHI@NY,Andre Drummond,PR,Less,12.5,,untiered,,,,none,,,26.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-20,PHI@NY,LeBron James,RA,Less,14.0,,untiered,,,-120.0,assumed_dfs,,,16.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS); no model_p (pre-calibration log)
+2026-10-20,PHI@NY,Joel Embiid,PRA,Less,34.0,,untiered,,,-120.0,assumed_dfs,,,30.0,Win,0.833,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS); no model_p (pre-calibration log)
+2026-10-20,PHI@NY,LeBron James,PRA,Less,29.5,,untiered,,,,none,,,30.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-20,OKC@SA,Cason Wallace,REB,Less,3.5,,untiered,,,,none,,,3.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-20,OKC@SA,Jared McCain,REB,Less,2.5,,untiered,,,,none,,,2.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-20,OKC@SA,Cason Wallace,PR,Less,13.5,,untiered,,,,none,,,9.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-20,OKC@SA,Jared McCain,PR,Less,11.5,,untiered,,,,none,,,22.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-20,OKC@SA,Cason Wallace,RA,Less,6.5,,untiered,,,,none,,,5.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-20,OKC@SA,Jared McCain,RA,Less,3.5,,untiered,,,,none,,,4.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-20,OKC@SA,Isaiah Hartenstein,RA,More,10.5,,untiered,,,,none,,,6.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-20,OKC@SA,Cason Wallace,PRA,Less,16.5,,untiered,,,,none,,,11.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-20,OKC@SA,Jared McCain,PRA,Less,13.5,,untiered,,,,none,,,24.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-20,OKC@SA,Cason Wallace,PTS,Less,9.5,,untiered,,,,none,,,6.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-20,OKC@SA,Jared McCain,PTS,Less,10.0,,untiered,,,-120.0,assumed_dfs,,,20.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS); no model_p (pre-calibration log)
+2026-10-20,OKC@SA,Cason Wallace,AST,Less,2.5,,untiered,,,,none,,,2.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-20,OKC@SA,Cason Wallace,PA,Less,12.5,,untiered,,,,none,,,8.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-20,OKC@SA,Jared McCain,PA,Less,11.5,,untiered,,,,none,,,22.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-21,IND@NO,Andrew Nembhard,STL,Less,1.5,,70+,,0.8180000000000001,,none,,,1.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-21,IND@NO,Pascal Siakam,STL,Less,1.5,,70+,,0.786,,none,,,1.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-21,SAC@LAC,Zach LaVine,REB,Less,3.5,,70+,,0.753,,none,,,4.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-21,CHI@TOR,Jakob Poeltl,AST,Less,2.5,,70+,,0.737,,none,,,0.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-21,CHA@BKN,Moussa Diabaté,PR,More,15.5,,70+,,0.728,,none,,,25.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-21,ATL@ORL,Dyson Daniels,REB,Less,7.0,,70+,,0.723,-120.0,assumed_dfs,,,4.0,Win,0.833,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS)
+2026-10-21,SAC@LAC,De'Andre Hunter,REB,Less,4.5,,70+,,0.72,,none,,,3.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-21,PHX@POR,Donovan Clingan,RA,Less,13.5,,70+,,0.71,,none,,,9.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-21,SAC@LAC,Darius Garland,STL,Less,1.5,,70+,,0.71,,none,,,1.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-21,ATL@ORL,Jalen Johnson,REB,Less,10.0,,70+,,0.7050000000000001,-120.0,assumed_dfs,,,14.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS)
+2026-10-21,UTAH@MEM,Lauri Markkanen,REB,More,6.5,,65-70,,0.698,,none,,,9.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-21,SAC@LAC,Isaiah Jackson,RA,Less,9.0,,65-70,,0.692,-120.0,assumed_dfs,,,5.0,Win,0.833,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS)
+2026-10-21,DAL@HOU,Alperen Şengün,REB,Less,9.0,,65-70,,0.692,-120.0,assumed_dfs,,,10.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS)
+2026-10-21,IND@NO,Derik Queen,SB,Less,1.5,,65-70,,0.69,,none,,,2.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-21,IND@NO,Obi Toppin,REB,Less,4.5,,65-70,,0.688,,none,,,3.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-21,CHI@TOR,Scottie Barnes,BLK,Less,1.5,,65-70,,0.681,,none,,,0.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-21,MIN@MIA,Rudy Gobert,REB,Less,11.5,,65-70,,0.669,,none,,,15.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-21,GS@LAL,Luka Dončić,AST,More,7.5,,65-70,,0.66,,none,,,7.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-21,DAL@HOU,Jabari Smith Jr.,SB,Less,1.5,,65-70,,0.657,,none,,,2.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-21,IND@NO,Jarace Walker,AST,Less,2.5,,65-70,,0.657,,none,,,2.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-21,ATL@ORL,Jalen Suggs,RA,More,7.5,,65-70,,0.656,,none,,,8.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-21,DAL@HOU,Cooper Flagg,AST,More,5.0,,65-70,,0.651,-120.0,assumed_dfs,,,2.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS)
+2026-10-21,MIN@MIA,Anthony Edwards,REB,Less,5.0,,62-65,,0.65,-120.0,assumed_dfs,,,10.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS)
+2026-10-21,DAL@HOU,P.J. Washington,BLK,More,0.5,,62-65,,0.648,,none,,,1.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-21,DAL@HOU,Kevin Durant,PRA,Less,33.5,,62-65,,0.646,,none,,,39.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-21,CHI@TOR,Immanuel Quickley,AST,Less,6.0,,62-65,,0.645,-120.0,assumed_dfs,,,7.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS)
+2026-10-21,PHX@POR,Deni Avdija,PA,Less,27.0,,62-65,,0.643,-120.0,assumed_dfs,,,22.0,Win,0.833,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS)
+2026-10-21,PHX@POR,Toumani Camara,RA,Less,6.5,,62-65,,0.64,,none,,,5.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-21,UTAH@MEM,Ace Bailey,RA,More,6.0,,62-65,,0.633,-120.0,assumed_dfs,,,8.0,Win,0.833,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS)
+2026-10-21,PHX@POR,Devin Booker,REB,Less,4.0,,62-65,,0.629,-120.0,assumed_dfs,,,4.0,Push,0.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS)
+2026-10-21,ATL@ORL,Jock Landale,AST,Less,1.5,,62-65,,0.629,,none,,,3.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-21,IND@NO,Jeremiah Fears,RA,Less,5.5,,62-65,,0.628,,none,,,4.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-21,MIL@WSH,Tre Johnson,PTS,More,9.5,,62-65,,0.624,,none,,,8.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-21,ATL@ORL,Nickeil Alexander-Walker,PR,Less,22.5,,62-65,,0.62,,none,,,35.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-22,CLE@PHI,LeBron James,AST,Less,7.5,,70+,,0.717,,none,,,5.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-22,DEN@OKC,Jamal Murray,AST,Less,6.5,,65-70,,0.681,,none,,,3.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-22,DEN@OKC,Nikola Jokić,AST,Less,10.0,,65-70,,0.658,,none,,,5.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-22,DEN@OKC,Jalen Williams,REB,Less,5.0,,65-70,,0.652,,none,,,5.0,Push,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-22,CLE@PHI,Joel Embiid,REB,More,8.0,,62-65,,0.629,,none,,,7.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-22,CLE@PHI,LeBron James,PTS,More,14.5,,62-65,,0.627,,none,,,17.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-22,CLE@PHI,Jaylen Brown,PRA,More,30.0,,62-65,,0.608,,none,,,33.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-23,POR@SAC,Zach LaVine,REB,Less,3.5,,clean,,,,none,,,5.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-23,DET@MIA,Jalen Duren,RA,Less,12.0,,clean,,,,none,,,9.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-23,MIN@ORL,Rudy Gobert,RA,Less,13.5,,clean,,,,none,,,10.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-23,CHI@MIL,Kyle Kuzma,RA,Less,7.5,,clean,,,,none,,,13.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-23,POR@SAC,Ja Morant,RA,Less,9.5,,clean,,,,none,,,10.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-23,NY@BOS,Jayson Tatum,RA,Less,15.5,,clean,,,,none,,,16.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-23,CHI@MIL,Myles Turner,RA,Less,7.5,,clean,,,,none,,,4.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-23,DET@MIA,Duncan Robinson,STL,Less,0.5,,clean,,,,none,,,2.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-23,LAC@LAL,Derrick Jones Jr.,AST,Less,1.5,,clean,,,,none,,,1.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-23,POR@SAC,De'Andre Hunter,RA,Less,5.5,,clean,,,,none,,,8.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-23,TOR@WSH,Jakob Poeltl,PTS,More,3.5,,goblin,,,,none,,,6.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-23,ATL@CHA,Moussa Diabaté,PTS,More,3.5,,goblin,,,,none,,,5.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-23,ATL@CHA,Dyson Daniels,RA,More,7.5,,goblin,,,,none,,,13.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-23,NY@BOS,Jayson Tatum,PTS,More,17.5,,goblin,,,,none,,,36.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-23,DET@MIA,Andrew Wiggins,RA,More,3.5,,goblin,,,,none,,,10.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-23,POR@SAC,Jrue Holiday,PR,More,8.5,,goblin,,,,none,,,14.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-23,NO@UTAH,Jaxson Hayes,PR,More,8.5,,goblin,,,,none,,,22.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-23,DET@MIA,Andrew Wiggins,Stl+Blk,More,2.5,,demon,,,,none,,,1.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-23,HOU@SA,Jabari Smith Jr.,BLK,More,0.5,,demon,,,,none,,,2.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-23,POR@SAC,Ja Morant,AST,More,6.5,,deon,,,,none,,,7.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-23,NY@BOS,Andre Drummond,BLK,More,0.5,,deon-drummond,,,,none,,,0.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-23,NY@BOS,Andre Drummond,REB,More,7.5,,deon-drummond,,,,none,,,2.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-23,,Andre Drummond,FTM,More,0.5,,deon-drummond,,,,none,,,0.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-23,DAL@IND,Tyrese Haliburton,RA,More,13.5,,slip,,,,none,,,13.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-23,TOR@WSH,Trae Young,RA,More,12.5,,slip,,,,none,,,13.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-23,,Ausar Thompson,FS,More,30.0,,slip,,,,none,,,16.6,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-23,HOU@SA,Fred VanVleet,AST,More,6.5,,slip,,,,none,,,5.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-24,,Jarrett Allen,BLK,Less,1.5,,standard,,,-120.0,assumed_dfs,,,1.0,Win,0.833,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS); no model_p (pre-calibration log)
+2026-10-24,,Tyrese Maxey,Stl+Blk,More,1.5,,standard,,,-120.0,assumed_dfs,,,0.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS); no model_p (pre-calibration log)
+2026-10-24,,Michael Porter Jr.,STL,Less,1.5,,standard,,,-120.0,assumed_dfs,,,4.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS); no model_p (pre-calibration log)
+2026-10-24,,Alex Sarr,BLK,Less,1.5,,standard,,,-120.0,assumed_dfs,,,3.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS); no model_p (pre-calibration log)
+2026-10-24,,Stephon Castle,AST,More,6.0,,standard,,,-120.0,assumed_dfs,,,8.0,Win,0.833,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS); no model_p (pre-calibration log)
+2026-10-24,,Onyeka Okongwu,BLK,More,0.5,,standard,,,-120.0,assumed_dfs,,,1.0,Win,0.833,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS); no model_p (pre-calibration log)
+2026-10-24,,Dylan Harper,AST,More,4.0,,standard,,,-120.0,assumed_dfs,,,2.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS); no model_p (pre-calibration log)
+2026-10-24,,Trae Young,AST,Less,11.0,,standard,,,-120.0,assumed_dfs,,,9.0,Win,0.833,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS); no model_p (pre-calibration log)
+2026-10-24,,Kyshawn George,STL,More,0.5,,standard,,,-120.0,assumed_dfs,,,0.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS); no model_p (pre-calibration log)
+2026-10-24,,Donovan Mitchell,AST,More,4.5,,standard,,,-120.0,assumed_dfs,,,4.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS); no model_p (pre-calibration log)
+2026-10-24,,Stephon Castle,AST,More,3.5,,goblin,,,,none,,,8.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-24,,Dylan Harper,RA,More,5.5,,goblin,,,,none,,,7.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-24,,Onyeka Okongwu,Stl+Blk,More,0.5,,goblin,,,,none,,,2.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-24,,Andrew Wiggins,Stl+Blk,More,0.5,,goblin,,,,none,,,3.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-24,,Tyrese Maxey,STL,More,0.5,,goblin,,,,none,,,0.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-24,,Sion James,RA,More,3.5,,goblin,,,,none,,,10.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-24,,Day'Ron Sharpe,PTS,More,5.5,,goblin,,,,none,,,7.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-24,,Evan Mobley,REB,More,5.5,,goblin,,,,none,,,10.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-24,,Max Christie,REB,More,1.5,,goblin,,,,none,,,5.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-24,,Dyson Daniels,AST,More,2.5,,goblin,,,,none,,,3.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-24,,Nikola Jokić,Stl+Blk,More,2.5,,demon,,,,none,,,5.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-24,,Donovan Mitchell,Stl+Blk,More,1.5,,demon,,,,none,,,2.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-24,,Kyle Kuzma,STL,More,0.5,,demon,,,,none,,,0.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-24,,Josh Giddey,PRA,More,30.5,,demon,,,,none,,,27.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-24,,Onyeka Okongwu,Stl+Blk,More -105,1.5,,alt,,,,none,,,2.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-24,,Dylan Harper,RA,More -115,8.5,,alt,,,,none,,,7.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-24,,Day'Ron Sharpe,PTS,More -120,9.5,,alt,,,,none,,,7.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-24,,Tyrese Maxey,STL,More +140,1.5,,alt,,,,none,,,0.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-24,,Stephon Castle,RA,More +100,11.5,,alt,,,,none,,,12.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-24,,Andrew Wiggins,Stl+Blk,More -119,1.5,,alt,,,,none,,,3.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-24,,Stephon Castle,AST,More +130,6.5,,alt,,,,none,,,8.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-24,,Collin Gillespie,RA,More +105,6.5,,alt,,,,none,,,13.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-24,,Devin Booker,AST,More +105,5.5,,alt,,,,none,,,7.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-24,,Evan Mobley,PRA,More -161,19.5,,alt,,,,none,,,34.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-24,,Stephon Castle,AST,More +252,7.5,,alt,,,,none,,,8.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-24,,Dylan Harper,AST,More +141,4.5,,alt,,,,none,,,2.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-24,,Collin Gillespie,RA,More +170,7.5,,alt,,,,none,,,13.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-24,,Devin Booker,AST,More +194,6.5,,alt,,,,none,,,7.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-25,,Day'Ron Sharpe,REB,Less,9.5,,standard,,,-120.0,assumed_dfs,,,4.0,Win,0.833,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS); no model_p (pre-calibration log)
+2026-10-25,,Terrence Shannon Jr.,REB,Less,2.5,,standard,,,-120.0,assumed_dfs,,,4.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS); no model_p (pre-calibration log)
+2026-10-25,,De'Andre Hunter,REB,Less,4.0,,standard,,,-120.0,assumed_dfs,,,6.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS); no model_p (pre-calibration log)
+2026-10-25,,Karl-Anthony Towns,AST,Less,3.5,,standard,,,-120.0,assumed_dfs,,,4.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS); no model_p (pre-calibration log)
+2026-10-25,,Zach LaVine,AST,More,2.5,,standard,,,-120.0,assumed_dfs,,,5.0,Win,0.833,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS); no model_p (pre-calibration log)
+2026-10-25,,Jakob Poeltl,RA,Less,9.5,,standard,,,-120.0,assumed_dfs,,,1.0,Win,0.833,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS); no model_p (pre-calibration log)
+2026-10-25,,Domantas Sabonis,REB,Less,14.0,,standard,,,-120.0,assumed_dfs,,,15.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS); no model_p (pre-calibration log)
+2026-10-25,,Jalen Williams,AST,More,4.0,,standard,,,-120.0,assumed_dfs,,,5.0,Win,0.833,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS); no model_p (pre-calibration log)
+2026-10-25,,Anthony Edwards,REB,Less,5.0,,standard,,,-120.0,assumed_dfs,,,1.0,Win,0.833,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS); no model_p (pre-calibration log)
+2026-10-25,,Anthony Edwards,AST,More,1.5,,goblin,,,,none,,,3.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-25,,Jaden McDaniels,Stl+Blk,More,0.5,,goblin,,,,none,,,3.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-25,,Rudy Gobert,PA,More,5.5,,goblin,,,,none,,,8.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-25,,Michael Porter Jr.,RA,More,5.5,,goblin,,,,none,,,0.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-25,,Zach LaVine,RA,More,3.5,,goblin,,,,none,,,7.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-25,,Jalen Williams,AST,More,2.5,,goblin,,,,none,,,5.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-25,,Shai Gilgeous-Alexander,PTS,More,20.5,,goblin,,,,none,,,34.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-25,,De'Andre Hunter,PTS,More,5.5,,goblin,,,,none,,,7.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-25,,Chet Holmgren,PR,More,15.5,,goblin,,,,none,,,14.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-25,,Jalen Brunson,RA,More,6.5,,goblin,,,,none,,,7.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-25,,Duncan Robinson,RA,More,4.5,,demon,,,,none,,,6.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-25,,Shai Gilgeous-Alexander,PR,More,33.5,,demon,,,,none,,,40.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-25,,Michael Porter Jr.,PA,More,25.5,,demon,,,,none,,,10.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-25,,Anthony Edwards,AST,More +138,3.5,,alt (sportsbook),,,,none,,,3.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-25,,Jalen Williams,AST,More +118,4.5,,alt (sportsbook),,,,none,,,5.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-25,,Zach LaVine,AST,More -132,2.5,,alt (sportsbook),,,,none,,,5.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-25,,Scottie Barnes,AST,More -101,5.5,,alt (sportsbook),,,,none,,,3.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-25,,De'Andre Hunter,PTS,More +104,10.5,,alt (sportsbook),,,,none,,,7.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-25,,Shai Gilgeous-Alexander,PTS,More +120,29.5,,alt (sportsbook),,,,none,,,34.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-25,,De'Andre Hunter,PTS,More -126,9.5,,alt (sportsbook),,,,none,,,7.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-25,,Shai Gilgeous-Alexander,PTS,More -115,27.5,,alt (sportsbook),,,,none,,,34.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-25,,Shai Gilgeous-Alexander,PR,More +100,32.5,,alt (sportsbook),,,,none,,,40.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-25,,LaMelo Ball,REB,Less,5.0,,deon,,,,none,,,1.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-25,,LeBron James,REB,More,4.5,,lebron,,,,none,,,2.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-25,,LeBron James,RA,More,10.5,,lebron,,,,none,,,7.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-25,,LeBron James,RA,Less,14.5,,lebron-model-under,,,,none,,,7.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-25,,LeBron James,AST,Less,6.5,,lebron-model-under,,,,none,,,5.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-26,,Reed Sheppard,AST,Less,3.0,,standard,,0.747,-120.0,assumed_dfs,,,4.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS)
+2026-10-26,,Tari Eason,PTS,Less,11.0,,standard,,0.698,-120.0,assumed_dfs,,,13.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS)
+2026-10-26,,Anthony Edwards,AST,More,2.5,,standard,,0.691,-120.0,assumed_dfs,,,4.0,Win,0.833,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS)
+2026-10-26,,Kyle Kuzma,REB,Less,5.5,,standard,,0.684,-120.0,assumed_dfs,,,7.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS)
+2026-10-26,,Dyson Daniels,AST,More,4.0,,standard,,0.673,-120.0,assumed_dfs,,,4.0,Push,0.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS)
+2026-10-26,,Obi Toppin,RA,Less,7.5,,standard,,0.653,-120.0,assumed_dfs,,,8.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS)
+2026-10-26,,Isaiah Collier,AST,More,4.5,,standard,,0.65,-120.0,assumed_dfs,,,8.0,Win,0.833,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS)
+2026-10-26,,Donovan Mitchell,AST,More,4.5,,standard,,0.643,-120.0,assumed_dfs,,,7.0,Win,0.833,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS)
+2026-10-26,,Amen Thompson,REB,Less,8.5,,standard,,0.643,-120.0,assumed_dfs,,,5.0,Win,0.833,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS)
+2026-10-26,,Donovan Mitchell,AST,More,2.5,,goblin,,0.896,,none,,,7.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-26,,Isaiah Collier,AST,More,2.5,,goblin,,0.886,,none,,,8.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-26,,Davion Mitchell,RA,More,6.5,,goblin,,0.883,,none,,,2.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-26,,Jaren Jackson Jr.,PR,More,14.5,,goblin,,0.876,,none,,,9.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-26,,Evan Mobley,REB,More,5.5,,goblin,,0.869,,none,,,10.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-26,,Alperen Şengün,PRA,More,24.5,,goblin,,0.866,,none,,,47.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-26,,Payton Pritchard,PRA,More,16.5,,goblin,,0.862,,none,,,33.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-26,,Jayson Tatum,PR,More,27.5,,goblin,,0.862,,none,,,30.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-26,,James Harden,PRA,More,20.5,,goblin,,0.861,,none,,,33.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-26,,Jabari Smith Jr.,REB,More,3.5,,goblin,,0.861,,none,,,12.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-26,,Dyson Daniels,AST,More,2.5,,goblin,,0.858,,none,,,4.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-26,,Pelle Larsson,REB,More,1.5,,goblin,,0.857,,none,,,0.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-26,,Dillon Brooks,REB,More,1.5,,goblin,,0.856,,none,,,5.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-26,,Jock Landale,PR,More,5.5,,goblin,,0.855,,none,,,14.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-26,,Justin Champagnie,PR,More,7.5,,goblin,,0.854,,none,,,4.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-26,,Ryan Rollins,AST,More,2.5,,goblin,,0.853,,none,,,4.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-26,,Ryan Kalkbrenner,REB,More,2.5,,goblin,,0.851,,none,,,4.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-26,,Kyle Kuzma,PA,More,9.5,,goblin,,0.85,,none,,,20.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-26,,Moussa Diabaté,PRA,More,13.5,,goblin,,0.85,,none,,,31.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-26,,Myles Turner,PTS,More,5.5,,goblin,,0.849,,none,,,6.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-26,,Devin Booker,PA,More,19.5,,goblin,,0.848,,none,,,10.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-26,,Jordan Walsh,PTS,More,0.5,,goblin,,0.846,,none,,,4.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-26,,Christian Braun,REB,More,2.5,,goblin,,0.843,,none,,,4.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-26,,Jamal Murray,PTS,More,15.5,,goblin,,0.842,,none,,,19.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-26,,Tre Jones,PR,More,6.5,,goblin,,0.839,,none,,,9.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-26,,Sion James,PR,More,5.5,,goblin,,0.839,,none,,,7.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-26,,Jarrett Allen,PR,More,14.5,,goblin,,0.836,,none,,,19.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-26,,Amen Thompson,PA,More,14.5,,goblin,,0.833,,none,,,17.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-26,,Lauri Markkanen,REB,More,4.5,,goblin,,0.832,,none,,,0.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-26,,Alex Sarr,PA,More,7.5,,goblin,,0.829,,none,,,13.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-26,,Brandon Miller,PA,More,19.5,,goblin,,0.826,,none,,,40.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-26,,CJ McCollum,AST,More,1.5,,goblin,,0.823,,none,,,3.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-26,,Bam Adebayo,PRA,More,23.5,,goblin,,0.822,,none,,,19.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-26,,Nikola Jokić,RA,More,17.5,,goblin,,0.821,,none,,,18.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-26,,Draymond Green,AST,Less,6.0,,lean,,,,none,,,7.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-26,,Fred VanVleet,AST,Less,6.0,,lean,,,,none,,,5.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-26,,Kevin Durant,PTS,Less,23.5,,lean,,,,none,,,22.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-26,,Reed Sheppard,PRA,Less,14.5,,lean,,,,none,,,17.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-26,,Christian Braun,AST,Less,3.5,,lean,,,,none,,,2.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-26,,Stephen Curry,RA,Less,7.5,,lean,,,,none,,,6.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-26,,Aaron Gordon,AST,Less,2.5,,lean,,,,none,,,2.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-26,,Cameron Boozer,REB,More,10.5,,lean,,,,none,,,7.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-27,,Jalen Brunson,AST,More,5.5,,standard,,,-120.0,assumed_dfs,,,7.0,Win,0.833,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS); no model_p (pre-calibration log)
+2026-10-27,,Jayson Tatum,AST,Less,7.0,,standard,,,-120.0,assumed_dfs,,,8.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS); no model_p (pre-calibration log)
+2026-10-27,,Domantas Sabonis,REB,Less,13.0,,standard,,,-120.0,assumed_dfs,,,14.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS); no model_p (pre-calibration log)
+2026-10-27,,Zach LaVine,AST,More,2.5,,standard,,,-120.0,assumed_dfs,,,3.0,Win,0.833,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS); no model_p (pre-calibration log)
+2026-10-27,,Day'Ron Sharpe,REB,Less,8.0,,standard,,,-120.0,assumed_dfs,,,6.0,Win,0.833,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS); no model_p (pre-calibration log)
+2026-10-27,,Josh Hart,AST,More,4.0,,standard,,,-120.0,assumed_dfs,,,4.0,Push,0.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS); no model_p (pre-calibration log)
+2026-10-27,,Jalen Brunson,RA,More,9.0,,standard,,,-120.0,assumed_dfs,,,8.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS); no model_p (pre-calibration log)
+2026-10-27,,Jalen Brunson,AST,More,6.5,,alt,,,,none,,,7.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-27,,Stephon Castle,AST,More,6.5,,alt,,,,none,,,5.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-27,,Domantas Sabonis,REB,Less,12.5,,alt,,,,none,,,14.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-27,,Jayson Tatum,AST,Less,6.5,,alt,,,,none,,,8.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-27,,Jalen Brunson,RA,More,9.5,,alt,,,,none,,,8.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-27,,Josh Hart,AST,More,4.5,,alt,,,,none,,,4.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-27,,Zach LaVine,AST,More,3.5,,alt,,,,none,,,3.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-27,,Jalen Brunson,AST,More,7.5,,alt,,,,none,,,7.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-27,,Domantas Sabonis,RA,Less,19.0,,lean,,,,none,,,22.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-27,,Jayson Tatum,PTS,More,26.5,,lean,,,,none,,,40.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-27,,Luka Dončić,REB,Less,7.5,,lean,,,,none,,,5.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-27,,Toumani Camara,PTS,Less,11.5,,lean,,,,none,,,12.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-27,,Toumani Camara,PTS,Less,10.5,,alt,,,,none,,,12.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-27,,Jayson Tatum,FS1H,More,23.5,,lean,,,,none,,,27.4,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-27,,Austin Reaves,FirstFG,Yes,700.0,,firstbasket,,,,none,,,1.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-27,,Ja Morant,FirstFG,Yes,900.0,,firstbasket,,,,none,,,0.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-28,,Franz Wagner,AST,Less,6.0,,card-standard,,0.651,,none,,,5.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Devin Vassell,AST,Less,3.5,,card-standard,,0.656,,none,,,2.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Myles Turner,RA,Less,7.5,,card-standard,,0.632,,none,,,4.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Kyle Kuzma,REB,Less,5.5,,card-standard,,0.618,,none,,,6.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Pascal Siakam,AST,Less,3.5,,card-standard,,0.612,,none,,,3.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Stephon Castle,AST,More,6.0,,card-standard,,0.598,,none,,,8.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Ajay Mitchell,RA,More,7.5,,card-standard,,0.593,,none,,,7.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Kevin Durant,AST,More,4.0,,card-standard,,0.576,,none,,,4.0,Push,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Fred VanVleet,AST,Less,6.0,,card-standard,,0.63,,none,,,5.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Stephon Castle,AST,More,3.5,,card-goblin,,0.91,,none,,,8.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Nikola Jokić,PRA,More,34.5,,card-goblin,,0.88,,none,,,44.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Dyson Daniels,AST,More,2.5,,card-goblin,,0.88,,none,,,7.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Jalen Brunson,RA,More,6.5,,card-goblin,,0.88,,none,,,8.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Bam Adebayo,REB,More,5.5,,card-goblin,,0.87,,none,,,9.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Karl-Anthony Towns,PR,More,24.5,,card-goblin,,0.87,,none,,,32.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Clint Capela,PR,More,9.5,,card-goblin,,0.87,,none,,,18.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Myles Turner,AST,Less,1.5,,card-alt,,0.603,,none,,,2.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Franz Wagner,AST,Less,5.5,,card-alt,,0.593,,none,,,5.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Kevin Durant,AST,More,4.5,,card-alt,,0.511,,none,,,4.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Tari Eason,PR,Less,17.5,,card-alt,,0.527,,none,,,14.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Obi Toppin,RA,Less,7.5,,four,,0.59,,none,,,6.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Tyrese Maxey,REB,More,3.5,,four,,0.56,,none,,,5.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Alex Sarr,AST,Less,2.5,,four,,0.64,,none,,,2.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Bub Carrington,REB,Less,2.5,,four,,0.58,,none,,,1.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Donovan Mitchell,AST,More,5.0,,four,,0.57,,none,,,7.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Trae Young,AST,Less,9.5,,four,,0.56,,none,,,8.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Dyson Daniels,REB,Less,7.0,,four,,0.6,,none,,,4.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Jock Landale,REB,Less,5.5,,four,,0.6,,none,,,6.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Nickeil Alexander-Walker,REB,Less,3.5,,four,,0.57,,none,,,3.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Davion Mitchell,RA,More,9.0,,four,,0.57,,none,,,11.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Sion James,RA,Less,6.5,,four,,0.57,,none,,,5.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Brandon Miller,REB,More (goblin),2.5,,four,,0.85,,none,,,12.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Jamal Shead,REB,Less,2.5,,four,,0.66,,none,,,4.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Tristan da Silva,PA,Less,14.5,,four,,0.57,,none,,,21.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Immanuel Quickley,AST,Less,6.0,,four,,0.57,,none,,,7.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Mikal Bridges,REB,Less,3.5,,four,,0.56,,none,,,0.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Jalen Brunson,RA,More (goblin),6.5,,four,,0.88,,none,,,8.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Karl-Anthony Towns,PR,More (goblin),24.5,,four,,0.87,,none,,,32.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Josh Hart,AST,More (goblin),2.5,,four,,0.84,,none,,,3.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Jeremiah Fears,REB,Less,3.5,,four,,0.62,,none,,,4.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Trey Murphy III,REB,Less,5.0,,four,,0.6,,none,,,1.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Jordan Poole,AST,Less,2.5,,four,,0.6,,none,,,0.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,DeAndre Jordan,REB,Less,6.5,,four,,0.58,,none,,,4.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Reed Sheppard,AST,Less,3.5,,four,,0.61,,none,,,4.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Stephen Curry,RA,More (goblin),4.5,,four,,0.85,,none,,,14.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Dylan Harper,AST,More,4.0,,four,,0.57,,none,,,8.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,De'Aaron Fox,AST,Less,6.5,,four,,0.57,,none,,,4.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Daniel Gafford,AST,Less,1.5,,four,,0.62,,none,,,2.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,P.J. Washington,PA,Less,16.5,,four,,0.57,,none,,,18.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Derrick Jones Jr.,RA,Less,6.5,,four,,0.6,,none,,,5.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Darius Garland,AST,Less,8.0,,four,,0.59,,none,,,5.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Isaiah Jackson,RA,Less,8.5,,four,,0.59,,none,,,6.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Brook Lopez,PR,Less,16.5,,four,,0.58,,none,,,5.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Jaden McDaniels,PTS,Less,17.5,,points,,,,none,,,19.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-28,,P.J. Washington,PTS,Less,14.5,,points,,,,none,,,18.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-28,,Tristan da Silva,PTS,Less,11.5,,points,,,,none,,,20.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-28,,Devin Vassell,PTS,More,11.5,,points,,,,none,,,21.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-28,,Brook Lopez,PTS,Less,11.5,,points,,,,none,,,2.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-28,,De'Aaron Fox,PTS,More,15.5,,points,,,,none,,,14.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-28,,Daniel Gafford,PA,Less,11.5,,points,,,,none,,,9.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-28,,Isaiah Jackson,PR,Less,18.5,,points,,,,none,,,9.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-28,,Reed Sheppard,PA,Less,15.5,,points,,,,none,,,11.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-28,,Obi Toppin,PTS,Less,11.5,,points,,,,none,,,13.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-28,,Nickeil Alexander-Walker,PTS,Less,19.5,,points,,,,none,,,23.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-28,,Moussa Diabaté,PTS,Less,8.5,,points,,,,none,,,9.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-28,,OG Anunoby,PTS,Less,17.5,,points,,,,none,,,23.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-28,,Christian Braun,PA,Less,15.5,,points,,,,none,,,19.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-28,,Stephon Castle,PTS,Less,17.5,,points,,,,none,,,14.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-28,,Tari Eason,PTS,Less,11.5,,points,,,,none,,,5.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-28,,Matas Buzelis,3PM,More,0.5,,extra-goblin,,0.855,,none,,,3.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Jamal Murray,3PM,More,1.5,,extra-goblin,,0.808,,none,,,5.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Zion Williamson,3PM,Less,0.5,,extra-line,,0.763,,none,,,1.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Terrence Shannon Jr.,3PM,Less,1.5,,extra-line,,0.63,,none,,,1.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Ace Bailey,3PM,More,0.5,,extra-goblin,,0.808,,none,,,1.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Stephon Castle,3PM,Less,2.5,,extra-line,,0.693,,none,,,1.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,P.J. Washington,3PM,Less,1.5,,extra-line,,0.552,,none,,,2.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Collin Sexton,3PM,Less,1.5,,extra-line,,0.646,,none,,,4.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Jake LaRavia,3PM,Less,1.5,,extra-line,,0.724,,none,,,0.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Quentin Grimes,3PM,Less,1.5,,extra-line,,0.574,,none,,,0.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Myles Turner,BLK,More,0.5,,extra-goblin,,0.805,,none,,,2.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Tari Eason,BLK,Less,0.5,,extra-line,,0.629,,none,,,3.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Ryan Rollins,SB,More,0.5,,extra-goblin,,0.839,,none,,,1.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Tari Eason,SB,Less,2.5,,extra-line,,0.682,,none,,,4.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Karl-Anthony Towns,SB,More,0.5,,extra-goblin,,0.811,,none,,,1.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Matas Buzelis,SB,More,0.5,,extra-goblin,,0.825,,none,,,2.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Jamal Murray,SB,More,0.5,,extra-goblin,,0.803,,none,,,2.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Draymond Green,SB,More,0.5,,extra-goblin,,0.805,,none,,,2.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Jaxson Hayes,STL,Less,0.5,,extra-line,,0.568,,none,,,1.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Ace Bailey,SB,More,0.5,,extra-goblin,,0.829,,none,,,1.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Ajay Mitchell,SB,More,1.5,,extra-line,,0.576,,none,,,3.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,P.J. Washington,SB,More,0.5,,extra-goblin,,0.836,,none,,,1.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Collin Sexton,STL,Less,1.5,,extra-line,,0.716,,none,,,0.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Jake LaRavia,STL,Less,1.5,,extra-line,,0.699,,none,,,3.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Jake LaRavia,SB,Less,2.5,,extra-line,,0.746,,none,,,5.0,Loss,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-28,,Isaiah Jackson,SB,Less,2.5,,extra-line,,0.649,,none,,,1.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-29,,Cedric Coward,RA,More,5.5,,goblin,,,,none,,,11.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-29,,Jrue Holiday,RA,More,4.5,,goblin,,,,none,,,10.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-29,,Zach Edey,REB,More,4.5,,goblin,,,,none,,,7.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-29,,Ja Morant,PR,More,15.5,,goblin,,,,none,,,16.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-29,,Ja Morant,REB,More,1.5,,goblin,,,,none,,,2.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-29,,Donovan Clingan,PR,Less,22.5,,lean,,,,none,,,19.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only; no model_p (pre-calibration log)
+2026-10-30,CHI@BOS,Payton Pritchard,RA,More,4.5,,goblin,,0.879,,none,,,6.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-30,CHI@BOS,Jayson Tatum,PR,More,27.5,,goblin,,0.861,,none,,,33.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-30,DEN@PHX,Devin Booker,AST,More,3.5,,goblin,,0.853,,none,,,5.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-30,LAC@MIN,Darius Garland,AST,More,4.5,,goblin,,0.851,,none,,,5.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-30,LAC@MIN,Rudy Gobert,PTS,More,5.5,,goblin,,0.851,,none,,,9.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-30,DEN@PHX,Dillon Brooks,PRA,More,14.5,,goblin,,0.849,,none,,,25.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-30,CHI@BOS,Jayson Tatum,REB,More,5.5,,goblin,,0.843,,none,,,7.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-30,DEN@PHX,Devin Booker,PR,More,19.5,,goblin,,0.841,,none,,,22.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-30,CHI@BOS,Payton Pritchard,AST,More,2.5,,goblin,,0.841,,none,,,3.0,Win,,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no price - win rate only
+2026-10-30,CHI@BOS,Jordan Walsh,AST,Less,1.5,,standard,,0.6404,-120.0,assumed_dfs,,,0.0,Win,0.833,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS)
+2026-10-30,DEN@PHX,Dillon Brooks,AST,Less,2.5,,standard,,0.638,-120.0,assumed_dfs,,,2.0,Win,0.833,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS)
+2026-10-30,HOU@DAL,Fred VanVleet,RA,Less,9.5,,standard,,0.6182,-120.0,assumed_dfs,,,11.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS)
+2026-10-30,HOU@DAL,Daniel Gafford,AST,Less,1.5,,standard,,0.6164,-120.0,assumed_dfs,,,2.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS)
+2026-10-30,HOU@DAL,Max Christie,REB,Less,3.5,,standard,,0.6014,-120.0,assumed_dfs,,,1.0,Win,0.833,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS)
+2026-10-30,LAC@MIN,Isaiah Jackson,AST,Less,1.5,,standard,,0.6014,-120.0,assumed_dfs,,,4.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS)
+2026-10-30,DEN@PHX,Dillon Brooks,RA,Less,6.5,,standard,,0.596,-120.0,assumed_dfs,,,3.0,Win,0.833,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS)
+2026-10-30,HOU@DAL,Kevin Durant,REB,Less,5.5,,standard,,0.587,-120.0,assumed_dfs,,,5.0,Win,0.833,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS)
+2026-10-31,OKC@HOU,Kenrich Williams,3PM,Less,1.5,,standard,,0.6416,-120.0,assumed_dfs,,,3.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS)
+2026-10-31,OKC@HOU,Kenrich Williams,REB,Less,4.5,,standard,,0.6355999999999999,-120.0,assumed_dfs,,,7.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS)
+2026-11-01,BOS@ORL,Franz Wagner,AST,Less,6.5,,standard,,0.6866,-120.0,assumed_dfs,,,12.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS)
+2026-11-01,BOS@ORL,Tristan da Silva,3PM,Less,2.5,,standard,,0.6517999999999999,-120.0,assumed_dfs,,,5.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS)
+2026-11-01,LAC@GS,Isaiah Jackson,RA,Less,9.5,,standard,,0.6457999999999999,-120.0,assumed_dfs,,,10.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS)
+2026-11-01,BOS@ORL,Franz Wagner,RA,Less,12.5,,standard,,0.6217999999999999,-120.0,assumed_dfs,,,18.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS)
+2026-11-01,LAC@GS,Isaiah Jackson,REB,Less,7.5,,standard,,0.6098,-120.0,assumed_dfs,,,8.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS)
+2026-11-01,LAC@GS,Isaiah Jackson,PRA,Less,18.5,,standard,,0.6026,-120.0,assumed_dfs,,,15.0,Win,0.833,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS)
+2026-11-01,BOS@ORL,Neemias Queta,RA,Less,9.5,,standard,,0.59,-120.0,assumed_dfs,,,9.0,Win,0.833,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS)
+2026-11-01,LAC@GS,Brandin Podziemski,3PM,Less,2.5,,standard,,0.5882000000000001,-120.0,assumed_dfs,,,2.0,Win,0.833,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS)
+2026-11-01,LAC@GS,Isaiah Jackson,PR,Less,16.5,,standard,,0.5804,-120.0,assumed_dfs,,,13.0,Win,0.833,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS)
+2026-11-02,MIA@LAL,Andrew Wiggins,AST,More,1.5,,standard,,0.596,-120.0,assumed_dfs,,,2.0,Win,0.833,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS)
+2026-11-04,MIN@HOU,Tari Eason,3PM,Less,1.5,,standard,True,0.6248,-226.0,book,Kalshi / Underdog,,1.0,Win,0.442,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown
+2026-11-04,MIN@HOU,Jabari Smith Jr,3PM,Less,2.5,,standard,True,0.614,-164.0,book,Kalshi / Underdog,,2.0,Win,0.61,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown
+2026-11-05,ORL@PHX,Desmond Bane,3PM,Less,3.5,,standard,True,0.695,-179.0,book,PrizePicks / Underdog,,3.0,Win,0.559,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown
+2026-11-05,ORL@PHX,Franz Wagner,AST,Less,6.5,,standard,True,0.6824,-105.0,book,PrizePicks / Underdog,,15.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown
+2026-11-05,ORL@PHX,Dillon Brooks,AST,Less,2.5,,standard,True,0.656,-170.0,book,Kalshi / Underdog,,1.0,Win,0.588,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown
+2026-11-05,MIA@GS,Draymond Green,AST,Less,6.5,,standard,True,0.6332,-147.0,book,PrizePicks / Underdog,,11.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown
+2026-11-05,MIA@GS,Brandin Podziemski,3PM,Less,2.5,,standard,True,0.6002000000000001,-180.0,book,Kalshi / Underdog,,2.0,Win,0.556,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown
+2026-11-05,ORL@PHX,Jalen Green,AST,Less,3.5,,standard,False,0.5888,-168.0,book,Kalshi / Underdog,,3.0,Win,0.595,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown
+2026-11-05,ORL@PHX,Dillon Brooks,RA,Less,6.5,,standard,False,0.584,-122.0,book,PrizePicks / Underdog,,2.0,Win,0.82,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown
+2026-11-06,WSH@ATL,Kyshawn George,AST,Less,4.5,,standard,True,0.629,-148.0,book,PrizePicks / Underdog,,7.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown
+2026-11-06,WSH@ATL,Kyshawn George,REB,More,4.5,,standard,False,0.6145999999999999,-111.0,book,PrizePicks / Underdog,,4.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown
+2026-11-06,PHI@CLE,Evan Mobley,3PM,Less,1.5,,standard,True,0.6548,-204.0,book,Kalshi / Underdog,,3.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown
+2026-11-06,OKC@MEM,Shai Gilgeous-Alexander,3PM,Less,2.5,,standard,True,0.6284,-148.0,book,Kalshi / Underdog,,3.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown
+2026-11-06,OKC@MEM,Cedric Coward,REB,Less,7.5,,standard,True,0.623,-132.0,book,PrizePicks / Underdog,,9.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown
+2026-11-06,UTAH@DAL,Naji Marshall,AST,Less,3.5,,standard,False,0.6224,-141.0,book,Kalshi / Underdog,,5.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown
+2026-11-06,MIN@NO,Trey Murphy III,AST,Less,3.5,,standard,False,0.6122000000000001,-170.0,book,Kalshi / Underdog,,5.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown
+2026-11-06,TOR@MIL,Kyle Kuzma,RA,Less,7.5,,standard,False,0.6098,-138.0,book,Kalshi / Underdog,,7.0,Win,0.725,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown
+2026-11-06,PHI@CLE,Evan Mobley,REB,More,9.5,,standard,False,0.6074,-122.0,book,PrizePicks / Underdog,,6.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown
+2026-11-06,SA@SAC,Stephon Castle,AST,More,5.5,,standard,True,0.6344,-130.0,book,PrizePicks / Underdog,,7.0,Win,0.769,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown
+2026-11-07,DEN@IND,Andrew Nembhard,3PM,Less,2.5,,standard,False,0.6397999999999999,-188.0,book,Kalshi / Underdog,,3.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown
+2026-11-07,BKN@ATL,Day'Ron Sharpe,REB,Less,8.5,,standard,True,0.6457999999999999,-140.0,book,PrizePicks / Underdog,,10.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown
+2026-11-07,NY@CLE,Evan Mobley,3PM,Less,1.5,,standard,False,0.6392,-172.0,book,Kalshi / Underdog,,1.0,Win,0.581,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown
+2026-11-07,WSH@OKC,Kyshawn George,AST,Less,4.5,,standard,False,0.6374,-144.0,book,PrizePicks / Underdog,,6.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown
+2026-11-07,WSH@OKC,Shai Gilgeous-Alexander,3PM,Less,2.5,,standard,False,0.6308,-188.0,book,Kalshi / Underdog,,3.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown
+2026-11-07,ORL@GS,Franz Wagner,AST,Less,7.5,,standard,True,0.7142,-146.0,book,PrizePicks / Underdog,,11.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown
+2026-11-07,HOU@PHX,Dillon Brooks,AST,Less,2.5,,standard,True,0.6638,-175.0,book,Kalshi / Underdog,,1.0,Win,0.571,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown
+2026-11-07,ORL@GS,Draymond Green,AST,Less,6.5,,standard,True,0.6626,-145.0,book,PrizePicks / Underdog,,13.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown
+2026-11-07,HOU@PHX,Amen Thompson,3PM,Less,0.5,,standard,True,0.656,-227.0,book,Kalshi / Underdog,,0.0,Win,0.441,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown
+2026-11-07,ORL@GS,Brandin Podziemski,3PM,Less,2.5,,standard,False,0.6374,-204.0,book,Kalshi / Underdog,,4.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown
+2026-11-07,ORL@GS,Tristan da Silva,AST,More,1.5,,standard,False,0.6302,-179.0,book,Kalshi / Underdog,,2.0,Win,0.559,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown
+2026-11-08,LAL@DET,Daniss Jenkins,3PM,Less,1.5,,standard,True,0.6548,-204.0,book,Kalshi / Underdog,,8.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown
+2026-11-08,LAL@DET,Cade Cunningham,3PM,Less,2.5,,standard,True,0.6325999999999999,-145.0,book,Kalshi / Underdog,,1.0,Win,0.69,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown
+2026-11-08,UTAH@MIN,Keyonte George,3PM,Less,2.5,,standard,False,0.6122000000000001,-180.0,book,Kalshi / Underdog,,0.0,Win,0.556,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown
+2026-11-08,BKN@DAL,Michael Porter Jr,AST,More,1.5,,standard,True,0.6614,-186.0,book,Kalshi / Underdog,,0.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown
+2026-11-08,BKN@DAL,Naji Marshall,AST,Less,3.5,,standard,True,0.635,-164.0,book,Kalshi / Underdog,,2.0,Win,0.61,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown
+2026-11-08,BKN@DAL,Daniel Gafford,AST,Less,1.5,,standard,False,0.6284,-130.0,book,Kalshi / Underdog,,2.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown
+2026-11-08,BOS@MIL,Kyle Kuzma,RA,Less,7.5,,standard,False,0.6145999999999999,-143.0,book,PrizePicks / Underdog,,4.0,Win,0.699,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown
+2026-11-08,BOS@MIL,Myles Turner,RA,Less,7.5,,standard,False,0.608,-138.0,book,PrizePicks / Underdog,,12.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown
+2026-11-08,BOS@MIL,Myles Turner,AST,Less,1.5,,standard,False,0.6008,-108.0,book,PrizePicks / Underdog,,7.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown
+2026-11-08,NO@LAC,Kris Dunn,3PM,Less,1.5,,standard,True,0.6284,-218.0,book,Kalshi / Underdog,,2.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown
+2026-11-09,CLE@CHA,Evan Mobley,3PM,Less,1.5,,standard,True,0.6517999999999999,-212.0,book,Kalshi / Underdog,,2.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown
+2026-11-09,WSH@DET,Daniss Jenkins,3PM,Less,1.5,,standard,True,0.65,-190.0,book,Kalshi / Underdog,,2.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown
+2026-11-09,WSH@DET,Cade Cunningham,3PM,Less,2.5,,standard,False,0.629,-152.0,book,Kalshi / Underdog,,0.0,Win,0.658,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown
+2026-11-09,IND@DAL,Caleb Martin,3PM,Less,0.5,,standard,True,0.6632,-120.0,assumed_dfs,PrizePicks / Underdog,,0.0,Win,0.833,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown; no book price - counted at -120 (DFS)
+2026-11-09,IND@DAL,Andrew Nembhard,RA,More,8.5,,standard,True,0.647,-136.0,book,PrizePicks / Underdog,,15.0,Win,0.735,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown
+2026-11-09,IND@DAL,Caleb Martin,RA,Less,4.5,,standard,False,0.6175999999999999,-116.0,book,Kalshi / Underdog,,8.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown
+2026-11-09,SA@PHX,Keldon Johnson,3PM,Less,1.5,,standard,True,0.6397999999999999,-244.0,book,Kalshi / Underdog,,0.0,Win,0.41,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown
+2026-11-09,DEN@HOU,Tari Eason,3PM,Less,1.5,,standard,True,0.611,-190.0,book,Kalshi / Underdog,,2.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown
+2026-11-09,DEN@HOU,Marcus Smart,AST,Less,2.5,,standard,False,0.6014,-175.0,book,Kalshi / Underdog,,2.0,Win,0.571,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown
+2026-11-09,DEN@HOU,Tari Eason,AST,Less,1.5,,standard,False,0.5984,-179.0,book,Kalshi / Underdog,,2.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown
+2026-11-09,DEN@HOU,Christian Braun,AST,Less,2.5,,standard,False,0.5978,-167.0,book,Kalshi / Underdog,,3.0,Loss,-1.0,backfill,2026-11-10 20:27,backfilled from graded_log; posting time unknown

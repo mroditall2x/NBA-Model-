@@ -10,15 +10,18 @@ if os.path.isdir('repo/.git') and not os.environ.get('CI'): sh('cd repo && git p
 os.makedirs(D, exist_ok=True)
 if not os.path.exists(f'{D}/lines.json'): print('no lines for this date (no games?) - nothing to build'); sys.exit(0)
 # injuries (ESPN public feed) -> outs + questionable
+_inj_ok=True
 try:
     j=json.load(urllib.request.urlopen('https://site.api.espn.com/apis/site/v2/sports/basketball/nba/injuries',timeout=30))
     outs=[i['athlete']['displayName'] for t in j['injuries'] for i in t['injuries'] if i['status']=='Out']
     gtd=[i['athlete']['displayName'] for t in j['injuries'] for i in t['injuries'] if i['status']!='Out']
     json.dump(outs,open(f'slate/{DATE}_out.json','w')); json.dump(gtd,open(f'{D}/gtd.json','w'))
 except Exception as e:
-    print('injury feed failed:',e)
+    _inj_ok=False; print('injury feed failed:',e)
     if not os.path.exists(f'slate/{DATE}_out.json'): json.dump([],open(f'slate/{DATE}_out.json','w'))
     if not os.path.exists(f'{D}/gtd.json'): json.dump([],open(f'{D}/gtd.json','w'))
+# stale-data check (11/10): warns on the card + emails if box scores / injuries / lines are old; STRICT_DATA=1 stops the build
+sh(f"python3 data_check.py {DATE}{'' if _inj_ok else ' --injury-failed'}")
 sh(f'python3 auto_minutes.py {DATE} slate/{DATE}_rot_last.json > /dev/null')
 sh(f'python3 rot_blend.py {DATE} 0.6')
 os.environ['NO_OUTGUESS']='1'; os.environ['SAVE_SIM']='1'
@@ -63,7 +66,9 @@ def _price(r):
     return v if abs(v)>=100 and not (o[0]==-119 and o[1]==-119) else None
 def _ev(p,a): return None if a is None or pd.isna(a) else round(p*((a/100+1) if a>0 else (100/-a+1))-1,3)
 card['price']=[_price(r) for r in card.itertuples()]
-card['ev']=[_ev(p,a) if t=='standard' else None for p,a,t in zip(card.p,card.price,card.tier)]
+if 'p_push' not in card: card['p_push']=0.0
+# 11/10: p is the win chance when the bet has action, so on whole-number lines EV is scaled by the chance it doesn't push
+card['ev']=[None if t!='standard' or _ev(p,a) is None else round(_ev(p,a)*(1-(0 if q!=q else q)),3) for p,a,t,q in zip(card.p,card.price,card.tier,card.p_push)]
 # rank: EV when a price exists, otherwise edge over a ~54.5% break-even (DFS); keep the 10 best
 card['score']=card.p   # rank by calibrated chance (replay 10/23-10/30: ranking by EV at the book price went 33-34, by chance 84-68)
 card=card.sort_values('score',ascending=False).head(10)
@@ -75,7 +80,8 @@ for r in B[ok&B.type.isin(['PP standard','book line'])&B.p_over.notna()].itertup
     for sd,q,pr in (('More',r.p_over,r.o),('Less',1-r.p_over,r.u)):
         if abs(pr)<100: continue
         c=0.5+0.6*(q-0.5) if q>=0.5 else q*0.95                   # favourites: usual shrink; long shots: haircut, never inflated
-        e=_ev(c,pr)
+        e=_ev(c,pr); _pp=getattr(r,'p_push',0); _pp=0 if _pp!=_pp else _pp
+        if e is not None: e=round(e*(1-_pp),3)                        # whole-number lines: a push returns the stake (11/10)
         if e is not None and e>=(0.08 if pr>0 else 0.05) and c>=0.25: _r.append(dict(game=r.game,team=r.team,player=r.player,stat=r.stat,line=r.line,side=sd,adj=round(c,3),price=pr,ev=e,mean=r.mean,where='Kalshi / Novig / books' if pr>0 else r.where))
 EVP=pd.DataFrame(_r,columns=['game','team','player','stat','line','side','adj','price','ev','mean','where']).sort_values('ev',ascending=False).drop_duplicates(['player','stat']).head(8)
 EVP[['game','team','player','stat','line','side','adj','price','ev','mean','where']].rename(columns={'adj':'p'}).to_csv(f'{D}/ev_props.csv',index=False)   # TRACKING ONLY: replay lost -10% ROI; graded quietly, not bet
@@ -90,6 +96,7 @@ card=card[~card.game.isin(_started)][_cols]
 if _started and os.path.exists(f'{D}/card.csv'):          # games already tipped keep the card that was posted before tip
     _old=pd.read_csv(f'{D}/card.csv'); card=pd.concat([_old[_old.game.isin(_started)][[c for c in _cols if c in _old]],card])
 card.to_csv(f'{D}/card.csv',index=False)
+subprocess.run(f'python3 ledger.py stamp {D}', shell=True)   # first-seen time + posted price per pick, for bet_ledger.csv (11/10)
 if not os.path.exists(f'{D}/card_early.csv'):            # first build of the day = early card (stricter bar so it survives line moves)
     card[(card.p>=0.62)|(card.tier=='goblin')].to_csv(f'{D}/card_early.csv',index=False)
 G=pd.read_csv(f'{D}/games.csv')
