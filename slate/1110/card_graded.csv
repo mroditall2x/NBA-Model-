@@ -1,0 +1,7 @@
+game,team,player,stat,tier,line,side,p,price,ev,top,mean,lo,hi,min,gap,where,actual,result,group
+MIL@NY,NY,OG Anunoby,RA,standard,7.5,More,0.5912000000000001,-136,0.026,False,9.06,6,12,36.9,-1.5,Kalshi / Underdog,5.0,Loss,reb/ast
+LAC@PHX,PHX,Dillon Brooks,AST,standard,2.5,Less,0.6242,-188,-0.044,True,1.88,1,3,30.8,-0.7,Kalshi / Underdog,2.0,Win,reb/ast
+LAC@PHX,PHX,Devin Booker,AST,standard,4.5,More,0.5966,-150,-0.006,False,5.74,3,8,34.2,-0.7,PrizePicks / Underdog,5.0,Win,reb/ast
+OKC@POR,OKC,Alex Caruso,3PM,standard,1.5,Less,0.6116,-217,-0.107,True,1.15,0,2,19.0,-0.6,Kalshi / Underdog,1.0,Win,other
+ORL@SAC,SAC,Malik Monk,3PM,standard,1.5,Less,0.6104,-159,-0.006,True,1.16,0,2,17.8,-0.3,Kalshi / Underdog,0.0,Win,other
+ORL@SAC,SAC,Zach LaVine,3PM,standard,2.5,Less,0.5864,-124,0.059,False,2.11,1,3,32.4,0.1,PrizePicks / Underdog,6.0,Loss,other
