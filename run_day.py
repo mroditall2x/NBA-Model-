@@ -67,8 +67,24 @@ def _price(r):
 def _ev(p,a): return None if a is None or pd.isna(a) else round(p*((a/100+1) if a>0 else (100/-a+1))-1,3)
 card['price']=[_price(r) for r in card.itertuples()]
 if 'p_push' not in card: card['p_push']=0.0
-# 11/10: p is the win chance when the bet has action, so on whole-number lines EV is scaled by the chance it doesn't push
+if 'pp_line' not in card: card['pp_line']=None
+# 11/10 price check (Deon): judge each pick at the price it would actually be played at.
+#  - book side -200 or shorter: PrizePicks pulls props that juiced, so it's books only at that price
+#  - book side -120 to -199 and PrizePicks hangs the same line: played on PrizePicks/Underdog (~-120, the DFS break-even)
+#  - no book price (DFS-only line): unchanged
+# then drop standard picks whose EV at that price is below 0 (replay 10/28-11/09: +12% / +7% ROI vs +3% / -1%, both periods).
+def _play(r):
+    bp=r.price
+    if bp is None or bp!=bp: return bp,r.where
+    if bp<=-200: return bp,'books only (too juiced for PrizePicks)'
+    _pl=r.pp_line
+    if r.type=='PP standard' and _pl==_pl and _pl is not None and float(_pl)==float(r.line) and bp<-120: return -120.0,'PrizePicks / Underdog'
+    return bp,r.where
+_pw=[_play(r) for r in card.itertuples()]
+card['price']=[a for a,_ in _pw]; card['where']=[w for _,w in _pw]
+# p is the win chance when the bet has action, so on whole-number lines EV is scaled by the chance it doesn't push
 card['ev']=[None if t!='standard' or _ev(p,a) is None else round(_ev(p,a)*(1-(0 if q!=q else q)),3) for p,a,t,q in zip(card.p,card.price,card.tier,card.p_push)]
+card=card[~((card.tier=='standard')&card.ev.notna()&(card.ev<0))]
 # rank: EV when a price exists, otherwise edge over a ~54.5% break-even (DFS); keep the 10 best
 card['score']=card.p   # rank by calibrated chance (replay 10/23-10/30: ranking by EV at the book price went 33-34, by chance 84-68)
 card=card.sort_values('score',ascending=False).head(10)

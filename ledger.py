@@ -32,7 +32,8 @@ def payout(a):  # profit on a 1-unit win at American odds a
     return a / 100 if a > 0 else 100 / -a
 
 
-def price_info(tier, price):
+def price_info(tier, price, where=''):
+    if price == price and price is not None and float(price) == DFS_PRICE and 'PrizePicks' in str(where): return float(DFS_PRICE), 'assumed_dfs'
     if price == price and price is not None and abs(float(price)) >= 100: return float(price), 'book'
     if tier == 'standard': return float(DFS_PRICE), 'assumed_dfs'
     return None, 'none'
@@ -109,7 +110,7 @@ def add(DATE):
         C['first_seen'] = None
     rows = []
     for r in C.itertuples():
-        pr, src = price_info(r.tier, getattr(r, 'price', None))
+        pr, src = price_info(r.tier, getattr(r, 'price', None), getattr(r, 'where', ''))
         flags = []
         if src == 'assumed_dfs': flags.append('no book price - counted at -120 (DFS)')
         if src == 'none': flags.append('no price - win rate only')
