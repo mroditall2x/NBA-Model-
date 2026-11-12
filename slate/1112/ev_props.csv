@@ -1,9 +1,9 @@
 game,team,player,stat,line,side,p,price,ev,mean,where
 CHA@PHX,PHX,Dillon Brooks,AST,1.5,Less,0.501,132,0.161,1.76,Kalshi / Novig / books
-DET@WSH,DET,Kevin Huerter,PR,13.5,Less,0.55,108,0.145,13.26,Kalshi / Novig / books
 CHA@PHX,PHX,Ryan Dunn,PRA,11.5,Less,0.548,109,0.145,11.15,Kalshi / Novig / books
+DET@WSH,DET,Kevin Huerter,PR,13.5,Less,0.548,108,0.14,13.26,Kalshi / Novig / books
 DET@WSH,DET,Kevin Huerter,PA,12.5,Less,0.541,109,0.132,12.57,Kalshi / Novig / books
 CHA@PHX,PHX,Ryan Dunn,RA,5.5,Less,0.536,111,0.131,5.41,Kalshi / Novig / books
+TOR@PHI,PHI,Dean Wade,PTS,4.5,Less,0.553,102,0.117,4.47,Kalshi / Novig / books
+TOR@PHI,PHI,VJ Edgecombe,AST,3.5,More,0.507,120,0.116,3.78,Kalshi / Novig / books
 DAL@MIN,DAL,Santi Aldama,RA,5.5,More,0.504,121,0.114,5.87,Kalshi / Novig / books
-TOR@PHI,PHI,Dean Wade,PTS,4.5,Less,0.551,102,0.113,4.49,Kalshi / Novig / books
-DET@WSH,WSH,Alex Sarr,RA,8.5,Less,0.577,-108,0.112,7.71,PrizePicks / Underdog
