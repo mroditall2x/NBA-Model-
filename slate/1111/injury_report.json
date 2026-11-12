@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-12T00:22:31.897891+00:00",
+ "checked": "2026-11-12T01:22:25.441376+00:00",
  "games": {
   "BOS@TOR": [
    {
@@ -127,8 +127,8 @@
    {
     "player": "Dailyn Swain",
     "team": "CHI",
-    "status": "Day-To-Day",
-    "note": "Swain (back) has been downgraded to questionable for Wednesday's game against the Spurs."
+    "status": "Out",
+    "note": "Swain (back) is out for Wednesday's game against the Spurs."
    },
    {
     "player": "Norman Powell",
@@ -141,18 +141,6 @@
     "team": "CHI",
     "status": "Out",
     "note": "Awaka (back) has been ruled out for Wednesday's game against the Spurs."
-   },
-   {
-    "player": "Caleb Wilson",
-    "team": "CHI",
-    "status": "Day-To-Day",
-    "note": "Wilson has been downgraded to questionable for Wednesday's game against the Spurs due to right hip soreness."
-   },
-   {
-    "player": "Zach Collins",
-    "team": "CHI",
-    "status": "Day-To-Day",
-    "note": "Collins (illness) is questionable for Wednesday's game against the Spurs."
    },
    {
     "player": "Devin Vassell",
@@ -207,12 +195,6 @@
     "note": "Grimes (finger) has been ruled out for Wednesday's game against the Bucks."
    },
    {
-    "player": "Tyler Herro",
-    "team": "MIL",
-    "status": "Day-To-Day",
-    "note": "Herro (knee) is listed as questionable for Wednesday's game against the Lakers."
-   },
-   {
     "player": "Myles Turner",
     "team": "MIL",
     "status": "Out",
@@ -263,12 +245,6 @@
     "note": "Team president Jeff Weltman said Monday that Nelson (ankle) remains about a month away from returning to the court after offseason surgery, per Philip Rossman-Reich of OrlandoMagicDaily.com."
    },
    {
-    "player": "Keyonte George",
-    "team": "UTAH",
-    "status": "Day-To-Day",
-    "note": "George (ankle) is questionable for Wednesday's game against Orlando."
-   },
-   {
     "player": "Lauri Markkanen",
     "team": "UTAH",
     "status": "Out",
@@ -288,12 +264,6 @@
    }
   ],
   "GS@HOU": [
-   {
-    "player": "Will Richard",
-    "team": "GS",
-    "status": "Day-To-Day",
-    "note": "Richard (thumb) has been upgraded to probable for Wednesday's game at Houston."
-   },
    {
     "player": "Gary Payton II",
     "team": "GS",
