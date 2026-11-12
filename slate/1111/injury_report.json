@@ -1,24 +1,24 @@
 {
- "checked": "2026-11-12T02:22:29.457705+00:00",
+ "checked": "2026-11-12T03:22:28.143685+00:00",
  "games": {
   "BOS@TOR": [
    {
     "player": "Paul George",
     "team": "BOS",
-    "status": "Out",
+    "status": "Day-To-Day",
     "note": "George (illness) has been ruled out for Wednesday's game against Toronto, Taylor Snow of the Celtics' official site reports."
+   },
+   {
+    "player": "Trayce Jackson-Davis",
+    "team": "TOR",
+    "status": "Day-To-Day",
+    "note": "Jackson-Davis (illness) has been ruled out for Wednesday's game against the Celtics, Blake Murphy of Sportsnet.ca reports."
    },
    {
     "player": "Kawhi Leonard",
     "team": "TOR",
     "status": "Out",
     "note": "Head coach Darko Rajakovic said Wednesday that Leonard (knee) is doing individual on-court work and is progressing well, Michael Grange of Sportsnet.ca reports."
-   },
-   {
-    "player": "Trayce Jackson-Davis",
-    "team": "TOR",
-    "status": "Out",
-    "note": "Jackson-Davis (illness) has been ruled out for Wednesday's game against the Celtics, Blake Murphy of Sportsnet.ca reports."
    },
    {
     "player": "Scottie Barnes",
@@ -131,6 +131,12 @@
   ],
   "SA@CHI": [
    {
+    "player": "Caleb Wilson",
+    "team": "CHI",
+    "status": "Day-To-Day",
+    "note": "Wilson won't return to Wednesday's game against the Spurs due to a right hand injury. He'll finish with 15 points (5-7 FG, 2-2 3Pt, 3-3 FT), five rebounds and one steal in 15 minutes."
+   },
+   {
     "player": "Dailyn Swain",
     "team": "CHI",
     "status": "Out",
@@ -194,6 +200,18 @@
    }
   ],
   "LAL@MIL": [
+   {
+    "player": "Collin Sexton",
+    "team": "LAL",
+    "status": "Day-To-Day",
+    "note": "Sexton went back to the locker room during Wednesday's game against the Bucks after bumping heads with Ryan Rollins, Thuc Nhi Nguyen of the Los Angeles Times reports."
+   },
+   {
+    "player": "Austin Reaves",
+    "team": "LAL",
+    "status": "Day-To-Day",
+    "note": "Reaves exited Wednesday's game against the Bucks with an undisclosed injury, Khobi Price of The California Post reports."
+   },
    {
     "player": "Quentin Grimes",
     "team": "LAL",
@@ -270,6 +288,12 @@
    }
   ],
   "GS@HOU": [
+   {
+    "player": "Stephen Curry",
+    "team": "GS",
+    "status": "Day-To-Day",
+    "note": "Curry (hip/oblique) exited Wednesday's game against the Rockets, Anthony Slater of ESPN.com reports."
+   },
    {
     "player": "Gary Payton II",
     "team": "GS",
