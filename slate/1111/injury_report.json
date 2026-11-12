@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-11T23:22:32.125956+00:00",
+ "checked": "2026-11-12T00:22:31.897891+00:00",
  "games": {
   "BOS@TOR": [
    {
@@ -39,12 +39,6 @@
     "team": "CLE",
     "status": "Out",
     "note": "Merrill (elbow) is listed as out for Wednesday's game against the Knicks."
-   },
-   {
-    "player": "Jaylon Tyson",
-    "team": "CLE",
-    "status": "Out",
-    "note": "Tyson (ankle) is questionable to face the Knicks on Wednesday."
    }
   ],
   "WSH@IND": [
@@ -105,16 +99,16 @@
     "note": "Brown has been ruled out for Wednesday's game against the Pelicans due to an illness, Sharif Phillips-Keaton of USA Today reports."
    },
    {
+    "player": "Trey Murphy III",
+    "team": "NO",
+    "status": "Out",
+    "note": "Murphy (knee) is listed as out for Wednesday's game against the Nets."
+   },
+   {
     "player": "Bennedict Mathurin",
     "team": "NO",
     "status": "Out",
     "note": "Mathurin has been ruled out for Wednesday's game against the Nets due to a right thumb sprain."
-   },
-   {
-    "player": "Trey Murphy III",
-    "team": "NO",
-    "status": "Day-To-Day",
-    "note": "Murphy (knee) is doubtful for Wednesday's game against the Nets."
    },
    {
     "player": "Trendon Watford",
@@ -131,6 +125,18 @@
   ],
   "SA@CHI": [
    {
+    "player": "Dailyn Swain",
+    "team": "CHI",
+    "status": "Day-To-Day",
+    "note": "Swain (back) has been downgraded to questionable for Wednesday's game against the Spurs."
+   },
+   {
+    "player": "Norman Powell",
+    "team": "CHI",
+    "status": "Out",
+    "note": "Powell (shoulder) won't play in Wednesday's game against the Spurs,Joel Lorenzi of The Athletic reports."
+   },
+   {
     "player": "Tobe Awaka",
     "team": "CHI",
     "status": "Out",
@@ -143,12 +149,6 @@
     "note": "Wilson has been downgraded to questionable for Wednesday's game against the Spurs due to right hip soreness."
    },
    {
-    "player": "Norman Powell",
-    "team": "CHI",
-    "status": "Day-To-Day",
-    "note": "Powell (shoulder) is listed as questionable for Wednesday's game versus the Spurs."
-   },
-   {
     "player": "Zach Collins",
     "team": "CHI",
     "status": "Day-To-Day",
@@ -157,8 +157,8 @@
    {
     "player": "Devin Vassell",
     "team": "SA",
-    "status": "Day-To-Day",
-    "note": "Vassell (groin) is listed as questionable for Wednesday's game versus the Bulls, NBA reporter Matthew Tynan reports."
+    "status": "Out",
+    "note": "Vassell (adductor) won't play in Wednesday's game against the Bulls, Jeff Garcia of KENS 5 San Antonio reports."
    },
    {
     "player": "Tobias Harris",
@@ -179,12 +179,6 @@
     "team": "DEN",
     "status": "Out",
     "note": "Strawther (knee) was diagnosed with a left knee sprain Friday and will be re-evaluated in six weeks, Vinny Benedetto of The Denver Gazette reports."
-   },
-   {
-    "player": "Isaiah Stewart",
-    "team": "MEM",
-    "status": "Day-To-Day",
-    "note": "Stewart (knee) is listed as questionable for Wednesday's game versus the Nuggets."
    },
    {
     "player": "Scotty Pippen Jr.",
