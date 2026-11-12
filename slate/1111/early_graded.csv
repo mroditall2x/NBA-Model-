@@ -1,0 +1,4 @@
+game,team,player,stat,side,line,p,where,line_now,p_now,move,news,status,Index,tier,price,ev,top,mean,lo,hi,min,gap,actual,result,date
+BOS@TOR,BOS,Jordan Walsh,AST,Less,1.5,0.6728000000000001,Kalshi / Underdog,1.5,0.662,,False,Hold,,,,,,,,,,,0.0,Win,2026-11-11
+GS@HOU,GS,Al Horford,3PM,Less,1.5,0.6464,Kalshi / Underdog,1.5,0.651,,True,Hold,,,,,,,,,,,0.0,Win,2026-11-11
+BKN@NO,BKN,Nolan Traore,REB,Less,2.5,0.6217999999999999,Kalshi / Underdog,,,,,Hold (no current line),2.0,standard,-192.0,-0.054,True,1.89,1.0,3.0,23.4,-0.2,,DNP,2026-11-11
