@@ -1,0 +1,13 @@
+game,team,player,combo,chance,fair_odds,min,min_bump,why,avg,size,special
+TOR@PHI,TOR,Jamal Shead,10+ pts & 8+ ast,0.172,+480,28.8,0.0,"Kawhi Leonard, Scottie Barnes out",2.6 reb / 6.8 ast / 9.3 pts,18,True
+DAL@MIN,MIN,Rudy Gobert,10+ pts & 13+ reb,0.162,+517,30.6,-1.9,Anthony Edwards out,10.8 reb / 1.5 ast / 10.9 pts,23,True
+DET@WSH,WSH,Anthony Davis,20+ pts & 11+ reb,0.155,+547,31.1,6.8,+7 min,9.2 reb / 2.0 ast / 19.3 pts,31,True
+CHA@PHX,CHA,Moussa Diabate,10+ pts & 11+ reb,0.153,+555,30.0,-2.6,Brandon Miller out,9.1 reb / 2.3 ast / 9.7 pts,21,True
+CHA@PHX,CHA,Royce O'Neale,10+ pts & 5+ reb,0.147,+582,26.2,-5.9,Brandon Miller out,4.2 reb / 2.0 ast / 8.4 pts,15,True
+CHA@PHX,CHA,Naz Reid,25+ pts & 10+ reb,0.142,+603,36.1,0.4,Brandon Miller out,8.9 reb / 2.8 ast / 21.4 pts,35,True
+CHA@PHX,CHA,Sion James,10+ pts & 5+ reb,0.136,+633,29.7,-2.7,Brandon Miller out,4.0 reb / 3.2 ast / 8.5 pts,15,True
+DET@WSH,DET,Daniss Jenkins,15+ pts & 6+ ast,0.13,+672,26.3,4.6,+5 min,3.6 reb / 4.7 ast / 12.5 pts,21,True
+TOR@PHI,PHI,VJ Edgecombe,15+ pts & 4+ ast,0.125,+699,33.9,4.3,+4 min,6.0 reb / 3.1 ast / 12.5 pts,19,True
+TOR@PHI,PHI,VJ Edgecombe,15+ pts & 7+ reb,0.121,+727,33.9,4.3,+4 min,6.0 reb / 3.1 ast / 12.5 pts,22,True
+TOR@PHI,TOR,Ja'Kobe Walter,15+ pts & 5+ reb,0.121,+725,30.3,-2.6,"Kawhi Leonard, Scottie Barnes out",4.3 reb / 1.9 ast / 11.4 pts,20,True
+TOR@PHI,TOR,Collin Murray-Boyles,15+ pts & 7+ reb,0.121,+729,25.8,0.2,"Kawhi Leonard, Scottie Barnes out",6.0 reb / 1.8 ast / 11.2 pts,22,True

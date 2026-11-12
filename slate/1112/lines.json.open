@@ -1,0 +1,76 @@
+{
+ "games": [
+  {
+   "away": "DET",
+   "home": "WSH",
+   "id": "d5c5ae8d56762b45d1ec4b85337878f3",
+   "commence": "2026-11-13T00:10:00Z",
+   "home_spread": 10.5,
+   "spread_odds": [
+    -110,
+    -110
+   ],
+   "ml_home": 340,
+   "ml_away": -459,
+   "total": 220.5,
+   "total_odds": [
+    -112,
+    -108
+   ]
+  },
+  {
+   "away": "TOR",
+   "home": "PHI",
+   "id": "a98ff1ab79feb59277d989c656f16144",
+   "commence": "2026-11-13T00:10:00Z",
+   "home_spread": -8.5,
+   "spread_odds": [
+    -110,
+    -110
+   ],
+   "ml_home": -344,
+   "ml_away": 272,
+   "total": 222.5,
+   "total_odds": [
+    -110,
+    -110
+   ]
+  },
+  {
+   "away": "DAL",
+   "home": "MIN",
+   "id": "3c93e4724d36d796aed71c0ca4055b1b",
+   "commence": "2026-11-13T01:10:00Z",
+   "home_spread": -6.0,
+   "spread_odds": [
+    -110,
+    -110
+   ],
+   "ml_home": -223,
+   "ml_away": 185,
+   "total": 226.0,
+   "total_odds": [
+    -110,
+    -110
+   ]
+  },
+  {
+   "away": "CHA",
+   "home": "PHX",
+   "id": "f3f429e773bfb2340ba2bb90f2b9dd1e",
+   "commence": "2026-11-13T02:10:00Z",
+   "home_spread": -6.5,
+   "spread_odds": [
+    -110,
+    -110
+   ],
+   "ml_home": -240,
+   "ml_away": 200,
+   "total": 214.5,
+   "total_odds": [
+    -110,
+    -110
+   ]
+  }
+ ]
+}
