@@ -3,7 +3,7 @@ Steps: hoopR pull -> ESPN injuries -> rotations (auto_minutes + rot_blend) -> si
 -> board -> card (calibrated, rule-filtered) saved to slate/MMDD/card.csv with model p for grading.
 Needs slate/MMDD/lines.json + props_p1.txt (+ pp_compact.json) from the lines source (Outlier scraper or odds API)."""
 import sys, os, json, subprocess, urllib.request
-import pandas as pd
+import pandas as pd, numpy as np
 DATE=sys.argv[1]; MMDD=DATE[5:7]+DATE[8:10]; D=f'slate/{MMDD}'
 def sh(c): print('$',c); subprocess.run(c,shell=True,check=True)
 if os.path.isdir('repo/.git') and not os.environ.get('CI'): sh('cd repo && git pull -q')
@@ -43,11 +43,21 @@ ok&=~((B.side=='Less')&(B['gap']>2))&~((B.side=='More')&(B['gap']<-2))
 ok&=~((B.side=='Less')&B['flags'].str.contains('role up'))&~((B.side=='More')&B['flags'].str.contains('role down'))
 # returning starter (rot_blend/card_slate, 11/10): teammates whose recent bump came while he was out get no Overs
 ok&=~((B.side=='More')&B['flags'].str.contains('teammate back'))
-std=B[ok&B.type.isin(['PP standard','book line'])&~B.stat.isin(['STL','BLK','STL+BLK'])]
-std=std[(std.adj>=0.58)&(std.edge>=0.05)&~((std['min']>=35)&(std.side=='Less')&(std.adj<0.62))]
-std=std[~((std.stat=='PTS')&(std.side=='Less')&(std.adj<0.60))]          # straight PTS Unders need 60%; combos preferred
+std=B[ok&B.type.isin(['PP standard','book line'])&~B.stat.isin(['STL','BLK','STL+BLK'])].copy()
+# 11/12 side-specific calibration + market-agreement ranking (replay 10/31-11/11 board vs box scores, 4,953 graded props):
+#  Unders: calibrated fine up to adj .62 (.58-.62 hit 62.9%), but adj .62-.66 hit 52.6% and .66+ 40.5% -> the extreme Unders the
+#          old card ranked first were the worst; fold anything above .62 back down (cal = .62 - (adj - .62)).
+#  Overs:  overconfident at every level (adj .54-.58 hit 50.9%, .58-.62 56.3%) -> shrink with k=.25 instead of .6.
+#  Pick needs the market on our side (no-vig >= .50) and a price no worse than -150 (PP/Underdog pick'em = -119);
+#  rank by q = .5*cal + .5*market.  Card replay: old rule 37-32 (53.6%, ROI -12.6% at the price paid) -> new 40-22 (64.5%, +12.7%);
+#  better in both halves (10/31-11/7: -28% -> -6%; 11/8-11/11: -1% -> +25%). Small sample: re-check after 2 more weeks.
+std['cal']=np.where(std.side=='Less',np.where(std.adj>0.62,0.62-(std.adj-0.62),std.adj),0.5+0.25*(std.model-0.5))
+std['px']=np.where((std.o==-119)&(std.u==-119),-119,np.where(std.side=='More',std.o,std.u))
+std['q']=0.5*std.cal+0.5*std.market
+std=std[(std.o.abs()>=100)&(std.u.abs()>=100)]                   # junk feed odds (e.g. -1) give a fake market chance
+std=std[(std.cal>=0.56)&(std.market>=0.50)&(std.px>=-150)]
 gob=B[ok&(B.type=='goblin')&(B.model>=0.84)]
-card=pd.concat([std.assign(tier='standard',p=std.adj),gob.assign(tier='goblin',p=gob.model)])
+card=pd.concat([std.assign(tier='standard',p=std.q.round(4)),gob.assign(tier='goblin',p=gob.model)])
 card=card.sort_values('p',ascending=False).drop_duplicates(['player','stat'])
 # ---- price + EV for each play (book odds of that side, from the props pull) ----
 _AB={'Points':'PTS','Rebounds':'REB','Assists':'AST','Points + Assists':'PA','Points + Rebounds':'PR','Rebounds + Assists':'RA','Pts + Reb + Ast':'PRA','Three Pointers':'3PM','Steals':'STL','Blocks':'BLK','Steals + Blocks':'Stl+Blk'}
@@ -65,7 +75,7 @@ def _ev(p,a): return None if a is None or pd.isna(a) else round(p*((a/100+1) if 
 card['price']=[_price(r) for r in card.itertuples()]
 card['ev']=[_ev(p,a) if t=='standard' else None for p,a,t in zip(card.p,card.price,card.tier)]
 # rank: EV when a price exists, otherwise edge over a ~54.5% break-even (DFS); keep the 10 best
-card['score']=card.p   # rank by calibrated chance (replay 10/23-10/30: ranking by EV at the book price went 33-34, by chance 84-68)
+card['score']=card.p   # standard p = q (side-calibrated chance blended 50/50 with the market, 11/12); goblins = model
 card=card.sort_values('score',ascending=False).head(10)
 card['top']=False; card.loc[card.index[:5],'top']=True
 # EV+ props (any side the model likes at a price that pays more than its real chance), incl. plus-money sides like 1+ threes
@@ -91,7 +101,7 @@ if _started and os.path.exists(f'{D}/card.csv'):          # games already tipped
     _old=pd.read_csv(f'{D}/card.csv'); card=pd.concat([_old[_old.game.isin(_started)][[c for c in _cols if c in _old]],card])
 card.to_csv(f'{D}/card.csv',index=False)
 if not os.path.exists(f'{D}/card_early.csv'):            # first build of the day = early card (stricter bar so it survives line moves)
-    card[(card.p>=0.62)|(card.tier=='goblin')].to_csv(f'{D}/card_early.csv',index=False)
+    card[(card.p>=0.60)|(card.tier=='goblin')].to_csv(f'{D}/card_early.csv',index=False)
 G=pd.read_csv(f'{D}/games.csv')
 G['full_game_note']=['skip: model >6 off market' if abs(r.model_total-r.mkt_total)>6 or abs(r.model_spread_home-r.mkt_spread_home)>6 else '' for r in G.itertuples()]
 # 11/10 (NO@GS 11/09: model NO +11.5 / NO ML EV+ while the spread went GS -9.5 -> -11.5 and GS won by 51):
