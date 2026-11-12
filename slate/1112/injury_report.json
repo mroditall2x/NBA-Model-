@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-12T17:22:31.854941+00:00",
+ "checked": "2026-11-12T18:22:27.643098+00:00",
  "games": {
   "DET@WSH": [
    {
@@ -47,6 +47,12 @@
   ],
   "TOR@PHI": [
    {
+    "player": "LeBron James",
+    "team": "PHI",
+    "status": "Out",
+    "note": "James (back) is out for Thursday's game against Toronto."
+   },
+   {
     "player": "Dominick Barlow",
     "team": "PHI",
     "status": "Out",
@@ -65,12 +71,6 @@
     "note": "Embiid (foot) remains questionable for Thursday's game against the Raptors, but he participated in the team's morning shootaround, Ky Carlin of USA Today reports."
    },
    {
-    "player": "LeBron James",
-    "team": "PHI",
-    "status": "Day-To-Day",
-    "note": "James (back) remains questionable for Thursday's game against the Raptors, but he participated in the team's morning shootaround, Ky Carlin of USA Today reports."
-   },
-   {
     "player": "Ariel Hukporti",
     "team": "PHI",
     "status": "Out",
@@ -79,7 +79,7 @@
    {
     "player": "Trayce Jackson-Davis",
     "team": "TOR",
-    "status": "Day-To-Day",
+    "status": "Out",
     "note": "Jackson-Davis (illness) has been ruled out for Wednesday's game against the Celtics, Blake Murphy of Sportsnet.ca reports."
    },
    {

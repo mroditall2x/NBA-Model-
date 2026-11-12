@@ -87,191 +87,185 @@ DET@WSH,Kevin Huerter,PRA,16.5,,DET,15.85,0.399,0.822,-0.423,False,24.1,148.0,Fa
 DET@WSH,Tre Johnson,PRA,12.5,,WSH,11.91,0.414,0.167,0.247,False,21.3,71.0,False
 DET@WSH,Kevin Huerter,REB,3.5,,DET,3.28,0.395,0.856,-0.461,False,24.1,148.0,False
 DET@WSH,Kevin Huerter,RA,6.5,,DET,5.86,0.366,0.475,-0.109,False,24.1,148.0,False
-TOR@PHI,Jakob Poeltl,AST,2.5,,TOR,1.75,0.262,0.39,-0.129,False,27.4,112.0,False
-TOR@PHI,Ja'Kobe Walter,AST,1.5,,TOR,1.86,0.528,0.54,-0.011,False,30.3,135.0,False
-TOR@PHI,R.J. Barrett,AST,3.5,,TOR,3.86,0.524,0.577,-0.053,False,36.6,126.0,False
-TOR@PHI,VJ Edgecombe,AST,3.5,,PHI,3.1,0.374,0.403,-0.029,False,33.9,86.0,False
-TOR@PHI,Immanuel Quickley,AST,5.5,,TOR,5.43,0.451,0.429,0.022,False,32.6,112.0,False
-TOR@PHI,Jaylen Brown,AST,3.5,,PHI,3.61,0.477,0.5,-0.023,False,33.2,147.0,False
-TOR@PHI,Collin Murray-Boyles,AST,1.5,,TOR,1.76,0.495,0.575,-0.08,False,25.8,67.0,False
-TOR@PHI,Joel Embiid,AST,3.5,,PHI,2.88,0.329,0.446,-0.117,False,28.8,67.0,False
-TOR@PHI,LeBron James,AST,6.5,,PHI,5.42,0.308,0.498,-0.19,False,30.5,140.0,False
-TOR@PHI,Tyrese Maxey,AST,5.5,,PHI,5.07,0.399,0.546,-0.147,False,37.7,134.0,False
-TOR@PHI,Immanuel Quickley,PTS,15.5,,TOR,17.16,0.552,0.5,0.052,False,32.6,112.0,False
-TOR@PHI,R.J. Barrett,PTS,21.5,,TOR,24.73,0.623,0.523,0.1,False,36.6,126.0,False
-TOR@PHI,Jakob Poeltl,PTS,10.5,,TOR,11.38,0.509,0.498,0.011,False,27.4,112.0,False
-TOR@PHI,Collin Murray-Boyles,PTS,11.5,,TOR,11.16,0.429,0.49,-0.061,False,25.8,67.0,False
-TOR@PHI,Joel Embiid,PTS,19.5,,PHI,18.74,0.43,0.49,-0.06,False,28.8,67.0,False
-TOR@PHI,VJ Edgecombe,PTS,13.5,,PHI,12.5,0.402,0.523,-0.122,False,33.9,86.0,False
-TOR@PHI,Tyrese Maxey,PTS,24.5,,PHI,23.7,0.436,0.491,-0.055,False,37.7,134.0,False
-TOR@PHI,Ja'Kobe Walter,PTS,10.5,,TOR,11.44,0.511,0.519,-0.008,False,30.3,135.0,False
-TOR@PHI,LeBron James,PTS,16.5,,PHI,15.31,0.398,0.48,-0.082,False,30.5,140.0,False
-TOR@PHI,Jaylen Brown,PTS,22.5,,PHI,21.03,0.397,0.493,-0.096,False,33.2,147.0,False
-TOR@PHI,Ja'Kobe Walter,PA,12.5,,TOR,13.3,0.502,0.516,-0.014,False,30.3,135.0,False
-TOR@PHI,Jakob Poeltl,PA,12.5,,TOR,13.12,0.496,0.511,-0.015,False,27.4,112.0,False
-TOR@PHI,R.J. Barrett,PA,26.5,,TOR,28.58,0.567,0.481,0.086,False,36.6,126.0,False
-TOR@PHI,Collin Murray-Boyles,PA,13.5,,TOR,12.92,0.415,0.484,-0.069,False,25.8,67.0,False
-TOR@PHI,Jaylen Brown,PA,25.5,,PHI,24.63,0.43,0.515,-0.085,False,33.2,147.0,False
-TOR@PHI,Joel Embiid,PA,23.5,,PHI,21.62,0.376,0.485,-0.108,False,28.8,67.0,False
-TOR@PHI,Tyrese Maxey,PA,30.5,,PHI,28.77,0.403,0.494,-0.092,False,37.7,134.0,False
-TOR@PHI,LeBron James,PA,22.5,,PHI,20.73,0.376,0.511,-0.135,False,30.5,140.0,False
-TOR@PHI,VJ Edgecombe,PA,17.5,,PHI,15.6,0.358,0.484,-0.127,False,33.9,86.0,False
-TOR@PHI,Immanuel Quickley,PA,20.5,,TOR,22.59,0.567,0.516,0.05,False,32.6,112.0,False
-TOR@PHI,Jaylen Brown,PR,28.5,,PHI,27.46,0.425,0.52,-0.095,False,33.2,147.0,False
-TOR@PHI,Tyrese Maxey,PR,28.5,,PHI,27.61,0.438,0.489,-0.051,False,37.7,134.0,False
-TOR@PHI,R.J. Barrett,PR,28.5,,TOR,31.72,0.613,0.48,0.133,False,36.6,126.0,False
-TOR@PHI,Ja'Kobe Walter,PR,14.5,,TOR,15.7,0.526,0.514,0.012,False,30.3,135.0,False
-TOR@PHI,Collin Murray-Boyles,PR,16.5,,TOR,17.2,0.493,0.508,-0.015,False,25.8,67.0,False
-TOR@PHI,Joel Embiid,PR,28.5,,PHI,26.87,0.396,0.487,-0.091,False,28.8,67.0,False
-TOR@PHI,VJ Edgecombe,PR,19.5,,PHI,18.45,0.407,0.359,0.048,False,33.9,86.0,False
-TOR@PHI,LeBron James,PR,23.5,,PHI,21.62,0.373,0.486,-0.113,False,30.5,140.0,False
-TOR@PHI,Immanuel Quickley,PR,19.5,,TOR,21.34,0.557,0.486,0.072,False,32.6,112.0,False
-TOR@PHI,Jakob Poeltl,PR,18.5,,TOR,19.72,0.53,0.512,0.017,False,27.4,112.0,False
-TOR@PHI,Ja'Kobe Walter,PRA,16.5,,TOR,17.56,0.519,0.508,0.011,False,30.3,135.0,False
-TOR@PHI,Jaylen Brown,PRA,32.5,,PHI,31.07,0.411,0.507,-0.096,False,33.2,147.0,False
-TOR@PHI,Jakob Poeltl,PRA,21.5,,TOR,21.47,0.466,0.484,-0.018,False,27.4,112.0,False
-TOR@PHI,Tyrese Maxey,PRA,34.5,,PHI,32.68,0.402,0.495,-0.093,False,37.7,134.0,False
-TOR@PHI,Immanuel Quickley,PRA,24.5,,TOR,26.77,0.571,0.498,0.073,False,32.6,112.0,False
-TOR@PHI,VJ Edgecombe,PRA,23.5,,PHI,21.56,0.368,0.495,-0.127,False,33.9,86.0,False
-TOR@PHI,Joel Embiid,PRA,31.5,,PHI,29.75,0.394,0.499,-0.105,False,28.8,67.0,False
-TOR@PHI,LeBron James,PRA,29.5,,PHI,27.04,0.356,0.518,-0.162,False,30.5,140.0,False
-TOR@PHI,Collin Murray-Boyles,PRA,18.5,,TOR,18.96,0.478,0.501,-0.023,False,25.8,67.0,False
-TOR@PHI,R.J. Barrett,PRA,32.5,,TOR,35.58,0.603,0.49,0.113,False,36.6,126.0,False
-TOR@PHI,Ja'Kobe Walter,REB,3.5,,TOR,4.27,0.59,0.556,0.034,False,30.3,135.0,False
-TOR@PHI,Immanuel Quickley,REB,3.5,,TOR,4.18,0.578,0.491,0.087,False,32.6,112.0,False
-TOR@PHI,Tyrese Maxey,REB,3.5,,PHI,3.91,0.536,0.51,0.026,False,37.7,134.0,False
-TOR@PHI,LeBron James,REB,6.5,,PHI,6.31,0.437,0.547,-0.11,False,30.5,140.0,False
-TOR@PHI,Joel Embiid,REB,8.5,,PHI,8.13,0.425,0.486,-0.06,False,28.8,67.0,False
-TOR@PHI,Jaylen Brown,REB,6.5,,PHI,6.43,0.458,0.482,-0.024,False,33.2,147.0,False
-TOR@PHI,VJ Edgecombe,REB,5.5,,PHI,5.96,0.532,0.554,-0.022,False,33.9,86.0,False
-TOR@PHI,Collin Murray-Boyles,REB,5.5,,TOR,6.04,0.53,0.45,0.08,False,25.8,67.0,False
-TOR@PHI,R.J. Barrett,REB,5.5,,TOR,7.0,0.667,0.546,0.122,False,36.6,126.0,False
-TOR@PHI,Jakob Poeltl,REB,7.5,,TOR,8.35,0.561,0.363,0.199,False,27.4,112.0,False
-TOR@PHI,Immanuel Quickley,RA,8.5,,TOR,9.6,0.599,0.522,0.076,False,32.6,112.0,False
-TOR@PHI,Tyrese Maxey,RA,9.5,,PHI,8.98,0.413,0.519,-0.106,False,37.7,134.0,False
-TOR@PHI,Jakob Poeltl,RA,10.5,,TOR,10.09,0.43,0.633,-0.203,False,27.4,112.0,False
-TOR@PHI,Ja'Kobe Walter,RA,5.5,,TOR,6.13,0.55,0.521,0.029,False,30.3,135.0,False
-TOR@PHI,Collin Murray-Boyles,RA,7.5,,TOR,7.8,0.493,0.452,0.041,False,25.8,67.0,False
-TOR@PHI,Jaylen Brown,RA,10.5,,PHI,10.04,0.425,0.462,-0.037,False,33.2,147.0,False
-TOR@PHI,LeBron James,RA,13.5,,PHI,11.73,0.302,0.501,-0.199,False,30.5,140.0,False
-TOR@PHI,Joel Embiid,RA,11.5,,PHI,11.01,0.423,0.527,-0.105,False,28.8,67.0,False
-TOR@PHI,VJ Edgecombe,RA,9.5,,PHI,9.06,0.42,0.46,-0.039,False,33.9,86.0,False
-TOR@PHI,R.J. Barrett,RA,9.5,,TOR,10.85,0.621,0.366,0.255,False,36.6,126.0,False
-TOR@PHI,Scottie Barnes,AST,5.5,not modeled,,,,,,,,,
-TOR@PHI,Scottie Barnes,PTS,19.5,not modeled,,,,,,,,,
-TOR@PHI,Scottie Barnes,PA,24.5,not modeled,,,,,,,,,
-TOR@PHI,Scottie Barnes,PR,26.5,not modeled,,,,,,,,,
-TOR@PHI,Scottie Barnes,PRA,31.5,not modeled,,,,,,,,,
-TOR@PHI,Scottie Barnes,REB,6.5,not modeled,,,,,,,,,
-TOR@PHI,Scottie Barnes,RA,11.5,not modeled,,,,,,,,,
+TOR@PHI,R.J. Barrett,AST,3.5,,TOR,3.85,0.522,0.577,-0.055,False,36.2,126.0,False
+TOR@PHI,VJ Edgecombe,AST,3.5,,PHI,3.75,0.507,0.423,0.085,False,36.2,86.0,False
+TOR@PHI,Immanuel Quickley,AST,5.5,,TOR,5.54,0.47,0.449,0.022,False,32.8,112.0,False
+TOR@PHI,Jaylen Brown,AST,4.5,,PHI,4.52,0.464,0.464,-0.0,False,36.6,147.0,False
+TOR@PHI,Joel Embiid,AST,4.5,,PHI,3.67,0.313,0.42,-0.107,False,32.3,67.0,False
+TOR@PHI,Tyrese Maxey,AST,5.5,,PHI,5.8,0.516,0.556,-0.04,False,38.1,134.0,False
+TOR@PHI,Immanuel Quickley,PTS,16.5,,TOR,17.57,0.521,0.493,0.028,False,32.8,112.0,False
+TOR@PHI,R.J. Barrett,PTS,22.5,,TOR,24.64,0.577,0.493,0.084,False,36.2,126.0,False
+TOR@PHI,Collin Murray-Boyles,PTS,11.5,,TOR,11.58,0.459,0.51,-0.051,False,26.2,67.0,False
+TOR@PHI,Joel Embiid,PTS,21.5,,PHI,22.03,0.498,0.511,-0.013,False,32.3,67.0,False
+TOR@PHI,VJ Edgecombe,PTS,14.5,,PHI,13.67,0.41,0.478,-0.068,False,36.2,86.0,False
+TOR@PHI,Dean Wade,PTS,4.5,,PHI,4.49,0.415,0.538,-0.123,False,24.4,128.0,False
+TOR@PHI,Anfernee Simons,PTS,10.5,,PHI,11.07,0.473,0.504,-0.031,False,24.1,137.0,False
+TOR@PHI,Tyrese Maxey,PTS,25.5,,PHI,24.7,0.433,0.491,-0.058,False,38.1,134.0,False
+TOR@PHI,Ja'Kobe Walter,PTS,11.5,,TOR,11.66,0.465,0.034,0.431,False,30.2,135.0,False
+TOR@PHI,Jaylen Brown,PTS,23.5,,PHI,24.05,0.499,0.501,-0.002,False,36.6,147.0,False
+TOR@PHI,Ja'Kobe Walter,PA,12.5,,TOR,13.55,0.518,0.514,0.004,False,30.2,135.0,False
+TOR@PHI,Jakob Poeltl,PA,13.5,,TOR,13.49,0.464,0.518,-0.054,False,27.9,112.0,False
+TOR@PHI,R.J. Barrett,PA,26.5,,TOR,28.49,0.566,0.502,0.064,False,36.2,126.0,False
+TOR@PHI,Collin Murray-Boyles,PA,13.5,,TOR,13.39,0.45,0.115,0.335,False,26.2,67.0,False
+TOR@PHI,Jaylen Brown,PA,28.5,,PHI,28.56,0.479,0.488,-0.009,False,36.6,147.0,False
+TOR@PHI,Joel Embiid,PA,26.5,,PHI,25.7,0.433,0.5,-0.067,False,32.3,67.0,False
+TOR@PHI,Tyrese Maxey,PA,31.5,,PHI,30.5,0.429,0.498,-0.069,False,38.1,134.0,False
+TOR@PHI,VJ Edgecombe,PA,17.5,,PHI,17.42,0.456,0.491,-0.035,False,36.2,86.0,False
+TOR@PHI,Immanuel Quickley,PA,21.5,,TOR,23.11,0.547,0.521,0.027,False,32.8,112.0,False
+TOR@PHI,Jaylen Brown,PR,30.5,,PHI,31.32,0.518,0.496,0.022,False,36.6,147.0,False
+TOR@PHI,Tyrese Maxey,PR,29.5,,PHI,28.87,0.443,0.496,-0.053,False,38.1,134.0,False
+TOR@PHI,R.J. Barrett,PR,28.5,,TOR,31.59,0.611,0.498,0.113,False,36.2,126.0,False
+TOR@PHI,Ja'Kobe Walter,PR,15.5,,TOR,15.92,0.485,0.476,0.009,False,30.2,135.0,False
+TOR@PHI,Collin Murray-Boyles,PR,17.5,,TOR,17.74,0.477,0.494,-0.017,False,26.2,67.0,False
+TOR@PHI,Joel Embiid,PR,30.5,,PHI,31.36,0.516,0.495,0.022,False,32.3,67.0,False
+TOR@PHI,Dean Wade,PR,9.5,,PHI,9.09,0.406,0.484,-0.078,False,24.4,128.0,False
+TOR@PHI,VJ Edgecombe,PR,20.5,,PHI,20.23,0.453,0.482,-0.029,False,36.2,86.0,False
+TOR@PHI,Immanuel Quickley,PR,20.5,,TOR,21.8,0.532,0.483,0.049,False,32.8,112.0,False
+TOR@PHI,Jakob Poeltl,PR,19.5,,TOR,20.17,0.505,0.501,0.004,False,27.9,112.0,False
+TOR@PHI,Ja'Kobe Walter,PRA,16.5,,TOR,17.81,0.533,0.52,0.013,False,30.2,135.0,False
+TOR@PHI,Jaylen Brown,PRA,34.5,,PHI,35.84,0.538,0.507,0.031,False,36.6,147.0,False
+TOR@PHI,Jakob Poeltl,PRA,22.5,,TOR,21.99,0.447,0.49,-0.043,False,27.9,112.0,False
+TOR@PHI,Tyrese Maxey,PRA,35.5,,PHI,34.67,0.442,0.497,-0.055,False,38.1,134.0,False
+TOR@PHI,Immanuel Quickley,PRA,25.5,,TOR,27.33,0.556,0.499,0.057,False,32.8,112.0,False
+TOR@PHI,VJ Edgecombe,PRA,23.5,,PHI,23.98,0.492,0.5,-0.008,False,36.2,86.0,False
+TOR@PHI,Joel Embiid,PRA,34.5,,PHI,35.03,0.503,0.509,-0.006,False,32.3,67.0,False
+TOR@PHI,Collin Murray-Boyles,PRA,19.5,,TOR,19.55,0.468,0.493,-0.025,False,26.2,67.0,False
+TOR@PHI,R.J. Barrett,PRA,32.5,,TOR,35.44,0.602,0.503,0.099,False,36.2,126.0,False
+TOR@PHI,Ja'Kobe Walter,REB,3.5,,TOR,4.27,0.591,0.558,0.033,False,30.2,135.0,False
+TOR@PHI,Immanuel Quickley,REB,3.5,,TOR,4.23,0.582,0.503,0.079,False,32.8,112.0,False
+TOR@PHI,Tyrese Maxey,REB,3.5,,PHI,4.17,0.582,0.538,0.044,False,38.1,134.0,False
+TOR@PHI,Dean Wade,REB,4.5,,PHI,4.6,0.464,0.467,-0.003,False,24.4,128.0,False
+TOR@PHI,Joel Embiid,REB,8.5,,PHI,9.32,0.569,0.501,0.068,False,32.3,67.0,False
+TOR@PHI,Jaylen Brown,REB,6.5,,PHI,7.28,0.571,0.502,0.069,False,36.6,147.0,False
+TOR@PHI,VJ Edgecombe,REB,5.5,,PHI,6.55,0.616,0.55,0.066,False,36.2,86.0,False
+TOR@PHI,Collin Murray-Boyles,REB,5.5,,TOR,6.16,0.547,0.474,0.072,False,26.2,67.0,False
+TOR@PHI,R.J. Barrett,REB,5.5,,TOR,6.96,0.666,0.539,0.127,False,36.2,126.0,False
+TOR@PHI,Jakob Poeltl,REB,8.5,,TOR,8.5,0.466,0.461,0.005,False,27.9,112.0,False
+TOR@PHI,Immanuel Quickley,RA,8.5,,TOR,9.76,0.612,0.541,0.071,False,32.8,112.0,False
+TOR@PHI,Tyrese Maxey,RA,9.5,,PHI,9.97,0.528,0.532,-0.004,False,38.1,134.0,False
+TOR@PHI,Jakob Poeltl,RA,10.5,,TOR,10.32,0.452,0.487,-0.035,False,27.9,112.0,False
+TOR@PHI,Ja'Kobe Walter,RA,5.5,,TOR,6.15,0.555,0.543,0.012,False,30.2,135.0,False
+TOR@PHI,Collin Murray-Boyles,RA,7.5,,TOR,7.97,0.519,0.476,0.043,False,26.2,67.0,False
+TOR@PHI,Jaylen Brown,RA,11.5,,PHI,11.79,0.507,0.451,0.056,False,36.6,147.0,False
+TOR@PHI,Joel Embiid,RA,12.5,,PHI,12.99,0.524,0.525,-0.001,False,32.3,67.0,False
+TOR@PHI,VJ Edgecombe,RA,9.5,,PHI,10.3,0.566,0.636,-0.07,False,36.2,86.0,False
+TOR@PHI,R.J. Barrett,RA,9.5,,TOR,10.81,0.616,0.546,0.071,False,36.2,126.0,False
+TOR@PHI,Jakob Poeltl,AST,2.5,,TOR,1.82,0.28,0.402,-0.122,False,27.9,112.0,False
+TOR@PHI,Collin Murray-Boyles,AST,1.5,,TOR,1.81,0.514,0.579,-0.065,False,26.2,67.0,False
+TOR@PHI,Ja'Kobe Walter,AST,1.5,,TOR,1.89,0.537,0.559,-0.022,False,30.2,135.0,False
+TOR@PHI,Jakob Poeltl,PTS,11.5,,TOR,11.67,0.473,0.503,-0.03,False,27.9,112.0,False
+TOR@PHI,LeBron James,AST,6.5,not modeled,,,,,,,,,
+TOR@PHI,LeBron James,PTS,15.5,not modeled,,,,,,,,,
+TOR@PHI,LeBron James,PRA,30.5,not modeled,,,,,,,,,
+TOR@PHI,LeBron James,REB,7.5,not modeled,,,,,,,,,
 DAL@MIN,Rudy Gobert,AST,1.5,,MIN,1.52,0.431,0.463,-0.032,False,30.6,158.0,False
 DAL@MIN,LaMelo Ball,AST,6.5,,MIN,7.1,0.556,0.494,0.062,False,29.9,130.0,False
 DAL@MIN,Ayo Dosunmu,AST,4.5,,MIN,4.35,0.435,0.477,-0.042,False,32.9,126.0,False
 DAL@MIN,Jonathan Kuminga,AST,2.5,,MIN,2.52,0.447,0.436,0.011,False,28.2,94.0,False
-DAL@MIN,Cooper Flagg,AST,6.5,,DAL,4.89,0.24,0.442,-0.201,False,29.9,80.0,False
-DAL@MIN,Naji Marshall,AST,2.5,,DAL,2.52,0.447,0.56,-0.113,False,19.6,151.0,False
+DAL@MIN,Cooper Flagg,AST,6.5,,DAL,4.89,0.242,0.442,-0.2,False,29.9,80.0,False
+DAL@MIN,Naji Marshall,AST,2.5,,DAL,2.52,0.445,0.56,-0.114,False,19.6,151.0,False
 DAL@MIN,Jaden McDaniels,AST,3.5,,MIN,3.24,0.402,0.399,0.003,False,35.7,166.0,False
-DAL@MIN,Kyrie Irving,AST,4.5,,DAL,3.61,0.305,0.437,-0.132,False,28.1,61.0,False
+DAL@MIN,Kyrie Irving,AST,4.5,,DAL,3.62,0.31,0.437,-0.127,False,28.1,61.0,False
 DAL@MIN,Rudy Gobert,PTS,9.5,,MIN,10.95,0.563,0.492,0.071,False,30.6,158.0,False
 DAL@MIN,LaMelo Ball,PTS,20.5,,MIN,21.08,0.498,0.501,-0.003,False,29.9,130.0,False
 DAL@MIN,Jonathan Kuminga,PTS,13.5,,MIN,14.27,0.503,0.511,-0.008,False,28.2,94.0,False
-DAL@MIN,P.J. Washington,PTS,12.5,,DAL,12.06,0.426,0.519,-0.093,False,28.5,124.0,False
-DAL@MIN,Daniel Gafford,PTS,8.5,,DAL,7.92,0.4,0.484,-0.084,False,18.8,123.0,False
+DAL@MIN,P.J. Washington,PTS,12.5,,DAL,12.1,0.429,0.519,-0.09,False,28.5,124.0,False
+DAL@MIN,Daniel Gafford,PTS,8.5,,DAL,7.93,0.402,0.484,-0.082,False,18.8,123.0,False
 DAL@MIN,Terrence Shannon Jr.,PTS,9.5,,MIN,8.53,0.37,0.5,-0.13,False,16.8,83.0,False
-DAL@MIN,Kyrie Irving,PTS,22.5,,DAL,18.11,0.278,0.487,-0.208,False,28.1,61.0,False
-DAL@MIN,Cooper Flagg,PTS,23.5,,DAL,20.69,0.347,0.51,-0.163,False,29.9,80.0,False
+DAL@MIN,Kyrie Irving,PTS,22.5,,DAL,18.01,0.273,0.487,-0.214,False,28.1,61.0,False
+DAL@MIN,Cooper Flagg,PTS,23.5,,DAL,20.71,0.345,0.51,-0.165,False,29.9,80.0,False
 DAL@MIN,Ayo Dosunmu,PTS,17.5,,MIN,17.22,0.447,0.518,-0.071,False,32.9,126.0,False
 DAL@MIN,Jaden McDaniels,PTS,16.5,,MIN,17.03,0.493,0.511,-0.018,False,35.7,166.0,False
-DAL@MIN,Santi Aldama,PTS,7.5,,DAL,8.17,0.486,0.474,0.011,False,18.1,111.0,False
-DAL@MIN,Naji Marshall,PTS,9.5,,DAL,9.44,0.445,0.519,-0.073,False,19.6,151.0,False
+DAL@MIN,Santi Aldama,PTS,7.5,,DAL,8.2,0.49,0.474,0.016,False,18.2,111.0,False
+DAL@MIN,Naji Marshall,PTS,9.5,,DAL,9.45,0.446,0.519,-0.072,False,19.6,151.0,False
 DAL@MIN,Jaden McDaniels,PA,20.5,,MIN,20.27,0.456,0.48,-0.024,False,35.7,166.0,False
 DAL@MIN,Rudy Gobert,PA,10.5,,MIN,12.46,0.596,0.522,0.074,False,30.6,158.0,False
 DAL@MIN,Ayo Dosunmu,PA,22.5,,MIN,21.56,0.42,0.493,-0.073,False,32.9,126.0,False
 DAL@MIN,Jonathan Kuminga,PA,16.5,,MIN,16.79,0.475,0.484,-0.009,False,28.2,94.0,False
-DAL@MIN,Cooper Flagg,PA,30.5,,DAL,25.57,0.284,0.494,-0.211,False,29.9,80.0,False
-DAL@MIN,P.J. Washington,PA,14.5,,DAL,13.32,0.389,0.503,-0.114,False,28.5,124.0,False
+DAL@MIN,Cooper Flagg,PA,30.5,,DAL,25.6,0.282,0.494,-0.213,False,29.9,80.0,False
+DAL@MIN,P.J. Washington,PA,14.5,,DAL,13.38,0.393,0.503,-0.111,False,28.5,124.0,False
 DAL@MIN,LaMelo Ball,PA,27.5,,MIN,28.18,0.5,0.5,0.0,False,29.9,130.0,False
-DAL@MIN,Kyrie Irving,PA,26.5,,DAL,21.72,0.279,0.5,-0.221,False,28.1,61.0,False
-DAL@MIN,Naji Marshall,PA,12.5,,DAL,11.96,0.421,0.522,-0.102,False,19.6,151.0,False
+DAL@MIN,Kyrie Irving,PA,26.5,,DAL,21.63,0.276,0.5,-0.223,False,28.1,61.0,False
+DAL@MIN,Naji Marshall,PA,12.5,,DAL,11.97,0.419,0.522,-0.104,False,19.6,151.0,False
 DAL@MIN,Ayo Dosunmu,PR,22.5,,MIN,21.65,0.428,0.49,-0.062,False,32.9,126.0,False
 DAL@MIN,Jonathan Kuminga,PR,19.5,,MIN,19.55,0.464,0.496,-0.032,False,28.2,94.0,False
 DAL@MIN,LaMelo Ball,PR,24.5,,MIN,25.14,0.502,0.506,-0.004,False,29.9,130.0,False
 DAL@MIN,Rudy Gobert,PR,20.5,,MIN,21.76,0.544,0.51,0.034,False,30.6,158.0,False
-DAL@MIN,P.J. Washington,PR,19.5,,DAL,18.18,0.396,0.51,-0.115,False,28.5,124.0,False
-DAL@MIN,Cooper Flagg,PR,30.5,,DAL,26.5,0.318,0.498,-0.18,False,29.9,80.0,False
-DAL@MIN,Santi Aldama,PR,11.5,,DAL,12.33,0.502,0.476,0.027,False,18.1,111.0,False
+DAL@MIN,P.J. Washington,PR,19.5,,DAL,18.28,0.4,0.51,-0.11,False,28.5,124.0,False
+DAL@MIN,Cooper Flagg,PR,30.5,,DAL,26.56,0.315,0.498,-0.183,False,29.9,80.0,False
+DAL@MIN,Santi Aldama,PR,11.5,,DAL,12.42,0.507,0.476,0.031,False,18.2,111.0,False
 DAL@MIN,Jaden McDaniels,PR,22.5,,MIN,22.45,0.464,0.493,-0.029,False,35.7,166.0,False
-DAL@MIN,Daniel Gafford,PR,13.5,,DAL,13.12,0.433,0.518,-0.086,False,18.8,123.0,False
-DAL@MIN,Kyrie Irving,PR,25.5,,DAL,21.52,0.307,0.514,-0.207,False,28.1,61.0,False
-DAL@MIN,Caleb Martin,PR,6.5,,DAL,5.57,0.344,0.488,-0.144,False,14.3,110.0,False
-DAL@MIN,Naji Marshall,PR,13.5,,DAL,12.31,0.381,0.48,-0.098,False,19.6,151.0,False
+DAL@MIN,Daniel Gafford,PR,13.5,,DAL,13.09,0.432,0.518,-0.087,False,18.8,123.0,False
+DAL@MIN,Kyrie Irving,PR,25.5,,DAL,21.43,0.301,0.514,-0.213,False,28.1,61.0,False
+DAL@MIN,Caleb Martin,PR,6.5,,DAL,5.54,0.34,0.488,-0.148,False,14.3,110.0,False
+DAL@MIN,Naji Marshall,PR,13.5,,DAL,12.3,0.382,0.48,-0.098,False,19.6,151.0,False
 DAL@MIN,Ayo Dosunmu,PRA,26.5,,MIN,26.0,0.443,0.518,-0.075,False,32.9,126.0,False
 DAL@MIN,Jonathan Kuminga,PRA,21.5,,MIN,22.07,0.494,0.51,-0.016,False,28.2,94.0,False
 DAL@MIN,LaMelo Ball,PRA,31.5,,MIN,32.24,0.501,0.497,0.005,False,29.9,130.0,False
 DAL@MIN,Rudy Gobert,PRA,22.5,,MIN,23.27,0.513,0.486,0.027,False,30.6,158.0,False
-DAL@MIN,Cooper Flagg,PRA,36.5,,DAL,31.39,0.298,0.504,-0.206,False,29.9,80.0,False
-DAL@MIN,Naji Marshall,PRA,16.5,,DAL,14.83,0.364,0.48,-0.116,False,19.6,151.0,False
-DAL@MIN,Kyrie Irving,PRA,30.5,,DAL,25.13,0.274,0.487,-0.213,False,28.1,61.0,False
-DAL@MIN,P.J. Washington,PRA,21.5,,DAL,19.45,0.362,0.49,-0.128,False,28.5,124.0,False
+DAL@MIN,Cooper Flagg,PRA,36.5,,DAL,31.45,0.295,0.504,-0.209,False,29.9,80.0,False
+DAL@MIN,Naji Marshall,PRA,16.5,,DAL,14.82,0.364,0.48,-0.115,False,19.6,151.0,False
+DAL@MIN,Kyrie Irving,PRA,30.5,,DAL,25.05,0.272,0.487,-0.214,False,28.1,61.0,False
+DAL@MIN,P.J. Washington,PRA,21.5,,DAL,19.55,0.368,0.49,-0.122,False,28.5,124.0,False
 DAL@MIN,Jaden McDaniels,PRA,25.5,,MIN,25.69,0.477,0.504,-0.027,False,35.7,166.0,False
-DAL@MIN,P.J. Washington,REB,6.5,,DAL,6.13,0.413,0.489,-0.076,False,28.5,124.0,False
-DAL@MIN,Caleb Martin,REB,2.5,,DAL,2.15,0.356,0.44,-0.084,False,14.3,110.0,False
-DAL@MIN,Naji Marshall,REB,3.5,,DAL,2.87,0.328,0.425,-0.097,False,19.6,151.0,False
-DAL@MIN,Santi Aldama,REB,3.5,,DAL,4.15,0.556,0.527,0.029,False,18.1,111.0,False
+DAL@MIN,P.J. Washington,REB,6.5,,DAL,6.18,0.42,0.489,-0.068,False,28.5,124.0,False
+DAL@MIN,Caleb Martin,REB,2.5,,DAL,2.1,0.348,0.44,-0.092,False,14.3,110.0,False
+DAL@MIN,Naji Marshall,REB,3.5,,DAL,2.85,0.324,0.425,-0.101,False,19.6,151.0,False
+DAL@MIN,Santi Aldama,REB,3.5,,DAL,4.21,0.566,0.527,0.039,False,18.2,111.0,False
 DAL@MIN,LaMelo Ball,REB,3.5,,MIN,4.06,0.557,0.566,-0.009,False,29.9,130.0,False
 DAL@MIN,Rudy Gobert,REB,11.5,,MIN,10.81,0.403,0.45,-0.047,False,30.6,158.0,False
-DAL@MIN,Daniel Gafford,REB,5.5,,DAL,5.2,0.415,0.49,-0.075,False,18.8,123.0,False
+DAL@MIN,Daniel Gafford,REB,5.5,,DAL,5.16,0.412,0.49,-0.078,False,18.8,123.0,False
 DAL@MIN,Ayo Dosunmu,REB,4.5,,MIN,4.44,0.449,0.445,0.004,False,32.9,126.0,False
-DAL@MIN,Cooper Flagg,REB,6.5,,DAL,5.82,0.369,0.469,-0.099,False,29.9,80.0,False
+DAL@MIN,Cooper Flagg,REB,6.5,,DAL,5.85,0.376,0.469,-0.092,False,29.9,80.0,False
 DAL@MIN,Jonathan Kuminga,REB,5.5,,MIN,5.28,0.428,0.481,-0.053,False,28.2,94.0,False
 DAL@MIN,Jaden McDaniels,REB,5.5,,MIN,5.41,0.455,0.455,-0.0,False,35.7,166.0,False
-DAL@MIN,Kyrie Irving,REB,3.5,,DAL,3.42,0.433,0.48,-0.047,False,28.1,61.0,False
+DAL@MIN,Kyrie Irving,REB,3.5,,DAL,3.42,0.434,0.48,-0.045,False,28.1,61.0,False
 DAL@MIN,Jonathan Kuminga,RA,7.5,,MIN,7.8,0.503,0.526,-0.022,False,28.2,94.0,False
 DAL@MIN,Ayo Dosunmu,RA,8.5,,MIN,8.78,0.5,0.966,-0.467,False,32.9,126.0,False
-DAL@MIN,Kyrie Irving,RA,7.5,,DAL,7.03,0.406,0.52,-0.114,False,28.1,61.0,False
+DAL@MIN,Kyrie Irving,RA,7.5,,DAL,7.04,0.412,0.52,-0.109,False,28.1,61.0,False
 DAL@MIN,LaMelo Ball,RA,10.5,,MIN,11.16,0.547,0.514,0.033,False,29.9,130.0,False
 DAL@MIN,Rudy Gobert,RA,12.5,,MIN,12.33,0.458,0.501,-0.043,False,30.6,158.0,False
-DAL@MIN,Cooper Flagg,RA,12.5,,DAL,10.71,0.314,0.498,-0.184,False,29.9,80.0,False
-DAL@MIN,Naji Marshall,RA,6.5,,DAL,5.38,0.313,0.45,-0.137,False,19.6,151.0,False
-DAL@MIN,P.J. Washington,RA,8.5,,DAL,7.39,0.335,0.446,-0.111,False,28.5,124.0,False
+DAL@MIN,Cooper Flagg,RA,12.5,,DAL,10.74,0.309,0.498,-0.189,False,29.9,80.0,False
+DAL@MIN,Naji Marshall,RA,6.5,,DAL,5.37,0.309,0.45,-0.141,False,19.6,151.0,False
+DAL@MIN,P.J. Washington,RA,8.5,,DAL,7.45,0.342,0.446,-0.104,False,28.5,124.0,False
 DAL@MIN,Jaden McDaniels,RA,8.5,,MIN,8.66,0.49,0.487,0.003,False,35.7,166.0,False
-DAL@MIN,P.J. Washington,AST,1.5,,DAL,1.27,0.352,0.426,-0.074,False,28.5,124.0,False
-DAL@MIN,Daniel Gafford,AST,1.5,,DAL,1.25,0.349,0.42,-0.071,False,18.8,123.0,False
-DAL@MIN,Caleb Martin,AST,1.5,,DAL,1.1,0.296,0.447,-0.151,False,14.3,110.0,False
-DAL@MIN,Caleb Martin,PTS,3.5,,DAL,3.43,0.407,0.526,-0.119,False,14.3,110.0,False
-DAL@MIN,Caleb Martin,PRA,7.5,,DAL,6.67,0.363,0.516,-0.152,False,14.3,110.0,False
-DAL@MIN,Daniel Gafford,PRA,15.5,,DAL,14.37,0.389,0.486,-0.097,False,18.8,123.0,False
+DAL@MIN,P.J. Washington,AST,1.5,,DAL,1.27,0.354,0.426,-0.072,False,28.5,124.0,False
+DAL@MIN,Daniel Gafford,AST,1.5,,DAL,1.23,0.337,0.42,-0.083,False,18.8,123.0,False
+DAL@MIN,Caleb Martin,AST,1.5,,DAL,1.11,0.3,0.447,-0.147,False,14.3,110.0,False
+DAL@MIN,Caleb Martin,PTS,3.5,,DAL,3.44,0.403,0.526,-0.122,False,14.3,110.0,False
+DAL@MIN,Caleb Martin,PRA,7.5,,DAL,6.65,0.358,0.516,-0.157,False,14.3,110.0,False
+DAL@MIN,Daniel Gafford,PRA,15.5,,DAL,14.32,0.39,0.486,-0.096,False,18.8,123.0,False
 DAL@MIN,Trey Lyles,PTS,6.5,,MIN,6.56,0.428,0.466,-0.039,False,19.4,80.0,False
 DAL@MIN,Jaylen Clark,PTS,5.5,,MIN,5.07,0.384,0.447,-0.063,False,14.8,118.0,False
-DAL@MIN,Zaccharie Risacher,PTS,5.5,,DAL,5.9,0.467,0.448,0.019,False,16.8,153.0,False
-DAL@MIN,Morez Johnson Jr.,PTS,6.5,,DAL,6.87,0.471,0.52,-0.05,False,16.1,10.0,False
-DAL@MIN,Walter Clayton Jr.,PTS,6.5,,DAL,5.69,0.362,0.504,-0.142,False,15.4,79.0,False
-DAL@MIN,Daniel Gafford,PA,9.5,,DAL,9.18,0.426,0.501,-0.075,False,18.8,123.0,False
-DAL@MIN,Santi Aldama,PA,9.5,,DAL,9.89,0.468,0.51,-0.041,False,18.1,111.0,False
+DAL@MIN,Zaccharie Risacher,PTS,5.5,,DAL,5.88,0.471,0.448,0.023,False,16.8,153.0,False
+DAL@MIN,Morez Johnson Jr.,PTS,6.5,,DAL,6.84,0.465,0.52,-0.055,False,16.1,10.0,False
+DAL@MIN,Walter Clayton Jr.,PTS,6.5,,DAL,5.63,0.354,0.504,-0.15,False,15.4,79.0,False
+DAL@MIN,Daniel Gafford,PA,9.5,,DAL,9.15,0.426,0.501,-0.075,False,18.8,123.0,False
+DAL@MIN,Santi Aldama,PA,9.5,,DAL,9.9,0.471,0.51,-0.039,False,18.2,111.0,False
 DAL@MIN,Terrence Shannon Jr.,PA,11.5,,MIN,10.36,0.368,0.469,-0.101,False,16.8,83.0,False
-DAL@MIN,Walter Clayton Jr.,PA,9.5,,DAL,8.71,0.386,0.517,-0.131,False,15.4,79.0,False
+DAL@MIN,Walter Clayton Jr.,PA,9.5,,DAL,8.65,0.38,0.517,-0.137,False,15.4,79.0,False
 DAL@MIN,Joan Beringer,PR,9.5,,MIN,11.91,0.59,0.481,0.11,False,17.2,51.0,False
 DAL@MIN,Terrence Shannon Jr.,PR,11.5,,MIN,10.65,0.388,0.496,-0.108,False,16.8,83.0,False
 DAL@MIN,Trey Lyles,PR,10.5,,MIN,10.74,0.45,0.516,-0.066,False,19.4,80.0,False
-DAL@MIN,Morez Johnson Jr.,PR,11.5,,DAL,11.26,0.437,0.517,-0.08,False,16.1,10.0,False
-DAL@MIN,Morez Johnson Jr.,PRA,13.5,,DAL,12.44,0.383,0.489,-0.106,False,16.1,10.0,False
-DAL@MIN,Walter Clayton Jr.,PRA,12.5,,DAL,10.64,0.332,0.509,-0.177,False,15.4,79.0,False
-DAL@MIN,Santi Aldama,PRA,14.5,,DAL,14.04,0.427,0.504,-0.077,False,18.1,111.0,False
+DAL@MIN,Morez Johnson Jr.,PR,11.5,,DAL,11.19,0.429,0.517,-0.088,False,16.1,10.0,False
+DAL@MIN,Morez Johnson Jr.,PRA,13.5,,DAL,12.36,0.376,0.489,-0.113,False,16.1,10.0,False
+DAL@MIN,Walter Clayton Jr.,PRA,12.5,,DAL,10.58,0.33,0.509,-0.179,False,15.4,79.0,False
+DAL@MIN,Santi Aldama,PRA,14.5,,DAL,14.12,0.433,0.504,-0.071,False,18.2,111.0,False
 DAL@MIN,Terrence Shannon Jr.,PRA,13.5,,MIN,12.47,0.385,0.068,0.317,False,16.8,83.0,False
 DAL@MIN,Trey Lyles,PRA,11.5,,MIN,11.88,0.459,0.525,-0.066,False,19.4,80.0,False
 DAL@MIN,Trey Lyles,REB,4.5,,MIN,4.18,0.396,0.473,-0.077,False,19.4,80.0,False
 DAL@MIN,Joan Beringer,REB,4.5,,MIN,5.06,0.52,0.475,0.045,False,17.2,51.0,False
-DAL@MIN,Morez Johnson Jr.,REB,4.5,,DAL,4.39,0.437,0.547,-0.109,False,16.1,10.0,False
+DAL@MIN,Morez Johnson Jr.,REB,4.5,,DAL,4.35,0.435,0.547,-0.112,False,16.1,10.0,False
 DAL@MIN,Trey Lyles,RA,5.5,,MIN,5.32,0.421,0.477,-0.056,False,19.4,80.0,False
-DAL@MIN,Daniel Gafford,RA,6.5,,DAL,6.45,0.456,0.967,-0.511,False,18.8,123.0,False
-DAL@MIN,Morez Johnson Jr.,RA,6.5,,DAL,5.57,0.336,0.472,-0.136,False,16.1,10.0,False
+DAL@MIN,Daniel Gafford,RA,6.5,,DAL,6.39,0.449,0.967,-0.518,False,18.8,123.0,False
+DAL@MIN,Morez Johnson Jr.,RA,6.5,,DAL,5.52,0.331,0.472,-0.14,False,16.1,10.0,False
 DAL@MIN,Terrence Shannon Jr.,RA,4.5,,MIN,3.94,0.357,0.423,-0.067,False,16.8,83.0,False
-DAL@MIN,Santi Aldama,RA,5.5,,DAL,5.87,0.507,0.454,0.052,False,18.1,111.0,False
-DAL@MIN,Walter Clayton Jr.,RA,4.5,,DAL,4.95,0.519,0.548,-0.028,False,15.4,79.0,False
+DAL@MIN,Santi Aldama,RA,5.5,,DAL,5.92,0.511,0.454,0.056,False,18.2,111.0,False
+DAL@MIN,Walter Clayton Jr.,RA,4.5,,DAL,4.95,0.517,0.548,-0.031,False,15.4,79.0,False
 DAL@MIN,Joan Beringer,RA,4.5,,MIN,5.85,0.608,0.552,0.057,False,17.2,51.0,False
 DAL@MIN,Terrence Shannon Jr.,AST,1.5,,MIN,1.82,0.5,0.506,-0.007,False,16.8,83.0,False
-DAL@MIN,Caleb Martin,PA,5.5,,DAL,4.53,0.328,0.488,-0.16,False,14.3,110.0,False
-DAL@MIN,Caleb Martin,RA,3.5,,DAL,3.25,0.398,0.523,-0.125,False,14.3,110.0,False
+DAL@MIN,Caleb Martin,PA,5.5,,DAL,4.54,0.328,0.488,-0.16,False,14.3,110.0,False
+DAL@MIN,Caleb Martin,RA,3.5,,DAL,3.21,0.393,0.523,-0.13,False,14.3,110.0,False
 DAL@MIN,Terrence Shannon Jr.,REB,2.5,,MIN,2.12,0.346,0.426,-0.079,False,16.8,83.0,False
 CHA@PHX,Moussa Diabate,AST,1.5,,CHA,2.32,0.647,0.587,0.06,False,30.0,152.0,False
 CHA@PHX,Sion James,AST,2.5,,CHA,3.2,0.593,0.559,0.034,False,29.7,93.0,False
