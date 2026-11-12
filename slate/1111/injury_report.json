@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-12T03:22:28.143685+00:00",
+ "checked": "2026-11-12T04:22:28.472081+00:00",
  "games": {
   "BOS@TOR": [
    {
@@ -201,22 +201,34 @@
   ],
   "LAL@MIL": [
    {
+    "player": "Austin Reaves",
+    "team": "LAL",
+    "status": "Day-To-Day",
+    "note": "Head coach JJ Redick said that X-rays on Reaves' left heel came back negative, but they won't have another update until he undergoes further imaging back in Los Angeles on Thursday, Dave McMenamin of ESPN.com reports."
+   },
+   {
+    "player": "Luka Doncic",
+    "team": "LAL",
+    "status": "Day-To-Day",
+    "note": "Doncic finished Wednesday's 123-112 win over the Bucks with 32 points (10-25 FG, 5-12 3Pt, 7-10 FT), five rebounds, five assists and three steals across 32 minutes. He exited to the locker room late in the fourth quarter due to an apparent right ankle injury and did not return, Thuc Nhi Nguyen of the Los Angeles Times reports."
+   },
+   {
     "player": "Collin Sexton",
     "team": "LAL",
     "status": "Day-To-Day",
     "note": "Sexton went back to the locker room during Wednesday's game against the Bucks after bumping heads with Ryan Rollins, Thuc Nhi Nguyen of the Los Angeles Times reports."
    },
    {
-    "player": "Austin Reaves",
-    "team": "LAL",
-    "status": "Day-To-Day",
-    "note": "Reaves exited Wednesday's game against the Bucks with an undisclosed injury, Khobi Price of The California Post reports."
-   },
-   {
     "player": "Quentin Grimes",
     "team": "LAL",
     "status": "Out",
     "note": "Grimes (finger) has been ruled out for Wednesday's game against the Bucks."
+   },
+   {
+    "player": "Ryan Rollins",
+    "team": "MIL",
+    "status": "Day-To-Day",
+    "note": "Rollins (head) exited to the locker room in the fourth quarter of Wednesday's 123-112 loss to the Lakers and did not return, finishing with eight points (3-10 FG, 2-6 3Pt), seven rebounds, four assists and one steal across 24 minutes."
    },
    {
     "player": "Myles Turner",
@@ -292,7 +304,7 @@
     "player": "Stephen Curry",
     "team": "GS",
     "status": "Day-To-Day",
-    "note": "Curry (hip/oblique) exited Wednesday's game against the Rockets, Anthony Slater of ESPN.com reports."
+    "note": "Curry won't return to Wednesday's game against the Rockets due to right abdominal soreness, Anthony Slater of ESPN.com reports. He'll finish with three points (1-3 FG, 1-2 3Pt) across six minutes."
    },
    {
     "player": "Gary Payton II",
