@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-12T01:22:25.441376+00:00",
+ "checked": "2026-11-12T02:22:29.457705+00:00",
  "games": {
   "BOS@TOR": [
    {
@@ -42,6 +42,12 @@
    }
   ],
   "WSH@IND": [
+   {
+    "player": "Aaron Nesmith",
+    "team": "IND",
+    "status": "Day-To-Day",
+    "note": "Nesmith will not return to Wednesday's game against the Wizards due to right knee soreness. He'll finish with two points (1-6 FG, 0-4 3Pt), one rebound and one assist across 22 minutes."
+   },
    {
     "player": "Tyrese Haliburton",
     "team": "IND",
@@ -203,16 +209,16 @@
   ],
   "ORL@UTAH": [
    {
-    "player": "Jamal Cain",
-    "team": "ORL",
-    "status": "Day-To-Day",
-    "note": "Cain is questionable for Wednesday's game against the Jazz due to a left shoulder contusion."
-   },
-   {
     "player": "Tristan da Silva",
     "team": "ORL",
-    "status": "Day-To-Day",
-    "note": "Da Silva (calf) is listed as questionable for Wednesday's game at Utah."
+    "status": "Out",
+    "note": "Da Silva (calf) is listed as out for Wednesday's game versus the Jazz."
+   },
+   {
+    "player": "Jamal Cain",
+    "team": "ORL",
+    "status": "Out",
+    "note": "Cain (shoulder) is out for Wednesday's game in Utah."
    },
    {
     "player": "Jalen Suggs",
