@@ -1,0 +1,29 @@
+{
+ "SA": [
+  {
+   "player": "Devin Vassell",
+   "missed": 2,
+   "normal_min": 29.4,
+   "proj_min": 26.4,
+   "final_min": 26.9
+  }
+ ],
+ "GS": [
+  {
+   "player": "Gary Payton II",
+   "missed": 2,
+   "normal_min": 15.1,
+   "proj_min": 13.6,
+   "final_min": 15.1
+  }
+ ],
+ "CHI": [
+  {
+   "player": "Norman Powell",
+   "missed": 2,
+   "normal_min": 28.9,
+   "proj_min": 26.0,
+   "final_min": 31.2
+  }
+ ]
+}
