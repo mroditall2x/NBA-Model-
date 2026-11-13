@@ -1,9 +1,9 @@
 game,team,player,stat,line,side,p,price,ev,mean,where
-NY@IND,IND,Obi Toppin,PRA,15.5,Less,0.569,111,0.201,14.27,Kalshi / Novig / books
-UTAH@HOU,UTAH,Ace Bailey,RA,7.5,More,0.532,123,0.186,8.28,Kalshi / Novig / books
+NY@IND,IND,Kelly Oubre Jr.,PRA,16.5,Less,0.575,110,0.208,15.05,Kalshi / Novig / books
+NY@IND,IND,Obi Toppin,PRA,15.5,Less,0.571,111,0.206,14.25,Kalshi / Novig / books
+UTAH@HOU,UTAH,Ace Bailey,RA,7.5,More,0.532,123,0.186,8.27,Kalshi / Novig / books
 CLE@MIA,MIA,Klay Thompson,AST,1.5,Less,0.504,135,0.185,1.76,Kalshi / Novig / books
-NY@IND,IND,Kelly Oubre Jr.,PRA,16.5,Less,0.563,110,0.182,15.31,Kalshi / Novig / books
-POR@SAC,SAC,Domantas Sabonis,AST,5.5,Less,0.562,110,0.181,5.05,Kalshi / Novig / books
-POR@SAC,SAC,Domantas Sabonis,3PM,0.5,More,0.252,350,0.133,0.35,Kalshi / Novig / books
-GS@SA,SA,Keldon Johnson,3PM,0.5,Less,0.514,120,0.13,0.81,Kalshi / Novig / books
-NY@IND,IND,Quenton Jackson,AST,2.5,More,0.549,104,0.119,3.15,Kalshi / Novig / books
+POR@SAC,SAC,Domantas Sabonis,AST,5.5,Less,0.559,110,0.173,5.09,Kalshi / Novig / books
+GS@SA,SA,Keldon Johnson,3PM,0.5,Less,0.517,120,0.138,0.8,Kalshi / Novig / books
+NY@IND,IND,Kelly Oubre Jr.,RA,5.5,Less,0.58,-105,0.132,4.88,Kalshi / Underdog
+NY@IND,IND,Kelly Oubre Jr.,PA,12.5,Less,0.562,101,0.129,11.63,Kalshi / Novig / books

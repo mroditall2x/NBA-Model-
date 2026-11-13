@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-13T17:22:34.617412+00:00",
+ "checked": "2026-11-13T18:22:34.331813+00:00",
  "games": {
   "NY@IND": [
    {
@@ -35,22 +35,22 @@
   ],
   "MIL@ORL": [
    {
-    "player": "Tristan da Silva",
-    "team": "ORL",
-    "status": "Day-To-Day",
-    "note": "Da Silva (calf) is questionable for Friday's game against Milwaukee."
-   },
-   {
     "player": "Jamal Cain",
     "team": "ORL",
     "status": "Day-To-Day",
-    "note": "Cain (shoulder) is questionable for Friday's game against the Bucks."
+    "note": "Cain (shoulder) participated in Friday morning's shootaround and remains questionable for Friday's game against the Bucks, Jason Beede of the Orlando Sentinel reports."
+   },
+   {
+    "player": "Tristan da Silva",
+    "team": "ORL",
+    "status": "Day-To-Day",
+    "note": "Da Silva (calf) participated in Friday's morning shootaround and remains questionable for Friday's game against Milwaukee, Jason Beede of the Orlando Sentinel reports."
    },
    {
     "player": "Jalen Suggs",
     "team": "ORL",
     "status": "Out",
-    "note": "Suggs (knee) is questionable for Friday's game against Milwaukee."
+    "note": "Suggs (knee) participated in Friday's morning shootaround and remains questionable for Friday's game against the Bucks, Jason Beede of the Orlando Sentinel reports."
    },
    {
     "player": "Jonathan Isaac",
@@ -191,6 +191,18 @@
     "note": "Saunders signed a two-way contract with the Grizzlies on Saturday, Shams Charania of ESPN reports."
    },
    {
+    "player": "Dejounte Murray",
+    "team": "NO",
+    "status": "Day-To-Day",
+    "note": "Murray registered six points (1-6 FG, 0-1 3Pt, 4-4 FT), three rebounds and three assists across 28 minutes during Sunday's 139-123 loss to the Clippers."
+   },
+   {
+    "player": "Trey Murphy III",
+    "team": "NO",
+    "status": "Out",
+    "note": "Murphy (knee) is out for Friday's game against Memphis."
+   },
+   {
     "player": "Bryce McGowens",
     "team": "NO",
     "status": "Day-To-Day",
@@ -213,12 +225,6 @@
     "team": "NO",
     "status": "Out",
     "note": "Missi (knee) is listed as doubtful for Friday's game against the Grizzlies."
-   },
-   {
-    "player": "Trey Murphy III",
-    "team": "NO",
-    "status": "Day-To-Day",
-    "note": "Murphy (knee) is listed as doubtful for Friday's game against the Grizzlies."
    }
   ],
   "UTAH@HOU": [

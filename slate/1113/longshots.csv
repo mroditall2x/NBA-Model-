@@ -1,13 +1,13 @@
 game,team,player,combo,chance,fair_odds,min,min_bump,why,avg,size,special
 OKC@LAC,OKC,Aday Mara,10+ pts & 9+ reb,0.17,+489,25.7,4.3,Jalen Williams out; +4 min,7.4 reb / 1.6 ast / 9.8 pts,19,True
-NY@IND,IND,Ivica Zubac,10+ pts & 10+ reb,0.163,+514,25.7,10.6,Tyrese Haliburton out; +11 min,8.0 reb / 1.8 ast / 10.4 pts,20,True
-ATL@CHI,CHI,Jalen Smith,15+ pts & 10+ reb,0.156,+543,27.8,2.0,Caleb Wilson out,8.3 reb / 1.9 ast / 13.7 pts,25,True
-NY@IND,IND,Andrew Nembhard,15+ pts & 9+ ast,0.155,+547,31.2,1.5,Tyrese Haliburton out,2.4 reb / 7.5 ast / 13.9 pts,24,True
+NY@IND,IND,Andrew Nembhard,15+ pts & 9+ ast,0.163,+513,31.3,1.5,Tyrese Haliburton out,2.4 reb / 7.6 ast / 14.0 pts,24,True
+NY@IND,IND,Ivica Zubac,10+ pts & 10+ reb,0.163,+514,25.8,10.5,Tyrese Haliburton out; +10 min,8.0 reb / 1.9 ast / 10.5 pts,20,True
 OKC@LAC,OKC,Isaiah Hartenstein,10+ pts & 13+ reb,0.154,+548,29.1,-1.3,Jalen Williams out,11.0 reb / 4.0 ast / 9.9 pts,23,True
-UTAH@HOU,UTAH,Ace Bailey,15+ pts & 8+ reb,0.15,+565,33.0,-0.5,Lauri Markkanen out,6.3 reb / 1.9 ast / 14.3 pts,23,True
+ATL@CHI,CHI,Jalen Smith,15+ pts & 10+ reb,0.149,+571,27.8,1.9,Caleb Wilson out,8.2 reb / 1.9 ast / 13.4 pts,25,True
+UTAH@HOU,UTAH,Ace Bailey,15+ pts & 8+ reb,0.147,+580,33.1,-0.6,Lauri Markkanen out,6.3 reb / 2.0 ast / 14.6 pts,23,True
 CLE@MIA,MIA,Davion Mitchell,15+ pts & 9+ ast,0.145,+589,35.2,5.0,+5 min,2.8 reb / 7.9 ast / 12.6 pts,24,True
-UTAH@HOU,HOU,Fred VanVleet,15+ pts & 5+ ast,0.14,+615,29.0,4.0,+4 min,3.1 reb / 4.5 ast / 12.1 pts,20,True
-GS@SA,GS,Yaxel Lendeborg,25+ pts & 9+ reb,0.131,+664,35.8,-1.4,Stephen Curry out,7.1 reb / 3.6 ast / 23.0 pts,34,True
-NY@IND,NY,Josh Hart,10+ pts & 8+ reb,0.129,+674,27.9,3.5,+4 min,6.4 reb / 3.9 ast / 9.0 pts,18,True
-MEM@NO,NO,Dejounte Murray,15+ pts & 6+ ast,0.126,+694,26.5,3.4,+3 min,4.5 reb / 4.7 ast / 12.4 pts,21,True
-MIL@ORL,MIL,Brayden Burries,15+ pts & 3+ ast,0.124,+705,24.6,4.6,+5 min,4.9 reb / 2.5 ast / 11.3 pts,18,True
+UTAH@HOU,HOU,Fred VanVleet,15+ pts & 5+ ast,0.144,+595,29.0,3.9,+4 min,3.1 reb / 4.5 ast / 12.2 pts,20,True
+GS@SA,GS,Yaxel Lendeborg,25+ pts & 9+ reb,0.133,+653,35.9,-1.2,Stephen Curry out,7.1 reb / 3.6 ast / 22.9 pts,34,True
+NY@IND,NY,Josh Hart,10+ pts & 8+ reb,0.13,+668,28.0,3.4,+3 min,6.4 reb / 3.9 ast / 9.0 pts,18,True
+NY@IND,IND,Pascal Siakam,25+ pts & 7+ reb,0.126,+693,32.5,0.9,Tyrese Haliburton out,5.9 reb / 3.8 ast / 21.0 pts,32,True
+MIL@ORL,MIL,Brayden Burries,15+ pts & 3+ ast,0.121,+727,24.7,4.8,+5 min,4.9 reb / 2.5 ast / 11.2 pts,18,True

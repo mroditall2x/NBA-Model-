@@ -1,4 +1,4 @@
 game,team,player,stat,side,line,p,where,line_now,p_now,move,news,status
-MEM@NO,NO,Derik Queen,3PM,Less,0.5,0.6668000000000001,Kalshi / Underdog,0.5,0.667,,False,Hold
-POR@SAC,POR,Donovan Clingan,AST,Less,2.5,0.641,Kalshi / Underdog,2.5,0.641,,False,Hold
-MIL@ORL,MIL,Jaime Jaquez Jr,3PM,Less,1.5,0.6205999999999999,Kalshi / Underdog,1.5,0.621,,False,Hold
+MEM@NO,NO,Derik Queen,3PM,Less,0.5,0.6668000000000001,Kalshi / Underdog,0.5,0.65,,True,Hold
+POR@SAC,POR,Donovan Clingan,AST,Less,2.5,0.641,Kalshi / Underdog,2.5,0.64,,False,Hold
+MIL@ORL,MIL,Jaime Jaquez Jr,3PM,Less,1.5,0.6205999999999999,Kalshi / Underdog,1.5,0.622,,False,Hold
