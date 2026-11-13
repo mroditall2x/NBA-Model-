@@ -31,7 +31,17 @@ RECENT_N=8
 _md=D.rstrip('/')[-4:]; _slate_date=pd.Timestamp(f"{2026 if int(_md[:2])>=9 else 2027}-{_md[:2]}-{_md[2:]}")
 _cur=p[(p.season==p.season.max())&(p.game_date<_slate_date)].copy(); _cur['k']=_cur.name.map(norm)
 _cur['pa']=_cur.pts+_cur.ast; _cur['pr']=_cur.pts+_cur.reb; _cur['ra']=_cur.reb+_cur.ast; _cur['pra']=_cur.pts+_cur.reb+_cur.ast; _cur['stocks']=_cur.stl+_cur.blk
-_byk={k:x.tail(RECENT_N) for k,x in _cur.groupby('k')}
+# 11/13: a player whose starter/bench role flipped is judged only on games in his current role once that streak is 4+
+# games (Ayo Dosunmu 11/12: 7 straight starts, PR 27.0 vs model 21.7, but the flat last 8 still held a bench game and
+# missed the 25% bar). Replay 10/28-11/11 (research/replay_role_streak.py): card 58-37 vs 59-37, i.e. neutral; shipped
+# as a safety rule. 'started last N' / 'bench last N' is informational (no card rule reads it).
+def _window(x):
+    s=x.starter.astype(bool).values[::-1]; n=1
+    while n<len(s) and s[n]==s[0]: n+=1
+    return (x.tail(min(n,RECENT_N)) if n>=4 else x.tail(RECENT_N)), n, bool(s[0])
+_byk,_role={},{}; _ngames=_cur.groupby('k').size().to_dict()
+for k,x in _cur.sort_values('game_date').groupby('k'):
+    _byk[k],n,st=_window(x); _role[k]=(n,st)
 # returning players (rot_blend.py, 11/10): the returner's own minutes are a guess first game back -> 'minutes unclear';
 # teammates' recent bump came while he was out -> 'teammate back' (blocks Overs, replaces role up)
 _rf=f"slate/{_slate_date.date()}_returning.json"
@@ -40,7 +50,7 @@ RET_K={tm:{norm(r['player']):r for r in rs} for tm,rs in _RET.items()}
 RET_REG={tm:[r['player'] for r in rs if r['normal_min']>=20] for tm,rs in _RET.items()}
 def recent_avg(k,stn):
     x=_byk.get(k)
-    if x is None or len(x)<5 or stn not in x: return None
+    if x is None or len(x)<4 or stn not in x or _ngames.get(k,0)<5: return None
     return float(x[stn].mean())
 out=[]
 for g,pl,st,l,o,u,pp,gob,dem in rows:
@@ -55,6 +65,7 @@ for g,pl,st,l,o,u,pp,gob,dem in rows:
     if lt.get(k) and lt[k]!=team: flags.append('new team')
     if ngk.get(k,0)<60: flags.append('small sample')
     rv=recent_avg(k,STAT[st]); mv=float(v.mean())
+    if k in _role and _role[k][0]>=3: flags.append(f"{'started' if _role[k][1] else 'bench'} last {_role[k][0]}")
     if k in RET_K.get(team,{}): flags.append(f"returning (missed {RET_K[team][k]['missed']}) - minutes unclear")
     elif RET_REG.get(team) and rv is not None and mv>0 and rv>=1.15*mv:
         flags.append(f"teammate back ({', '.join(RET_REG[team])}; last {RECENT_N}: {rv:.1f})")
