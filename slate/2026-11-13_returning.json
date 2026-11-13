@@ -25,5 +25,14 @@
    "proj_min": 26.0,
    "final_min": 31.2
   }
+ ],
+ "ORL": [
+  {
+   "player": "Jalen Suggs",
+   "missed": 8,
+   "normal_min": 29.3,
+   "proj_min": 26.4,
+   "final_min": 26.5
+  }
  ]
 }
