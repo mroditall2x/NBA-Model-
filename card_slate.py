@@ -48,6 +48,19 @@ _rf=f"slate/{_slate_date.date()}_returning.json"
 _RET=json.load(open(_rf)) if os.path.exists(_rf) else {}
 RET_K={tm:{norm(r['player']):r for r in rs} for tm,rs in _RET.items()}
 RET_REG={tm:[r['player'] for r in rs if r['normal_min']>=20] for tm,rs in _RET.items()}
+# projected lineups (lineups.py, RotoWire, 11/13): a projected starter the model gives under 24 min is a minutes guess
+# (Caleb Martin 11/12: model 14, started, played 21, 4 Unders lost) -> 'minutes unclear' keeps him off the card.
+_lf=f"{D.rstrip('/')}/lineups.json"; LU=json.load(open(_lf)) if os.path.exists(_lf) else {}
+def _ini(n):
+    w=norm(n).split(); return (w[0][0],w[-1]) if len(w)>=2 else (n,)
+LUK={tm:{c:({norm(n) for n in v.get(c,[])},{_ini(n) for n in v.get(c,[])}) for c in ('starters','out','doubt','ques')}|{'status':v.get('status','')} for tm,v in LU.items()}
+def lineup_tag(team,k):
+    t=LUK.get(team)
+    if not t: return None,''
+    for c in ('out','doubt','starters','ques'):
+        full,ini=t[c]
+        if k in full or _ini(k) in ini: return c,t['status']
+    return 'bench',t['status']
 def recent_avg(k,stn):
     x=_byk.get(k)
     if x is None or len(x)<4 or stn not in x or _ngames.get(k,0)<5: return None
@@ -66,6 +79,10 @@ for g,pl,st,l,o,u,pp,gob,dem in rows:
     if ngk.get(k,0)<60: flags.append('small sample')
     rv=recent_avg(k,STAT[st]); mv=float(v.mean())
     if k in _role and _role[k][0]>=3: flags.append(f"{'started' if _role[k][1] else 'bench'} last {_role[k][0]}")
+    lt_,ls_=lineup_tag(team,k); mn_=float(x['min'].mean())
+    if lt_=='starters' and mn_<24: flags.append(f'projected starter ({ls_}) - minutes unclear (model {mn_:.0f})')
+    elif lt_ in ('out','doubt'): flags.append(f'listed {lt_} (RotoWire) - minutes unclear')
+    elif lt_ in ('starters','ques'): flags.append(f"lineup: {'starter' if lt_=='starters' else 'questionable'} ({ls_})")
     if k in RET_K.get(team,{}): flags.append(f"returning (missed {RET_K[team][k]['missed']}) - minutes unclear")
     elif RET_REG.get(team) and rv is not None and mv>0 and rv>=1.15*mv:
         flags.append(f"teammate back ({', '.join(RET_REG[team])}; last {RECENT_N}: {rv:.1f})")

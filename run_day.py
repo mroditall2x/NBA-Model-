@@ -19,6 +19,12 @@ except Exception as e:
     print('injury feed failed:',e)
     if not os.path.exists(f'slate/{DATE}_out.json'): json.dump([],open(f'slate/{DATE}_out.json','w'))
     if not os.path.exists(f'{D}/gtd.json'): json.dump([],open(f'{D}/gtd.json','w'))
+# projected lineups (RotoWire, 11/13): their Out list joins ESPN's before minutes are built; starters feed card_slate flags
+subprocess.run(f'python3 lineups.py {DATE}', shell=True)
+if os.path.exists(f'{D}/lineups.json'):
+    _o=json.load(open(f'slate/{DATE}_out.json'))
+    _add=[n for t in json.load(open(f'{D}/lineups.json')).values() for n in t.get('out',[]) if n not in _o]
+    if _add: json.dump(_o+_add,open(f'slate/{DATE}_out.json','w')); print('RotoWire out added:',_add)
 sh(f'python3 auto_minutes.py {DATE} slate/{DATE}_rot_last.json > /dev/null')
 sh(f'python3 rot_blend.py {DATE} 0.6')
 os.environ['NO_OUTGUESS']='1'; os.environ['SAVE_SIM']='1'
