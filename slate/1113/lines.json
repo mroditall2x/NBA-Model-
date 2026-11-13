@@ -5,14 +5,14 @@
    "home": "IND",
    "id": "6669b911691463c669a5c10574742e8e",
    "commence": "2026-11-14T00:10:00Z",
-   "home_spread": 8.5,
+   "home_spread": 8.0,
    "spread_odds": [
     -110,
-    -110
+    -108
    ],
-   "ml_home": 270,
-   "ml_away": -335,
-   "total": 219.5,
+   "ml_home": 259,
+   "ml_away": -320,
+   "total": 219.0,
    "total_odds": [
     -110,
     -110
@@ -28,7 +28,7 @@
     -110,
     -110
    ],
-   "ml_home": -400,
+   "ml_home": -410,
    "ml_away": 320,
    "total": 223.5,
    "total_odds": [
@@ -41,17 +41,17 @@
    "home": "CHI",
    "id": "80ffc963f864f3d4fcefa82fd02b7d7b",
    "commence": "2026-11-14T01:10:00Z",
-   "home_spread": 7.0,
+   "home_spread": 6.5,
    "spread_odds": [
     -110,
     -110
    ],
-   "ml_home": 226,
-   "ml_away": -277,
+   "ml_home": 220,
+   "ml_away": -267,
    "total": 245.5,
    "total_odds": [
-    -112,
-    -108
+    -115,
+    -105
    ]
   },
   {
@@ -61,11 +61,11 @@
    "commence": "2026-11-14T01:10:00Z",
    "home_spread": -2.5,
    "spread_odds": [
-    -108,
-    -111
+    -105,
+    -113
    ],
-   "ml_home": -135,
-   "ml_away": 115,
+   "ml_home": -134,
+   "ml_away": 114,
    "total": 236.5,
    "total_odds": [
     -110,
@@ -83,7 +83,7 @@
     -110
    ],
    "ml_home": 135,
-   "ml_away": -160,
+   "ml_away": -162,
    "total": 235.5,
    "total_odds": [
     -110,
@@ -105,7 +105,7 @@
    "total": 221.0,
    "total_odds": [
     -110,
-    -110
+    -108
    ]
   },
   {
@@ -113,17 +113,17 @@
    "home": "SA",
    "id": "1fae7f34ec6035dffa74feb148ee26c7",
    "commence": "2026-11-14T02:40:00Z",
-   "home_spread": -12.5,
+   "home_spread": -12.0,
    "spread_odds": [
-    -105,
-    -115
+    -110,
+    -107
    ],
    "ml_home": -650,
-   "ml_away": 475,
-   "total": 218.0,
+   "ml_away": 473,
+   "total": 217.5,
    "total_odds": [
-    -110,
-    -110
+    -113,
+    -107
    ]
   },
   {
@@ -152,7 +152,7 @@
    "home_spread": 7.0,
    "spread_odds": [
     -105,
-    -113
+    -115
    ],
    "ml_home": 230,
    "ml_away": -283,

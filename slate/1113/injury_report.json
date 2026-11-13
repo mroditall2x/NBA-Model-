@@ -1,19 +1,7 @@
 {
- "checked": "2026-11-13T22:22:29.170856+00:00",
+ "checked": "2026-11-13T23:22:29.202209+00:00",
  "games": {
   "NY@IND": [
-   {
-    "player": "T.J. McConnell",
-    "team": "IND",
-    "status": "Day-To-Day",
-    "note": "McConnell is probable for Friday's game against the Knicks due to a right hamstring strain."
-   },
-   {
-    "player": "Aaron Nesmith",
-    "team": "IND",
-    "status": "Day-To-Day",
-    "note": "Nesmith (knee) is questionable for Friday's game against the Knicks."
-   },
    {
     "player": "Tyrese Haliburton",
     "team": "IND",
@@ -34,18 +22,6 @@
    }
   ],
   "MIL@ORL": [
-   {
-    "player": "Jamal Cain",
-    "team": "ORL",
-    "status": "Day-To-Day",
-    "note": "Cain (shoulder) participated in Friday morning's shootaround and remains questionable for Friday's game against the Bucks, Jason Beede of the Orlando Sentinel reports."
-   },
-   {
-    "player": "Jalen Suggs",
-    "team": "ORL",
-    "status": "Out",
-    "note": "Suggs (knee) participated in Friday's morning shootaround and remains questionable for Friday's game against the Bucks, Jason Beede of the Orlando Sentinel reports."
-   },
    {
     "player": "Jonathan Isaac",
     "team": "ORL",
@@ -144,13 +120,13 @@
     "player": "Klay Thompson",
     "team": "MIA",
     "status": "Day-To-Day",
-    "note": "Thompson (ankle) is listed as probable for Friday's game against the Cavaliers."
+    "note": "Thompson (ankle) has been downgraded to questionable for Friday's game against Cleveland."
    },
    {
     "player": "Pelle Larsson",
     "team": "MIA",
-    "status": "Day-To-Day",
-    "note": "Larsson (illness) is listed as doubtful for Friday's game against Cleveland."
+    "status": "Out",
+    "note": "Larsson (illness) is out for Friday's game against Cleveland."
    }
   ],
   "MEM@NO": [
