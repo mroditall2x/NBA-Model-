@@ -15,7 +15,7 @@
    "total": 219.5,
    "total_odds": [
     -107,
-    -112
+    -110
    ]
   },
   {
@@ -28,12 +28,12 @@
     -110,
     -110
    ],
-   "ml_home": -390,
+   "ml_home": -395,
    "ml_away": 310,
    "total": 223.5,
    "total_odds": [
-    -110,
-    -110
+    -112,
+    -109
    ]
   },
   {
@@ -46,8 +46,8 @@
     -110,
     -110
    ],
-   "ml_home": 230,
-   "ml_away": -282,
+   "ml_home": 225,
+   "ml_away": -277,
    "total": 245.5,
    "total_odds": [
     -110,
@@ -64,9 +64,9 @@
     -110,
     -110
    ],
-   "ml_home": -136,
+   "ml_home": -135,
    "ml_away": 115,
-   "total": 235.5,
+   "total": 236.5,
    "total_odds": [
     -110,
     -110
@@ -79,12 +79,12 @@
    "commence": "2026-11-14T01:10:00Z",
    "home_spread": 3.5,
    "spread_odds": [
-    -113,
+    -112,
     -108
    ],
    "ml_home": 135,
-   "ml_away": -157,
-   "total": 235.5,
+   "ml_away": -162,
+   "total": 235.0,
    "total_odds": [
     -110,
     -110
@@ -97,11 +97,11 @@
    "commence": "2026-11-14T01:40:00Z",
    "home_spread": -15.5,
    "spread_odds": [
-    -110,
-    -108
+    -108,
+    -114
    ],
-   "ml_home": -1250,
-   "ml_away": 800,
+   "ml_home": -1200,
+   "ml_away": 740,
    "total": 221.0,
    "total_odds": [
     -110,
@@ -118,12 +118,12 @@
     -110,
     -107
    ],
-   "ml_home": -675,
-   "ml_away": 490,
-   "total": 218.0,
+   "ml_home": -650,
+   "ml_away": 475,
+   "total": 217.5,
    "total_odds": [
     -110,
-    -110
+    -108
    ]
   },
   {
@@ -133,12 +133,12 @@
    "commence": "2026-11-14T03:10:00Z",
    "home_spread": 10.0,
    "spread_odds": [
-    -106,
-    -112
+    -110,
+    -110
    ],
-   "ml_home": 361,
+   "ml_home": 360,
    "ml_away": -475,
-   "total": 229.0,
+   "total": 229.5,
    "total_odds": [
     -110,
     -110
@@ -151,10 +151,10 @@
    "commence": "2026-11-14T03:40:00Z",
    "home_spread": 7.0,
    "spread_odds": [
-    -110,
-    -110
+    -105,
+    -111
    ],
-   "ml_home": 230,
+   "ml_home": 229,
    "ml_away": -280,
    "total": 222.5,
    "total_odds": [
