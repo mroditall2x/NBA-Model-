@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-13T21:22:25.913018+00:00",
+ "checked": "2026-11-13T22:22:29.170856+00:00",
  "games": {
   "NY@IND": [
    {
@@ -39,12 +39,6 @@
     "team": "ORL",
     "status": "Day-To-Day",
     "note": "Cain (shoulder) participated in Friday morning's shootaround and remains questionable for Friday's game against the Bucks, Jason Beede of the Orlando Sentinel reports."
-   },
-   {
-    "player": "Tristan da Silva",
-    "team": "ORL",
-    "status": "Day-To-Day",
-    "note": "Da Silva (calf) participated in Friday's morning shootaround and remains questionable for Friday's game against Milwaukee, Jason Beede of the Orlando Sentinel reports."
    },
    {
     "player": "Jalen Suggs",
@@ -355,8 +349,8 @@
    {
     "player": "Precious Achiuwa",
     "team": "SAC",
-    "status": "Day-To-Day",
-    "note": "Achiuwa (ankle) is questionable to play Friday's game against the Trail Blazers."
+    "status": "Out",
+    "note": "Achiuwa (ankle) is out for Friday's game against the Trail Blazers."
    },
    {
     "player": "Maxime Raynaud",
