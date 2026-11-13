@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-13T18:22:34.331813+00:00",
+ "checked": "2026-11-13T19:22:26.657438+00:00",
  "games": {
   "NY@IND": [
    {
@@ -150,19 +150,13 @@
     "player": "Klay Thompson",
     "team": "MIA",
     "status": "Day-To-Day",
-    "note": "Thompson (ankle) is listed as questionable for Friday's game against the Cavaliers."
-   },
-   {
-    "player": "Giannis Antetokounmpo",
-    "team": "MIA",
-    "status": "Day-To-Day",
-    "note": "Antetokounmpo (wrist) is probable for Friday's game against Cleveland."
+    "note": "Thompson (ankle) is listed as probable for Friday's game against the Cavaliers."
    },
    {
     "player": "Pelle Larsson",
     "team": "MIA",
     "status": "Day-To-Day",
-    "note": "Larsson (illness) is listed as questionable for Friday's game against Cleveland."
+    "note": "Larsson (illness) is listed as doubtful for Friday's game against Cleveland."
    }
   ],
   "MEM@NO": [
@@ -191,10 +185,28 @@
     "note": "Saunders signed a two-way contract with the Grizzlies on Saturday, Shams Charania of ESPN reports."
    },
    {
+    "player": "Bryce McGowens",
+    "team": "NO",
+    "status": "Out",
+    "note": "McGowens (elbow) is listed as out for Friday's game against the Grizzlies."
+   },
+   {
+    "player": "Yves Missi",
+    "team": "NO",
+    "status": "Out",
+    "note": "Missi (knee) is out for Friday's game against the Grizzlies."
+   },
+   {
+    "player": "Bennedict Mathurin",
+    "team": "NO",
+    "status": "Day-To-Day",
+    "note": "Mathurin (thumb) is listed as questionable for Friday's game against Memphis."
+   },
+   {
     "player": "Dejounte Murray",
     "team": "NO",
     "status": "Day-To-Day",
-    "note": "Murray registered six points (1-6 FG, 0-1 3Pt, 4-4 FT), three rebounds and three assists across 28 minutes during Sunday's 139-123 loss to the Clippers."
+    "note": "Murray (ankle) is doubtful for Friday's game against Memphis."
    },
    {
     "player": "Trey Murphy III",
@@ -203,28 +215,10 @@
     "note": "Murphy (knee) is out for Friday's game against Memphis."
    },
    {
-    "player": "Bryce McGowens",
-    "team": "NO",
-    "status": "Day-To-Day",
-    "note": "McGowens (elbow) is listed as doubtful for Friday's game against the Grizzlies."
-   },
-   {
     "player": "Trendon Watford",
     "team": "NO",
     "status": "Out",
     "note": "Watford (ankle) is listed as out for Friday's game against the Grizzlies."
-   },
-   {
-    "player": "Bennedict Mathurin",
-    "team": "NO",
-    "status": "Day-To-Day",
-    "note": "Mathurin (thumb) is listed as doubtful for Friday's game against Memphis."
-   },
-   {
-    "player": "Yves Missi",
-    "team": "NO",
-    "status": "Out",
-    "note": "Missi (knee) is listed as doubtful for Friday's game against the Grizzlies."
    }
   ],
   "UTAH@HOU": [

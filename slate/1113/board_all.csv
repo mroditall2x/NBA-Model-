@@ -791,90 +791,90 @@ OKC@LAC,LAC,Isaiah Jackson,PA,9.4,5,14,20.1,2.3,,book line,9.5,Less,0.555,0.531,
 OKC@LAC,OKC,Bennett Stirtz,PA,9.62,4,15,20.6,0.5,small sample,book line,9.5,Less,0.557,0.499,0.058,0.443,100,101,Kalshi / Underdog
 OKC@LAC,LAC,Isaiah Jackson,PR,14.36,9,19,20.1,2.3,,book line,14.5,Less,0.549,0.484,0.065,0.451,-106,107,Kalshi / Underdog
 OKC@LAC,LAC,Isaiah Jackson,REB,6.41,4,9,20.1,2.3,,PP standard,6.5,Less,0.553,0.166,0.386,0.447,-136,-13,PrizePicks / Underdog
-MEM@NO,MEM,Cam Spencer,AST,5.49,3,8,22.9,-4.6,minutes unclear (-5),book line,4.5,More,0.602,0.457,0.146,0.602,104,-140,Kalshi / Underdog
-MEM@NO,MEM,Ty Jerome,AST,5.4,3,7,31.0,1.1,,PP standard,5.5,Less,0.548,0.556,-0.009,0.452,112,-145,PrizePicks / Underdog
-MEM@NO,NO,Jeremiah Fears,AST,4.96,3,7,32.3,6.5,minutes unclear (+6); role up (last 8: 6.5),book line,5.5,Less,0.624,0.458,0.166,0.376,-136,105,Kalshi / Underdog
-MEM@NO,NO,Zion Williamson,AST,3.02,1,5,32.5,2.5,,book line,3.5,Less,0.644,0.592,0.052,0.356,129,-173,Kalshi / Underdog
-MEM@NO,MEM,Cameron Boozer,AST,5.32,3,7,33.8,-0.1,small sample,PP standard,5.5,Less,0.561,0.568,-0.007,0.439,117,-154,PrizePicks / Underdog
-MEM@NO,NO,Derik Queen,AST,2.73,1,4,23.3,-1.5,,PP standard,2.5,Less,0.513,0.471,0.042,0.487,-130,-101,PrizePicks / Underdog
-MEM@NO,MEM,Cedric Coward,AST,2.85,1,4,29.5,-1.5,,PP standard,2.5,More,0.525,0.52,0.004,0.525,-125,-105,PrizePicks / Underdog
-MEM@NO,NO,Jeremiah Fears,PTS,17.49,11,24,32.3,6.5,minutes unclear (+6),PP standard,19.5,Less,0.636,0.51,0.126,0.364,-110,-120,PrizePicks / Underdog
-MEM@NO,MEM,Cam Spencer,PTS,9.36,4,14,22.9,-4.6,minutes unclear (-5),PP standard,8.5,Less,0.503,0.514,-0.011,0.497,-108,-122,PrizePicks / Underdog
-MEM@NO,MEM,Jerami Grant,PTS,13.93,8,19,26.4,-7.9,minutes unclear (-8),PP standard,11.5,More,0.601,0.49,0.111,0.601,-110,-120,PrizePicks / Underdog
-MEM@NO,MEM,Ty Jerome,PTS,23.47,16,31,31.0,1.1,,PP standard,23.5,Less,0.527,0.49,0.037,0.473,-120,-110,PrizePicks / Underdog
-MEM@NO,NO,Zion Williamson,PTS,20.8,14,27,32.5,2.5,,PP standard,22.5,Less,0.61,0.51,0.1,0.39,-110,-120,PrizePicks / Underdog
-MEM@NO,MEM,Isaiah Stewart,PTS,9.66,5,14,22.5,6.5,minutes unclear (+6),PP standard,11.5,Less,0.669,0.525,0.144,0.331,-106,-132,PrizePicks / Underdog
-MEM@NO,NO,Saddiq Bey,PTS,16.25,10,22,30.4,1.4,,PP standard,17.5,Less,0.602,0.489,0.113,0.398,-123,-112,PrizePicks / Underdog
-MEM@NO,MEM,Cameron Boozer,PTS,18.25,12,24,33.8,-0.1,small sample,PP standard,17.5,More,0.509,0.513,-0.004,0.509,-121,-108,PrizePicks / Underdog
-MEM@NO,NO,Derik Queen,PTS,11.34,6,16,23.3,-1.5,,PP standard,10.5,More,0.505,0.516,-0.01,0.505,-121,-106,PrizePicks / Underdog
-MEM@NO,MEM,Jaylen Wells,PTS,12.46,7,18,28.6,-5.3,minutes unclear (-5),PP standard,11.5,More,0.52,0.467,0.054,0.52,102,-130,PrizePicks / Underdog
-MEM@NO,NO,Karlo Matkovic,PTS,6.77,2,11,20.2,2.1,,book line,7.5,Less,0.614,0.491,0.123,0.386,-120,-111,Kalshi / Underdog
-MEM@NO,MEM,Cedric Coward,PTS,14.4,8,20,29.5,-1.5,,PP standard,13.5,More,0.51,0.498,0.012,0.51,-114,-116,PrizePicks / Underdog
-MEM@NO,NO,Jeremiah Fears,PA,22.45,15,29,32.3,6.5,minutes unclear (+6),PP standard,25.5,Less,0.667,0.504,0.163,0.333,-110,-114,PrizePicks / Underdog
-MEM@NO,MEM,Cam Spencer,PA,14.85,9,20,22.9,-4.6,minutes unclear (-5),PP standard,13.5,More,0.525,0.473,0.052,0.525,-104,-132,PrizePicks / Underdog
-MEM@NO,MEM,Ty Jerome,PA,28.87,21,36,31.0,1.1,,PP standard,29.5,Less,0.552,0.519,0.032,0.448,-106,-125,PrizePicks / Underdog
-MEM@NO,MEM,Cameron Boozer,PA,23.56,17,30,33.8,-0.1,small sample,PP standard,23.5,Less,0.523,0.52,0.003,0.477,-106,-126,PrizePicks / Underdog
-MEM@NO,NO,Zion Williamson,PA,23.81,17,31,32.5,2.5,,PP standard,25.5,Less,0.605,0.52,0.085,0.395,-105,-125,PrizePicks / Underdog
-MEM@NO,NO,Derik Queen,PA,14.07,8,19,23.3,-1.5,,PP standard,13.5,Less,0.509,0.642,-0.133,0.491,-126,0,PrizePicks / Underdog
-MEM@NO,MEM,Cedric Coward,PA,17.25,11,23,29.5,-1.5,,PP standard,16.5,More,0.503,0.497,0.006,0.503,-113,-116,PrizePicks / Underdog
-MEM@NO,MEM,Ty Jerome,PR,27.13,19,35,31.0,1.1,,PP standard,27.5,Less,0.539,0.506,0.033,0.461,-112,-118,PrizePicks / Underdog
-MEM@NO,MEM,Cam Spencer,PR,12.35,7,18,22.9,-4.6,minutes unclear (-5),book line,11.5,Less,0.507,0.536,-0.029,0.493,102,-134,Kalshi / Underdog
-MEM@NO,MEM,Jerami Grant,PR,16.92,11,23,26.4,-7.9,minutes unclear (-8),PP standard,14.5,More,0.597,0.473,0.124,0.597,-102,-129,PrizePicks / Underdog
-MEM@NO,NO,Jeremiah Fears,PR,22.27,15,29,32.3,6.5,minutes unclear (+6),PP standard,24.5,Less,0.632,0.5,0.132,0.368,-114,-114,PrizePicks / Underdog
-MEM@NO,NO,Zion Williamson,PR,26.66,19,34,32.5,2.5,,PP standard,28.5,Less,0.607,0.083,0.524,0.393,-110,-5,PrizePicks / Underdog
-MEM@NO,MEM,Isaiah Stewart,PR,14.57,9,20,22.5,6.5,minutes unclear (+6),PP standard,16.5,Less,0.656,0.503,0.153,0.344,-113,-116,PrizePicks / Underdog
-MEM@NO,NO,Saddiq Bey,PR,20.92,14,27,30.4,1.4,,PP standard,21.5,Less,0.56,0.484,0.076,0.44,-114,100,PrizePicks / Underdog
-MEM@NO,MEM,Cameron Boozer,PR,27.78,21,35,33.8,-0.1,small sample,PP standard,27.5,Less,0.511,0.502,0.009,0.489,-114,-116,PrizePicks / Underdog
-MEM@NO,NO,Derik Queen,PR,18.0,12,24,23.3,-1.5,,PP standard,17.5,Less,0.516,0.479,0.036,0.484,-124,-104,PrizePicks / Underdog
-MEM@NO,MEM,Cedric Coward,PR,21.88,15,28,29.5,-1.5,,PP standard,20.5,More,0.541,0.514,0.027,0.541,-122,-108,PrizePicks / Underdog
-MEM@NO,MEM,Jaylen Wells,PR,15.93,10,22,28.6,-5.3,minutes unclear (-5),PP standard,14.5,More,0.545,0.482,0.063,0.545,-105,-122,PrizePicks / Underdog
-MEM@NO,NO,Karlo Matkovic,PR,11.51,6,16,20.2,2.1,,book line,12.5,Less,0.615,0.472,0.143,0.385,-130,-102,Kalshi / Underdog
-MEM@NO,MEM,Cam Spencer,PRA,17.84,11,24,22.9,-4.6,minutes unclear (-5),PP standard,15.5,More,0.573,0.499,0.074,0.573,-114,-115,PrizePicks / Underdog
-MEM@NO,MEM,Ty Jerome,PRA,32.52,24,41,31.0,1.1,,PP standard,32.5,Less,0.522,0.494,0.028,0.478,-118,-112,PrizePicks / Underdog
-MEM@NO,NO,Jeremiah Fears,PRA,27.23,19,35,32.3,6.5,minutes unclear (+6),PP standard,30.5,Less,0.66,0.492,0.168,0.34,-118,-110,PrizePicks / Underdog
-MEM@NO,NO,Zion Williamson,PRA,29.68,22,37,32.5,2.5,,PP standard,31.5,Less,0.598,0.497,0.101,0.402,-115,-112,PrizePicks / Underdog
-MEM@NO,NO,Derik Queen,PRA,20.73,14,27,23.3,-1.5,,PP standard,20.5,Less,0.527,0.485,0.043,0.473,-122,-107,PrizePicks / Underdog
-MEM@NO,MEM,Cameron Boozer,PRA,33.1,25,40,33.8,-0.1,small sample,PP standard,32.5,More,0.505,0.506,-0.001,0.505,-118,-112,PrizePicks / Underdog
-MEM@NO,MEM,Cedric Coward,PRA,24.73,18,31,29.5,-1.5,,PP standard,23.5,More,0.531,0.508,0.023,0.531,-118,-110,PrizePicks / Underdog
-MEM@NO,NO,Jeremiah Fears,REB,4.78,3,7,32.3,6.5,minutes unclear (+6),book line,4.5,More,0.503,0.546,-0.044,0.503,-139,107,Kalshi / Underdog
-MEM@NO,MEM,Cam Spencer,REB,2.99,1,5,22.9,-4.6,minutes unclear (-5),PP standard,2.5,More,0.542,0.063,0.479,0.542,-4,-132,PrizePicks / Underdog
-MEM@NO,MEM,Ty Jerome,REB,3.65,2,5,31.0,1.1,,book line,3.5,Less,0.52,0.538,-0.018,0.48,102,-136,Kalshi / Underdog
-MEM@NO,NO,Zion Williamson,REB,5.87,4,8,32.5,2.5,,book line,5.5,More,0.52,0.555,-0.035,0.52,-146,110,Kalshi / Underdog
-MEM@NO,MEM,Jerami Grant,REB,3.0,1,5,26.4,-7.9,minutes unclear (-8),PP standard,2.5,More,0.554,0.476,0.078,0.554,-104,-128,PrizePicks / Underdog
-MEM@NO,MEM,Isaiah Stewart,REB,4.9,3,7,22.5,6.5,minutes unclear (+6); role down (last 8: 3.1),PP standard,5.5,Less,0.633,0.548,0.085,0.367,107,-141,PrizePicks / Underdog
-MEM@NO,MEM,Cameron Boozer,REB,9.54,7,12,33.8,-0.1,small sample,PP standard,9.5,Less,0.52,0.513,0.007,0.48,-109,-122,PrizePicks / Underdog
-MEM@NO,MEM,Jaylen Wells,REB,3.47,2,5,28.6,-5.3,minutes unclear (-5); role down (last 8: 2.1),book line,2.5,More,0.642,0.561,0.081,0.642,-155,110,Kalshi / Underdog
-MEM@NO,MEM,Cedric Coward,REB,7.49,5,10,29.5,-1.5,,PP standard,7.5,Less,0.53,0.554,-0.024,0.47,110,-145,PrizePicks / Underdog
-MEM@NO,NO,Karlo Matkovic,REB,4.73,3,7,20.2,2.1,,book line,5.5,Less,0.658,0.546,0.112,0.342,109,-136,Kalshi / Underdog
-MEM@NO,MEM,Cam Spencer,RA,8.48,5,11,22.9,-4.6,minutes unclear (-5),PP standard,6.5,More,0.684,0.541,0.143,0.684,-135,105,PrizePicks / Underdog
-MEM@NO,NO,Zion Williamson,RA,8.88,6,12,32.5,2.5,,book line,9.5,Less,0.6,0.522,0.077,0.4,-104,-126,Kalshi / Underdog
-MEM@NO,MEM,Ty Jerome,RA,9.05,6,12,31.0,1.1,,PP standard,8.5,More,0.539,0.502,0.037,0.539,-116,-114,PrizePicks / Underdog
-MEM@NO,NO,Jeremiah Fears,RA,9.74,7,13,32.3,6.5,minutes unclear (+6),book line,10.5,Less,0.608,0.459,0.148,0.392,-135,105,Kalshi / Underdog
-MEM@NO,MEM,Cameron Boozer,RA,14.85,11,18,33.8,-0.1,small sample,PP standard,14.5,More,0.509,0.5,0.009,0.509,-114,-114,PrizePicks / Underdog
-MEM@NO,NO,Derik Queen,RA,9.39,6,13,23.3,-1.5,,PP standard,9.5,Less,0.549,0.51,0.039,0.451,-110,-120,PrizePicks / Underdog
-MEM@NO,MEM,Cedric Coward,RA,10.34,7,13,29.5,-1.5,,PP standard,9.5,More,0.569,0.525,0.044,0.569,-132,-106,PrizePicks / Underdog
-MEM@NO,MEM,Cam Spencer,3PM,1.64,0,3,22.9,-4.6,minutes unclear (-5),book line,1.5,Less,0.549,0.578,-0.029,0.451,122,-161,Kalshi / Underdog
-MEM@NO,MEM,Ty Jerome,3PM,2.61,1,4,31.0,1.1,,PP standard,2.5,Less,0.533,0.498,0.035,0.467,-116,-114,PrizePicks / Underdog
-MEM@NO,MEM,Jerami Grant,3PM,1.83,0,3,26.4,-7.9,minutes unclear (-8),book line,1.5,More,0.512,0.637,-0.125,0.512,0,-133,Kalshi / Underdog
-MEM@NO,NO,Jeremiah Fears,3PM,1.67,0,3,32.3,6.5,minutes unclear (+6),PP standard,1.5,Less,0.532,0.469,0.063,0.468,-130,100,PrizePicks / Underdog
-MEM@NO,MEM,Cameron Boozer,3PM,2.12,1,3,33.8,-0.1,small sample,book line,1.5,More,0.586,0.549,0.036,0.586,-145,106,Kalshi / Underdog
-MEM@NO,NO,Saddiq Bey,3PM,2.07,1,3,30.4,1.4,,book line,1.5,More,0.57,0.599,-0.03,0.57,-177,134,Kalshi / Underdog
-MEM@NO,MEM,Cedric Coward,3PM,1.9,0,3,29.5,-1.5,,book line,1.5,More,0.53,0.538,-0.008,0.53,-135,103,Kalshi / Underdog
-MEM@NO,MEM,Jaylen Wells,3PM,2.04,1,3,28.6,-5.3,minutes unclear (-5),book line,1.5,More,0.567,0.546,0.021,0.567,-138,107,Kalshi / Underdog
-MEM@NO,NO,Saddiq Bey,AST,2.42,1,4,30.4,1.4,,book line,2.5,Less,0.573,0.573,0.001,0.427,120,-156,Kalshi / Underdog
-MEM@NO,NO,Derik Queen,REB,6.66,4,9,23.3,-1.5,role down (last 8: 4.9),PP standard,6.5,Less,0.523,0.507,0.016,0.477,-109,-116,PrizePicks / Underdog
-MEM@NO,NO,Saddiq Bey,REB,4.67,3,7,30.4,1.4,,PP standard,4.5,Less,0.517,0.495,0.022,0.483,-117,-112,PrizePicks / Underdog
-MEM@NO,NO,Karlo Matkovic,3PM,0.99,0,2,20.2,2.1,,book line,1.5,Less,0.736,0.686,0.051,0.264,199,-270,Kalshi / Underdog
-MEM@NO,NO,Derik Queen,3PM,0.32,0,1,23.3,-1.5,,book line,0.5,Less,0.75,0.657,0.093,0.25,174,-233,Kalshi / Underdog
-MEM@NO,MEM,Isaiah Stewart,PA,10.81,6,16,22.5,6.5,minutes unclear (+6),book line,11.5,Less,0.598,0.52,0.078,0.402,109,-108,Kalshi / Underdog
-MEM@NO,MEM,Jaylen Wells,PA,13.96,8,19,28.6,-5.3,minutes unclear (-5),book line,13.5,Less,0.511,0.489,0.022,0.489,-104,105,Kalshi / Underdog
-MEM@NO,MEM,Jerami Grant,PA,15.82,10,21,26.4,-7.9,minutes unclear (-8),book line,13.5,More,0.593,0.473,0.12,0.593,112,-111,Kalshi / Underdog
-MEM@NO,MEM,Isaiah Stewart,PRA,15.71,10,21,22.5,6.5,minutes unclear (+6),PP standard,17.5,Less,0.645,0.787,-0.143,0.355,-18,-130,PrizePicks / Underdog
-MEM@NO,NO,Karlo Matkovic,PRA,12.64,7,17,20.2,2.1,,PP standard,13.5,Less,0.605,0.491,0.113,0.395,-103,104,PrizePicks / Underdog
-MEM@NO,MEM,Jerami Grant,PRA,18.81,12,25,26.4,-7.9,minutes unclear (-8),PP standard,15.5,More,0.644,0.499,0.145,0.644,101,100,PrizePicks / Underdog
-MEM@NO,MEM,Jaylen Wells,PRA,17.43,11,23,28.6,-5.3,minutes unclear (-5),PP standard,15.5,More,0.572,0.517,0.055,0.572,-106,108,PrizePicks / Underdog
-MEM@NO,NO,Saddiq Bey,PRA,23.34,16,30,30.4,1.4,,PP standard,24.5,Less,0.585,0.523,0.062,0.415,110,-109,PrizePicks / Underdog
-MEM@NO,MEM,Jaylen Wells,RA,4.97,3,7,28.6,-5.3,minutes unclear (-5),book line,4.5,More,0.535,0.461,0.074,0.535,118,-116,Kalshi / Underdog
-MEM@NO,NO,Karlo Matkovic,RA,5.86,3,8,20.2,2.1,,book line,6.5,Less,0.628,0.512,0.116,0.372,106,-104,Kalshi / Underdog
-MEM@NO,NO,Saddiq Bey,RA,7.09,4,10,30.4,1.4,,PP standard,7.5,Less,0.585,0.525,0.06,0.415,111,-110,PrizePicks / Underdog
-MEM@NO,MEM,Isaiah Stewart,3PM,0.62,0,1,22.5,6.5,minutes unclear (+6),PP standard,0.5,Less,0.596,0.501,0.095,0.404,101,100,PrizePicks / Underdog
+MEM@NO,MEM,Cam Spencer,AST,5.51,3,8,22.9,-4.7,minutes unclear (-5),book line,4.5,More,0.609,0.457,0.153,0.609,104,-140,Kalshi / Underdog
+MEM@NO,MEM,Ty Jerome,AST,5.38,3,7,31.1,1.1,,PP standard,5.5,Less,0.554,0.556,-0.003,0.446,112,-145,PrizePicks / Underdog
+MEM@NO,NO,Jeremiah Fears,AST,4.98,3,7,32.2,6.6,minutes unclear (+7); role up (last 8: 6.5),book line,5.5,Less,0.618,0.458,0.16,0.382,-136,105,Kalshi / Underdog
+MEM@NO,NO,Zion Williamson,AST,3.04,1,5,32.6,2.7,,book line,3.5,Less,0.639,0.592,0.047,0.361,129,-173,Kalshi / Underdog
+MEM@NO,MEM,Cameron Boozer,AST,5.34,3,7,33.8,0.0,small sample,PP standard,5.5,Less,0.562,0.568,-0.006,0.438,117,-154,PrizePicks / Underdog
+MEM@NO,NO,Derik Queen,AST,2.74,1,4,23.2,-1.6,,PP standard,2.5,Less,0.506,0.471,0.035,0.494,-130,-101,PrizePicks / Underdog
+MEM@NO,MEM,Cedric Coward,AST,2.84,1,4,29.5,-1.4,,PP standard,2.5,More,0.526,0.52,0.006,0.526,-125,-105,PrizePicks / Underdog
+MEM@NO,NO,Jeremiah Fears,PTS,17.3,11,24,32.2,6.6,minutes unclear (+7),PP standard,19.5,Less,0.643,0.51,0.133,0.357,-110,-120,PrizePicks / Underdog
+MEM@NO,MEM,Cam Spencer,PTS,9.35,4,14,22.9,-4.7,minutes unclear (-5),PP standard,8.5,Less,0.506,0.514,-0.008,0.494,-108,-122,PrizePicks / Underdog
+MEM@NO,MEM,Jerami Grant,PTS,13.73,8,19,26.3,-8.1,minutes unclear (-8),PP standard,11.5,More,0.592,0.49,0.102,0.592,-110,-120,PrizePicks / Underdog
+MEM@NO,MEM,Ty Jerome,PTS,23.7,16,31,31.1,1.1,,PP standard,23.5,Less,0.52,0.49,0.03,0.48,-120,-110,PrizePicks / Underdog
+MEM@NO,NO,Zion Williamson,PTS,20.86,14,27,32.6,2.7,,PP standard,22.5,Less,0.608,0.51,0.098,0.392,-110,-120,PrizePicks / Underdog
+MEM@NO,MEM,Isaiah Stewart,PTS,9.57,4,14,22.5,6.4,minutes unclear (+6),PP standard,11.5,Less,0.672,0.525,0.147,0.328,-106,-132,PrizePicks / Underdog
+MEM@NO,NO,Saddiq Bey,PTS,16.42,10,22,30.5,1.1,,PP standard,17.5,Less,0.592,0.489,0.102,0.408,-123,-112,PrizePicks / Underdog
+MEM@NO,MEM,Cameron Boozer,PTS,18.34,12,24,33.8,0.0,small sample,PP standard,17.5,More,0.512,0.513,-0.001,0.512,-121,-108,PrizePicks / Underdog
+MEM@NO,NO,Derik Queen,PTS,11.3,6,16,23.2,-1.6,,PP standard,10.5,More,0.501,0.516,-0.014,0.501,-121,-106,PrizePicks / Underdog
+MEM@NO,MEM,Jaylen Wells,PTS,12.48,7,18,28.6,-5.2,minutes unclear (-5),PP standard,11.5,More,0.519,0.467,0.053,0.519,102,-130,PrizePicks / Underdog
+MEM@NO,NO,Karlo Matkovic,PTS,6.78,2,11,20.1,2.2,,book line,7.5,Less,0.616,0.491,0.125,0.384,-120,-111,Kalshi / Underdog
+MEM@NO,MEM,Cedric Coward,PTS,14.31,8,20,29.5,-1.4,,PP standard,13.5,More,0.511,0.498,0.014,0.511,-114,-116,PrizePicks / Underdog
+MEM@NO,NO,Jeremiah Fears,PA,22.28,15,29,32.2,6.6,minutes unclear (+7),PP standard,25.5,Less,0.672,0.504,0.168,0.328,-110,-114,PrizePicks / Underdog
+MEM@NO,MEM,Cam Spencer,PA,14.86,9,20,22.9,-4.7,minutes unclear (-5),PP standard,13.5,More,0.521,0.473,0.049,0.521,-104,-132,PrizePicks / Underdog
+MEM@NO,MEM,Ty Jerome,PA,29.08,21,37,31.1,1.1,,PP standard,29.5,Less,0.546,0.519,0.027,0.454,-106,-125,PrizePicks / Underdog
+MEM@NO,MEM,Cameron Boozer,PA,23.68,17,30,33.8,0.0,small sample,PP standard,23.5,Less,0.522,0.52,0.002,0.478,-106,-126,PrizePicks / Underdog
+MEM@NO,NO,Zion Williamson,PA,23.89,17,31,32.6,2.7,,PP standard,25.5,Less,0.602,0.52,0.081,0.398,-105,-125,PrizePicks / Underdog
+MEM@NO,NO,Derik Queen,PA,14.04,8,19,23.2,-1.6,,PP standard,13.5,Less,0.514,0.642,-0.128,0.486,-126,0,PrizePicks / Underdog
+MEM@NO,MEM,Cedric Coward,PA,17.15,11,23,29.5,-1.4,,PP standard,16.5,More,0.502,0.497,0.005,0.502,-113,-116,PrizePicks / Underdog
+MEM@NO,MEM,Ty Jerome,PR,27.35,20,35,31.1,1.1,,PP standard,27.5,Less,0.532,0.506,0.026,0.468,-112,-118,PrizePicks / Underdog
+MEM@NO,MEM,Cam Spencer,PR,12.35,7,18,22.9,-4.7,minutes unclear (-5),book line,11.5,Less,0.507,0.536,-0.03,0.493,102,-134,Kalshi / Underdog
+MEM@NO,MEM,Jerami Grant,PR,16.71,11,22,26.3,-8.1,minutes unclear (-8),PP standard,14.5,More,0.588,0.473,0.116,0.588,-102,-129,PrizePicks / Underdog
+MEM@NO,NO,Jeremiah Fears,PR,22.05,15,29,32.2,6.6,minutes unclear (+7),PP standard,24.5,Less,0.642,0.5,0.142,0.358,-114,-114,PrizePicks / Underdog
+MEM@NO,NO,Zion Williamson,PR,26.73,20,34,32.6,2.7,,PP standard,28.5,Less,0.603,0.083,0.52,0.397,-110,-5,PrizePicks / Underdog
+MEM@NO,MEM,Isaiah Stewart,PR,14.48,9,20,22.5,6.4,minutes unclear (+6),PP standard,16.5,Less,0.659,0.503,0.156,0.341,-113,-116,PrizePicks / Underdog
+MEM@NO,NO,Saddiq Bey,PR,21.1,14,28,30.5,1.1,,PP standard,21.5,Less,0.549,0.484,0.064,0.451,-114,100,PrizePicks / Underdog
+MEM@NO,MEM,Cameron Boozer,PR,27.88,21,35,33.8,0.0,small sample,PP standard,27.5,Less,0.509,0.502,0.007,0.491,-114,-116,PrizePicks / Underdog
+MEM@NO,NO,Derik Queen,PR,17.95,12,24,23.2,-1.6,,PP standard,17.5,Less,0.517,0.479,0.038,0.483,-124,-104,PrizePicks / Underdog
+MEM@NO,MEM,Cedric Coward,PR,21.77,15,28,29.5,-1.4,,PP standard,20.5,More,0.537,0.514,0.023,0.537,-122,-108,PrizePicks / Underdog
+MEM@NO,MEM,Jaylen Wells,PR,15.93,10,21,28.6,-5.2,minutes unclear (-5),PP standard,14.5,More,0.546,0.482,0.063,0.546,-105,-122,PrizePicks / Underdog
+MEM@NO,NO,Karlo Matkovic,PR,11.48,6,16,20.1,2.2,,book line,12.5,Less,0.614,0.472,0.142,0.386,-130,-102,Kalshi / Underdog
+MEM@NO,MEM,Cam Spencer,PRA,17.86,11,24,22.9,-4.7,minutes unclear (-5),PP standard,15.5,More,0.572,0.499,0.073,0.572,-114,-115,PrizePicks / Underdog
+MEM@NO,MEM,Ty Jerome,PRA,32.74,24,41,31.1,1.1,,PP standard,32.5,Less,0.514,0.494,0.02,0.486,-118,-112,PrizePicks / Underdog
+MEM@NO,NO,Jeremiah Fears,PRA,27.03,19,34,32.2,6.6,minutes unclear (+7),PP standard,30.5,Less,0.67,0.492,0.178,0.33,-118,-110,PrizePicks / Underdog
+MEM@NO,NO,Zion Williamson,PRA,29.77,22,37,32.6,2.7,,PP standard,31.5,Less,0.597,0.497,0.1,0.403,-115,-112,PrizePicks / Underdog
+MEM@NO,NO,Derik Queen,PRA,20.69,14,27,23.2,-1.6,,PP standard,20.5,Less,0.528,0.485,0.043,0.472,-122,-107,PrizePicks / Underdog
+MEM@NO,MEM,Cameron Boozer,PRA,33.21,26,41,33.8,0.0,small sample,PP standard,32.5,More,0.508,0.506,0.002,0.508,-118,-112,PrizePicks / Underdog
+MEM@NO,MEM,Cedric Coward,PRA,24.62,18,31,29.5,-1.4,,PP standard,23.5,More,0.53,0.508,0.021,0.53,-118,-110,PrizePicks / Underdog
+MEM@NO,NO,Jeremiah Fears,REB,4.75,3,7,32.2,6.6,minutes unclear (+7),book line,4.5,Less,0.504,0.454,0.05,0.496,-139,107,Kalshi / Underdog
+MEM@NO,MEM,Cam Spencer,REB,3.0,1,5,22.9,-4.7,minutes unclear (-5),PP standard,2.5,More,0.546,0.063,0.483,0.546,-4,-132,PrizePicks / Underdog
+MEM@NO,MEM,Ty Jerome,REB,3.65,2,5,31.1,1.1,,book line,3.5,Less,0.516,0.538,-0.022,0.484,102,-136,Kalshi / Underdog
+MEM@NO,NO,Zion Williamson,REB,5.88,3,8,32.6,2.7,,book line,5.5,More,0.519,0.555,-0.036,0.519,-146,110,Kalshi / Underdog
+MEM@NO,MEM,Jerami Grant,REB,2.97,1,4,26.3,-8.1,minutes unclear (-8),PP standard,2.5,More,0.55,0.476,0.074,0.55,-104,-128,PrizePicks / Underdog
+MEM@NO,MEM,Isaiah Stewart,REB,4.92,3,7,22.5,6.4,minutes unclear (+6); role down (last 8: 3.1),PP standard,5.5,Less,0.632,0.548,0.084,0.368,107,-141,PrizePicks / Underdog
+MEM@NO,MEM,Cameron Boozer,REB,9.53,7,12,33.8,0.0,small sample,PP standard,9.5,Less,0.524,0.513,0.011,0.476,-109,-122,PrizePicks / Underdog
+MEM@NO,MEM,Jaylen Wells,REB,3.45,2,5,28.6,-5.2,minutes unclear (-5); role down (last 8: 2.1),book line,2.5,More,0.642,0.561,0.081,0.642,-155,110,Kalshi / Underdog
+MEM@NO,MEM,Cedric Coward,REB,7.46,5,10,29.5,-1.4,,PP standard,7.5,Less,0.535,0.554,-0.019,0.465,110,-145,PrizePicks / Underdog
+MEM@NO,NO,Karlo Matkovic,REB,4.7,2,7,20.1,2.2,,book line,5.5,Less,0.659,0.546,0.112,0.341,109,-136,Kalshi / Underdog
+MEM@NO,MEM,Cam Spencer,RA,8.51,5,11,22.9,-4.7,minutes unclear (-5),PP standard,6.5,More,0.689,0.541,0.148,0.689,-135,105,PrizePicks / Underdog
+MEM@NO,NO,Zion Williamson,RA,8.91,6,12,32.6,2.7,,book line,9.5,Less,0.591,0.522,0.069,0.409,-104,-126,Kalshi / Underdog
+MEM@NO,MEM,Ty Jerome,RA,9.04,6,12,31.1,1.1,,PP standard,8.5,More,0.537,0.502,0.035,0.537,-116,-114,PrizePicks / Underdog
+MEM@NO,NO,Jeremiah Fears,RA,9.73,7,13,32.2,6.6,minutes unclear (+7),book line,10.5,Less,0.609,0.459,0.15,0.391,-135,105,Kalshi / Underdog
+MEM@NO,MEM,Cameron Boozer,RA,14.87,11,18,33.8,0.0,small sample,PP standard,14.5,More,0.514,0.5,0.014,0.514,-114,-114,PrizePicks / Underdog
+MEM@NO,NO,Derik Queen,RA,9.39,6,12,23.2,-1.6,,PP standard,9.5,Less,0.546,0.51,0.036,0.454,-110,-120,PrizePicks / Underdog
+MEM@NO,MEM,Cedric Coward,RA,10.31,7,13,29.5,-1.4,,PP standard,9.5,More,0.562,0.525,0.037,0.562,-132,-106,PrizePicks / Underdog
+MEM@NO,MEM,Cam Spencer,3PM,1.63,0,3,22.9,-4.7,minutes unclear (-5),book line,1.5,Less,0.549,0.578,-0.029,0.451,122,-161,Kalshi / Underdog
+MEM@NO,MEM,Ty Jerome,3PM,2.64,1,4,31.1,1.1,,PP standard,2.5,Less,0.529,0.498,0.031,0.471,-116,-114,PrizePicks / Underdog
+MEM@NO,MEM,Jerami Grant,3PM,1.81,0,3,26.3,-8.1,minutes unclear (-8),book line,1.5,More,0.502,0.637,-0.135,0.502,0,-133,Kalshi / Underdog
+MEM@NO,NO,Jeremiah Fears,3PM,1.65,0,3,32.2,6.6,minutes unclear (+7),PP standard,1.5,Less,0.535,0.469,0.066,0.465,-130,100,PrizePicks / Underdog
+MEM@NO,MEM,Cameron Boozer,3PM,2.14,1,3,33.8,0.0,small sample,book line,1.5,More,0.588,0.549,0.039,0.588,-145,106,Kalshi / Underdog
+MEM@NO,NO,Saddiq Bey,3PM,2.1,1,3,30.5,1.1,,book line,1.5,More,0.578,0.599,-0.021,0.578,-177,134,Kalshi / Underdog
+MEM@NO,MEM,Cedric Coward,3PM,1.88,0,3,29.5,-1.4,,book line,1.5,More,0.526,0.538,-0.012,0.526,-135,103,Kalshi / Underdog
+MEM@NO,MEM,Jaylen Wells,3PM,2.06,1,3,28.6,-5.2,minutes unclear (-5),book line,1.5,More,0.568,0.546,0.022,0.568,-138,107,Kalshi / Underdog
+MEM@NO,NO,Saddiq Bey,AST,2.43,1,4,30.5,1.1,,book line,2.5,Less,0.574,0.573,0.002,0.426,120,-156,Kalshi / Underdog
+MEM@NO,NO,Derik Queen,REB,6.65,4,9,23.2,-1.6,role down (last 8: 4.9),PP standard,6.5,Less,0.518,0.507,0.01,0.482,-109,-116,PrizePicks / Underdog
+MEM@NO,NO,Saddiq Bey,REB,4.68,3,7,30.5,1.1,,PP standard,4.5,Less,0.511,0.495,0.016,0.489,-117,-112,PrizePicks / Underdog
+MEM@NO,NO,Karlo Matkovic,3PM,0.98,0,2,20.1,2.2,,book line,1.5,Less,0.737,0.686,0.051,0.263,199,-270,Kalshi / Underdog
+MEM@NO,NO,Derik Queen,3PM,0.32,0,1,23.2,-1.6,,book line,0.5,Less,0.749,0.657,0.092,0.251,174,-233,Kalshi / Underdog
+MEM@NO,MEM,Isaiah Stewart,PA,10.73,5,16,22.5,6.4,minutes unclear (+6),book line,11.5,Less,0.602,0.52,0.082,0.398,109,-108,Kalshi / Underdog
+MEM@NO,MEM,Jaylen Wells,PA,13.99,8,19,28.6,-5.2,minutes unclear (-5),book line,13.5,Less,0.51,0.489,0.021,0.49,-104,105,Kalshi / Underdog
+MEM@NO,MEM,Jerami Grant,PA,15.61,10,21,26.3,-8.1,minutes unclear (-8),book line,13.5,More,0.581,0.473,0.108,0.581,112,-111,Kalshi / Underdog
+MEM@NO,MEM,Isaiah Stewart,PRA,15.64,9,21,22.5,6.4,minutes unclear (+6),PP standard,17.5,Less,0.651,0.787,-0.137,0.349,-18,-130,PrizePicks / Underdog
+MEM@NO,NO,Karlo Matkovic,PRA,12.62,7,17,20.1,2.2,,PP standard,13.5,Less,0.604,0.491,0.113,0.396,-103,104,PrizePicks / Underdog
+MEM@NO,MEM,Jerami Grant,PRA,18.58,12,25,26.3,-8.1,minutes unclear (-8),PP standard,15.5,More,0.632,0.499,0.133,0.632,101,100,PrizePicks / Underdog
+MEM@NO,MEM,Jaylen Wells,PRA,17.44,11,23,28.6,-5.2,minutes unclear (-5),PP standard,15.5,More,0.576,0.517,0.059,0.576,-106,108,PrizePicks / Underdog
+MEM@NO,NO,Saddiq Bey,PRA,23.53,16,30,30.5,1.1,,PP standard,24.5,Less,0.573,0.523,0.05,0.427,110,-109,PrizePicks / Underdog
+MEM@NO,MEM,Jaylen Wells,RA,4.96,3,7,28.6,-5.2,minutes unclear (-5),book line,4.5,More,0.539,0.461,0.079,0.539,118,-116,Kalshi / Underdog
+MEM@NO,NO,Karlo Matkovic,RA,5.84,3,8,20.1,2.2,,book line,6.5,Less,0.626,0.512,0.114,0.374,106,-104,Kalshi / Underdog
+MEM@NO,NO,Saddiq Bey,RA,7.11,4,10,30.5,1.1,,PP standard,7.5,Less,0.583,0.525,0.058,0.417,111,-110,PrizePicks / Underdog
+MEM@NO,MEM,Isaiah Stewart,3PM,0.6,0,1,22.5,6.4,minutes unclear (+6),PP standard,0.5,Less,0.608,0.501,0.107,0.392,101,100,PrizePicks / Underdog
