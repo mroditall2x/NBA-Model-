@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-13T02:22:34.178585+00:00",
+ "checked": "2026-11-13T03:22:30.571412+00:00",
  "games": {
   "DET@WSH": [
    {
@@ -19,6 +19,12 @@
     "team": "DET",
     "status": "Out",
     "note": "Duren (hamstring) has begun on-court activity and will be re-evaluated in two weeks, Hunter Patterson of The Athletic reports."
+   },
+   {
+    "player": "Bub Carrington",
+    "team": "WSH",
+    "status": "Out",
+    "note": "Carrington (chest) has been ruled out for the remainder of Thursday's game against the Pistons."
    },
    {
     "player": "Tristan Vukcevic",
