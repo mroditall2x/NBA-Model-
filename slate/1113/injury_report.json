@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-13T19:22:26.657438+00:00",
+ "checked": "2026-11-13T20:22:32.206934+00:00",
  "games": {
   "NY@IND": [
    {
@@ -185,6 +185,12 @@
     "note": "Saunders signed a two-way contract with the Grizzlies on Saturday, Shams Charania of ESPN reports."
    },
    {
+    "player": "Dejounte Murray",
+    "team": "NO",
+    "status": "Day-To-Day",
+    "note": "Murray (ankle) requested a trade from the Pelicans on Friday, per Shams Charania of ESPN."
+   },
+   {
     "player": "Bryce McGowens",
     "team": "NO",
     "status": "Out",
@@ -201,12 +207,6 @@
     "team": "NO",
     "status": "Day-To-Day",
     "note": "Mathurin (thumb) is listed as questionable for Friday's game against Memphis."
-   },
-   {
-    "player": "Dejounte Murray",
-    "team": "NO",
-    "status": "Day-To-Day",
-    "note": "Murray (ankle) is doubtful for Friday's game against Memphis."
    },
    {
     "player": "Trey Murphy III",
