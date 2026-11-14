@@ -1,13 +1,13 @@
 game,team,player,combo,chance,fair_odds,min,min_bump,why,avg,size,special
-OKC@LAC,OKC,Aday Mara,10+ pts & 9+ reb,0.17,+489,25.7,4.3,Jalen Williams out; +4 min,7.4 reb / 1.6 ast / 9.8 pts,19,True
+OKC@LAC,OKC,Isaiah Hartenstein,10+ pts & 14+ reb,0.178,+463,31.9,-5.1,"Ajay Mitchell, Jalen Williams out",11.7 reb / 4.2 ast / 11.5 pts,24,True
 NY@IND,IND,Ivica Zubac,10+ pts & 10+ reb,0.166,+501,25.7,10.7,Tyrese Haliburton out; +11 min,8.0 reb / 1.8 ast / 10.4 pts,20,True
 NY@IND,IND,Andrew Nembhard,15+ pts & 9+ ast,0.165,+505,31.4,1.5,Tyrese Haliburton out,2.4 reb / 7.6 ast / 14.0 pts,24,True
-OKC@LAC,OKC,Isaiah Hartenstein,10+ pts & 13+ reb,0.154,+548,29.1,-1.3,Jalen Williams out,11.0 reb / 4.0 ast / 9.9 pts,23,True
 UTAH@HOU,UTAH,Ace Bailey,15+ pts & 8+ reb,0.15,+566,33.0,-0.7,Lauri Markkanen out,6.3 reb / 2.0 ast / 14.5 pts,23,True
 ATL@CHI,CHI,Jalen Smith,15+ pts & 10+ reb,0.148,+574,27.8,1.9,Caleb Wilson out,8.2 reb / 1.9 ast / 13.4 pts,25,True
 GS@SA,GS,Yaxel Lendeborg,25+ pts & 9+ reb,0.132,+657,35.9,-1.2,Stephen Curry out,7.1 reb / 3.5 ast / 22.8 pts,34,True
 NY@IND,NY,Josh Hart,10+ pts & 8+ reb,0.129,+675,28.0,3.5,+4 min,6.4 reb / 3.9 ast / 8.9 pts,18,True
 MIL@ORL,MIL,Brayden Burries,15+ pts & 3+ ast,0.12,+736,24.6,4.5,+4 min,4.9 reb / 2.5 ast / 11.1 pts,18,True
+OKC@LAC,OKC,Shai Gilgeous-Alexander,40+ pts & 7+ ast,0.12,+737,37.1,-4.2,"Ajay Mitchell, Jalen Williams out",4.6 reb / 5.9 ast / 35.1 pts,47,True
 UTAH@HOU,HOU,Fred VanVleet,15+ pts & 4+ reb,0.112,+789,28.9,3.8,+4 min,3.1 reb / 4.5 ast / 12.1 pts,19,True
+OKC@LAC,OKC,Aday Mara,15+ pts & 2+ ast,0.109,+815,26.9,2.9,"Ajay Mitchell, Jalen Williams out",7.5 reb / 1.6 ast / 10.8 pts,17,True
 MIL@ORL,ORL,Franz Wagner,30+ pts & 7+ ast,0.106,+840,35.4,3.5,+4 min,6.8 reb / 5.8 ast / 24.6 pts,37,True
-MIL@ORL,ORL,Franz Wagner,30+ pts & 8+ reb,0.104,+858,35.4,3.5,+4 min,6.8 reb / 5.8 ast / 24.6 pts,38,True

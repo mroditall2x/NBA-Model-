@@ -1,7 +1,13 @@
 {
- "checked": "2026-11-14T02:22:28.158228+00:00",
+ "checked": "2026-11-14T03:22:32.009362+00:00",
  "games": {
   "NY@IND": [
+   {
+    "player": "Aaron Nesmith",
+    "team": "IND",
+    "status": "Day-To-Day",
+    "note": "Nesmith exited to the locker room in the final seconds of Friday's 106-104 win over the Knicks due to an apparent hand/wrist injury, Tony East of Forbes.com reports. He posted 18 points (7-10 FG, 2-3 3Pt, 2-2 FT), seven rebounds and one assist in 33 minutes."
+   },
    {
     "player": "Tyrese Haliburton",
     "team": "IND",
@@ -199,6 +205,12 @@
     "note": "Head coach Ime Udoka said Monday that Adams could return as soon as Sunday's game at Washington, Lachard Binkley of SI.com reports."
    },
    {
+    "player": "Jaxson Hayes",
+    "team": "UTAH",
+    "status": "Day-To-Day",
+    "note": "Hayes won't return to Friday's game against the Rockets due to a left knee issue."
+   },
+   {
     "player": "Trey Alexander",
     "team": "UTAH",
     "status": "Out",
@@ -337,16 +349,16 @@
     "note": "Miller underwent surgery Wednesday to repair a torn left rotator cuff and will be re-evaluated in six months, per Law Murray of The Athletic."
    },
    {
+    "player": "Ajay Mitchell",
+    "team": "OKC",
+    "status": "Out",
+    "note": "Mitchell (ankle) has been ruled out for Friday's game against the Clippers."
+   },
+   {
     "player": "Thomas Sorber",
     "team": "OKC",
     "status": "Out",
     "note": "Sorber (knee) has been ruled out for Friday's game against the Clippers."
-   },
-   {
-    "player": "Ajay Mitchell",
-    "team": "OKC",
-    "status": "Day-To-Day",
-    "note": "Mitchell (ankle) is questionable for Friday's game against the Clippers."
    },
    {
     "player": "Jaylin Williams",
