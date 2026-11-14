@@ -30,7 +30,8 @@ for ev in sb.get('events', []):
             mk = lambda x: float(str(x).split('-')[0] or 0)
             rows.append(dict(game=game, team=team['team']['abbreviation'], player=a['athlete']['displayName'],
                              minutes=mk(g('minutes', 'MIN')), PTS=mk(g('points', 'PTS')), REB=mk(g('rebounds', 'REB')), AST=mk(g('assists', 'AST')),
-                             **{'3PM': mk(g('threePointFieldGoalsMade-threePointFieldGoalsAttempted', '3PT'))},
+                             **{'3PM': mk(g('threePointFieldGoalsMade-threePointFieldGoalsAttempted', '3PT')),
+                                '3PA': float((str(g('threePointFieldGoalsMade-threePointFieldGoalsAttempted', '3PT')) + '-0').split('-')[1] or 0)},
                              STL=mk(g('steals', 'STL')), BLK=mk(g('blocks', 'BLK')), OREB=mk(g('offensiveRebounds', 'OREB'))))
 pd.DataFrame(rows).to_csv(f'{D}/espn_box.csv', index=False)
 pd.DataFrame(statuses).to_csv(f'{D}/game_status.csv', index=False)

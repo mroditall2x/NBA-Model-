@@ -43,11 +43,22 @@ ok&=~((B.side=='Less')&(B['gap']>2))&~((B.side=='More')&(B['gap']<-2))
 ok&=~((B.side=='Less')&B['flags'].str.contains('role up'))&~((B.side=='More')&B['flags'].str.contains('role down'))
 # returning starter (rot_blend/card_slate, 11/10): teammates whose recent bump came while he was out get no Overs
 ok&=~((B.side=='More')&B['flags'].str.contains('teammate back'))
+# 3PT volume (11/14, research/threes_volume.py, 734 props 10/31-11/13): vol3 = max(sim 3PA, last-10 3PA).
+# Model 3PM Unders at 1.5 hit 45% when vol3>=4.5 (64% below); at 2.5 hit 46% when vol3>=6.5 (58% below).
+if 'vol3' not in B: B['vol3']=float('nan')
+ok&=~((B.stat=='3PM')&(B.side=='Less')&(((B.line==1.5)&(B.vol3>=4.5))|((B.line==2.5)&(B.vol3>=6.5))))
 std=B[ok&B.type.isin(['PP standard','book line'])&~B.stat.isin(['STL','BLK','STL+BLK'])]
 std=std[(std.adj>=0.58)&(std.edge>=0.05)&~((std['min']>=35)&(std.side=='Less')&(std.adj<0.62))]
 std=std[~((std.stat=='PTS')&(std.side=='Less')&(std.adj<0.60))]          # straight PTS Unders need 60%; combos preferred
 gob=B[ok&(B.type=='goblin')&(B.model>=0.84)]
-card=pd.concat([std.assign(tier='standard',p=std.adj),gob.assign(tier='goblin',p=gob.model)])
+# volume Overs (11/14): 3PM Over 1.5 when vol3>=5.5 and the market prices the Over at 60% or less.
+# Backtest: 63% hit vs 54% market (68 props, 11 slates). In-sample, so p is set to 0.60 and max 2 a night.
+_imp=lambda o:(-o)/(-o+100) if o<0 else 100/(o+100)
+_v=B[(B.stat=='3PM')&(B.line==1.5)&(B.vol3>=5.5)&B.type.isin(['PP standard','book line'])&B['o'].notna()&~B['flags'].str.contains('role down|teammate back|new team|small|unclear')].copy() if 'o' in B else B.iloc[:0].copy()
+if len(_v):
+    _v['mkt_over']=[_imp(int(o))/(_imp(int(o))+_imp(int(u))) for o,u in zip(_v.o,_v.u)]
+    _v=_v[_v.mkt_over<=0.60].sort_values('vol3',ascending=False).head(2).assign(side='More',tier='standard',p=0.60)
+card=pd.concat([std.assign(tier='standard',p=std.adj),gob.assign(tier='goblin',p=gob.model),_v.drop(columns=['mkt_over'],errors='ignore')])
 card=card.sort_values('p',ascending=False).drop_duplicates(['player','stat'])
 # ---- price + EV for each play (book odds of that side, from the props pull) ----
 _AB={'Points':'PTS','Rebounds':'REB','Assists':'AST','Points + Assists':'PA','Points + Rebounds':'PR','Rebounds + Assists':'RA','Pts + Reb + Ast':'PRA','Three Pointers':'3PM','Steals':'STL','Blocks':'BLK','Steals + Blocks':'Stl+Blk'}
@@ -85,8 +96,8 @@ try:
     for _g in json.load(open(f'{D}/lines.json'))['games']:
         if _dt.datetime.fromisoformat(_g['commence'].replace('Z','+00:00'))<_dt.datetime.now(_dt.timezone.utc): _started.add(f"{_g['away']}@{_g['home']}")
 except Exception: pass
-_cols=['game','team','player','stat','tier','line','side','p','price','ev','top','mean','lo','hi','min','gap','where']
-card=card[~card.game.isin(_started)][_cols]
+_cols=['game','team','player','stat','tier','line','side','p','price','ev','top','mean','lo','hi','min','gap','where','vol3']
+card=card[~card.game.isin(_started)][[c for c in _cols if c in card]]
 if _started and os.path.exists(f'{D}/card.csv'):          # games already tipped keep the card that was posted before tip
     _old=pd.read_csv(f'{D}/card.csv'); card=pd.concat([_old[_old.game.isin(_started)][[c for c in _cols if c in _old]],card])
 card.to_csv(f'{D}/card.csv',index=False)
