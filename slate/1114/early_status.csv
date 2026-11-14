@@ -1,3 +1,3 @@
-game,team,player,stat,side,line,p,where,line_now,p_now,move,news,status
-DET@MIA,DET,John Collins,AST,Less,1.5,0.6566,Kalshi / Underdog,1.5,0.655,,False,Hold
-DEN@NO,DEN,Spencer Jones,REB,Less,2.5,0.6332,PrizePicks / Underdog,2.5,0.634,,False,Hold
+game,team,player,stat,side,line,p,where,line_now,p_now,move,news,status,Index,tier,price,ev,top,mean,lo,hi,min,gap
+DET@MIA,DET,John Collins,AST,Less,1.5,0.6566,Kalshi / Underdog,1.5,0.654,,False,Hold,,,,,,,,,,
+DEN@NO,DEN,Spencer Jones,REB,Less,2.5,0.6332,PrizePicks / Underdog,,,,,Hold (no current line),1.0,standard,,,True,1.79,0.0,3.0,11.8,0.0

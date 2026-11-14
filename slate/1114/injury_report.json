@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-14T22:22:32.831614+00:00",
+ "checked": "2026-11-14T23:22:29.080512+00:00",
  "games": {
   "DEN@NO": [
    {
@@ -9,10 +9,10 @@
     "note": "Strawther (knee) was diagnosed with a left knee sprain Friday and will be re-evaluated in six weeks, Vinny Benedetto of The Denver Gazette reports."
    },
    {
-    "player": "Yves Missi",
+    "player": "Bennedict Mathurin",
     "team": "NO",
     "status": "Out",
-    "note": "Missi (knee) has been upgraded to probable for Saturday's game versus the Nuggets."
+    "note": "Mathurin is out for Saturday's game against the Nuggets due to left plantar fasciitis."
    },
    {
     "player": "Trendon Watford",
@@ -43,32 +43,32 @@
    {
     "player": "Peyton Watson",
     "team": "CLE",
-    "status": "Day-To-Day",
-    "note": "Watson (hamstring) is listed as questionable for Saturday's game against the Mavericks."
+    "status": "Out",
+    "note": "Watson (hamstring) has been ruled out for Saturday's game against the Mavericks."
+   },
+   {
+    "player": "James Harden",
+    "team": "CLE",
+    "status": "Out",
+    "note": "Harden (calf) has been ruled out for Saturday's game against Dallas."
+   },
+   {
+    "player": "Donovan Mitchell",
+    "team": "CLE",
+    "status": "Out",
+    "note": "Mitchell (knee) has been ruled out for Saturday's game against the Mavericks."
+   },
+   {
+    "player": "Jarrett Allen",
+    "team": "CLE",
+    "status": "Out",
+    "note": "Allen (knee) has been ruled out for Saturday's game against the Mavericks."
    },
    {
     "player": "Evan Mobley",
     "team": "CLE",
     "status": "Out",
     "note": "Mobley (toe) has been ruled out for Saturday's meeting with Dallas."
-   },
-   {
-    "player": "Jarrett Allen",
-    "team": "CLE",
-    "status": "Day-To-Day",
-    "note": "Allen (knee) is listed as questionable for Saturday's game against Dallas."
-   },
-   {
-    "player": "Donovan Mitchell",
-    "team": "CLE",
-    "status": "Day-To-Day",
-    "note": "Mitchell (knee) is listed as questionable for Saturday's game against the Mavericks."
-   },
-   {
-    "player": "James Harden",
-    "team": "CLE",
-    "status": "Day-To-Day",
-    "note": "Harden (left lower leg/calf tightness) is listed as questionable for Saturday's game against the Mavericks."
    },
    {
     "player": "Sam Merrill",
@@ -85,14 +85,8 @@
    {
     "player": "Max Christie",
     "team": "DAL",
-    "status": "Day-To-Day",
-    "note": "Christie (ankle) has been downgraded to doubtful for Saturday's game against the Cavaliers"
-   },
-   {
-    "player": "Morez Johnson Jr.",
-    "team": "DAL",
-    "status": "Day-To-Day",
-    "note": "Johnson (left shin contusion) is listed as probable for Saturday against Cleveland."
+    "status": "Out",
+    "note": "Christie (ankle) has been ruled out for Saturday's game against Cleveland."
    },
    {
     "player": "Dereck Lively II",
@@ -114,6 +108,12 @@
    }
   ],
   "BKN@MEM": [
+   {
+    "player": "Michael Porter Jr.",
+    "team": "BKN",
+    "status": "Day-To-Day",
+    "note": "Porter delivered 22 points (7-14 FG, 4-10 3Pt, 4-4 FT), six rebounds, three assists and a steal across 28 minutes in Wednesday's 145-111 win over the Pelicans."
+   },
    {
     "player": "Mikel Brown Jr.",
     "team": "BKN",

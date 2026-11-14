@@ -1,11 +1,11 @@
-game,team,player,stat,tier,line,side,p,price,ev,top,mean,lo,hi,min,gap,where,line_open,line_now,move,line_move,keep
-DET@MIA,DET,John Collins,AST,standard,1.5,Less,0.6554,-238.0,-0.069,True,0.93,0,2,26.5,-1.5,Kalshi / Underdog,1.5,1.5,0.0,,True
-DEN@NO,DEN,Spencer Jones,REB,standard,2.5,Less,0.6344,,,True,1.78,0,3,11.8,0.0,PrizePicks / Underdog,,,,,True
-BKN@MEM,BKN,Nolan Traore,3PM,standard,1.5,Less,0.6188,-152.0,0.026,True,1.11,0,2,19.5,1.8,Kalshi / Underdog,,,,,True
-DAL@CLE,DAL,Walter Clayton Jr.,3PM,standard,1.5,Less,0.6098,-167.0,-0.025,True,1.17,0,2,16.9,1.4,Kalshi / Underdog,,,,,True
-BKN@MEM,BKN,Danny Wolf,PA,standard,9.5,Less,0.6074,-111.0,0.155,True,7.69,3,12,15.0,1.9,Kalshi / Underdog,9.5,9.5,0.0,,True
-BKN@MEM,BKN,Day'Ron Sharpe,RA,standard,11.5,Less,0.6044,-121.0,0.104,False,10.04,7,13,21.9,1.2,PrizePicks / Underdog,11.5,11.5,0.0,,True
-DET@MIA,MIA,Bam Adebayo,AST,standard,3.5,Less,0.6032000000000001,-152.0,0.0,False,2.89,1,4,31.9,-2.0,Kalshi / Underdog,3.5,3.5,0.0,,True
-BKN@MEM,BKN,Julius Randle,3PM,standard,1.5,Less,0.602,-151.0,0.001,False,1.2,0,2,30.6,1.2,Kalshi / Underdog,,,,,True
-DEN@NO,DEN,Spencer Jones,3PM,standard,0.5,Less,0.602,,,False,0.5,0,1,11.8,0.0,PrizePicks / Underdog,,,,,True
-DET@MIA,DET,Kevin Huerter,RA,standard,6.5,Less,0.6002000000000001,-128.0,0.069,False,5.56,3,8,24.1,1.7,PrizePicks / Underdog,6.5,6.5,0.0,,True
+game,team,player,stat,tier,line,side,p,price,ev,top,mean,lo,hi,min,gap,where
+DEN@NO,NO,DeAndre Jordan,REB,standard,6.0,Less,0.7363999999999999,,,True,3.32,1,5,10.8,0.0,PrizePicks / Underdog
+DET@MIA,DET,John Collins,AST,standard,1.5,Less,0.6536,-238.0,-0.072,True,0.94,0,2,26.5,-1.3,Kalshi / Underdog
+BKN@MEM,BKN,Danny Wolf,PA,standard,9.5,Less,0.62,-111.0,0.179,True,7.44,3,12,15.0,2.0,Kalshi / Underdog
+BKN@MEM,BKN,Day'Ron Sharpe,RA,standard,11.5,Less,0.608,-121.0,0.11,True,9.99,7,13,21.9,1.6,PrizePicks / Underdog
+BKN@MEM,BKN,Julius Randle,3PM,standard,1.5,Less,0.605,-151.0,0.006,True,1.19,0,2,30.7,1.7,Kalshi / Underdog
+DET@MIA,MIA,Bam Adebayo,AST,standard,3.5,Less,0.6026,-152.0,-0.001,False,2.88,1,4,31.9,-1.8,Kalshi / Underdog
+BKN@MEM,BKN,Julius Randle,PR,standard,27.5,Less,0.5966,-124.0,0.078,False,24.49,17,31,30.7,1.7,PrizePicks / Underdog
+DET@MIA,DET,Kevin Huerter,RA,standard,6.5,Less,0.593,-128.0,0.056,False,5.63,3,8,24.2,1.8,PrizePicks / Underdog
+DET@MIA,DET,Duncan Robinson,AST,standard,2.5,Less,0.5882000000000001,-169.0,-0.064,False,2.12,1,3,30.7,0.1,Kalshi / Underdog
+BKN@MEM,BKN,Danny Wolf,PRA,standard,12.5,Less,0.5858,-103.0,0.155,False,10.86,5,16,15.0,2.0,PrizePicks / Underdog

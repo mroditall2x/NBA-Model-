@@ -1,13 +1,13 @@
 game,team,player,combo,chance,fair_odds,min,min_bump,why,avg,size,special
-BKN@MEM,BKN,Michael Porter Jr.,20+ pts & 8+ reb,0.166,+501,31.2,3.8,+4 min,6.6 reb / 2.0 ast / 19.9 pts,28,True
-DEN@NO,DEN,Cameron Johnson,15+ pts & 4+ reb,0.129,+676,26.8,4.6,+5 min,3.5 reb / 2.0 ast / 11.5 pts,19,True
-DAL@CLE,DAL,Kyrie Irving,25+ pts & 5+ ast,0.125,+701,29.6,3.7,+4 min,3.8 reb / 4.1 ast / 20.2 pts,30,True
-CHI@MIN,CHI,Jalen Smith,15+ pts & 10+ reb,0.124,+706,27.6,1.0,Caleb Wilson out,7.9 reb / 1.7 ast / 12.3 pts,25,True
-DET@MIA,MIA,Giannis Antetokounmpo,30+ pts & 13+ reb,0.121,+728,32.4,3.1,+3 min,10.9 reb / 5.0 ast / 27.2 pts,43,True
-BKN@MEM,MEM,Cedric Coward,20+ pts & 4+ ast,0.119,+740,31.3,0.0,Ty Jerome out,6.8 reb / 3.3 ast / 15.9 pts,24,True
-DET@MIA,MIA,Davion Mitchell,15+ pts & 9+ ast,0.118,+745,35.0,4.8,+5 min,2.8 reb / 7.6 ast / 11.9 pts,24,True
-BKN@MEM,MEM,Cam Spencer,15+ pts & 9+ ast,0.111,+800,29.4,6.7,Ty Jerome out; +7 min,3.2 reb / 7.3 ast / 12.6 pts,24,True
-CHI@MIN,MIN,Rudy Gobert,15+ pts & 2+ ast,0.109,+819,30.0,-2.8,Anthony Edwards out,10.9 reb / 1.6 ast / 11.3 pts,17,True
-CHI@MIN,CHI,Matas Buzelis,20+ pts & 7+ reb,0.108,+827,32.1,-0.2,Caleb Wilson out,5.6 reb / 2.1 ast / 15.9 pts,27,True
-CHI@MIN,CHI,Matas Buzelis,20+ pts & 3+ ast,0.107,+835,32.1,-0.2,Caleb Wilson out,5.6 reb / 2.1 ast / 15.9 pts,23,True
-BKN@MEM,MEM,Cedric Coward,20+ pts & 8+ reb,0.103,+868,31.3,0.0,Ty Jerome out,6.8 reb / 3.3 ast / 15.9 pts,28,True
+BKN@MEM,BKN,Michael Porter Jr.,20+ pts & 8+ reb,0.165,+507,31.2,4.2,+4 min,6.6 reb / 1.9 ast / 19.5 pts,28,True
+DAL@CLE,CLE,Mario Hezonja,20+ pts & 12+ reb,0.135,+640,40.2,-8.9,"Donovan Mitchell, James Harden out",10.3 reb / 3.1 ast / 18.2 pts,32,True
+CHI@MIN,CHI,Jalen Smith,15+ pts & 10+ reb,0.129,+674,27.7,1.2,Caleb Wilson out,7.9 reb / 1.7 ast / 12.4 pts,25,True
+DEN@NO,DEN,Cameron Johnson,15+ pts & 4+ reb,0.127,+687,26.8,4.7,+5 min,3.5 reb / 2.0 ast / 11.4 pts,19,True
+DAL@CLE,CLE,Thomas Bryant,25+ pts & 11+ reb,0.123,+712,39.1,-13.0,"Donovan Mitchell, James Harden out",9.3 reb / 1.7 ast / 22.8 pts,36,True
+DET@MIA,MIA,Giannis Antetokounmpo,30+ pts & 13+ reb,0.121,+724,32.4,3.2,+3 min,10.9 reb / 5.0 ast / 27.1 pts,43,True
+BKN@MEM,MEM,Cedric Coward,20+ pts & 4+ ast,0.119,+744,31.3,-0.0,Ty Jerome out,6.9 reb / 3.3 ast / 15.9 pts,24,True
+BKN@MEM,MEM,Cam Spencer,15+ pts & 9+ ast,0.115,+768,29.4,6.7,Ty Jerome out; +7 min,3.2 reb / 7.4 ast / 12.6 pts,24,True
+DET@MIA,MIA,Davion Mitchell,15+ pts & 9+ ast,0.112,+793,34.9,4.9,+5 min,2.8 reb / 7.6 ast / 11.8 pts,24,True
+CHI@MIN,CHI,Matas Buzelis,20+ pts & 7+ reb,0.111,+799,32.2,-0.1,Caleb Wilson out,5.6 reb / 2.0 ast / 15.9 pts,27,True
+CHI@MIN,MIN,Rudy Gobert,15+ pts & 2+ ast,0.11,+813,30.1,-2.9,Anthony Edwards out,11.0 reb / 1.5 ast / 11.3 pts,17,True
+BKN@MEM,MEM,Cedric Coward,20+ pts & 8+ reb,0.105,+852,31.3,-0.0,Ty Jerome out,6.9 reb / 3.3 ast / 15.9 pts,28,True
