@@ -1,9 +1,9 @@
 game,team,player,stat,line,side,p,price,ev,mean,where
-DAL@CLE,DAL,Walter Clayton Jr.,PR,9.5,Less,0.551,111,0.163,9.11,Kalshi / Novig / books
-BKN@MEM,BKN,Day'Ron Sharpe,RA,11.5,Less,0.611,-112,0.157,9.89,PrizePicks / Underdog
-DAL@CLE,DAL,Walter Clayton Jr.,PTS,7.5,Less,0.565,104,0.152,6.91,Kalshi / Novig / books
-DAL@CLE,DAL,Walter Clayton Jr.,PRA,13.5,Less,0.56,104,0.142,12.65,Kalshi / Novig / books
-DAL@CLE,DAL,Walter Clayton Jr.,PA,11.5,Less,0.573,-103,0.13,10.45,Kalshi / Underdog
-DET@MIA,DET,John Collins,RA,7.5,Less,0.575,-104,0.128,6.79,PrizePicks / Underdog
-DAL@CLE,DAL,Caleb Martin,REB,2.5,Less,0.531,112,0.125,2.55,Kalshi / Novig / books
-DET@MIA,DET,Kevin Huerter,PR,13.5,Less,0.534,110,0.122,13.61,Kalshi / Novig / books
+DAL@CLE,DAL,Walter Clayton Jr.,PRA,13.5,Less,0.561,110,0.177,12.66,Kalshi / Novig / books
+DAL@CLE,DAL,Walter Clayton Jr.,PA,11.5,Less,0.576,104,0.174,10.39,Kalshi / Novig / books
+BKN@MEM,BKN,Day'Ron Sharpe,RA,11.5,Less,0.612,-112,0.158,9.93,PrizePicks / Underdog
+DAL@CLE,DAL,Caleb Martin,RA,4.5,Less,0.572,101,0.15,4.05,Kalshi / Novig / books
+DET@MIA,DET,John Collins,RA,7.5,Less,0.578,-104,0.134,6.77,PrizePicks / Underdog
+DET@MIA,DET,Kevin Huerter,PR,13.5,Less,0.538,110,0.131,13.5,Kalshi / Novig / books
+BKN@MEM,BKN,Julius Randle,PRA,32.5,Less,0.588,-110,0.123,29.53,PrizePicks / Underdog
+BKN@MEM,BKN,Julius Randle,PR,27.5,Less,0.585,-111,0.111,24.92,PrizePicks / Underdog

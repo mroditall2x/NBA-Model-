@@ -1,11 +1,11 @@
 game,team,player,stat,tier,line,side,p,price,ev,top,mean,lo,hi,min,gap,where
-DET@MIA,DET,John Collins,AST,standard,1.5,Less,0.6566,-238.0,-0.068,True,0.93,0,2,26.5,-1.5,Kalshi / Underdog
+DET@MIA,DET,John Collins,AST,standard,1.5,Less,0.6554,-238.0,-0.069,True,0.93,0,2,26.5,-1.5,Kalshi / Underdog
 DEN@NO,DEN,Spencer Jones,REB,standard,2.5,Less,0.6325999999999999,,,True,1.79,0,3,11.8,0.0,PrizePicks / Underdog
-BKN@MEM,BKN,Day'Ron Sharpe,RA,standard,11.5,Less,0.611,-112.0,0.157,True,9.89,7,13,21.6,0.9,PrizePicks / Underdog
-DEN@NO,DEN,Spencer Jones,3PM,standard,0.5,Less,0.6038,,,True,0.49,0,1,11.8,0.0,PrizePicks / Underdog
-DET@MIA,MIA,Bam Adebayo,AST,standard,3.5,Less,0.602,-152.0,-0.002,True,2.89,1,4,31.9,-1.9,Kalshi / Underdog
-BKN@MEM,BKN,Julius Randle,3PM,standard,1.5,Less,0.599,-146.0,0.009,False,1.22,0,2,30.9,1.9,Kalshi / Underdog
-BKN@MEM,MEM,Cedric Coward,REB,standard,7.5,Less,0.5984,-145.0,0.011,False,6.53,4,9,29.3,1.0,PrizePicks / Underdog
-BKN@MEM,BKN,Julius Randle,PA,standard,26.5,Less,0.5924,-116.0,0.103,False,23.73,16,31,30.9,1.9,PrizePicks / Underdog
-DET@MIA,DET,Kevin Huerter,RA,standard,6.5,Less,0.5924,-128.0,0.055,False,5.65,3,8,24.3,1.8,PrizePicks / Underdog
-DAL@CLE,DAL,Caleb Martin,3PM,standard,0.5,Less,0.5906,-128.0,0.052,False,0.5,0,1,16.4,0.9,PrizePicks / Underdog
+DAL@CLE,DAL,Walter Clayton Jr.,3PM,standard,1.5,Less,0.6128,-167.0,-0.02,True,1.15,0,2,16.9,1.4,Kalshi / Underdog
+BKN@MEM,BKN,Day'Ron Sharpe,RA,standard,11.5,Less,0.6116,-112.0,0.158,True,9.93,7,13,21.6,0.8,PrizePicks / Underdog
+DET@MIA,MIA,Bam Adebayo,AST,standard,3.5,Less,0.6032000000000001,-152.0,0.0,True,2.89,1,4,31.9,-2.0,Kalshi / Underdog
+DEN@NO,DEN,Spencer Jones,3PM,standard,0.5,Less,0.6008,,,False,0.5,0,1,11.8,0.0,PrizePicks / Underdog
+DET@MIA,DET,Kevin Huerter,RA,standard,6.5,Less,0.6002000000000001,-128.0,0.069,False,5.56,3,8,24.1,1.7,PrizePicks / Underdog
+BKN@MEM,BKN,Julius Randle,3PM,standard,1.5,Less,0.5978,-146.0,0.007,False,1.22,0,2,30.9,1.9,Kalshi / Underdog
+DAL@CLE,DAL,Caleb Martin,3PM,standard,0.5,Less,0.5942000000000001,-128.0,0.058,False,0.5,0,1,16.4,0.7,PrizePicks / Underdog
+BKN@MEM,BKN,Julius Randle,PA,standard,26.5,Less,0.593,-116.0,0.104,False,23.66,16,31,30.9,1.9,PrizePicks / Underdog
