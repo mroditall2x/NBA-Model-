@@ -1,376 +1,376 @@
 game,team,player,stat,mean,lo,hi,min,gap,flags,type,line,side,model,market,edge,p_over,o,u,where
-DEN@NO,NO,Jeremiah Fears,AST,5.64,3,8,33.0,3.6,,PP standard,5.5,Less,0.519,0.439,0.08,0.481,-152,112,PrizePicks / Underdog
-DEN@NO,NO,Zion Williamson,AST,3.46,2,5,34.1,0.6,,book line,3.5,Less,0.553,0.569,-0.016,0.447,116,-158,Kalshi / Underdog
-DEN@NO,DEN,Jamal Murray,AST,6.12,4,8,36.2,-0.5,,PP standard,6.5,Less,0.586,0.505,0.081,0.414,-116,-121,PrizePicks / Underdog
-DEN@NO,DEN,Nikola Jokic,AST,9.74,7,12,36.9,1.6,,PP standard,9.5,More,0.507,0.549,-0.042,0.507,-139,109,PrizePicks / Underdog
-DEN@NO,DEN,Christian Braun,AST,2.41,1,4,33.1,-1.8,,PP standard,2.5,Less,0.574,0.512,0.063,0.426,-112,-124,PrizePicks / Underdog
-DEN@NO,NO,Zion Williamson,PTS,20.84,14,27,34.1,0.6,,PP standard,21.5,Less,0.559,0.498,0.061,0.441,-116,-114,PrizePicks / Underdog
-DEN@NO,NO,Jeremiah Fears,PTS,17.61,11,24,33.0,3.6,,PP standard,18.5,Less,0.576,0.511,0.065,0.424,-110,-121,PrizePicks / Underdog
-DEN@NO,DEN,Nikola Jokic,PTS,27.4,20,35,36.9,1.6,,PP standard,26.5,More,0.517,0.508,0.009,0.517,-120,-112,PrizePicks / Underdog
-DEN@NO,DEN,Cameron Johnson,PTS,11.44,6,17,26.8,4.8,minutes unclear (+5),PP standard,12.5,Less,0.607,0.51,0.098,0.393,-112,-122,PrizePicks / Underdog
-DEN@NO,DEN,Aaron Gordon,PTS,13.9,8,19,28.4,-1.1,,PP standard,13.5,Less,0.517,0.522,-0.005,0.483,-105,-127,PrizePicks / Underdog
-DEN@NO,DEN,Jamal Murray,PTS,25.48,18,33,36.2,-0.5,,PP standard,23.5,More,0.568,0.517,0.051,0.568,-125,-108,PrizePicks / Underdog
-DEN@NO,DEN,Christian Braun,PTS,12.38,7,17,33.1,-1.8,,PP standard,11.5,More,0.515,0.52,-0.006,0.515,-125,-105,PrizePicks / Underdog
-DEN@NO,DEN,DeMar DeRozan,PTS,13.11,7,19,22.5,-5.6,minutes unclear (-6),PP standard,10.5,More,0.581,0.493,0.088,0.581,-113,-120,PrizePicks / Underdog
-DEN@NO,NO,Saddiq Bey,PTS,17.45,11,24,31.7,-1.0,,PP standard,17.5,Less,0.547,0.504,0.043,0.453,-114,-118,PrizePicks / Underdog
-DEN@NO,NO,Jeremiah Fears,PA,23.25,16,30,33.0,3.6,,PP standard,24.5,Less,0.586,0.49,0.096,0.414,-120,-110,PrizePicks / Underdog
-DEN@NO,NO,Zion Williamson,PA,24.3,17,31,34.1,0.6,,PP standard,24.5,Less,0.534,0.487,0.047,0.466,-125,-112,PrizePicks / Underdog
-DEN@NO,DEN,DeMar DeRozan,PA,16.05,9,23,22.5,-5.6,minutes unclear (-6),PP standard,12.5,More,0.613,0.935,-0.321,0.613,-123,-4,PrizePicks / Underdog
-DEN@NO,DEN,Aaron Gordon,PA,16.21,10,22,28.4,-1.1,,PP standard,15.5,More,0.501,0.505,-0.004,0.501,-121,-116,PrizePicks / Underdog
-DEN@NO,DEN,Christian Braun,PA,14.8,9,20,33.1,-1.8,,PP standard,14.5,Less,0.519,0.499,0.02,0.481,-115,-114,PrizePicks / Underdog
-DEN@NO,DEN,Cameron Johnson,PA,13.42,8,19,26.8,4.8,minutes unclear (+5),PP standard,14.5,Less,0.603,0.493,0.11,0.397,-118,-111,PrizePicks / Underdog
-DEN@NO,DEN,Jamal Murray,PA,31.61,23,39,36.2,-0.5,,PP standard,30.5,More,0.525,0.516,0.009,0.525,-123,-107,PrizePicks / Underdog
-DEN@NO,DEN,Nikola Jokic,PA,37.13,29,45,36.9,1.6,,PP standard,36.5,More,0.507,0.51,-0.003,0.507,-125,-114,PrizePicks / Underdog
-DEN@NO,NO,Saddiq Bey,PA,20.06,13,27,31.7,-1.0,,PP standard,19.5,Less,0.516,0.484,0.032,0.484,-124,-108,PrizePicks / Underdog
-DEN@NO,NO,DeAndre Jordan,PR,8.02,4,12,13.8,7.7,minutes unclear (+8),PP standard,10.5,Less,0.74,0.493,0.246,0.26,-122,-115,PrizePicks / Underdog
-DEN@NO,NO,Zion Williamson,PR,26.12,19,33,34.1,0.6,,PP standard,27.5,Less,0.583,0.499,0.084,0.417,-115,-114,PrizePicks / Underdog
-DEN@NO,NO,Jeremiah Fears,PR,21.81,14,29,33.0,3.6,,PP standard,23.5,Less,0.606,0.509,0.097,0.394,-110,-119,PrizePicks / Underdog
-DEN@NO,DEN,Jamal Murray,PR,29.9,22,38,36.2,-0.5,,PP standard,28.5,More,0.54,0.498,0.042,0.54,-114,-116,PrizePicks / Underdog
-DEN@NO,DEN,Cameron Johnson,PR,14.97,9,21,26.8,4.8,minutes unclear (+5),PP standard,16.5,Less,0.622,0.52,0.101,0.378,-105,-125,PrizePicks / Underdog
-DEN@NO,DEN,DeMar DeRozan,PR,15.16,8,22,22.5,-5.6,minutes unclear (-6),PP standard,12.5,More,0.571,0.499,0.072,0.571,-120,-121,PrizePicks / Underdog
-DEN@NO,DEN,Aaron Gordon,PR,18.88,13,25,28.4,-1.1,,PP standard,18.5,Less,0.511,0.512,-0.001,0.489,-110,-122,PrizePicks / Underdog
-DEN@NO,DEN,Christian Braun,PR,16.74,11,22,33.1,-1.8,,PP standard,16.5,Less,0.52,0.518,0.002,0.48,-108,-126,PrizePicks / Underdog
-DEN@NO,DEN,Nikola Jokic,PR,39.23,31,47,36.9,1.6,,PP standard,39.5,Less,0.526,0.508,0.018,0.474,-110,-118,PrizePicks / Underdog
-DEN@NO,NO,Saddiq Bey,PR,21.87,14,29,31.7,-1.0,,PP standard,22.5,Less,0.57,0.502,0.068,0.43,-114,-116,PrizePicks / Underdog
-DEN@NO,NO,Zion Williamson,PRA,29.58,22,37,34.1,0.6,,PP standard,30.5,Less,0.558,0.495,0.064,0.442,-117,-112,PrizePicks / Underdog
-DEN@NO,NO,Saddiq Bey,PRA,24.47,17,32,31.7,-1.0,,PP standard,24.5,Less,0.54,0.49,0.05,0.46,-122,-112,PrizePicks / Underdog
-DEN@NO,DEN,Jamal Murray,PRA,36.02,28,44,36.2,-0.5,,PP standard,35.5,More,0.501,0.49,0.011,0.501,-110,-120,PrizePicks / Underdog
-DEN@NO,DEN,Cameron Johnson,PRA,16.94,11,23,26.8,4.8,minutes unclear (+5),PP standard,18.5,Less,0.62,0.513,0.107,0.38,-109,-122,PrizePicks / Underdog
-DEN@NO,DEN,Aaron Gordon,PRA,21.19,15,27,28.4,-1.1,,PP standard,20.5,More,0.507,0.502,0.005,0.507,-116,-114,PrizePicks / Underdog
-DEN@NO,DEN,Nikola Jokic,PRA,48.97,40,58,36.9,1.6,,PP standard,49.5,Less,0.537,0.5,0.037,0.463,-114,-114,PrizePicks / Underdog
-DEN@NO,DEN,Christian Braun,PRA,19.15,13,25,33.1,-1.8,,PP standard,18.5,More,0.506,0.508,-0.002,0.506,-119,-111,PrizePicks / Underdog
-DEN@NO,NO,Jeremiah Fears,PRA,27.45,19,35,33.0,3.6,,PP standard,29.5,Less,0.611,0.503,0.108,0.389,-113,-116,PrizePicks / Underdog
-DEN@NO,DEN,DeMar DeRozan,PRA,18.1,10,25,22.5,-5.6,minutes unclear (-6),PP standard,15.5,More,0.557,0.498,0.059,0.557,-115,-117,PrizePicks / Underdog
-DEN@NO,NO,DeAndre Jordan,REB,4.51,2,7,13.8,7.7,minutes unclear (+8),PP standard,6.5,Less,0.797,0.556,0.241,0.203,110,-147,PrizePicks / Underdog
-DEN@NO,NO,Zion Williamson,REB,5.28,3,7,34.1,0.6,,PP standard,5.5,Less,0.574,0.5,0.074,0.426,-114,-114,PrizePicks / Underdog
-DEN@NO,NO,Saddiq Bey,REB,4.41,2,6,31.7,-1.0,,PP standard,4.5,Less,0.56,0.46,0.1,0.44,-139,102,PrizePicks / Underdog
-DEN@NO,NO,Jeremiah Fears,REB,4.2,2,6,33.0,3.6,,PP standard,4.5,Less,0.592,0.46,0.132,0.408,-135,104,PrizePicks / Underdog
-DEN@NO,DEN,Nikola Jokic,REB,11.83,9,15,36.9,1.6,,PP standard,11.5,More,0.515,0.541,-0.026,0.515,-138,103,PrizePicks / Underdog
-DEN@NO,DEN,Jamal Murray,REB,4.41,2,6,36.2,-0.5,,PP standard,4.5,Less,0.558,0.579,-0.021,0.442,121,-165,PrizePicks / Underdog
-DEN@NO,DEN,DeMar DeRozan,REB,2.04,1,3,22.5,-5.6,minutes unclear (-6),book line,1.5,More,0.553,0.576,-0.023,0.553,-166,118,Kalshi / Underdog
-DEN@NO,DEN,Cameron Johnson,REB,3.52,2,5,26.8,4.8,minutes unclear (+5),PP standard,3.5,Less,0.548,0.501,0.047,0.452,-115,-116,PrizePicks / Underdog
-DEN@NO,DEN,Aaron Gordon,REB,4.98,3,7,28.4,-1.1,,PP standard,4.5,More,0.535,0.552,-0.017,0.535,-143,109,PrizePicks / Underdog
-DEN@NO,DEN,Christian Braun,REB,4.35,2,6,33.1,-1.8,,PP standard,4.5,Less,0.565,0.584,-0.019,0.435,122,-172,PrizePicks / Underdog
-DEN@NO,NO,Saddiq Bey,RA,7.02,4,10,31.7,-1.0,,PP standard,7.5,Less,0.593,0.543,0.05,0.407,104,-140,PrizePicks / Underdog
-DEN@NO,NO,Jeremiah Fears,RA,9.84,7,13,33.0,3.6,,PP standard,10.5,Less,0.597,0.464,0.133,0.403,-135,101,PrizePicks / Underdog
-DEN@NO,NO,Zion Williamson,RA,8.74,6,12,34.1,0.6,,PP standard,8.5,Less,0.503,0.451,0.052,0.497,-144,106,PrizePicks / Underdog
-DEN@NO,DEN,DeMar DeRozan,RA,4.98,2,7,22.5,-5.6,minutes unclear (-6),PP standard,4.5,More,0.505,0.503,0.002,0.505,-122,-119,PrizePicks / Underdog
-DEN@NO,DEN,Cameron Johnson,RA,5.5,3,8,26.8,4.8,minutes unclear (+5),PP standard,5.5,Less,0.54,0.496,0.044,0.46,-118,-114,PrizePicks / Underdog
-DEN@NO,DEN,Jamal Murray,RA,10.53,7,13,36.2,-0.5,,PP standard,10.5,Less,0.522,0.463,0.059,0.478,-136,101,PrizePicks / Underdog
-DEN@NO,DEN,Aaron Gordon,RA,7.29,5,10,28.4,-1.1,,PP standard,7.5,Less,0.558,0.526,0.032,0.442,-109,-138,PrizePicks / Underdog
-DEN@NO,DEN,Nikola Jokic,RA,21.57,17,26,36.9,1.6,,PP standard,22.5,Less,0.59,0.518,0.072,0.41,-106,-124,PrizePicks / Underdog
-DEN@NO,DEN,Christian Braun,RA,6.76,4,9,33.1,-1.8,,PP standard,6.5,More,0.502,0.513,-0.011,0.502,-124,-111,PrizePicks / Underdog
-DEN@NO,DEN,Nikola Jokic,3PM,1.56,0,3,36.9,1.6,,book line,1.5,Less,0.559,0.557,0.002,0.441,110,-149,Kalshi / Underdog
-DEN@NO,NO,Jeremiah Fears,3PM,1.78,0,3,33.0,3.6,,PP standard,1.5,Less,0.5,0.497,0.003,0.5,-117,-114,PrizePicks / Underdog
-DEN@NO,DEN,Jamal Murray,3PM,3.51,2,5,36.2,-0.5,,book line,2.5,More,0.647,0.585,0.063,0.647,-167,125,Kalshi / Underdog
-DEN@NO,DEN,Christian Braun,3PM,1.48,0,3,33.1,-1.8,,book line,1.5,Less,0.585,0.583,0.002,0.415,125,-165,Kalshi / Underdog
-DEN@NO,DEN,Cameron Johnson,3PM,1.98,1,3,26.8,4.8,minutes unclear (+5),book line,1.5,More,0.547,0.595,-0.048,0.547,-176,130,Kalshi / Underdog
-DEN@NO,DEN,Aaron Gordon,3PM,1.54,0,3,28.4,-1.1,,book line,1.5,Less,0.565,0.623,-0.058,0.435,146,-205,Kalshi / Underdog
-DEN@NO,NO,Saddiq Bey,3PM,2.45,1,4,31.7,-1.0,,book line,2.5,Less,0.571,0.567,0.004,0.429,115,-156,Kalshi / Underdog
-DEN@NO,DEN,DeMar DeRozan,AST,2.94,1,5,22.5,-5.6,minutes unclear (-6),PP standard,2.5,More,0.514,0.49,0.024,0.514,-110,-120,PrizePicks / Underdog
-DEN@NO,DEN,Aaron Gordon,AST,2.31,1,4,28.4,-1.1,,book line,2.5,Less,0.601,0.559,0.043,0.399,111,-150,Kalshi / Underdog
-DEN@NO,NO,Saddiq Bey,AST,2.6,1,4,31.7,-1.0,,book line,2.5,Less,0.53,0.581,-0.051,0.47,122,-166,Kalshi / Underdog
-DEN@NO,DEN,Cameron Johnson,AST,1.98,1,3,26.8,4.8,minutes unclear (+5),book line,1.5,More,0.558,0.597,-0.039,0.558,-176,132,Kalshi / Underdog
-DEN@NO,DEN,DeMar DeRozan,3PM,0.6,0,1,22.5,-5.6,minutes unclear (-6),book line,0.5,Less,0.607,0.597,0.011,0.393,130,-180,Kalshi / Underdog
-DEN@NO,NO,DeAndre Jordan,PTS,3.51,0,6,13.8,7.7,minutes unclear (+8),book line,4.5,Less,0.695,0.542,0.153,0.305,104,-138,Kalshi / Underdog
-DEN@NO,DEN,Trevon Brazile,PTS,6.63,2,11,18.6,-4.1,minutes unclear (-4); small sample,PP standard,5.5,More,0.511,0.499,0.012,0.511,101,100,PrizePicks / Underdog
-DEN@NO,DEN,Trevon Brazile,PRA,11.97,6,17,18.6,-4.1,minutes unclear (-4); small sample,PP standard,10.5,More,0.515,0.48,0.036,0.515,109,-108,PrizePicks / Underdog
-DEN@NO,DEN,Trevon Brazile,REB,4.67,2,7,18.6,-4.1,minutes unclear (-4); small sample,PP standard,3.5,More,0.613,0.583,0.03,0.613,-139,140,PrizePicks / Underdog
-DEN@NO,DEN,Spencer Jones,REB,1.79,0,3,11.8,0.0,,PP standard,2.5,Less,0.721,0.5,0.221,0.279,-119,-119,PrizePicks / Underdog
-DEN@NO,DEN,Trevon Brazile,3PM,0.9,0,2,18.6,-4.1,minutes unclear (-4); small sample,PP standard,0.5,More,0.511,0.512,-0.002,0.511,-104,106,PrizePicks / Underdog
-DEN@NO,DEN,Spencer Jones,3PM,0.5,0,1,11.8,0.0,,PP standard,0.5,Less,0.668,0.5,0.168,0.332,-119,-119,PrizePicks / Underdog
-DEN@NO,DEN,Trevon Brazile,PR,11.31,6,16,18.6,-4.1,minutes unclear (-4); small sample,book line,9.5,More,0.541,0.515,0.027,0.541,-105,107,Kalshi / Underdog
-DEN@NO,DEN,Trevon Brazile,RA,5.34,3,8,18.6,-4.1,minutes unclear (-4); small sample,book line,4.5,More,0.55,0.499,0.051,0.55,101,100,Kalshi / Underdog
-CHI@MIN,MIN,Ayo Dosunmu,AST,4.44,2,6,32.5,1.1,,PP standard,4.5,Less,0.549,0.582,-0.033,0.451,124,-164,PrizePicks / Underdog
-CHI@MIN,CHI,Josh Giddey,AST,9.36,6,12,33.9,-2.7,,PP standard,8.5,More,0.566,0.983,-0.417,0.566,-135,-1,PrizePicks / Underdog
-CHI@MIN,MIN,LaMelo Ball,AST,7.47,5,10,29.0,-2.1,,PP standard,6.5,More,0.605,0.545,0.06,0.605,-142,104,PrizePicks / Underdog
-CHI@MIN,MIN,Jaden McDaniels,AST,3.46,2,5,35.6,0.4,,book line,3.5,Less,0.555,0.542,0.013,0.445,104,-138,Kalshi / Underdog
-CHI@MIN,MIN,LaMelo Ball,PTS,22.24,15,30,29.0,-2.1,,PP standard,20.5,More,0.55,0.517,0.033,0.55,-125,-108,PrizePicks / Underdog
-CHI@MIN,MIN,Ayo Dosunmu,PTS,18.23,11,25,32.5,1.1,,PP standard,18.5,Less,0.549,0.501,0.048,0.451,-114,-115,PrizePicks / Underdog
-CHI@MIN,MIN,Rudy Gobert,PTS,11.28,6,16,30.0,-2.8,,PP standard,10.5,More,0.513,0.504,0.009,0.513,-116,-112,PrizePicks / Underdog
-CHI@MIN,CHI,Josh Giddey,PTS,14.73,8,21,33.9,-2.7,,PP standard,13.5,More,0.528,0.498,0.03,0.528,-114,-116,PrizePicks / Underdog
-CHI@MIN,CHI,Matas Buzelis,PTS,15.97,9,22,32.1,-0.3,,PP standard,16.5,Less,0.56,0.512,0.048,0.44,-108,-120,PrizePicks / Underdog
-CHI@MIN,CHI,Isaac Okoro,PTS,7.95,3,12,26.1,-2.4,,PP standard,7.5,Less,0.53,0.488,0.043,0.47,-120,-108,PrizePicks / Underdog
-CHI@MIN,CHI,Nic Claxton,PTS,7.26,3,11,18.0,2.7,,PP standard,7.5,Less,0.572,0.496,0.076,0.428,-118,-114,PrizePicks / Underdog
-CHI@MIN,CHI,Norman Powell,PTS,20.86,13,28,31.3,1.2,,PP standard,21.5,Less,0.56,0.495,0.065,0.44,-118,-113,PrizePicks / Underdog
-CHI@MIN,MIN,Terrence Shannon Jr.,PTS,9.55,4,15,17.7,4.0,,PP standard,10.5,Less,0.625,0.512,0.112,0.375,-108,-120,PrizePicks / Underdog
-CHI@MIN,MIN,Jonathan Kuminga,PTS,15.39,9,21,28.4,-1.0,,PP standard,14.5,More,0.513,0.51,0.003,0.513,-120,-110,PrizePicks / Underdog
-CHI@MIN,MIN,Jaden McDaniels,PTS,18.31,12,25,35.6,0.4,,PP standard,17.5,More,0.508,0.5,0.008,0.508,-115,-115,PrizePicks / Underdog
-CHI@MIN,CHI,Josh Giddey,PA,24.08,16,31,33.9,-2.7,,PP standard,22.5,More,0.537,0.5,0.037,0.537,-115,-115,PrizePicks / Underdog
-CHI@MIN,CHI,Nic Claxton,PA,9.13,4,13,18.0,2.7,,PP standard,9.5,Less,0.58,0.49,0.091,0.42,-126,-115,PrizePicks / Underdog
-CHI@MIN,CHI,Matas Buzelis,PA,18.02,11,24,32.1,-0.3,,PP standard,18.5,Less,0.558,0.519,0.038,0.442,-106,-125,PrizePicks / Underdog
-CHI@MIN,MIN,Jonathan Kuminga,PA,18.23,12,25,28.4,-1.0,,PP standard,17.5,More,0.504,0.485,0.018,0.504,-110,-125,PrizePicks / Underdog
-CHI@MIN,MIN,Rudy Gobert,PA,12.83,8,18,30.0,-2.8,,PP standard,12.5,Less,0.518,0.517,0.002,0.482,-113,-131,PrizePicks / Underdog
-CHI@MIN,CHI,Isaac Okoro,PA,9.42,4,14,26.1,-2.4,,book line,9.5,Less,0.564,0.538,0.026,0.436,102,-136,Kalshi / Underdog
-CHI@MIN,MIN,LaMelo Ball,PA,29.71,21,38,29.0,-2.1,,PP standard,28.5,More,0.525,0.49,0.035,0.525,-110,-120,PrizePicks / Underdog
-CHI@MIN,MIN,Jaden McDaniels,PA,21.77,15,29,35.6,0.4,,PP standard,21.5,Less,0.518,0.523,-0.005,0.482,-106,-130,PrizePicks / Underdog
-CHI@MIN,CHI,Norman Powell,PA,22.9,15,30,31.3,1.2,,PP standard,23.5,Less,0.556,0.493,0.062,0.444,-125,-118,PrizePicks / Underdog
-CHI@MIN,MIN,Ayo Dosunmu,PA,22.67,15,30,32.5,1.1,,PP standard,22.5,Less,0.524,0.485,0.039,0.476,-125,-110,PrizePicks / Underdog
-CHI@MIN,MIN,Jaden McDaniels,PR,24.11,17,31,35.6,0.4,,PP standard,23.5,Less,0.5,0.49,0.01,0.5,-120,-110,PrizePicks / Underdog
-CHI@MIN,MIN,Terrence Shannon Jr.,PR,11.88,6,17,17.7,4.0,,PP standard,13.5,Less,0.648,0.523,0.125,0.352,-105,-128,PrizePicks / Underdog
-CHI@MIN,MIN,Rudy Gobert,PR,22.18,16,28,30.0,-2.8,,PP standard,21.5,More,0.51,0.493,0.017,0.51,-113,-120,PrizePicks / Underdog
-CHI@MIN,MIN,Jonathan Kuminga,PR,21.1,14,28,28.4,-1.0,,PP standard,20.5,Less,0.501,0.485,0.016,0.499,-125,-110,PrizePicks / Underdog
-CHI@MIN,MIN,Ayo Dosunmu,PR,22.73,16,30,32.5,1.1,,PP standard,22.5,Less,0.52,0.051,0.469,0.48,-119,-3,PrizePicks / Underdog
-CHI@MIN,CHI,Norman Powell,PR,23.93,16,31,31.3,1.2,,PP standard,24.5,Less,0.55,0.492,0.058,0.45,-120,-112,PrizePicks / Underdog
-CHI@MIN,MIN,LaMelo Ball,PR,26.35,18,34,29.0,-2.1,,PP standard,25.5,More,0.511,0.51,0.001,0.511,-120,-110,PrizePicks / Underdog
-CHI@MIN,CHI,Matas Buzelis,PR,21.57,14,29,32.1,-0.3,,PP standard,21.5,Less,0.528,0.499,0.029,0.472,-115,-114,PrizePicks / Underdog
-CHI@MIN,CHI,Josh Giddey,PR,21.53,14,28,33.9,-2.7,,PP standard,20.5,More,0.514,0.49,0.024,0.514,-110,-120,PrizePicks / Underdog
-CHI@MIN,CHI,Nic Claxton,PR,11.65,7,16,18.0,2.7,,PP standard,12.5,Less,0.604,0.488,0.116,0.396,-121,-109,PrizePicks / Underdog
-CHI@MIN,CHI,Isaac Okoro,PR,10.51,5,15,26.1,-2.4,,PP standard,10.5,Less,0.556,0.508,0.048,0.444,-114,-122,PrizePicks / Underdog
-CHI@MIN,CHI,Josh Giddey,PRA,30.89,22,39,33.9,-2.7,,PP standard,29.5,More,0.526,0.491,0.035,0.526,-110,-119,PrizePicks / Underdog
-CHI@MIN,MIN,Jaden McDaniels,PRA,27.58,20,35,35.6,0.4,,PP standard,27.5,Less,0.523,0.51,0.013,0.477,-110,-120,PrizePicks / Underdog
-CHI@MIN,CHI,Matas Buzelis,PRA,23.63,16,31,32.1,-0.3,,PP standard,23.5,Less,0.527,0.491,0.036,0.473,-119,-110,PrizePicks / Underdog
-CHI@MIN,MIN,Rudy Gobert,PRA,23.73,17,30,30.0,-2.8,,PP standard,22.5,More,0.542,0.525,0.016,0.542,-128,-103,PrizePicks / Underdog
-CHI@MIN,CHI,Isaac Okoro,PRA,11.98,6,17,26.1,-2.4,,PP standard,11.5,Less,0.522,0.492,0.03,0.478,-118,-110,PrizePicks / Underdog
-CHI@MIN,MIN,Jonathan Kuminga,PRA,23.94,17,31,28.4,-1.0,,PP standard,23.5,Less,0.511,0.518,-0.008,0.489,-106,-124,PrizePicks / Underdog
-CHI@MIN,CHI,Norman Powell,PRA,25.96,18,34,31.3,1.2,,PP standard,26.5,Less,0.549,0.494,0.055,0.451,-118,-112,PrizePicks / Underdog
-CHI@MIN,MIN,LaMelo Ball,PRA,33.82,25,42,29.0,-2.1,,PP standard,32.5,More,0.53,0.504,0.025,0.53,-116,-112,PrizePicks / Underdog
-CHI@MIN,CHI,Nic Claxton,PRA,13.52,8,19,18.0,2.7,,PP standard,14.5,Less,0.606,0.472,0.134,0.394,-130,-102,PrizePicks / Underdog
-CHI@MIN,MIN,Ayo Dosunmu,PRA,27.18,19,35,32.5,1.1,,PP standard,27.5,Less,0.545,0.512,0.032,0.455,-108,-120,PrizePicks / Underdog
-CHI@MIN,MIN,LaMelo Ball,REB,4.11,2,6,29.0,-2.1,,book line,4.5,Less,0.609,0.533,0.076,0.391,100,-133,Kalshi / Underdog
-CHI@MIN,MIN,Jaden McDaniels,REB,5.81,3,8,35.6,0.4,,PP standard,5.5,More,0.508,0.554,-0.047,0.508,-154,105,PrizePicks / Underdog
-CHI@MIN,MIN,Terrence Shannon Jr.,REB,2.33,1,4,17.7,4.0,role up (last 8: 3.6),PP standard,2.5,Less,0.605,0.481,0.124,0.395,-126,-107,PrizePicks / Underdog
-CHI@MIN,CHI,Matas Buzelis,REB,5.61,3,8,32.1,-0.3,role down (last 8: 4.1),PP standard,5.5,Less,0.519,0.548,-0.029,0.481,107,-141,PrizePicks / Underdog
-CHI@MIN,MIN,Rudy Gobert,REB,10.9,8,14,30.0,-2.8,,PP standard,10.5,More,0.516,0.506,0.01,0.516,-118,-112,PrizePicks / Underdog
-CHI@MIN,CHI,Isaac Okoro,REB,2.56,1,4,26.1,-2.4,,book line,2.5,Less,0.549,0.532,0.017,0.451,100,-132,Kalshi / Underdog
-CHI@MIN,CHI,Norman Powell,REB,3.07,1,5,31.3,1.2,,book line,2.5,More,0.561,0.562,-0.001,0.561,-157,110,Kalshi / Underdog
-CHI@MIN,CHI,Nic Claxton,REB,4.39,2,6,18.0,2.7,,PP standard,5.5,Less,0.706,0.565,0.141,0.294,115,-152,PrizePicks / Underdog
-CHI@MIN,CHI,Josh Giddey,REB,6.8,4,9,33.9,-2.7,role down (last 8: 4.6),PP standard,6.5,More,0.501,0.49,0.011,0.501,-110,-120,PrizePicks / Underdog
-CHI@MIN,MIN,Jonathan Kuminga,REB,5.71,3,8,28.4,-1.0,,PP standard,5.5,Less,0.51,0.455,0.055,0.49,-141,105,PrizePicks / Underdog
-CHI@MIN,MIN,Ayo Dosunmu,REB,4.51,2,6,32.5,1.1,,PP standard,4.5,Less,0.537,0.51,0.027,0.463,-110,-120,PrizePicks / Underdog
-CHI@MIN,CHI,Matas Buzelis,RA,7.66,5,10,32.1,-0.3,,PP standard,7.5,Less,0.516,0.505,0.011,0.484,-114,-119,PrizePicks / Underdog
-CHI@MIN,MIN,Rudy Gobert,RA,12.45,9,16,30.0,-2.8,,PP standard,12.5,Less,0.529,0.532,-0.003,0.471,100,-132,PrizePicks / Underdog
-CHI@MIN,MIN,Ayo Dosunmu,RA,8.95,6,12,32.5,1.1,,PP standard,8.5,More,0.524,0.518,0.006,0.524,-125,-107,PrizePicks / Underdog
-CHI@MIN,CHI,Nic Claxton,RA,6.27,4,9,18.0,2.7,,book line,7.5,Less,0.686,0.532,0.154,0.314,-108,-144,Kalshi / Underdog
-CHI@MIN,MIN,LaMelo Ball,RA,11.58,8,15,29.0,-2.1,,PP standard,11.5,Less,0.52,0.491,0.03,0.48,-120,-111,PrizePicks / Underdog
-CHI@MIN,CHI,Josh Giddey,RA,16.16,12,20,33.9,-2.7,,PP standard,15.5,More,0.527,0.502,0.025,0.527,-116,-114,PrizePicks / Underdog
-CHI@MIN,MIN,Jonathan Kuminga,RA,8.55,6,11,28.4,-1.0,,PP standard,8.5,Less,0.527,0.936,-0.409,0.473,-4,-128,PrizePicks / Underdog
-CHI@MIN,MIN,Jaden McDaniels,RA,9.27,6,12,35.6,0.4,,PP standard,9.5,Less,0.556,0.51,0.046,0.444,-110,-120,PrizePicks / Underdog
-CHI@MIN,MIN,Jonathan Kuminga,3PM,1.46,0,3,28.4,-1.0,,book line,1.5,Less,0.591,0.573,0.018,0.409,120,-157,Kalshi / Underdog
-CHI@MIN,CHI,Josh Giddey,3PM,1.62,0,3,33.9,-2.7,,book line,1.5,Less,0.548,0.594,-0.046,0.452,131,-172,Kalshi / Underdog
-CHI@MIN,CHI,Matas Buzelis,3PM,2.19,1,4,32.1,-0.3,,book line,1.5,More,0.6,0.616,-0.016,0.6,-190,145,Kalshi / Underdog
-CHI@MIN,CHI,Norman Powell,3PM,2.4,1,4,31.3,1.2,,PP standard,2.5,Less,0.586,0.481,0.105,0.414,-125,-106,PrizePicks / Underdog
-CHI@MIN,MIN,Ayo Dosunmu,3PM,1.88,0,3,32.5,1.1,,PP standard,1.5,More,0.522,0.516,0.006,0.522,-124,-108,PrizePicks / Underdog
-CHI@MIN,MIN,Terrence Shannon Jr.,3PM,1.17,0,2,17.7,4.0,,book line,1.5,Less,0.687,0.65,0.037,0.313,168,-227,Kalshi / Underdog
-CHI@MIN,MIN,Jaden McDaniels,3PM,1.54,0,3,35.6,0.4,,book line,1.5,Less,0.566,0.542,0.024,0.434,102,-141,Kalshi / Underdog
-CHI@MIN,MIN,LaMelo Ball,3PM,4.24,2,6,29.0,-2.1,,PP standard,3.5,More,0.589,0.499,0.09,0.589,-114,-115,PrizePicks / Underdog
-CHI@MIN,MIN,Rudy Gobert,AST,1.55,0,3,30.0,-2.8,,PP standard,1.5,Less,0.557,0.5,0.057,0.443,-115,-115,PrizePicks / Underdog
-CHI@MIN,MIN,Jonathan Kuminga,AST,2.84,1,4,28.4,-1.0,,book line,2.5,More,0.518,0.467,0.051,0.518,101,-132,Kalshi / Underdog
-CHI@MIN,CHI,Matas Buzelis,AST,2.06,1,3,32.1,-0.3,,book line,1.5,More,0.578,0.602,-0.025,0.578,-179,136,Kalshi / Underdog
-CHI@MIN,CHI,Nic Claxton,AST,1.87,1,3,18.0,2.7,,book line,1.5,More,0.524,0.59,-0.066,0.524,-169,129,Kalshi / Underdog
-CHI@MIN,CHI,Isaac Okoro,AST,1.48,0,3,26.1,-2.4,,book line,1.5,Less,0.584,0.563,0.022,0.416,115,-149,Kalshi / Underdog
-CHI@MIN,CHI,Norman Powell,AST,2.04,1,3,31.3,1.2,,book line,1.5,More,0.571,0.602,-0.031,0.571,-179,136,Kalshi / Underdog
-CHI@MIN,CHI,Isaac Okoro,3PM,0.96,0,2,26.1,-2.4,,book line,0.5,More,0.546,0.622,-0.075,0.546,-196,148,Kalshi / Underdog
-CHI@MIN,CHI,Jalen Smith,PTS,12.45,6,18,27.6,1.0,,PP standard,12.5,Less,0.554,0.166,0.388,0.446,-116,-12,PrizePicks / Underdog
-CHI@MIN,MIN,Bones Hyland,PTS,10.28,4,16,16.2,0.5,,PP standard,9.5,Less,0.529,0.491,0.038,0.471,-103,104,PrizePicks / Underdog
-CHI@MIN,MIN,Trey Lyles,PTS,6.81,2,11,19.0,-1.7,,PP standard,6.5,Less,0.558,0.536,0.022,0.442,116,-115,PrizePicks / Underdog
-CHI@MIN,CHI,Jalen Smith,PR,20.39,13,27,27.6,1.0,,PP standard,20.5,Less,0.548,0.166,0.381,0.452,-116,-12,PrizePicks / Underdog
-CHI@MIN,CHI,Jalen Smith,PRA,22.11,14,30,27.6,1.0,,PP standard,22.5,Less,0.558,0.166,0.392,0.442,-116,-12,PrizePicks / Underdog
-CHI@MIN,MIN,Terrence Shannon Jr.,PRA,14.04,7,20,17.7,4.0,,PP standard,15.5,Less,0.633,0.856,-0.223,0.367,-10,-118,PrizePicks / Underdog
-CHI@MIN,MIN,Bones Hyland,PRA,15.21,8,22,16.2,0.5,,PP standard,15.5,Less,0.577,0.525,0.052,0.423,111,-110,PrizePicks / Underdog
-CHI@MIN,MIN,Trey Lyles,PRA,12.13,6,18,19.0,-1.7,,PP standard,11.5,Less,0.534,0.475,0.058,0.466,-110,111,PrizePicks / Underdog
-CHI@MIN,CHI,Jalen Smith,REB,7.94,5,11,27.6,1.0,,PP standard,7.5,More,0.516,0.5,0.016,0.516,-128,-128,PrizePicks / Underdog
-CHI@MIN,MIN,Trey Lyles,REB,4.17,2,6,19.0,-1.7,,PP standard,4.5,Less,0.608,0.511,0.097,0.392,105,-104,PrizePicks / Underdog
-CHI@MIN,CHI,Jalen Smith,RA,9.67,6,13,27.6,1.0,,PP standard,9.5,Less,0.522,0.12,0.402,0.478,-119,-8,PrizePicks / Underdog
-CHI@MIN,CHI,Norman Powell,RA,5.11,3,7,31.3,1.2,,PP standard,5.0,Less,0.528,0.5,0.028,0.472,-119,-119,PrizePicks / Underdog
-CHI@MIN,CHI,Jalen Smith,3PM,1.75,0,3,27.6,1.0,,PP standard,1.5,Less,0.514,0.5,0.014,0.486,-14,-14,PrizePicks / Underdog
-CHI@MIN,MIN,Bones Hyland,3PM,1.94,0,3,16.2,0.5,,PP standard,1.5,More,0.512,0.5,0.012,0.512,-119,-119,PrizePicks / Underdog
-CHI@MIN,MIN,Bones Hyland,AST,3.14,1,5,16.2,0.5,,book line,3.5,Less,0.627,0.577,0.05,0.373,137,-135,Kalshi / Underdog
-CHI@MIN,MIN,Terrence Shannon Jr.,PA,11.71,5,17,17.7,4.0,,book line,12.5,Less,0.609,0.501,0.108,0.391,101,100,Kalshi / Underdog
-CHI@MIN,CHI,Jalen Smith,PA,14.17,8,20,27.6,1.0,,book line,14.5,Less,0.567,0.491,0.076,0.433,-103,104,Kalshi / Underdog
-CHI@MIN,MIN,Bones Hyland,PA,13.42,6,20,16.2,0.5,role up (last 8: 17.5),book line,13.5,Less,0.573,0.523,0.05,0.427,110,-109,Kalshi / Underdog
-CHI@MIN,MIN,Bones Hyland,PR,12.07,5,18,16.2,0.5,,book line,11.5,Less,0.538,0.494,0.044,0.462,-102,103,Kalshi / Underdog
-CHI@MIN,MIN,Trey Lyles,PR,10.98,5,16,19.0,-1.7,,book line,10.5,Less,0.542,0.477,0.065,0.458,-109,110,Kalshi / Underdog
-CHI@MIN,MIN,Terrence Shannon Jr.,RA,4.49,2,7,17.7,4.0,role up (last 8: 6.6),book line,4.5,Less,0.563,0.494,0.07,0.437,-102,103,Kalshi / Underdog
-CHI@MIN,MIN,Trey Lyles,RA,5.32,3,8,19.0,-1.7,,book line,5.5,Less,0.579,0.501,0.078,0.421,101,100,Kalshi / Underdog
-CHI@MIN,MIN,Bones Hyland,RA,4.93,2,7,16.2,0.5,,book line,5.5,Less,0.632,0.566,0.066,0.368,131,-130,Kalshi / Underdog
-DET@MIA,MIA,Davion Mitchell,AST,7.65,5,10,35.0,5.1,minutes unclear (+5); role up (last 8: 10.2),PP standard,8.5,Less,0.635,0.568,0.068,0.365,116,-155,PrizePicks / Underdog
-DET@MIA,DET,Cade Cunningham,AST,8.87,6,12,34.2,-1.3,,PP standard,9.5,Less,0.597,0.553,0.044,0.403,110,-143,PrizePicks / Underdog
-DET@MIA,MIA,Bam Adebayo,AST,2.89,1,4,31.9,-1.9,,book line,3.5,Less,0.67,0.567,0.103,0.33,117,-152,Kalshi / Underdog
-DET@MIA,MIA,Giannis Antetokounmpo,AST,5.01,3,7,32.4,3.1,,PP standard,5.5,Less,0.606,0.55,0.057,0.394,107,-144,PrizePicks / Underdog
-DET@MIA,DET,Daniss Jenkins,AST,4.51,2,6,27.4,5.1,minutes unclear (+5),PP standard,5.5,Less,0.687,0.552,0.136,0.313,108,-145,PrizePicks / Underdog
-DET@MIA,DET,Ausar Thompson,AST,3.82,2,6,27.1,0.9,role up (last 8: 5.1),PP standard,4.5,Less,0.655,0.514,0.141,0.345,-110,-124,PrizePicks / Underdog
-DET@MIA,MIA,Pelle Larsson,AST,3.07,1,5,27.9,3.0,,book line,3.5,Less,0.633,0.566,0.068,0.367,115,-154,Kalshi / Underdog
-DET@MIA,MIA,Klay Thompson,PTS,11.82,6,17,24.1,5.3,minutes unclear (+5); role up (last 8: 16.0),PP standard,13.5,Less,0.634,0.51,0.124,0.366,-110,-120,PrizePicks / Underdog
-DET@MIA,MIA,Bam Adebayo,PTS,17.72,11,24,31.9,-1.9,role up (last 8: 23.2),PP standard,17.5,Less,0.515,0.512,0.003,0.485,-110,-122,PrizePicks / Underdog
-DET@MIA,MIA,Davion Mitchell,PTS,11.89,6,17,35.0,5.1,minutes unclear (+5); role up (last 8: 16.4),PP standard,14.5,Less,0.688,0.517,0.171,0.312,-108,-125,PrizePicks / Underdog
-DET@MIA,DET,Cade Cunningham,PTS,25.62,17,33,34.2,-1.3,,PP standard,25.5,Less,0.521,0.514,0.007,0.479,-108,-122,PrizePicks / Underdog
-DET@MIA,DET,Duncan Robinson,PTS,15.56,9,22,30.8,0.2,,PP standard,15.5,Less,0.532,0.493,0.039,0.468,-120,-113,PrizePicks / Underdog
-DET@MIA,DET,John Collins,PTS,12.08,6,17,26.5,-1.5,,PP standard,11.5,Less,0.51,0.521,-0.011,0.49,-104,-125,PrizePicks / Underdog
-DET@MIA,DET,Ausar Thompson,PTS,10.59,6,15,27.1,0.9,,PP standard,9.5,More,0.536,0.516,0.02,0.536,-123,-107,PrizePicks / Underdog
-DET@MIA,DET,Daniss Jenkins,PTS,13.15,7,19,27.4,5.1,minutes unclear (+5),PP standard,14.5,Less,0.617,0.51,0.107,0.383,-110,-120,PrizePicks / Underdog
-DET@MIA,MIA,Giannis Antetokounmpo,PTS,27.21,20,34,32.4,3.1,,PP standard,28.5,Less,0.576,0.509,0.067,0.424,-110,-119,PrizePicks / Underdog
-DET@MIA,MIA,Pelle Larsson,PTS,9.64,5,14,27.9,3.0,,PP standard,10.5,Less,0.609,0.506,0.103,0.391,-112,-118,PrizePicks / Underdog
-DET@MIA,DET,Cade Cunningham,PA,34.49,25,43,34.2,-1.3,,PP standard,34.5,Less,0.519,0.502,0.017,0.481,-116,-118,PrizePicks / Underdog
-DET@MIA,MIA,Davion Mitchell,PA,19.55,13,26,35.0,5.1,minutes unclear (+5); role up (last 8: 26.6),PP standard,22.5,Less,0.681,0.491,0.19,0.319,-120,-111,PrizePicks / Underdog
-DET@MIA,MIA,Bam Adebayo,PA,20.61,14,27,31.9,-1.9,role up (last 8: 26.4),PP standard,20.5,Less,0.521,0.065,0.457,0.479,-126,-4,PrizePicks / Underdog
-DET@MIA,DET,Ausar Thompson,PA,14.42,9,20,27.1,0.9,,PP standard,14.5,Less,0.541,0.513,0.028,0.459,-106,-118,PrizePicks / Underdog
-DET@MIA,DET,Daniss Jenkins,PA,17.66,11,24,27.4,5.1,minutes unclear (+5),PP standard,19.5,Less,0.625,0.486,0.139,0.375,-122,-108,PrizePicks / Underdog
-DET@MIA,MIA,Giannis Antetokounmpo,PA,32.22,24,40,32.4,3.1,,PP standard,34.5,Less,0.614,0.518,0.096,0.386,-107,-125,PrizePicks / Underdog
-DET@MIA,MIA,Pelle Larsson,PA,12.71,8,17,27.9,3.0,,PP standard,13.5,Less,0.592,0.484,0.108,0.408,-126,-110,PrizePicks / Underdog
-DET@MIA,MIA,Davion Mitchell,PR,14.71,9,20,35.0,5.1,minutes unclear (+5); role up (last 8: 19.4),PP standard,16.5,Less,0.639,0.495,0.144,0.361,-120,-115,PrizePicks / Underdog
-DET@MIA,MIA,Bam Adebayo,PR,26.62,20,33,31.9,-1.9,,PP standard,26.5,Less,0.519,0.49,0.029,0.481,-120,-110,PrizePicks / Underdog
-DET@MIA,DET,Duncan Robinson,PR,18.37,12,25,30.8,0.2,,PP standard,18.5,Less,0.537,0.51,0.027,0.463,-110,-120,PrizePicks / Underdog
-DET@MIA,DET,Cade Cunningham,PR,31.01,22,39,34.2,-1.3,,PP standard,30.5,Less,0.503,0.502,0.001,0.497,-114,-116,PrizePicks / Underdog
-DET@MIA,DET,Ausar Thompson,PR,17.31,11,23,27.1,0.9,,PP standard,17.5,Less,0.544,0.507,0.036,0.456,-108,-115,PrizePicks / Underdog
-DET@MIA,DET,Daniss Jenkins,PR,16.77,10,23,27.4,5.1,minutes unclear (+5),PP standard,18.5,Less,0.626,0.516,0.109,0.374,-107,-123,PrizePicks / Underdog
-DET@MIA,MIA,Giannis Antetokounmpo,PR,38.14,30,46,32.4,3.1,,PP standard,40.5,Less,0.608,0.49,0.118,0.392,-120,-110,PrizePicks / Underdog
-DET@MIA,MIA,Pelle Larsson,PR,13.08,8,18,27.9,3.0,,PP standard,14.5,Less,0.629,0.525,0.104,0.371,-103,-128,PrizePicks / Underdog
-DET@MIA,DET,John Collins,PR,17.94,12,24,26.5,-1.5,,PP standard,17.5,Less,0.513,0.502,0.011,0.487,-114,-116,PrizePicks / Underdog
-DET@MIA,MIA,Davion Mitchell,PRA,22.36,16,29,35.0,5.1,minutes unclear (+5); role up (last 8: 29.6),PP standard,24.5,Less,0.634,0.481,0.153,0.366,-125,-106,PrizePicks / Underdog
-DET@MIA,MIA,Bam Adebayo,PRA,29.51,22,37,31.9,-1.9,,PP standard,29.5,Less,0.519,0.48,0.039,0.481,-125,-105,PrizePicks / Underdog
-DET@MIA,DET,Ausar Thompson,PRA,21.13,15,27,27.1,0.9,,PP standard,21.5,Less,0.549,0.495,0.054,0.451,-117,-112,PrizePicks / Underdog
-DET@MIA,DET,Daniss Jenkins,PRA,21.28,14,28,27.4,5.1,minutes unclear (+5),PP standard,23.5,Less,0.631,0.499,0.132,0.369,-116,-115,PrizePicks / Underdog
-DET@MIA,DET,Cade Cunningham,PRA,39.88,30,49,34.2,-1.3,,PP standard,39.5,Less,0.504,0.506,-0.002,0.496,-112,-118,PrizePicks / Underdog
-DET@MIA,MIA,Pelle Larsson,PRA,16.15,11,21,27.9,3.0,,PP standard,17.5,Less,0.616,0.503,0.113,0.384,-114,-117,PrizePicks / Underdog
-DET@MIA,MIA,Giannis Antetokounmpo,PRA,43.15,34,52,32.4,3.1,,PP standard,46.5,Less,0.636,0.508,0.128,0.364,-112,-120,PrizePicks / Underdog
-DET@MIA,DET,Cade Cunningham,REB,5.39,3,8,34.2,-1.3,,PP standard,5.5,Less,0.553,0.568,-0.015,0.447,116,-156,PrizePicks / Underdog
-DET@MIA,MIA,Bam Adebayo,REB,8.9,6,12,31.9,-1.9,,PP standard,9.5,Less,0.599,0.542,0.057,0.401,104,-138,PrizePicks / Underdog
-DET@MIA,DET,Daniss Jenkins,REB,3.62,2,5,27.4,5.1,minutes unclear (+5),PP standard,3.5,Less,0.532,0.495,0.037,0.468,-117,-112,PrizePicks / Underdog
-DET@MIA,DET,Ausar Thompson,REB,6.71,4,9,27.1,0.9,role up (last 8: 9.1),PP standard,7.5,Less,0.629,0.544,0.085,0.371,106,-138,PrizePicks / Underdog
-DET@MIA,MIA,Pelle Larsson,REB,3.44,2,5,27.9,3.0,,PP standard,3.5,Less,0.56,0.51,0.049,0.44,-110,-120,PrizePicks / Underdog
-DET@MIA,DET,John Collins,REB,5.86,4,8,26.5,-1.5,,PP standard,6.5,Less,0.623,0.562,0.061,0.377,114,-150,PrizePicks / Underdog
-DET@MIA,MIA,Giannis Antetokounmpo,REB,10.93,8,14,32.4,3.1,role up (last 8: 13.8),book line,12.5,Less,0.683,0.534,0.149,0.317,100,-134,Kalshi / Underdog
-DET@MIA,MIA,Davion Mitchell,RA,10.47,7,13,35.0,5.1,minutes unclear (+5); role up (last 8: 13.2),PP standard,10.5,Less,0.528,0.51,0.018,0.472,-110,-120,PrizePicks / Underdog
-DET@MIA,MIA,Bam Adebayo,RA,11.79,8,15,31.9,-1.9,,PP standard,12.5,Less,0.595,0.5,0.095,0.405,-115,-115,PrizePicks / Underdog
-DET@MIA,DET,Cade Cunningham,RA,14.26,10,18,34.2,-1.3,,PP standard,14.5,Less,0.54,0.921,-0.381,0.46,-5,-124,PrizePicks / Underdog
-DET@MIA,DET,Ausar Thompson,RA,10.54,7,14,27.1,0.9,role up (last 8: 14.2),PP standard,11.5,Less,0.622,0.487,0.135,0.378,-120,-107,PrizePicks / Underdog
-DET@MIA,MIA,Giannis Antetokounmpo,RA,15.94,12,20,32.4,3.1,,PP standard,17.5,Less,0.647,0.497,0.15,0.353,-116,-113,PrizePicks / Underdog
-DET@MIA,MIA,Davion Mitchell,3PM,1.69,0,3,35.0,5.1,minutes unclear (+5),book line,2.5,Less,0.742,0.626,0.116,0.258,148,-207,Kalshi / Underdog
-DET@MIA,MIA,Klay Thompson,3PM,2.96,1,5,24.1,5.3,minutes unclear (+5); role up (last 8: 4.1),PP standard,3.5,Less,0.65,0.528,0.122,0.35,-102,-130,PrizePicks / Underdog
-DET@MIA,DET,Duncan Robinson,3PM,3.57,2,5,30.8,0.2,,PP standard,3.5,Less,0.533,0.516,0.017,0.467,-108,-124,PrizePicks / Underdog
-DET@MIA,DET,Cade Cunningham,3PM,2.25,1,4,34.2,-1.3,,book line,2.5,Less,0.615,0.538,0.077,0.385,102,-136,Kalshi / Underdog
-DET@MIA,DET,Daniss Jenkins,3PM,1.73,0,3,27.4,5.1,minutes unclear (+5),book line,1.5,Less,0.524,0.435,0.088,0.476,-154,114,Kalshi / Underdog
-DET@MIA,MIA,Davion Mitchell,REB,2.82,1,4,35.0,5.1,minutes unclear (+5),book line,2.5,More,0.512,0.425,0.087,0.512,120,-160,Kalshi / Underdog
-DET@MIA,DET,Duncan Robinson,REB,2.82,1,4,30.8,0.2,,book line,2.5,More,0.513,0.463,0.051,0.513,102,-135,Kalshi / Underdog
-DET@MIA,DET,Daniss Jenkins,RA,8.12,5,11,27.4,5.1,minutes unclear (+5),PP standard,8.5,Less,0.572,0.467,0.106,0.428,-132,101,PrizePicks / Underdog
-DET@MIA,MIA,Pelle Larsson,RA,6.51,4,9,27.9,3.0,,PP standard,6.5,Less,0.535,0.466,0.069,0.465,-133,101,PrizePicks / Underdog
-DET@MIA,MIA,Bam Adebayo,3PM,1.13,0,2,31.9,-1.9,,book line,1.5,Less,0.692,0.662,0.03,0.308,178,-239,Kalshi / Underdog
-DET@MIA,DET,Duncan Robinson,AST,2.14,1,3,30.8,0.2,,book line,2.5,Less,0.641,0.588,0.053,0.36,127,-169,Kalshi / Underdog
-DET@MIA,DET,Duncan Robinson,PA,17.7,11,24,30.8,0.2,,PP standard,18.5,Less,0.574,0.51,0.064,0.426,-110,-120,PrizePicks / Underdog
-DET@MIA,DET,Duncan Robinson,PRA,20.52,13,27,30.8,0.2,,PP standard,20.5,Less,0.53,0.495,0.035,0.47,-117,-112,PrizePicks / Underdog
-DET@MIA,DET,Duncan Robinson,RA,4.96,3,7,30.8,0.2,,PP standard,4.5,More,0.53,0.527,0.003,0.53,-131,-104,PrizePicks / Underdog
-DET@MIA,DET,Kevin Huerter,AST,2.51,1,4,24.3,1.8,,PP standard,2.5,Less,0.572,0.356,0.216,0.428,3,-116,PrizePicks / Underdog
-DET@MIA,DET,Kevin Huerter,PTS,10.47,4,16,24.3,1.8,,PP standard,10.5,Less,0.57,0.508,0.062,0.43,-110,-118,PrizePicks / Underdog
-DET@MIA,DET,Javonte Green,PTS,6.18,2,10,16.4,-3.4,,PP standard,5.5,Less,0.522,0.513,0.008,0.478,106,-105,PrizePicks / Underdog
-DET@MIA,DET,John Collins,PRA,18.87,13,25,26.5,-1.5,,PP standard,18.5,Less,0.516,0.069,0.447,0.484,-108,-4,PrizePicks / Underdog
-DET@MIA,MIA,Klay Thompson,PRA,15.43,9,22,24.1,5.3,minutes unclear (+5),PP standard,17.5,Less,0.643,0.567,0.076,0.357,-6,-8,PrizePicks / Underdog
-DET@MIA,DET,Kevin Huerter,PRA,16.12,8,23,24.3,1.8,,PP standard,16.5,Less,0.579,0.099,0.48,0.421,-106,-6,PrizePicks / Underdog
-DET@MIA,DET,Javonte Green,PRA,9.4,4,14,16.4,-3.4,,PP standard,9.5,Less,0.578,0.5,0.078,0.422,-119,-119,PrizePicks / Underdog
-DET@MIA,DET,Kevin Huerter,REB,3.14,1,5,24.3,1.8,role down (last 8: 1.8),PP standard,3.5,Less,0.624,0.53,0.094,0.376,103,-125,PrizePicks / Underdog
-DET@MIA,DET,John Collins,RA,6.79,4,9,26.5,-1.5,,PP standard,7.5,Less,0.625,0.512,0.113,0.375,106,-104,PrizePicks / Underdog
-DET@MIA,DET,Kevin Huerter,RA,5.65,3,8,24.3,1.8,,PP standard,6.5,Less,0.654,0.564,0.09,0.346,130,-128,PrizePicks / Underdog
-DET@MIA,MIA,Giannis Antetokounmpo,3PM,0.53,0,1,32.4,3.1,,PP standard,0.5,Less,0.633,0.51,0.122,0.367,-109,-119,PrizePicks / Underdog
-DET@MIA,DET,John Collins,AST,0.93,0,2,26.5,-1.5,,book line,1.5,Less,0.761,0.662,0.099,0.239,178,-238,Kalshi / Underdog
-DET@MIA,MIA,Klay Thompson,AST,1.66,0,3,24.1,5.3,minutes unclear (+5),book line,2.5,Less,0.759,0.595,0.165,0.241,132,-172,Kalshi / Underdog
-DET@MIA,DET,John Collins,PA,13.01,7,18,26.5,-1.5,,book line,12.5,Less,0.514,0.527,-0.013,0.486,112,-111,Kalshi / Underdog
-DET@MIA,MIA,Klay Thompson,PA,13.48,7,19,24.1,5.3,minutes unclear (+5); role up (last 8: 18.4),book line,15.5,Less,0.648,0.516,0.133,0.352,107,-106,Kalshi / Underdog
-DET@MIA,DET,Kevin Huerter,PR,13.61,7,20,24.3,1.8,,book line,13.5,Less,0.557,0.476,0.081,0.443,-110,110,Kalshi / Underdog
-DET@MIA,MIA,Klay Thompson,PR,13.77,7,20,24.1,5.3,minutes unclear (+5),book line,15.5,Less,0.63,0.511,0.119,0.37,105,-104,Kalshi / Underdog
-DET@MIA,MIA,Klay Thompson,REB,1.95,1,3,24.1,5.3,minutes unclear (+5),book line,2.5,Less,0.687,0.602,0.085,0.313,136,-179,Kalshi / Underdog
-DET@MIA,DET,Kevin Huerter,3PM,1.85,0,3,24.3,1.8,,book line,1.5,More,0.5,0.559,-0.058,0.5,-148,112,Kalshi / Underdog
-DET@MIA,DET,John Collins,3PM,1.11,0,2,26.5,-1.5,,book line,0.5,More,0.6,0.591,0.009,0.6,-169,130,Kalshi / Underdog
-DET@MIA,MIA,Pelle Larsson,3PM,0.92,0,2,27.9,3.0,,book line,1.5,Less,0.756,0.648,0.108,0.244,176,-201,Kalshi / Underdog
-DET@MIA,MIA,Klay Thompson,RA,3.62,2,5,24.1,5.3,minutes unclear (+5),book line,4.5,Less,0.696,0.559,0.137,0.304,127,-127,Kalshi / Underdog
-DAL@CLE,DAL,Cooper Flagg,AST,5.58,3,8,32.4,3.1,,PP standard,6.5,Less,0.66,0.553,0.107,0.34,110,-143,PrizePicks / Underdog
-DAL@CLE,CLE,James Harden,AST,6.59,4,9,34.5,-3.7,,PP standard,6.5,Less,0.515,0.363,0.153,0.485,0,-132,PrizePicks / Underdog
-DAL@CLE,DAL,Naji Marshall,AST,2.93,1,4,20.9,-1.5,role up (last 8: 4.2),book line,2.5,More,0.536,0.587,-0.051,0.536,-170,126,Kalshi / Underdog
-DAL@CLE,DAL,Kyrie Irving,AST,4.13,2,6,29.8,3.9,,PP standard,4.5,Less,0.605,0.563,0.042,0.395,114,-152,PrizePicks / Underdog
-DAL@CLE,CLE,Donovan Mitchell,AST,5.56,3,8,35.1,-2.6,,PP standard,5.5,Less,0.525,0.554,-0.029,0.475,110,-145,PrizePicks / Underdog
-DAL@CLE,CLE,Jarrett Allen,PTS,13.97,8,19,29.1,-0.9,,PP standard,13.5,Less,0.509,0.488,0.022,0.491,-120,-108,PrizePicks / Underdog
-DAL@CLE,CLE,James Harden,PTS,18.52,12,25,34.5,-3.7,,PP standard,17.5,More,0.519,0.518,0.001,0.519,-124,-106,PrizePicks / Underdog
-DAL@CLE,DAL,P.J. Washington,PTS,13.63,8,19,29.7,-1.9,,PP standard,12.5,More,0.521,0.529,-0.008,0.521,-128,100,PrizePicks / Underdog
-DAL@CLE,DAL,Zaccharie Risacher,PTS,7.85,3,12,19.5,-5.0,minutes unclear (-5),PP standard,5.5,More,0.616,0.52,0.096,0.616,-128,-108,PrizePicks / Underdog
-DAL@CLE,DAL,Cooper Flagg,PTS,22.81,15,30,32.4,3.1,,PP standard,24.5,Less,0.606,0.51,0.095,0.394,-110,-120,PrizePicks / Underdog
-DAL@CLE,DAL,Daniel Gafford,PTS,8.39,4,12,20.3,-1.0,,PP standard,7.5,More,0.516,0.525,-0.009,0.516,-128,-103,PrizePicks / Underdog
-DAL@CLE,DAL,Naji Marshall,PTS,10.54,5,15,20.9,-1.5,,PP standard,10.5,Less,0.549,0.506,0.043,0.451,-112,-118,PrizePicks / Underdog
-DAL@CLE,DAL,Caleb Martin,PTS,4.33,1,7,16.4,0.9,,PP standard,4.5,Less,0.601,0.502,0.099,0.399,-114,-116,PrizePicks / Underdog
-DAL@CLE,DAL,Kyrie Irving,PTS,20.27,13,27,29.8,3.9,,PP standard,22.5,Less,0.627,0.502,0.125,0.373,-114,-116,PrizePicks / Underdog
-DAL@CLE,CLE,Peyton Watson,PTS,12.86,7,18,31.3,1.2,,PP standard,12.5,Less,0.524,0.477,0.046,0.476,-125,-103,PrizePicks / Underdog
-DAL@CLE,CLE,Donovan Mitchell,PTS,24.03,16,31,35.1,-2.6,,PP standard,24.5,Less,0.547,0.516,0.031,0.453,-106,-122,PrizePicks / Underdog
-DAL@CLE,CLE,Jarrett Allen,PA,15.47,9,21,29.1,-0.9,,PP standard,15.5,Less,0.539,0.51,0.029,0.461,-110,-120,PrizePicks / Underdog
-DAL@CLE,CLE,Peyton Watson,PA,15.22,9,21,31.3,1.2,,PP standard,15.5,Less,0.556,0.519,0.037,0.444,-111,-131,PrizePicks / Underdog
-DAL@CLE,CLE,Donovan Mitchell,PA,29.59,21,37,35.1,-2.6,,PP standard,29.5,Less,0.519,0.51,0.009,0.481,-110,-120,PrizePicks / Underdog
-DAL@CLE,DAL,Naji Marshall,PA,13.47,8,19,20.9,-1.5,,PP standard,13.5,Less,0.548,0.48,0.068,0.452,-125,-105,PrizePicks / Underdog
-DAL@CLE,DAL,P.J. Washington,PA,15.02,9,21,29.7,-1.9,,PP standard,14.5,Less,0.516,0.502,0.014,0.484,-114,-116,PrizePicks / Underdog
-DAL@CLE,DAL,Kyrie Irving,PA,24.4,16,32,29.8,3.9,,PP standard,27.5,Less,0.654,0.907,-0.253,0.346,-6,-123,PrizePicks / Underdog
-DAL@CLE,DAL,Cooper Flagg,PA,28.39,20,36,32.4,3.1,,PP standard,30.5,Less,0.612,0.49,0.122,0.388,-120,-110,PrizePicks / Underdog
-DAL@CLE,CLE,James Harden,PA,25.11,18,32,34.5,-3.7,,PP standard,24.5,More,0.503,0.502,0.001,0.503,-116,-114,PrizePicks / Underdog
-DAL@CLE,DAL,P.J. Washington,PR,20.48,14,27,29.7,-1.9,,PP standard,19.5,More,0.511,0.907,-0.396,0.511,-124,-6,PrizePicks / Underdog
-DAL@CLE,CLE,Donovan Mitchell,PR,28.77,21,37,35.1,-2.6,,PP standard,28.5,Less,0.513,0.5,0.013,0.487,-114,-114,PrizePicks / Underdog
-DAL@CLE,DAL,Kyrie Irving,PR,24.14,16,32,29.8,3.9,,PP standard,26.5,Less,0.625,0.5,0.125,0.375,-115,-115,PrizePicks / Underdog
-DAL@CLE,DAL,Cooper Flagg,PR,29.73,21,38,32.4,3.1,,PP standard,31.5,Less,0.599,0.5,0.099,0.401,-115,-115,PrizePicks / Underdog
-DAL@CLE,CLE,James Harden,PR,23.12,16,30,34.5,-3.7,,PP standard,22.5,More,0.505,0.5,0.005,0.505,-115,-115,PrizePicks / Underdog
-DAL@CLE,DAL,Zaccharie Risacher,PR,11.78,6,17,19.5,-5.0,minutes unclear (-5),PP standard,9.5,More,0.595,0.49,0.105,0.595,-110,-120,PrizePicks / Underdog
-DAL@CLE,CLE,Jarrett Allen,PR,23.24,16,30,29.1,-0.9,,PP standard,23.5,Less,0.537,0.52,0.017,0.463,-105,-125,PrizePicks / Underdog
-DAL@CLE,CLE,Peyton Watson,PR,17.71,12,24,31.3,1.2,,PP standard,17.5,Less,0.525,0.5,0.025,0.475,-115,-115,PrizePicks / Underdog
-DAL@CLE,DAL,Caleb Martin,PR,6.93,3,10,16.4,0.9,,PP standard,7.5,Less,0.612,0.505,0.108,0.388,-115,-120,PrizePicks / Underdog
-DAL@CLE,DAL,Naji Marshall,PR,13.77,8,19,20.9,-1.5,,PP standard,13.5,Less,0.532,0.519,0.013,0.468,-106,-125,PrizePicks / Underdog
-DAL@CLE,DAL,Daniel Gafford,PR,14.26,9,19,20.3,-1.0,,PP standard,13.5,More,0.505,0.52,-0.015,0.505,-126,-106,PrizePicks / Underdog
-DAL@CLE,CLE,Donovan Mitchell,PRA,34.33,26,43,35.1,-2.6,,PP standard,33.5,More,0.514,0.51,0.004,0.514,-120,-110,PrizePicks / Underdog
-DAL@CLE,DAL,Cooper Flagg,PRA,35.31,26,44,32.4,3.1,,PP standard,37.5,Less,0.604,0.487,0.117,0.396,-121,-108,PrizePicks / Underdog
-DAL@CLE,CLE,Jarrett Allen,PRA,24.74,17,32,29.1,-0.9,,PP standard,24.5,Less,0.513,0.49,0.023,0.487,-120,-110,PrizePicks / Underdog
-DAL@CLE,DAL,Naji Marshall,PRA,16.7,11,22,20.9,-1.5,,PP standard,16.5,Less,0.53,0.501,0.029,0.47,-114,-115,PrizePicks / Underdog
-DAL@CLE,CLE,James Harden,PRA,29.71,22,37,34.5,-3.7,,PP standard,28.5,More,0.532,0.519,0.013,0.532,-125,-106,PrizePicks / Underdog
-DAL@CLE,DAL,P.J. Washington,PRA,21.87,15,29,29.7,-1.9,,PP standard,21.5,Less,0.52,0.5,0.02,0.48,-115,-115,PrizePicks / Underdog
-DAL@CLE,DAL,Kyrie Irving,PRA,28.27,20,36,29.8,3.9,,PP standard,30.5,Less,0.615,0.491,0.124,0.385,-120,-111,PrizePicks / Underdog
-DAL@CLE,CLE,Peyton Watson,PRA,20.08,13,26,31.3,1.2,,PP standard,20.5,Less,0.557,0.52,0.036,0.443,-105,-125,PrizePicks / Underdog
-DAL@CLE,CLE,James Harden,REB,4.6,3,7,34.5,-3.7,,book line,4.5,Less,0.523,0.549,-0.027,0.477,107,-143,Kalshi / Underdog
-DAL@CLE,CLE,Peyton Watson,REB,4.86,3,7,31.3,1.2,,PP standard,4.5,More,0.513,0.514,-0.002,0.513,-122,-108,PrizePicks / Underdog
-DAL@CLE,DAL,Daniel Gafford,REB,5.87,3,8,20.3,-1.0,,PP standard,5.5,More,0.511,0.545,-0.034,0.511,-142,104,PrizePicks / Underdog
-DAL@CLE,DAL,Kyrie Irving,REB,3.86,2,6,29.8,3.9,,PP standard,3.5,More,0.517,0.519,-0.002,0.517,-125,-106,PrizePicks / Underdog
-DAL@CLE,CLE,Donovan Mitchell,REB,4.74,3,7,35.1,-2.6,,PP standard,4.5,Less,0.502,0.541,-0.039,0.498,103,-139,PrizePicks / Underdog
-DAL@CLE,DAL,P.J. Washington,REB,6.85,4,9,29.7,-1.9,,PP standard,6.5,More,0.508,0.535,-0.026,0.508,-135,100,PrizePicks / Underdog
-DAL@CLE,DAL,Caleb Martin,REB,2.61,1,4,16.4,0.9,,book line,2.5,Less,0.541,0.442,0.099,0.459,-151,110,Kalshi / Underdog
-DAL@CLE,DAL,Cooper Flagg,REB,6.92,4,9,32.4,3.1,,PP standard,6.5,More,0.52,0.562,-0.042,0.52,-150,114,PrizePicks / Underdog
-DAL@CLE,CLE,Jarrett Allen,REB,9.27,6,12,29.1,-0.9,,PP standard,8.5,More,0.55,0.552,-0.002,0.55,-144,109,PrizePicks / Underdog
-DAL@CLE,CLE,Peyton Watson,RA,7.22,5,10,31.3,1.2,,PP standard,6.5,More,0.554,0.953,-0.399,0.554,-142,-3,PrizePicks / Underdog
-DAL@CLE,CLE,Donovan Mitchell,RA,10.3,7,13,35.1,-2.6,,PP standard,9.5,More,0.561,0.52,0.041,0.561,-125,-105,PrizePicks / Underdog
-DAL@CLE,DAL,Cooper Flagg,RA,12.5,9,16,32.4,3.1,,PP standard,13.5,Less,0.613,0.518,0.095,0.387,-106,-124,PrizePicks / Underdog
-DAL@CLE,DAL,Naji Marshall,RA,6.16,4,9,20.9,-1.5,,PP standard,6.5,Less,0.585,0.966,-0.382,0.415,-2,-130,PrizePicks / Underdog
-DAL@CLE,DAL,P.J. Washington,RA,8.24,5,11,29.7,-1.9,,PP standard,8.5,Less,0.565,0.522,0.043,0.435,-104,-126,PrizePicks / Underdog
-DAL@CLE,CLE,Jarrett Allen,RA,10.77,7,14,29.1,-0.9,,PP standard,10.5,Less,0.505,0.483,0.022,0.495,-130,-112,PrizePicks / Underdog
-DAL@CLE,DAL,Kyrie Irving,RA,7.99,5,11,29.8,3.9,,PP standard,8.5,Less,0.595,0.557,0.039,0.405,114,-142,PrizePicks / Underdog
-DAL@CLE,CLE,James Harden,RA,11.19,8,14,34.5,-3.7,,PP standard,10.5,More,0.55,0.521,0.028,0.55,-126,-105,PrizePicks / Underdog
-DAL@CLE,CLE,Donovan Mitchell,3PM,2.68,1,4,35.1,-2.6,,PP standard,2.5,Less,0.52,0.485,0.035,0.48,-124,-109,PrizePicks / Underdog
-DAL@CLE,DAL,Kyrie Irving,3PM,2.82,1,4,29.8,3.9,,book line,3.5,Less,0.674,0.6,0.074,0.326,134,-179,Kalshi / Underdog
-DAL@CLE,CLE,James Harden,3PM,2.49,1,4,34.5,-3.7,,PP standard,2.5,Less,0.561,0.523,0.039,0.439,-103,-125,PrizePicks / Underdog
-DAL@CLE,DAL,Cooper Flagg,3PM,1.39,0,2,32.4,3.1,,book line,1.5,Less,0.614,0.54,0.074,0.386,102,-139,Kalshi / Underdog
-DAL@CLE,DAL,P.J. Washington,3PM,1.86,0,3,29.7,-1.9,,book line,1.5,More,0.515,0.602,-0.086,0.515,-180,135,Kalshi / Underdog
-DAL@CLE,CLE,Peyton Watson,3PM,1.26,0,2,31.3,1.2,,book line,1.5,Less,0.653,0.573,0.079,0.347,119,-159,Kalshi / Underdog
-DAL@CLE,CLE,Peyton Watson,AST,2.36,1,4,31.3,1.2,,book line,2.5,Less,0.594,0.568,0.025,0.406,116,-156,Kalshi / Underdog
-DAL@CLE,CLE,Jarrett Allen,AST,1.5,0,3,29.1,-0.9,,PP standard,1.5,Less,0.577,0.491,0.086,0.423,-120,-111,PrizePicks / Underdog
-DAL@CLE,DAL,Zaccharie Risacher,REB,3.93,2,6,19.5,-5.0,minutes unclear (-5),book line,3.5,More,0.519,0.427,0.093,0.519,119,-159,Kalshi / Underdog
-DAL@CLE,DAL,Naji Marshall,REB,3.22,1,5,20.9,-1.5,,book line,3.5,Less,0.6,0.562,0.038,0.4,116,-146,Kalshi / Underdog
-DAL@CLE,DAL,P.J. Washington,AST,1.39,0,2,29.7,-1.9,,book line,1.5,Less,0.609,0.575,0.034,0.391,120,-160,Kalshi / Underdog
-DAL@CLE,CLE,Jaylon Tyson,AST,2.11,1,3,25.0,4.3,minutes unclear (+4),book line,1.5,More,0.589,0.601,-0.012,0.589,-190,130,Kalshi / Underdog
-DAL@CLE,DAL,Zaccharie Risacher,3PM,1.18,0,2,19.5,-5.0,minutes unclear (-5),book line,1.5,Less,0.677,0.671,0.006,0.323,186,-250,Kalshi / Underdog
-DAL@CLE,DAL,Walter Clayton Jr.,AST,3.53,2,5,16.9,1.4,,PP standard,3.5,Less,0.548,0.489,0.059,0.452,-104,105,PrizePicks / Underdog
-DAL@CLE,CLE,Jaylon Tyson,PTS,9.8,5,15,25.0,4.3,minutes unclear (+4),PP standard,11.5,Less,0.653,0.52,0.133,0.347,109,-108,PrizePicks / Underdog
-DAL@CLE,CLE,Meleek Thomas,PTS,10.76,5,16,23.6,10.6,minutes unclear (+11); small sample,book line,10.5,Less,0.535,0.494,0.041,0.465,-102,103,Kalshi / Underdog
-DAL@CLE,DAL,Daniel Gafford,PA,9.82,5,14,20.3,-1.0,,book line,9.5,Less,0.529,0.515,0.014,0.471,107,-105,Kalshi / Underdog
-DAL@CLE,DAL,Walter Clayton Jr.,PA,10.41,5,15,16.9,1.4,,book line,11.5,Less,0.623,0.491,0.132,0.377,-103,104,Kalshi / Underdog
-DAL@CLE,CLE,Jaylon Tyson,PA,11.9,6,17,25.0,4.3,minutes unclear (+4),book line,15.5,Less,0.743,0.484,0.259,0.257,-106,107,Kalshi / Underdog
-DAL@CLE,CLE,Meleek Thomas,PA,12.38,7,18,23.6,10.6,minutes unclear (+11); small sample,book line,15.5,Less,0.711,0.489,0.222,0.289,-104,105,Kalshi / Underdog
-DAL@CLE,CLE,Meleek Thomas,PR,13.45,8,19,23.6,10.6,minutes unclear (+11); small sample,book line,16.5,Less,0.707,0.484,0.223,0.293,-106,107,Kalshi / Underdog
-DAL@CLE,CLE,Jaylon Tyson,PR,13.89,8,19,25.0,4.3,minutes unclear (+4),book line,17.5,Less,0.734,0.491,0.243,0.266,-103,104,Kalshi / Underdog
-DAL@CLE,DAL,Daniel Gafford,PRA,15.7,10,21,20.3,-1.0,,PP standard,15.5,Less,0.532,0.855,-0.323,0.468,-10,-116,PrizePicks / Underdog
-DAL@CLE,CLE,Jaylon Tyson,PRA,16.0,10,22,25.0,4.3,minutes unclear (+4),PP standard,17.5,Less,0.624,0.513,0.11,0.376,106,-105,PrizePicks / Underdog
-DAL@CLE,DAL,Zaccharie Risacher,PRA,12.87,7,18,19.5,-5.0,minutes unclear (-5),PP standard,11.5,More,0.534,0.856,-0.322,0.534,-117,-10,PrizePicks / Underdog
-DAL@CLE,DAL,Walter Clayton Jr.,PRA,12.66,7,18,16.9,1.4,,PP standard,13.5,Less,0.598,0.477,0.12,0.402,-109,110,PrizePicks / Underdog
-DAL@CLE,CLE,Meleek Thomas,PRA,15.07,9,21,23.6,10.6,minutes unclear (+11); small sample,PP standard,18.5,Less,0.717,0.481,0.236,0.283,-108,108,PrizePicks / Underdog
-DAL@CLE,CLE,Jaylon Tyson,REB,4.09,2,6,25.0,4.3,minutes unclear (+4); role down (last 8: 3.0),book line,4.5,Less,0.613,0.545,0.067,0.387,120,-120,Kalshi / Underdog
-DAL@CLE,DAL,Daniel Gafford,RA,7.31,5,10,20.3,-1.0,,book line,6.5,More,0.563,0.551,0.012,0.563,-122,123,Kalshi / Underdog
-DAL@CLE,DAL,Caleb Martin,RA,4.1,2,6,16.4,0.9,,book line,4.5,Less,0.612,0.499,0.113,0.388,100,101,Kalshi / Underdog
-DAL@CLE,DAL,Zaccharie Risacher,RA,5.02,3,7,19.5,-5.0,minutes unclear (-5),book line,4.5,More,0.529,0.499,0.031,0.529,101,100,Kalshi / Underdog
-DAL@CLE,CLE,Meleek Thomas,RA,4.32,2,6,23.6,10.6,minutes unclear (+11); small sample,book line,4.5,Less,0.576,0.429,0.147,0.424,-132,134,Kalshi / Underdog
-DAL@CLE,CLE,Jaylon Tyson,3PM,1.46,0,3,25.0,4.3,minutes unclear (+4),book line,1.5,Less,0.59,0.396,0.194,0.41,-152,153,Kalshi / Underdog
-DAL@CLE,DAL,Walter Clayton Jr.,3PM,1.16,0,2,16.9,1.4,,book line,1.5,Less,0.685,0.626,0.058,0.315,168,-167,Kalshi / Underdog
-DAL@CLE,CLE,Meleek Thomas,3PM,1.87,0,3,23.6,10.6,minutes unclear (+11); small sample,book line,2.5,Less,0.702,0.605,0.097,0.298,154,-152,Kalshi / Underdog
-DAL@CLE,CLE,Tyrese Proctor,PTS,6.33,2,10,16.7,0.0,role up (last 8: 10.4),PP standard,9.5,Less,0.774,0.5,0.274,0.226,-119,-119,PrizePicks / Underdog
-DAL@CLE,CLE,Tyrese Proctor,REB,2.34,1,4,16.7,0.0,,PP standard,2.5,Less,0.602,0.5,0.102,0.398,-119,-119,PrizePicks / Underdog
-DAL@CLE,DAL,Walter Clayton Jr.,PTS,6.88,2,11,16.9,1.4,,PP standard,7.5,Less,0.609,0.5,0.109,0.391,-119,-119,PrizePicks / Underdog
-DAL@CLE,DAL,Caleb Martin,3PM,0.5,0,1,16.4,0.9,,PP standard,0.5,Less,0.652,0.5,0.152,0.348,-128,-128,PrizePicks / Underdog
+DEN@NO,NO,Jeremiah Fears,AST,5.37,3,7,30.7,4.9,minutes unclear (+5),PP standard,5.5,Less,0.552,0.439,0.113,0.448,-152,112,PrizePicks / Underdog
+DEN@NO,NO,Zion Williamson,AST,3.3,2,5,31.6,2.6,,book line,3.5,Less,0.588,0.569,0.018,0.412,116,-158,Kalshi / Underdog
+DEN@NO,DEN,Jamal Murray,AST,6.17,4,8,36.3,-0.6,,PP standard,6.5,Less,0.581,0.505,0.077,0.419,-116,-121,PrizePicks / Underdog
+DEN@NO,DEN,Nikola Jokic,AST,9.73,7,12,37.0,1.7,,PP standard,9.5,More,0.505,0.549,-0.044,0.505,-139,109,PrizePicks / Underdog
+DEN@NO,DEN,Christian Braun,AST,2.41,1,4,33.1,-1.8,,PP standard,2.5,Less,0.578,0.512,0.066,0.422,-112,-124,PrizePicks / Underdog
+DEN@NO,NO,Zion Williamson,PTS,19.76,13,26,31.6,2.6,,PP standard,21.5,Less,0.619,0.498,0.121,0.381,-116,-114,PrizePicks / Underdog
+DEN@NO,NO,Jeremiah Fears,PTS,16.85,10,23,30.7,4.9,minutes unclear (+5),PP standard,18.5,Less,0.615,0.511,0.104,0.385,-110,-121,PrizePicks / Underdog
+DEN@NO,DEN,Nikola Jokic,PTS,27.45,20,35,37.0,1.7,,PP standard,26.5,More,0.52,0.508,0.012,0.52,-120,-112,PrizePicks / Underdog
+DEN@NO,DEN,Cameron Johnson,PTS,11.45,6,17,26.8,4.6,minutes unclear (+5),PP standard,12.5,Less,0.608,0.51,0.099,0.392,-112,-122,PrizePicks / Underdog
+DEN@NO,DEN,Aaron Gordon,PTS,13.93,8,19,28.4,-1.0,,PP standard,13.5,Less,0.518,0.522,-0.004,0.482,-105,-127,PrizePicks / Underdog
+DEN@NO,DEN,Jamal Murray,PTS,25.6,18,33,36.3,-0.6,,PP standard,23.5,More,0.568,0.517,0.051,0.568,-125,-108,PrizePicks / Underdog
+DEN@NO,DEN,Christian Braun,PTS,12.5,7,18,33.1,-1.8,,PP standard,11.5,More,0.52,0.52,-0.001,0.52,-125,-105,PrizePicks / Underdog
+DEN@NO,DEN,DeMar DeRozan,PTS,13.08,7,19,22.5,-5.7,minutes unclear (-6),PP standard,10.5,More,0.583,0.493,0.09,0.583,-113,-120,PrizePicks / Underdog
+DEN@NO,NO,Saddiq Bey,PTS,16.67,10,23,29.6,0.4,,PP standard,17.5,Less,0.579,0.504,0.075,0.421,-114,-118,PrizePicks / Underdog
+DEN@NO,NO,Jeremiah Fears,PA,22.23,15,29,30.7,4.9,minutes unclear (+5),PP standard,24.5,Less,0.629,0.49,0.139,0.371,-120,-110,PrizePicks / Underdog
+DEN@NO,NO,Zion Williamson,PA,23.07,16,30,31.6,2.6,,PP standard,24.5,Less,0.596,0.487,0.109,0.404,-125,-112,PrizePicks / Underdog
+DEN@NO,DEN,DeMar DeRozan,PA,16.03,9,23,22.5,-5.7,minutes unclear (-6),PP standard,12.5,More,0.613,0.935,-0.322,0.613,-123,-4,PrizePicks / Underdog
+DEN@NO,DEN,Aaron Gordon,PA,16.25,10,22,28.4,-1.0,,PP standard,15.5,More,0.505,0.505,-0.0,0.505,-121,-116,PrizePicks / Underdog
+DEN@NO,DEN,Christian Braun,PA,14.91,9,20,33.1,-1.8,,PP standard,14.5,Less,0.516,0.499,0.017,0.484,-115,-114,PrizePicks / Underdog
+DEN@NO,DEN,Cameron Johnson,PA,13.43,8,19,26.8,4.6,minutes unclear (+5),PP standard,14.5,Less,0.605,0.493,0.113,0.394,-118,-111,PrizePicks / Underdog
+DEN@NO,DEN,Jamal Murray,PA,31.78,24,40,36.3,-0.6,,PP standard,30.5,More,0.529,0.516,0.013,0.529,-123,-107,PrizePicks / Underdog
+DEN@NO,DEN,Nikola Jokic,PA,37.19,29,45,37.0,1.7,,PP standard,36.5,More,0.507,0.51,-0.003,0.507,-125,-114,PrizePicks / Underdog
+DEN@NO,NO,Saddiq Bey,PA,19.17,12,26,29.6,0.4,,PP standard,19.5,Less,0.55,0.484,0.067,0.45,-124,-108,PrizePicks / Underdog
+DEN@NO,NO,DeAndre Jordan,PR,8.7,5,12,15.0,2.5,,PP standard,10.5,Less,0.692,0.493,0.199,0.308,-122,-115,PrizePicks / Underdog
+DEN@NO,NO,Zion Williamson,PR,24.47,17,31,31.6,2.6,,PP standard,27.5,Less,0.662,0.499,0.163,0.338,-115,-114,PrizePicks / Underdog
+DEN@NO,NO,Jeremiah Fears,PR,20.65,13,27,30.7,4.9,minutes unclear (+5),PP standard,23.5,Less,0.658,0.509,0.149,0.342,-110,-119,PrizePicks / Underdog
+DEN@NO,DEN,Jamal Murray,PR,30.0,22,38,36.3,-0.6,,PP standard,28.5,More,0.541,0.498,0.043,0.541,-114,-116,PrizePicks / Underdog
+DEN@NO,DEN,Cameron Johnson,PR,14.95,9,21,26.8,4.6,minutes unclear (+5),PP standard,16.5,Less,0.624,0.52,0.103,0.376,-105,-125,PrizePicks / Underdog
+DEN@NO,DEN,DeMar DeRozan,PR,15.12,8,21,22.5,-5.7,minutes unclear (-6),PP standard,12.5,More,0.573,0.499,0.074,0.573,-120,-121,PrizePicks / Underdog
+DEN@NO,DEN,Aaron Gordon,PR,18.88,13,25,28.4,-1.0,,PP standard,18.5,Less,0.519,0.512,0.007,0.481,-110,-122,PrizePicks / Underdog
+DEN@NO,DEN,Christian Braun,PR,16.8,11,22,33.1,-1.8,,PP standard,16.5,Less,0.52,0.518,0.002,0.48,-108,-126,PrizePicks / Underdog
+DEN@NO,DEN,Nikola Jokic,PR,39.27,31,48,37.0,1.7,,PP standard,39.5,Less,0.528,0.508,0.02,0.472,-110,-118,PrizePicks / Underdog
+DEN@NO,NO,Saddiq Bey,PR,20.63,13,27,29.6,0.4,,PP standard,22.5,Less,0.618,0.502,0.116,0.382,-114,-116,PrizePicks / Underdog
+DEN@NO,NO,Zion Williamson,PRA,27.77,20,35,31.6,2.6,,PP standard,30.5,Less,0.639,0.495,0.144,0.361,-117,-112,PrizePicks / Underdog
+DEN@NO,NO,Saddiq Bey,PRA,23.12,15,30,29.6,0.4,,PP standard,24.5,Less,0.592,0.49,0.102,0.408,-122,-112,PrizePicks / Underdog
+DEN@NO,DEN,Jamal Murray,PRA,36.18,28,44,36.3,-0.6,,PP standard,35.5,More,0.504,0.49,0.014,0.504,-110,-120,PrizePicks / Underdog
+DEN@NO,DEN,Cameron Johnson,PRA,16.93,11,23,26.8,4.6,minutes unclear (+5),PP standard,18.5,Less,0.62,0.513,0.107,0.38,-109,-122,PrizePicks / Underdog
+DEN@NO,DEN,Aaron Gordon,PRA,21.2,15,27,28.4,-1.0,,PP standard,20.5,More,0.5,0.502,-0.002,0.5,-116,-114,PrizePicks / Underdog
+DEN@NO,DEN,Nikola Jokic,PRA,49.0,40,58,37.0,1.7,,PP standard,49.5,Less,0.538,0.5,0.037,0.462,-114,-114,PrizePicks / Underdog
+DEN@NO,DEN,Christian Braun,PRA,19.21,13,25,33.1,-1.8,,PP standard,18.5,More,0.501,0.508,-0.007,0.501,-119,-111,PrizePicks / Underdog
+DEN@NO,NO,Jeremiah Fears,PRA,26.02,18,34,30.7,4.9,minutes unclear (+5),PP standard,29.5,Less,0.666,0.503,0.163,0.334,-113,-116,PrizePicks / Underdog
+DEN@NO,DEN,DeMar DeRozan,PRA,18.06,10,25,22.5,-5.7,minutes unclear (-6),PP standard,15.5,More,0.553,0.498,0.055,0.553,-115,-117,PrizePicks / Underdog
+DEN@NO,NO,DeAndre Jordan,REB,4.74,2,7,15.0,2.5,,PP standard,6.5,Less,0.77,0.556,0.214,0.23,110,-147,PrizePicks / Underdog
+DEN@NO,NO,Zion Williamson,REB,4.71,3,7,31.6,2.6,role up (last 8: 6.0),PP standard,5.5,Less,0.656,0.5,0.156,0.344,-114,-114,PrizePicks / Underdog
+DEN@NO,NO,Saddiq Bey,REB,3.95,2,6,29.6,0.4,,PP standard,4.5,Less,0.639,0.46,0.179,0.361,-139,102,PrizePicks / Underdog
+DEN@NO,NO,Jeremiah Fears,REB,3.79,2,6,30.7,4.9,minutes unclear (+5),PP standard,4.5,Less,0.662,0.46,0.201,0.338,-135,104,PrizePicks / Underdog
+DEN@NO,DEN,Nikola Jokic,REB,11.82,9,15,37.0,1.7,,PP standard,11.5,More,0.513,0.541,-0.028,0.513,-138,103,PrizePicks / Underdog
+DEN@NO,DEN,Jamal Murray,REB,4.4,2,6,36.3,-0.6,,PP standard,4.5,Less,0.559,0.579,-0.02,0.441,121,-165,PrizePicks / Underdog
+DEN@NO,DEN,DeMar DeRozan,REB,2.04,1,3,22.5,-5.7,minutes unclear (-6),book line,1.5,More,0.552,0.576,-0.025,0.552,-166,118,Kalshi / Underdog
+DEN@NO,DEN,Cameron Johnson,REB,3.5,2,5,26.8,4.6,minutes unclear (+5),PP standard,3.5,Less,0.546,0.501,0.045,0.454,-115,-116,PrizePicks / Underdog
+DEN@NO,DEN,Aaron Gordon,REB,4.95,3,7,28.4,-1.0,,PP standard,4.5,More,0.536,0.552,-0.016,0.536,-143,109,PrizePicks / Underdog
+DEN@NO,DEN,Christian Braun,REB,4.3,2,6,33.1,-1.8,,PP standard,4.5,Less,0.577,0.584,-0.007,0.423,122,-172,PrizePicks / Underdog
+DEN@NO,NO,Saddiq Bey,RA,6.45,4,9,29.6,0.4,,PP standard,7.5,Less,0.666,0.543,0.123,0.334,104,-140,PrizePicks / Underdog
+DEN@NO,NO,Jeremiah Fears,RA,9.16,6,12,30.7,4.9,minutes unclear (+5),PP standard,10.5,Less,0.662,0.464,0.198,0.338,-135,101,PrizePicks / Underdog
+DEN@NO,NO,Zion Williamson,RA,8.01,5,11,31.6,2.6,,PP standard,8.5,Less,0.589,0.451,0.137,0.411,-144,106,PrizePicks / Underdog
+DEN@NO,DEN,DeMar DeRozan,RA,4.98,2,7,22.5,-5.7,minutes unclear (-6),PP standard,4.5,More,0.504,0.503,0.001,0.504,-122,-119,PrizePicks / Underdog
+DEN@NO,DEN,Cameron Johnson,RA,5.48,3,8,26.8,4.6,minutes unclear (+5),PP standard,5.5,Less,0.541,0.496,0.045,0.459,-118,-114,PrizePicks / Underdog
+DEN@NO,DEN,Jamal Murray,RA,10.57,7,14,36.3,-0.6,,PP standard,10.5,Less,0.519,0.463,0.055,0.481,-136,101,PrizePicks / Underdog
+DEN@NO,DEN,Aaron Gordon,RA,7.28,5,10,28.4,-1.0,,PP standard,7.5,Less,0.561,0.526,0.034,0.439,-109,-138,PrizePicks / Underdog
+DEN@NO,DEN,Nikola Jokic,RA,21.55,17,26,37.0,1.7,,PP standard,22.5,Less,0.589,0.518,0.071,0.411,-106,-124,PrizePicks / Underdog
+DEN@NO,DEN,Christian Braun,RA,6.7,4,9,33.1,-1.8,,PP standard,6.5,Less,0.505,0.487,0.018,0.495,-124,-111,PrizePicks / Underdog
+DEN@NO,DEN,Nikola Jokic,3PM,1.56,0,3,37.0,1.7,,book line,1.5,Less,0.558,0.557,0.002,0.442,110,-149,Kalshi / Underdog
+DEN@NO,NO,Jeremiah Fears,3PM,1.71,0,3,30.7,4.9,minutes unclear (+5),PP standard,1.5,Less,0.518,0.497,0.021,0.482,-117,-114,PrizePicks / Underdog
+DEN@NO,DEN,Jamal Murray,3PM,3.52,2,5,36.3,-0.6,,book line,2.5,More,0.647,0.585,0.062,0.647,-167,125,Kalshi / Underdog
+DEN@NO,DEN,Christian Braun,3PM,1.5,0,3,33.1,-1.8,,book line,1.5,Less,0.579,0.583,-0.005,0.421,125,-165,Kalshi / Underdog
+DEN@NO,DEN,Cameron Johnson,3PM,1.98,1,3,26.8,4.6,minutes unclear (+5),book line,1.5,More,0.544,0.595,-0.051,0.544,-176,130,Kalshi / Underdog
+DEN@NO,DEN,Aaron Gordon,3PM,1.54,0,3,28.4,-1.0,,book line,1.5,Less,0.568,0.623,-0.055,0.432,146,-205,Kalshi / Underdog
+DEN@NO,NO,Saddiq Bey,3PM,2.37,1,4,29.6,0.4,,book line,2.5,Less,0.586,0.567,0.019,0.414,115,-156,Kalshi / Underdog
+DEN@NO,DEN,DeMar DeRozan,AST,2.94,1,5,22.5,-5.7,minutes unclear (-6),PP standard,2.5,More,0.514,0.49,0.024,0.514,-110,-120,PrizePicks / Underdog
+DEN@NO,DEN,Aaron Gordon,AST,2.32,1,4,28.4,-1.0,,book line,2.5,Less,0.602,0.559,0.043,0.398,111,-150,Kalshi / Underdog
+DEN@NO,NO,Saddiq Bey,AST,2.5,1,4,29.6,0.4,,book line,2.5,Less,0.559,0.581,-0.022,0.441,122,-166,Kalshi / Underdog
+DEN@NO,DEN,Cameron Johnson,AST,1.98,1,3,26.8,4.6,minutes unclear (+5),book line,1.5,More,0.556,0.597,-0.04,0.556,-176,132,Kalshi / Underdog
+DEN@NO,DEN,DeMar DeRozan,3PM,0.59,0,1,22.5,-5.7,minutes unclear (-6),book line,0.5,Less,0.612,0.597,0.015,0.388,130,-180,Kalshi / Underdog
+DEN@NO,NO,DeAndre Jordan,PTS,3.97,1,7,15.0,2.5,,book line,4.5,Less,0.643,0.542,0.101,0.357,104,-138,Kalshi / Underdog
+DEN@NO,DEN,Trevon Brazile,PTS,6.66,2,11,18.6,-4.1,minutes unclear (-4); small sample,PP standard,5.5,More,0.509,0.499,0.011,0.509,101,100,PrizePicks / Underdog
+DEN@NO,DEN,Trevon Brazile,PRA,12.03,6,17,18.6,-4.1,minutes unclear (-4); small sample,PP standard,10.5,More,0.525,0.48,0.046,0.525,109,-108,PrizePicks / Underdog
+DEN@NO,DEN,Trevon Brazile,REB,4.69,2,7,18.6,-4.1,minutes unclear (-4); small sample,PP standard,3.5,More,0.611,0.583,0.029,0.611,-139,140,PrizePicks / Underdog
+DEN@NO,DEN,Spencer Jones,REB,1.78,0,3,11.8,0.0,,PP standard,2.5,Less,0.724,0.5,0.224,0.276,-119,-119,PrizePicks / Underdog
+DEN@NO,DEN,Trevon Brazile,3PM,0.91,0,2,18.6,-4.1,minutes unclear (-4); small sample,PP standard,0.5,More,0.515,0.512,0.003,0.515,-104,106,PrizePicks / Underdog
+DEN@NO,DEN,Spencer Jones,3PM,0.5,0,1,11.8,0.0,,PP standard,0.5,Less,0.67,0.5,0.17,0.33,-119,-119,PrizePicks / Underdog
+DEN@NO,DEN,Trevon Brazile,PR,11.35,6,16,18.6,-4.1,minutes unclear (-4); small sample,book line,9.5,More,0.545,0.515,0.031,0.545,-105,107,Kalshi / Underdog
+DEN@NO,DEN,Trevon Brazile,RA,5.37,3,8,18.6,-4.1,minutes unclear (-4); small sample,book line,4.5,More,0.551,0.499,0.053,0.551,101,100,Kalshi / Underdog
+CHI@MIN,MIN,Ayo Dosunmu,AST,4.41,2,6,32.5,1.1,,PP standard,4.5,Less,0.555,0.582,-0.026,0.445,124,-164,PrizePicks / Underdog
+CHI@MIN,CHI,Josh Giddey,AST,9.28,6,12,33.8,-2.7,,PP standard,8.5,More,0.561,0.983,-0.422,0.561,-135,-1,PrizePicks / Underdog
+CHI@MIN,MIN,LaMelo Ball,AST,7.46,5,10,29.1,-2.0,,PP standard,6.5,More,0.604,0.545,0.059,0.604,-142,104,PrizePicks / Underdog
+CHI@MIN,MIN,Jaden McDaniels,AST,3.47,2,5,35.6,0.4,,book line,3.5,Less,0.551,0.542,0.009,0.449,104,-138,Kalshi / Underdog
+CHI@MIN,MIN,LaMelo Ball,PTS,22.16,14,29,29.1,-2.0,,PP standard,20.5,More,0.546,0.517,0.029,0.546,-125,-108,PrizePicks / Underdog
+CHI@MIN,MIN,Ayo Dosunmu,PTS,18.17,11,25,32.5,1.1,,PP standard,18.5,Less,0.553,0.501,0.052,0.447,-114,-115,PrizePicks / Underdog
+CHI@MIN,MIN,Rudy Gobert,PTS,11.26,6,16,30.0,-2.8,,PP standard,10.5,More,0.51,0.504,0.006,0.51,-116,-112,PrizePicks / Underdog
+CHI@MIN,CHI,Josh Giddey,PTS,14.66,8,20,33.8,-2.7,,PP standard,13.5,More,0.522,0.498,0.024,0.522,-114,-116,PrizePicks / Underdog
+CHI@MIN,CHI,Matas Buzelis,PTS,15.91,9,22,32.1,-0.2,,PP standard,16.5,Less,0.568,0.512,0.055,0.432,-108,-120,PrizePicks / Underdog
+CHI@MIN,CHI,Isaac Okoro,PTS,8.04,3,12,26.1,-2.4,,PP standard,7.5,Less,0.522,0.488,0.035,0.478,-120,-108,PrizePicks / Underdog
+CHI@MIN,CHI,Nic Claxton,PTS,7.27,3,11,18.0,2.7,,PP standard,7.5,Less,0.572,0.496,0.076,0.428,-118,-114,PrizePicks / Underdog
+CHI@MIN,CHI,Norman Powell,PTS,20.84,13,28,31.4,1.4,,PP standard,21.5,Less,0.563,0.495,0.068,0.437,-118,-113,PrizePicks / Underdog
+CHI@MIN,MIN,Terrence Shannon Jr.,PTS,9.48,4,15,17.7,4.1,minutes unclear (+4),PP standard,10.5,Less,0.63,0.512,0.117,0.37,-108,-120,PrizePicks / Underdog
+CHI@MIN,MIN,Jonathan Kuminga,PTS,15.32,9,21,28.4,-0.8,,PP standard,14.5,More,0.509,0.51,-0.001,0.509,-120,-110,PrizePicks / Underdog
+CHI@MIN,MIN,Jaden McDaniels,PTS,18.25,11,25,35.6,0.4,,PP standard,17.5,More,0.508,0.5,0.008,0.508,-115,-115,PrizePicks / Underdog
+CHI@MIN,CHI,Josh Giddey,PA,23.94,16,31,33.8,-2.7,,PP standard,22.5,More,0.533,0.5,0.033,0.533,-115,-115,PrizePicks / Underdog
+CHI@MIN,CHI,Nic Claxton,PA,9.15,5,13,18.0,2.7,,PP standard,9.5,Less,0.577,0.49,0.087,0.423,-126,-115,PrizePicks / Underdog
+CHI@MIN,CHI,Matas Buzelis,PA,17.97,11,25,32.1,-0.2,,PP standard,18.5,Less,0.563,0.519,0.044,0.437,-106,-125,PrizePicks / Underdog
+CHI@MIN,MIN,Jonathan Kuminga,PA,18.13,12,24,28.4,-0.8,,PP standard,17.5,Less,0.502,0.515,-0.013,0.498,-110,-125,PrizePicks / Underdog
+CHI@MIN,MIN,Rudy Gobert,PA,12.82,8,18,30.0,-2.8,,PP standard,12.5,Less,0.514,0.517,-0.002,0.486,-113,-131,PrizePicks / Underdog
+CHI@MIN,CHI,Isaac Okoro,PA,9.51,4,14,26.1,-2.4,,book line,9.5,Less,0.562,0.538,0.024,0.438,102,-136,Kalshi / Underdog
+CHI@MIN,MIN,LaMelo Ball,PA,29.63,21,38,29.1,-2.0,,PP standard,28.5,More,0.518,0.49,0.029,0.518,-110,-120,PrizePicks / Underdog
+CHI@MIN,MIN,Jaden McDaniels,PA,21.71,15,28,35.6,0.4,,PP standard,21.5,Less,0.517,0.523,-0.006,0.483,-106,-130,PrizePicks / Underdog
+CHI@MIN,CHI,Norman Powell,PA,22.87,15,30,31.4,1.4,,PP standard,23.5,Less,0.561,0.493,0.067,0.439,-125,-118,PrizePicks / Underdog
+CHI@MIN,MIN,Ayo Dosunmu,PA,22.58,15,29,32.5,1.1,,PP standard,22.5,Less,0.53,0.485,0.044,0.47,-125,-110,PrizePicks / Underdog
+CHI@MIN,MIN,Jaden McDaniels,PR,24.07,17,31,35.6,0.4,,PP standard,23.5,Less,0.502,0.49,0.013,0.498,-120,-110,PrizePicks / Underdog
+CHI@MIN,MIN,Terrence Shannon Jr.,PR,11.8,5,18,17.7,4.1,minutes unclear (+4),PP standard,13.5,Less,0.651,0.523,0.128,0.349,-105,-128,PrizePicks / Underdog
+CHI@MIN,MIN,Rudy Gobert,PR,22.2,16,28,30.0,-2.8,,PP standard,21.5,More,0.511,0.493,0.018,0.511,-113,-120,PrizePicks / Underdog
+CHI@MIN,MIN,Jonathan Kuminga,PR,21.0,14,28,28.4,-0.8,,PP standard,20.5,Less,0.503,0.485,0.018,0.497,-125,-110,PrizePicks / Underdog
+CHI@MIN,MIN,Ayo Dosunmu,PR,22.66,15,29,32.5,1.1,,PP standard,22.5,Less,0.525,0.051,0.474,0.475,-119,-3,PrizePicks / Underdog
+CHI@MIN,CHI,Norman Powell,PR,23.92,16,31,31.4,1.4,,PP standard,24.5,Less,0.557,0.492,0.065,0.443,-120,-112,PrizePicks / Underdog
+CHI@MIN,MIN,LaMelo Ball,PR,26.26,18,34,29.1,-2.0,,PP standard,25.5,More,0.504,0.51,-0.006,0.504,-120,-110,PrizePicks / Underdog
+CHI@MIN,CHI,Matas Buzelis,PR,21.53,14,29,32.1,-0.2,,PP standard,21.5,Less,0.53,0.499,0.031,0.47,-115,-114,PrizePicks / Underdog
+CHI@MIN,CHI,Josh Giddey,PR,21.44,14,28,33.8,-2.7,,PP standard,20.5,More,0.51,0.49,0.021,0.51,-110,-120,PrizePicks / Underdog
+CHI@MIN,CHI,Nic Claxton,PR,11.69,7,16,18.0,2.7,,PP standard,12.5,Less,0.598,0.488,0.11,0.402,-121,-109,PrizePicks / Underdog
+CHI@MIN,CHI,Isaac Okoro,PR,10.63,5,15,26.1,-2.4,,PP standard,10.5,Less,0.549,0.508,0.041,0.451,-114,-122,PrizePicks / Underdog
+CHI@MIN,CHI,Josh Giddey,PRA,30.72,22,39,33.8,-2.7,,PP standard,29.5,More,0.52,0.491,0.029,0.52,-110,-119,PrizePicks / Underdog
+CHI@MIN,MIN,Jaden McDaniels,PRA,27.54,20,35,35.6,0.4,,PP standard,27.5,Less,0.526,0.51,0.016,0.474,-110,-120,PrizePicks / Underdog
+CHI@MIN,CHI,Matas Buzelis,PRA,23.58,16,31,32.1,-0.2,,PP standard,23.5,Less,0.527,0.491,0.036,0.473,-119,-110,PrizePicks / Underdog
+CHI@MIN,MIN,Rudy Gobert,PRA,23.76,17,30,30.0,-2.8,,PP standard,22.5,More,0.542,0.525,0.016,0.542,-128,-103,PrizePicks / Underdog
+CHI@MIN,CHI,Isaac Okoro,PRA,12.09,6,17,26.1,-2.4,,PP standard,11.5,Less,0.52,0.492,0.029,0.48,-118,-110,PrizePicks / Underdog
+CHI@MIN,MIN,Jonathan Kuminga,PRA,23.8,17,31,28.4,-0.8,,PP standard,23.5,Less,0.514,0.518,-0.004,0.486,-106,-124,PrizePicks / Underdog
+CHI@MIN,CHI,Norman Powell,PRA,25.95,18,34,31.4,1.4,,PP standard,26.5,Less,0.551,0.494,0.057,0.449,-118,-112,PrizePicks / Underdog
+CHI@MIN,MIN,LaMelo Ball,PRA,33.72,25,42,29.1,-2.0,,PP standard,32.5,More,0.521,0.504,0.017,0.521,-116,-112,PrizePicks / Underdog
+CHI@MIN,CHI,Nic Claxton,PRA,13.57,8,19,18.0,2.7,,PP standard,14.5,Less,0.6,0.472,0.128,0.4,-130,-102,PrizePicks / Underdog
+CHI@MIN,MIN,Ayo Dosunmu,PRA,27.07,19,34,32.5,1.1,,PP standard,27.5,Less,0.549,0.512,0.037,0.451,-108,-120,PrizePicks / Underdog
+CHI@MIN,MIN,LaMelo Ball,REB,4.09,2,6,29.1,-2.0,,book line,4.5,Less,0.614,0.533,0.081,0.386,100,-133,Kalshi / Underdog
+CHI@MIN,MIN,Jaden McDaniels,REB,5.83,3,8,35.6,0.4,,PP standard,5.5,More,0.506,0.554,-0.048,0.506,-154,105,PrizePicks / Underdog
+CHI@MIN,MIN,Terrence Shannon Jr.,REB,2.31,1,4,17.7,4.1,minutes unclear (+4); role up (last 8: 3.6),PP standard,2.5,Less,0.611,0.481,0.13,0.389,-126,-107,PrizePicks / Underdog
+CHI@MIN,CHI,Matas Buzelis,REB,5.61,3,8,32.1,-0.2,role down (last 8: 4.1),PP standard,5.5,Less,0.521,0.548,-0.026,0.479,107,-141,PrizePicks / Underdog
+CHI@MIN,MIN,Rudy Gobert,REB,10.94,8,14,30.0,-2.8,,PP standard,10.5,More,0.52,0.506,0.014,0.52,-118,-112,PrizePicks / Underdog
+CHI@MIN,CHI,Isaac Okoro,REB,2.59,1,4,26.1,-2.4,,book line,2.5,Less,0.546,0.532,0.014,0.454,100,-132,Kalshi / Underdog
+CHI@MIN,CHI,Norman Powell,REB,3.08,1,5,31.4,1.4,,book line,2.5,More,0.559,0.562,-0.003,0.559,-157,110,Kalshi / Underdog
+CHI@MIN,CHI,Nic Claxton,REB,4.42,2,6,18.0,2.7,,PP standard,5.5,Less,0.701,0.565,0.136,0.299,115,-152,PrizePicks / Underdog
+CHI@MIN,CHI,Josh Giddey,REB,6.78,4,9,33.8,-2.7,role down (last 8: 4.6),PP standard,6.5,Less,0.501,0.51,-0.009,0.499,-110,-120,PrizePicks / Underdog
+CHI@MIN,MIN,Jonathan Kuminga,REB,5.68,3,8,28.4,-0.8,,PP standard,5.5,Less,0.514,0.455,0.06,0.486,-141,105,PrizePicks / Underdog
+CHI@MIN,MIN,Ayo Dosunmu,REB,4.49,2,6,32.5,1.1,,PP standard,4.5,Less,0.542,0.51,0.032,0.458,-110,-120,PrizePicks / Underdog
+CHI@MIN,CHI,Matas Buzelis,RA,7.67,5,10,32.1,-0.2,,PP standard,7.5,Less,0.513,0.505,0.008,0.487,-114,-119,PrizePicks / Underdog
+CHI@MIN,MIN,Rudy Gobert,RA,12.5,9,16,30.0,-2.8,,PP standard,12.5,Less,0.528,0.532,-0.005,0.472,100,-132,PrizePicks / Underdog
+CHI@MIN,MIN,Ayo Dosunmu,RA,8.9,6,12,32.5,1.1,,PP standard,8.5,More,0.518,0.518,0.0,0.518,-125,-107,PrizePicks / Underdog
+CHI@MIN,CHI,Nic Claxton,RA,6.3,4,9,18.0,2.7,,book line,7.5,Less,0.678,0.532,0.146,0.322,-108,-144,Kalshi / Underdog
+CHI@MIN,MIN,LaMelo Ball,RA,11.55,8,15,29.1,-2.0,,PP standard,11.5,Less,0.519,0.491,0.028,0.481,-120,-111,PrizePicks / Underdog
+CHI@MIN,CHI,Josh Giddey,RA,16.06,12,20,33.8,-2.7,,PP standard,15.5,More,0.523,0.502,0.021,0.523,-116,-114,PrizePicks / Underdog
+CHI@MIN,MIN,Jonathan Kuminga,RA,8.48,5,11,28.4,-0.8,,PP standard,8.5,Less,0.534,0.936,-0.402,0.466,-4,-128,PrizePicks / Underdog
+CHI@MIN,MIN,Jaden McDaniels,RA,9.29,6,12,35.6,0.4,,PP standard,9.5,Less,0.554,0.51,0.044,0.446,-110,-120,PrizePicks / Underdog
+CHI@MIN,MIN,Jonathan Kuminga,3PM,1.46,0,3,28.4,-0.8,,book line,1.5,Less,0.59,0.573,0.016,0.41,120,-157,Kalshi / Underdog
+CHI@MIN,CHI,Josh Giddey,3PM,1.59,0,3,33.8,-2.7,,book line,1.5,Less,0.553,0.594,-0.04,0.447,131,-172,Kalshi / Underdog
+CHI@MIN,CHI,Matas Buzelis,3PM,2.18,1,4,32.1,-0.2,,book line,1.5,More,0.596,0.616,-0.02,0.596,-190,145,Kalshi / Underdog
+CHI@MIN,CHI,Norman Powell,3PM,2.42,1,4,31.4,1.4,,PP standard,2.5,Less,0.578,0.481,0.097,0.422,-125,-106,PrizePicks / Underdog
+CHI@MIN,MIN,Ayo Dosunmu,3PM,1.86,0,3,32.5,1.1,,PP standard,1.5,More,0.516,0.516,0.0,0.516,-124,-108,PrizePicks / Underdog
+CHI@MIN,MIN,Terrence Shannon Jr.,3PM,1.16,0,2,17.7,4.1,minutes unclear (+4),book line,1.5,Less,0.692,0.65,0.041,0.308,168,-227,Kalshi / Underdog
+CHI@MIN,MIN,Jaden McDaniels,3PM,1.56,0,3,35.6,0.4,,book line,1.5,Less,0.561,0.542,0.019,0.439,102,-141,Kalshi / Underdog
+CHI@MIN,MIN,LaMelo Ball,3PM,4.22,2,6,29.1,-2.0,,PP standard,3.5,More,0.581,0.499,0.082,0.581,-114,-115,PrizePicks / Underdog
+CHI@MIN,MIN,Rudy Gobert,AST,1.56,0,3,30.0,-2.8,,PP standard,1.5,Less,0.555,0.5,0.055,0.445,-115,-115,PrizePicks / Underdog
+CHI@MIN,MIN,Jonathan Kuminga,AST,2.8,1,4,28.4,-0.8,,book line,2.5,More,0.515,0.467,0.048,0.515,101,-132,Kalshi / Underdog
+CHI@MIN,CHI,Matas Buzelis,AST,2.06,1,3,32.1,-0.2,,book line,1.5,More,0.576,0.602,-0.026,0.576,-179,136,Kalshi / Underdog
+CHI@MIN,CHI,Nic Claxton,AST,1.88,1,3,18.0,2.7,,book line,1.5,More,0.528,0.59,-0.062,0.528,-169,129,Kalshi / Underdog
+CHI@MIN,CHI,Isaac Okoro,AST,1.46,0,2,26.1,-2.4,,book line,1.5,Less,0.589,0.563,0.026,0.411,115,-149,Kalshi / Underdog
+CHI@MIN,CHI,Norman Powell,AST,2.03,1,3,31.4,1.4,,book line,1.5,More,0.571,0.602,-0.031,0.571,-179,136,Kalshi / Underdog
+CHI@MIN,CHI,Isaac Okoro,3PM,0.97,0,2,26.1,-2.4,,book line,0.5,More,0.556,0.622,-0.066,0.556,-196,148,Kalshi / Underdog
+CHI@MIN,CHI,Jalen Smith,PTS,12.33,6,18,27.6,1.0,,PP standard,12.5,Less,0.558,0.166,0.392,0.442,-116,-12,PrizePicks / Underdog
+CHI@MIN,MIN,Bones Hyland,PTS,10.42,4,16,16.2,0.5,,PP standard,9.5,Less,0.524,0.491,0.033,0.476,-103,104,PrizePicks / Underdog
+CHI@MIN,MIN,Trey Lyles,PTS,6.79,2,11,19.0,-1.6,,PP standard,6.5,Less,0.562,0.536,0.026,0.438,116,-115,PrizePicks / Underdog
+CHI@MIN,CHI,Jalen Smith,PR,20.26,13,27,27.6,1.0,,PP standard,20.5,Less,0.552,0.166,0.385,0.448,-116,-12,PrizePicks / Underdog
+CHI@MIN,CHI,Jalen Smith,PRA,22.0,14,29,27.6,1.0,,PP standard,22.5,Less,0.561,0.166,0.394,0.439,-116,-12,PrizePicks / Underdog
+CHI@MIN,MIN,Terrence Shannon Jr.,PRA,13.96,7,20,17.7,4.1,minutes unclear (+4),PP standard,15.5,Less,0.634,0.856,-0.222,0.366,-10,-118,PrizePicks / Underdog
+CHI@MIN,MIN,Bones Hyland,PRA,15.37,8,22,16.2,0.5,,PP standard,15.5,Less,0.571,0.525,0.046,0.429,111,-110,PrizePicks / Underdog
+CHI@MIN,MIN,Trey Lyles,PRA,12.11,6,18,19.0,-1.6,,PP standard,11.5,Less,0.532,0.475,0.057,0.468,-110,111,PrizePicks / Underdog
+CHI@MIN,CHI,Jalen Smith,REB,7.93,5,11,27.6,1.0,,PP standard,7.5,More,0.51,0.5,0.01,0.51,-128,-128,PrizePicks / Underdog
+CHI@MIN,MIN,Trey Lyles,REB,4.17,2,6,19.0,-1.6,,PP standard,4.5,Less,0.602,0.511,0.091,0.398,105,-104,PrizePicks / Underdog
+CHI@MIN,CHI,Jalen Smith,RA,9.66,6,13,27.6,1.0,,PP standard,9.5,Less,0.521,0.12,0.401,0.479,-119,-8,PrizePicks / Underdog
+CHI@MIN,CHI,Norman Powell,RA,5.11,3,7,31.4,1.4,,PP standard,5.0,Less,0.529,0.5,0.029,0.471,-119,-119,PrizePicks / Underdog
+CHI@MIN,CHI,Jalen Smith,3PM,1.73,0,3,27.6,1.0,,PP standard,1.5,Less,0.52,0.5,0.02,0.48,-14,-14,PrizePicks / Underdog
+CHI@MIN,MIN,Bones Hyland,3PM,1.97,0,3,16.2,0.5,,PP standard,1.5,More,0.515,0.5,0.015,0.515,-119,-119,PrizePicks / Underdog
+CHI@MIN,MIN,Bones Hyland,AST,3.15,1,5,16.2,0.5,,book line,3.5,Less,0.621,0.577,0.044,0.379,137,-135,Kalshi / Underdog
+CHI@MIN,MIN,Terrence Shannon Jr.,PA,11.65,5,17,17.7,4.1,minutes unclear (+4),book line,12.5,Less,0.613,0.501,0.111,0.387,101,100,Kalshi / Underdog
+CHI@MIN,CHI,Jalen Smith,PA,14.07,8,20,27.6,1.0,,book line,14.5,Less,0.571,0.491,0.079,0.429,-103,104,Kalshi / Underdog
+CHI@MIN,MIN,Bones Hyland,PA,13.57,6,20,16.2,0.5,,book line,13.5,Less,0.567,0.523,0.044,0.433,110,-109,Kalshi / Underdog
+CHI@MIN,MIN,Bones Hyland,PR,12.22,5,18,16.2,0.5,,book line,11.5,Less,0.532,0.494,0.038,0.468,-102,103,Kalshi / Underdog
+CHI@MIN,MIN,Trey Lyles,PR,10.96,5,16,19.0,-1.6,,book line,10.5,Less,0.54,0.477,0.063,0.46,-109,110,Kalshi / Underdog
+CHI@MIN,MIN,Terrence Shannon Jr.,RA,4.48,2,7,17.7,4.1,minutes unclear (+4); role up (last 8: 6.6),book line,4.5,Less,0.568,0.494,0.074,0.432,-102,103,Kalshi / Underdog
+CHI@MIN,MIN,Trey Lyles,RA,5.32,3,8,19.0,-1.6,,book line,5.5,Less,0.576,0.501,0.075,0.424,101,100,Kalshi / Underdog
+CHI@MIN,MIN,Bones Hyland,RA,4.95,2,7,16.2,0.5,,book line,5.5,Less,0.627,0.566,0.061,0.373,131,-130,Kalshi / Underdog
+DET@MIA,MIA,Davion Mitchell,AST,7.63,5,10,35.0,4.8,minutes unclear (+5); role up (last 8: 10.2),PP standard,8.5,Less,0.638,0.568,0.071,0.362,116,-155,PrizePicks / Underdog
+DET@MIA,DET,Cade Cunningham,AST,8.88,6,12,34.4,-1.3,,PP standard,9.5,Less,0.6,0.553,0.047,0.4,110,-143,PrizePicks / Underdog
+DET@MIA,MIA,Bam Adebayo,AST,2.89,1,4,31.9,-2.0,,book line,3.5,Less,0.672,0.567,0.105,0.328,117,-152,Kalshi / Underdog
+DET@MIA,MIA,Giannis Antetokounmpo,AST,5.03,3,7,32.4,3.1,,PP standard,5.5,Less,0.61,0.55,0.061,0.39,107,-144,PrizePicks / Underdog
+DET@MIA,DET,Daniss Jenkins,AST,4.48,2,6,27.3,5.1,minutes unclear (+5),PP standard,5.5,Less,0.693,0.552,0.141,0.307,108,-145,PrizePicks / Underdog
+DET@MIA,DET,Ausar Thompson,AST,3.83,2,6,27.3,1.0,role up (last 8: 5.1),PP standard,4.5,Less,0.654,0.514,0.141,0.346,-110,-124,PrizePicks / Underdog
+DET@MIA,MIA,Pelle Larsson,AST,3.08,1,5,27.9,2.9,,book line,3.5,Less,0.631,0.566,0.065,0.369,115,-154,Kalshi / Underdog
+DET@MIA,MIA,Klay Thompson,PTS,11.79,6,17,24.1,5.2,minutes unclear (+5); role up (last 8: 16.0),PP standard,13.5,Less,0.638,0.51,0.128,0.362,-110,-120,PrizePicks / Underdog
+DET@MIA,MIA,Bam Adebayo,PTS,17.82,12,24,31.9,-2.0,role up (last 8: 23.2),PP standard,17.5,Less,0.515,0.512,0.003,0.485,-110,-122,PrizePicks / Underdog
+DET@MIA,MIA,Davion Mitchell,PTS,11.89,6,17,35.0,4.8,minutes unclear (+5); role up (last 8: 16.4),PP standard,14.5,Less,0.691,0.517,0.174,0.309,-108,-125,PrizePicks / Underdog
+DET@MIA,DET,Cade Cunningham,PTS,25.73,18,33,34.4,-1.3,,PP standard,25.5,Less,0.518,0.514,0.004,0.482,-108,-122,PrizePicks / Underdog
+DET@MIA,DET,Duncan Robinson,PTS,15.43,9,21,30.8,0.3,,PP standard,15.5,Less,0.541,0.493,0.048,0.459,-120,-113,PrizePicks / Underdog
+DET@MIA,DET,John Collins,PTS,12.16,7,17,26.5,-1.5,,PP standard,11.5,Less,0.501,0.521,-0.021,0.499,-104,-125,PrizePicks / Underdog
+DET@MIA,DET,Ausar Thompson,PTS,10.54,6,15,27.3,1.0,,PP standard,9.5,More,0.527,0.516,0.011,0.527,-123,-107,PrizePicks / Underdog
+DET@MIA,DET,Daniss Jenkins,PTS,13.13,7,19,27.3,5.1,minutes unclear (+5),PP standard,14.5,Less,0.618,0.51,0.108,0.382,-110,-120,PrizePicks / Underdog
+DET@MIA,MIA,Giannis Antetokounmpo,PTS,27.17,20,34,32.4,3.1,,PP standard,28.5,Less,0.581,0.509,0.072,0.419,-110,-119,PrizePicks / Underdog
+DET@MIA,MIA,Pelle Larsson,PTS,9.71,5,14,27.9,2.9,,PP standard,10.5,Less,0.605,0.506,0.099,0.395,-112,-118,PrizePicks / Underdog
+DET@MIA,DET,Cade Cunningham,PA,34.61,26,43,34.4,-1.3,,PP standard,34.5,Less,0.52,0.502,0.018,0.48,-116,-118,PrizePicks / Underdog
+DET@MIA,MIA,Davion Mitchell,PA,19.53,13,26,35.0,4.8,minutes unclear (+5); role up (last 8: 26.6),PP standard,22.5,Less,0.685,0.491,0.194,0.315,-120,-111,PrizePicks / Underdog
+DET@MIA,MIA,Bam Adebayo,PA,20.71,14,27,31.9,-2.0,role up (last 8: 26.4),PP standard,20.5,Less,0.517,0.065,0.453,0.483,-126,-4,PrizePicks / Underdog
+DET@MIA,DET,Ausar Thompson,PA,14.37,9,20,27.3,1.0,,PP standard,14.5,Less,0.548,0.513,0.036,0.452,-106,-118,PrizePicks / Underdog
+DET@MIA,DET,Daniss Jenkins,PA,17.61,11,24,27.3,5.1,minutes unclear (+5),PP standard,19.5,Less,0.629,0.486,0.144,0.371,-122,-108,PrizePicks / Underdog
+DET@MIA,MIA,Giannis Antetokounmpo,PA,32.21,24,40,32.4,3.1,,PP standard,34.5,Less,0.616,0.518,0.098,0.384,-107,-125,PrizePicks / Underdog
+DET@MIA,MIA,Pelle Larsson,PA,12.8,8,18,27.9,2.9,,PP standard,13.5,Less,0.59,0.484,0.105,0.41,-126,-110,PrizePicks / Underdog
+DET@MIA,MIA,Davion Mitchell,PR,14.71,9,20,35.0,4.8,minutes unclear (+5); role up (last 8: 19.4),PP standard,16.5,Less,0.639,0.495,0.144,0.361,-120,-115,PrizePicks / Underdog
+DET@MIA,MIA,Bam Adebayo,PR,26.73,20,34,31.9,-2.0,,PP standard,26.5,Less,0.513,0.49,0.023,0.487,-120,-110,PrizePicks / Underdog
+DET@MIA,DET,Duncan Robinson,PR,18.24,12,25,30.8,0.3,,PP standard,18.5,Less,0.548,0.51,0.038,0.452,-110,-120,PrizePicks / Underdog
+DET@MIA,DET,Cade Cunningham,PR,31.12,22,39,34.4,-1.3,,PP standard,30.5,More,0.501,0.498,0.003,0.501,-114,-116,PrizePicks / Underdog
+DET@MIA,DET,Ausar Thompson,PR,17.28,11,23,27.3,1.0,,PP standard,17.5,Less,0.55,0.507,0.043,0.45,-108,-115,PrizePicks / Underdog
+DET@MIA,DET,Daniss Jenkins,PR,16.72,10,23,27.3,5.1,minutes unclear (+5),PP standard,18.5,Less,0.625,0.516,0.109,0.375,-107,-123,PrizePicks / Underdog
+DET@MIA,MIA,Giannis Antetokounmpo,PR,38.11,30,46,32.4,3.1,,PP standard,40.5,Less,0.611,0.49,0.121,0.389,-120,-110,PrizePicks / Underdog
+DET@MIA,MIA,Pelle Larsson,PR,13.16,8,18,27.9,2.9,,PP standard,14.5,Less,0.625,0.525,0.1,0.375,-103,-128,PrizePicks / Underdog
+DET@MIA,DET,John Collins,PR,18.0,12,24,26.5,-1.5,,PP standard,17.5,Less,0.508,0.502,0.006,0.492,-114,-116,PrizePicks / Underdog
+DET@MIA,MIA,Davion Mitchell,PRA,22.35,16,29,35.0,4.8,minutes unclear (+5); role up (last 8: 29.6),PP standard,24.5,Less,0.637,0.481,0.156,0.363,-125,-106,PrizePicks / Underdog
+DET@MIA,MIA,Bam Adebayo,PRA,29.62,22,37,31.9,-2.0,,PP standard,29.5,Less,0.518,0.48,0.039,0.482,-125,-105,PrizePicks / Underdog
+DET@MIA,DET,Ausar Thompson,PRA,21.11,15,27,27.3,1.0,,PP standard,21.5,Less,0.554,0.495,0.059,0.446,-117,-112,PrizePicks / Underdog
+DET@MIA,DET,Daniss Jenkins,PRA,21.2,14,28,27.3,5.1,minutes unclear (+5),PP standard,23.5,Less,0.634,0.499,0.135,0.366,-116,-115,PrizePicks / Underdog
+DET@MIA,DET,Cade Cunningham,PRA,40.0,30,50,34.4,-1.3,,PP standard,39.5,Less,0.503,0.506,-0.003,0.497,-112,-118,PrizePicks / Underdog
+DET@MIA,MIA,Pelle Larsson,PRA,16.24,11,21,27.9,2.9,,PP standard,17.5,Less,0.611,0.503,0.108,0.389,-114,-117,PrizePicks / Underdog
+DET@MIA,MIA,Giannis Antetokounmpo,PRA,43.15,34,52,32.4,3.1,,PP standard,46.5,Less,0.638,0.508,0.13,0.362,-112,-120,PrizePicks / Underdog
+DET@MIA,DET,Cade Cunningham,REB,5.39,3,8,34.4,-1.3,,PP standard,5.5,Less,0.557,0.568,-0.011,0.443,116,-156,PrizePicks / Underdog
+DET@MIA,MIA,Bam Adebayo,REB,8.91,6,12,31.9,-2.0,,PP standard,9.5,Less,0.595,0.542,0.053,0.405,104,-138,PrizePicks / Underdog
+DET@MIA,DET,Daniss Jenkins,REB,3.59,2,5,27.3,5.1,minutes unclear (+5),PP standard,3.5,Less,0.534,0.495,0.039,0.466,-117,-112,PrizePicks / Underdog
+DET@MIA,DET,Ausar Thompson,REB,6.74,4,9,27.3,1.0,role up (last 8: 9.1),PP standard,7.5,Less,0.628,0.544,0.084,0.372,106,-138,PrizePicks / Underdog
+DET@MIA,MIA,Pelle Larsson,REB,3.44,2,5,27.9,2.9,,PP standard,3.5,Less,0.56,0.51,0.049,0.44,-110,-120,PrizePicks / Underdog
+DET@MIA,DET,John Collins,REB,5.84,3,8,26.5,-1.5,,PP standard,6.5,Less,0.63,0.562,0.068,0.37,114,-150,PrizePicks / Underdog
+DET@MIA,MIA,Giannis Antetokounmpo,REB,10.94,8,14,32.4,3.1,role up (last 8: 13.8),book line,12.5,Less,0.681,0.534,0.148,0.319,100,-134,Kalshi / Underdog
+DET@MIA,MIA,Davion Mitchell,RA,10.45,7,13,35.0,4.8,minutes unclear (+5); role up (last 8: 13.2),PP standard,10.5,Less,0.532,0.51,0.022,0.468,-110,-120,PrizePicks / Underdog
+DET@MIA,MIA,Bam Adebayo,RA,11.81,8,15,31.9,-2.0,,PP standard,12.5,Less,0.593,0.5,0.093,0.407,-115,-115,PrizePicks / Underdog
+DET@MIA,DET,Cade Cunningham,RA,14.27,10,18,34.4,-1.3,,PP standard,14.5,Less,0.542,0.921,-0.379,0.458,-5,-124,PrizePicks / Underdog
+DET@MIA,DET,Ausar Thompson,RA,10.57,7,14,27.3,1.0,role up (last 8: 14.2),PP standard,11.5,Less,0.616,0.487,0.13,0.384,-120,-107,PrizePicks / Underdog
+DET@MIA,MIA,Giannis Antetokounmpo,RA,15.97,12,20,32.4,3.1,,PP standard,17.5,Less,0.648,0.497,0.151,0.352,-116,-113,PrizePicks / Underdog
+DET@MIA,MIA,Davion Mitchell,3PM,1.7,0,3,35.0,4.8,minutes unclear (+5),book line,2.5,Less,0.742,0.626,0.116,0.258,148,-207,Kalshi / Underdog
+DET@MIA,MIA,Klay Thompson,3PM,2.95,1,5,24.1,5.2,minutes unclear (+5); role up (last 8: 4.1),PP standard,3.5,Less,0.653,0.528,0.125,0.347,-102,-130,PrizePicks / Underdog
+DET@MIA,DET,Duncan Robinson,3PM,3.53,2,5,30.8,0.3,,PP standard,3.5,Less,0.54,0.516,0.023,0.46,-108,-124,PrizePicks / Underdog
+DET@MIA,DET,Cade Cunningham,3PM,2.24,1,4,34.4,-1.3,,book line,2.5,Less,0.619,0.538,0.081,0.381,102,-136,Kalshi / Underdog
+DET@MIA,DET,Daniss Jenkins,3PM,1.73,0,3,27.3,5.1,minutes unclear (+5),book line,1.5,Less,0.525,0.435,0.089,0.475,-154,114,Kalshi / Underdog
+DET@MIA,MIA,Davion Mitchell,REB,2.82,1,4,35.0,4.8,minutes unclear (+5),book line,2.5,More,0.511,0.425,0.087,0.511,120,-160,Kalshi / Underdog
+DET@MIA,DET,Duncan Robinson,REB,2.81,1,4,30.8,0.3,,book line,2.5,More,0.513,0.463,0.05,0.513,102,-135,Kalshi / Underdog
+DET@MIA,DET,Daniss Jenkins,RA,8.08,5,11,27.3,5.1,minutes unclear (+5),PP standard,8.5,Less,0.578,0.467,0.111,0.422,-132,101,PrizePicks / Underdog
+DET@MIA,MIA,Pelle Larsson,RA,6.52,4,9,27.9,2.9,,PP standard,6.5,Less,0.532,0.466,0.066,0.468,-133,101,PrizePicks / Underdog
+DET@MIA,MIA,Bam Adebayo,3PM,1.13,0,2,31.9,-2.0,,book line,1.5,Less,0.688,0.662,0.026,0.312,178,-239,Kalshi / Underdog
+DET@MIA,DET,Duncan Robinson,AST,2.12,1,3,30.8,0.3,,book line,2.5,Less,0.652,0.588,0.064,0.348,127,-169,Kalshi / Underdog
+DET@MIA,DET,Duncan Robinson,PA,17.55,11,24,30.8,0.3,,PP standard,18.5,Less,0.583,0.51,0.073,0.417,-110,-120,PrizePicks / Underdog
+DET@MIA,DET,Duncan Robinson,PRA,20.36,13,27,30.8,0.3,,PP standard,20.5,Less,0.539,0.495,0.044,0.461,-117,-112,PrizePicks / Underdog
+DET@MIA,DET,Duncan Robinson,RA,4.92,3,7,30.8,0.3,,PP standard,4.5,More,0.528,0.527,0.001,0.528,-131,-104,PrizePicks / Underdog
+DET@MIA,DET,Kevin Huerter,AST,2.45,1,4,24.1,1.7,,PP standard,2.5,Less,0.583,0.356,0.227,0.417,3,-116,PrizePicks / Underdog
+DET@MIA,DET,Kevin Huerter,PTS,10.38,4,16,24.1,1.7,,PP standard,10.5,Less,0.574,0.508,0.066,0.426,-110,-118,PrizePicks / Underdog
+DET@MIA,DET,Javonte Green,PTS,6.14,2,10,16.4,-3.5,,PP standard,5.5,Less,0.529,0.513,0.016,0.471,106,-105,PrizePicks / Underdog
+DET@MIA,DET,John Collins,PRA,18.93,13,25,26.5,-1.5,,PP standard,18.5,Less,0.511,0.069,0.442,0.489,-108,-4,PrizePicks / Underdog
+DET@MIA,MIA,Klay Thompson,PRA,15.46,9,22,24.1,5.2,minutes unclear (+5),PP standard,17.5,Less,0.644,0.567,0.077,0.356,-6,-8,PrizePicks / Underdog
+DET@MIA,DET,Kevin Huerter,PRA,15.95,8,23,24.1,1.7,,PP standard,16.5,Less,0.589,0.099,0.49,0.411,-106,-6,PrizePicks / Underdog
+DET@MIA,DET,Javonte Green,PRA,9.37,4,14,16.4,-3.5,,PP standard,9.5,Less,0.582,0.5,0.082,0.418,-119,-119,PrizePicks / Underdog
+DET@MIA,DET,Kevin Huerter,REB,3.11,1,5,24.1,1.7,role down (last 8: 1.8),PP standard,3.5,Less,0.632,0.53,0.102,0.368,103,-125,PrizePicks / Underdog
+DET@MIA,DET,John Collins,RA,6.77,4,9,26.5,-1.5,,PP standard,7.5,Less,0.63,0.512,0.118,0.37,106,-104,PrizePicks / Underdog
+DET@MIA,DET,Kevin Huerter,RA,5.56,3,8,24.1,1.7,,PP standard,6.5,Less,0.667,0.564,0.103,0.333,130,-128,PrizePicks / Underdog
+DET@MIA,MIA,Giannis Antetokounmpo,3PM,0.53,0,1,32.4,3.1,,PP standard,0.5,Less,0.631,0.51,0.121,0.369,-109,-119,PrizePicks / Underdog
+DET@MIA,DET,John Collins,AST,0.93,0,2,26.5,-1.5,,book line,1.5,Less,0.759,0.662,0.097,0.241,178,-238,Kalshi / Underdog
+DET@MIA,MIA,Klay Thompson,AST,1.7,0,3,24.1,5.2,minutes unclear (+5),book line,2.5,Less,0.748,0.595,0.154,0.252,132,-172,Kalshi / Underdog
+DET@MIA,DET,John Collins,PA,13.09,8,18,26.5,-1.5,,book line,12.5,Less,0.504,0.527,-0.024,0.496,112,-111,Kalshi / Underdog
+DET@MIA,MIA,Klay Thompson,PA,13.49,7,19,24.1,5.2,minutes unclear (+5); role up (last 8: 18.4),book line,15.5,Less,0.648,0.516,0.132,0.352,107,-106,Kalshi / Underdog
+DET@MIA,DET,Kevin Huerter,PR,13.5,7,20,24.1,1.7,,book line,13.5,Less,0.564,0.476,0.088,0.436,-110,110,Kalshi / Underdog
+DET@MIA,MIA,Klay Thompson,PR,13.76,7,20,24.1,5.2,minutes unclear (+5),book line,15.5,Less,0.631,0.511,0.12,0.369,105,-104,Kalshi / Underdog
+DET@MIA,MIA,Klay Thompson,REB,1.97,1,3,24.1,5.2,minutes unclear (+5),book line,2.5,Less,0.688,0.602,0.086,0.312,136,-179,Kalshi / Underdog
+DET@MIA,DET,Kevin Huerter,3PM,1.85,0,3,24.1,1.7,,book line,1.5,Less,0.506,0.441,0.065,0.494,-148,112,Kalshi / Underdog
+DET@MIA,DET,John Collins,3PM,1.13,0,2,26.5,-1.5,,book line,0.5,More,0.61,0.591,0.019,0.61,-169,130,Kalshi / Underdog
+DET@MIA,MIA,Pelle Larsson,3PM,0.93,0,2,27.9,2.9,,book line,1.5,Less,0.757,0.648,0.109,0.243,176,-201,Kalshi / Underdog
+DET@MIA,MIA,Klay Thompson,RA,3.66,2,5,24.1,5.2,minutes unclear (+5),book line,4.5,Less,0.687,0.559,0.127,0.313,127,-127,Kalshi / Underdog
+DAL@CLE,DAL,Cooper Flagg,AST,5.6,3,8,32.4,3.0,,PP standard,6.5,Less,0.662,0.553,0.109,0.338,110,-143,PrizePicks / Underdog
+DAL@CLE,CLE,James Harden,AST,6.57,4,9,34.7,-3.4,,PP standard,6.5,Less,0.521,0.363,0.158,0.479,0,-132,PrizePicks / Underdog
+DAL@CLE,DAL,Naji Marshall,AST,2.93,1,4,20.9,-1.5,role up (last 8: 4.2),book line,2.5,More,0.534,0.587,-0.053,0.534,-170,126,Kalshi / Underdog
+DAL@CLE,DAL,Kyrie Irving,AST,4.12,2,6,29.6,3.7,,PP standard,4.5,Less,0.605,0.563,0.042,0.395,114,-152,PrizePicks / Underdog
+DAL@CLE,CLE,Donovan Mitchell,AST,5.5,3,8,35.2,-2.5,,PP standard,5.5,Less,0.531,0.554,-0.023,0.469,110,-145,PrizePicks / Underdog
+DAL@CLE,CLE,Jarrett Allen,PTS,13.97,8,19,29.1,-0.8,,PP standard,13.5,Less,0.509,0.488,0.021,0.491,-120,-108,PrizePicks / Underdog
+DAL@CLE,CLE,James Harden,PTS,18.51,12,25,34.7,-3.4,,PP standard,17.5,More,0.519,0.518,0.001,0.519,-124,-106,PrizePicks / Underdog
+DAL@CLE,DAL,P.J. Washington,PTS,13.56,7,19,29.6,-2.0,,PP standard,12.5,More,0.513,0.529,-0.016,0.513,-128,100,PrizePicks / Underdog
+DAL@CLE,DAL,Zaccharie Risacher,PTS,7.83,3,12,19.4,-5.0,minutes unclear (-5),PP standard,5.5,More,0.614,0.52,0.094,0.614,-128,-108,PrizePicks / Underdog
+DAL@CLE,DAL,Cooper Flagg,PTS,22.96,16,30,32.4,3.0,,PP standard,24.5,Less,0.596,0.51,0.086,0.404,-110,-120,PrizePicks / Underdog
+DAL@CLE,DAL,Daniel Gafford,PTS,8.43,4,12,20.3,-0.9,,PP standard,7.5,More,0.523,0.525,-0.003,0.523,-128,-103,PrizePicks / Underdog
+DAL@CLE,DAL,Naji Marshall,PTS,10.63,5,15,20.9,-1.5,,PP standard,10.5,Less,0.543,0.506,0.036,0.457,-112,-118,PrizePicks / Underdog
+DAL@CLE,DAL,Caleb Martin,PTS,4.36,1,7,16.5,0.8,,PP standard,4.5,Less,0.595,0.502,0.093,0.405,-114,-116,PrizePicks / Underdog
+DAL@CLE,DAL,Kyrie Irving,PTS,20.15,13,27,29.6,3.7,,PP standard,22.5,Less,0.636,0.502,0.134,0.364,-114,-116,PrizePicks / Underdog
+DAL@CLE,CLE,Peyton Watson,PTS,12.69,7,18,31.2,0.9,,PP standard,12.5,Less,0.531,0.477,0.054,0.469,-125,-103,PrizePicks / Underdog
+DAL@CLE,CLE,Donovan Mitchell,PTS,24.13,17,31,35.2,-2.5,,PP standard,24.5,Less,0.54,0.516,0.024,0.46,-106,-122,PrizePicks / Underdog
+DAL@CLE,CLE,Jarrett Allen,PA,15.49,9,21,29.1,-0.8,,PP standard,15.5,Less,0.539,0.51,0.029,0.461,-110,-120,PrizePicks / Underdog
+DAL@CLE,CLE,Peyton Watson,PA,15.04,9,21,31.2,0.9,,PP standard,15.5,Less,0.564,0.519,0.045,0.436,-111,-131,PrizePicks / Underdog
+DAL@CLE,CLE,Donovan Mitchell,PA,29.63,21,38,35.2,-2.5,,PP standard,29.5,Less,0.514,0.51,0.004,0.486,-110,-120,PrizePicks / Underdog
+DAL@CLE,DAL,Naji Marshall,PA,13.56,8,19,20.9,-1.5,,PP standard,13.5,Less,0.542,0.48,0.062,0.458,-125,-105,PrizePicks / Underdog
+DAL@CLE,DAL,P.J. Washington,PA,14.94,9,21,29.6,-2.0,,PP standard,14.5,Less,0.52,0.502,0.018,0.48,-114,-116,PrizePicks / Underdog
+DAL@CLE,DAL,Kyrie Irving,PA,24.27,16,32,29.6,3.7,,PP standard,27.5,Less,0.659,0.907,-0.248,0.341,-6,-123,PrizePicks / Underdog
+DAL@CLE,DAL,Cooper Flagg,PA,28.56,20,36,32.4,3.0,,PP standard,30.5,Less,0.606,0.49,0.116,0.394,-120,-110,PrizePicks / Underdog
+DAL@CLE,CLE,James Harden,PA,25.08,18,32,34.7,-3.4,,PP standard,24.5,Less,0.5,0.498,0.003,0.5,-116,-114,PrizePicks / Underdog
+DAL@CLE,DAL,P.J. Washington,PR,20.45,13,27,29.6,-2.0,,PP standard,19.5,More,0.509,0.907,-0.399,0.509,-124,-6,PrizePicks / Underdog
+DAL@CLE,CLE,Donovan Mitchell,PR,28.88,21,37,35.2,-2.5,,PP standard,28.5,Less,0.504,0.5,0.004,0.496,-114,-114,PrizePicks / Underdog
+DAL@CLE,DAL,Kyrie Irving,PR,23.99,16,32,29.6,3.7,,PP standard,26.5,Less,0.632,0.5,0.132,0.368,-115,-115,PrizePicks / Underdog
+DAL@CLE,DAL,Cooper Flagg,PR,29.93,22,38,32.4,3.0,,PP standard,31.5,Less,0.587,0.5,0.087,0.413,-115,-115,PrizePicks / Underdog
+DAL@CLE,CLE,James Harden,PR,23.14,16,30,34.7,-3.4,,PP standard,22.5,More,0.503,0.5,0.003,0.503,-115,-115,PrizePicks / Underdog
+DAL@CLE,DAL,Zaccharie Risacher,PR,11.75,6,17,19.4,-5.0,minutes unclear (-5),PP standard,9.5,More,0.593,0.49,0.103,0.593,-110,-120,PrizePicks / Underdog
+DAL@CLE,CLE,Jarrett Allen,PR,23.24,16,30,29.1,-0.8,,PP standard,23.5,Less,0.541,0.52,0.021,0.459,-105,-125,PrizePicks / Underdog
+DAL@CLE,CLE,Peyton Watson,PR,17.53,11,23,31.2,0.9,,PP standard,17.5,Less,0.535,0.5,0.035,0.465,-115,-115,PrizePicks / Underdog
+DAL@CLE,DAL,Caleb Martin,PR,7.0,3,10,16.5,0.8,,PP standard,7.5,Less,0.607,0.505,0.102,0.393,-115,-120,PrizePicks / Underdog
+DAL@CLE,DAL,Naji Marshall,PR,13.84,8,19,20.9,-1.5,,PP standard,13.5,Less,0.524,0.519,0.005,0.476,-106,-125,PrizePicks / Underdog
+DAL@CLE,DAL,Daniel Gafford,PR,14.29,9,19,20.3,-0.9,,PP standard,13.5,More,0.511,0.52,-0.009,0.511,-126,-106,PrizePicks / Underdog
+DAL@CLE,CLE,Donovan Mitchell,PRA,34.38,26,43,35.2,-2.5,,PP standard,33.5,More,0.517,0.51,0.007,0.517,-120,-110,PrizePicks / Underdog
+DAL@CLE,DAL,Cooper Flagg,PRA,35.53,27,44,32.4,3.0,,PP standard,37.5,Less,0.593,0.487,0.106,0.407,-121,-108,PrizePicks / Underdog
+DAL@CLE,CLE,Jarrett Allen,PRA,24.75,17,32,29.1,-0.8,,PP standard,24.5,Less,0.516,0.49,0.026,0.484,-120,-110,PrizePicks / Underdog
+DAL@CLE,DAL,Naji Marshall,PRA,16.76,11,23,20.9,-1.5,,PP standard,16.5,Less,0.529,0.501,0.028,0.471,-114,-115,PrizePicks / Underdog
+DAL@CLE,CLE,James Harden,PRA,29.71,22,37,34.7,-3.4,,PP standard,28.5,More,0.53,0.519,0.011,0.53,-125,-106,PrizePicks / Underdog
+DAL@CLE,DAL,P.J. Washington,PRA,21.84,15,29,29.6,-2.0,,PP standard,21.5,Less,0.516,0.5,0.016,0.484,-115,-115,PrizePicks / Underdog
+DAL@CLE,DAL,Kyrie Irving,PRA,28.11,20,36,29.6,3.7,,PP standard,30.5,Less,0.62,0.491,0.129,0.38,-120,-111,PrizePicks / Underdog
+DAL@CLE,CLE,Peyton Watson,PRA,19.89,13,26,31.2,0.9,,PP standard,20.5,Less,0.565,0.52,0.044,0.435,-105,-125,PrizePicks / Underdog
+DAL@CLE,CLE,James Harden,REB,4.63,3,7,34.7,-3.4,,book line,4.5,Less,0.518,0.549,-0.031,0.482,107,-143,Kalshi / Underdog
+DAL@CLE,CLE,Peyton Watson,REB,4.84,3,7,31.2,0.9,,PP standard,4.5,More,0.512,0.514,-0.002,0.512,-122,-108,PrizePicks / Underdog
+DAL@CLE,DAL,Daniel Gafford,REB,5.85,3,8,20.3,-0.9,,PP standard,5.5,More,0.507,0.545,-0.038,0.507,-142,104,PrizePicks / Underdog
+DAL@CLE,DAL,Kyrie Irving,REB,3.84,2,6,29.6,3.7,,PP standard,3.5,More,0.512,0.519,-0.008,0.512,-125,-106,PrizePicks / Underdog
+DAL@CLE,CLE,Donovan Mitchell,REB,4.75,3,7,35.2,-2.5,,PP standard,4.5,More,0.502,0.459,0.043,0.502,103,-139,PrizePicks / Underdog
+DAL@CLE,DAL,P.J. Washington,REB,6.89,4,9,29.6,-2.0,,PP standard,6.5,More,0.512,0.535,-0.023,0.512,-135,100,PrizePicks / Underdog
+DAL@CLE,DAL,Caleb Martin,REB,2.64,1,4,16.5,0.8,,book line,2.5,Less,0.526,0.442,0.084,0.474,-151,110,Kalshi / Underdog
+DAL@CLE,DAL,Cooper Flagg,REB,6.97,4,9,32.4,3.0,,PP standard,6.5,More,0.528,0.562,-0.035,0.528,-150,114,PrizePicks / Underdog
+DAL@CLE,CLE,Jarrett Allen,REB,9.26,6,12,29.1,-0.8,,PP standard,8.5,More,0.548,0.552,-0.004,0.548,-144,109,PrizePicks / Underdog
+DAL@CLE,CLE,Peyton Watson,RA,7.19,5,10,31.2,0.9,,PP standard,6.5,More,0.555,0.953,-0.398,0.555,-142,-3,PrizePicks / Underdog
+DAL@CLE,CLE,Donovan Mitchell,RA,10.25,7,13,35.2,-2.5,,PP standard,9.5,More,0.558,0.52,0.038,0.558,-125,-105,PrizePicks / Underdog
+DAL@CLE,DAL,Cooper Flagg,RA,12.57,9,16,32.4,3.0,,PP standard,13.5,Less,0.604,0.518,0.086,0.396,-106,-124,PrizePicks / Underdog
+DAL@CLE,DAL,Naji Marshall,RA,6.13,4,9,20.9,-1.5,,PP standard,6.5,Less,0.592,0.966,-0.374,0.408,-2,-130,PrizePicks / Underdog
+DAL@CLE,DAL,P.J. Washington,RA,8.27,5,11,29.6,-2.0,,PP standard,8.5,Less,0.56,0.522,0.037,0.44,-104,-126,PrizePicks / Underdog
+DAL@CLE,CLE,Jarrett Allen,RA,10.78,7,14,29.1,-0.8,,PP standard,10.5,Less,0.503,0.483,0.02,0.497,-130,-112,PrizePicks / Underdog
+DAL@CLE,DAL,Kyrie Irving,RA,7.96,5,11,29.6,3.7,,PP standard,8.5,Less,0.593,0.557,0.036,0.407,114,-142,PrizePicks / Underdog
+DAL@CLE,CLE,James Harden,RA,11.2,8,14,34.7,-3.4,,PP standard,10.5,More,0.549,0.521,0.028,0.549,-126,-105,PrizePicks / Underdog
+DAL@CLE,CLE,Donovan Mitchell,3PM,2.71,1,4,35.2,-2.5,,PP standard,2.5,Less,0.518,0.485,0.033,0.482,-124,-109,PrizePicks / Underdog
+DAL@CLE,DAL,Kyrie Irving,3PM,2.82,1,4,29.6,3.7,,book line,3.5,Less,0.68,0.6,0.079,0.32,134,-179,Kalshi / Underdog
+DAL@CLE,CLE,James Harden,3PM,2.46,1,4,34.7,-3.4,,PP standard,2.5,Less,0.564,0.523,0.042,0.436,-103,-125,PrizePicks / Underdog
+DAL@CLE,DAL,Cooper Flagg,3PM,1.4,0,2,32.4,3.0,,book line,1.5,Less,0.612,0.54,0.072,0.388,102,-139,Kalshi / Underdog
+DAL@CLE,DAL,P.J. Washington,3PM,1.84,0,3,29.6,-2.0,,book line,1.5,More,0.508,0.602,-0.094,0.508,-180,135,Kalshi / Underdog
+DAL@CLE,CLE,Peyton Watson,3PM,1.24,0,2,31.2,0.9,,book line,1.5,Less,0.658,0.573,0.085,0.342,119,-159,Kalshi / Underdog
+DAL@CLE,CLE,Peyton Watson,AST,2.35,1,4,31.2,0.9,,book line,2.5,Less,0.589,0.568,0.02,0.411,116,-156,Kalshi / Underdog
+DAL@CLE,CLE,Jarrett Allen,AST,1.52,0,3,29.1,-0.8,,PP standard,1.5,Less,0.574,0.491,0.083,0.426,-120,-111,PrizePicks / Underdog
+DAL@CLE,DAL,Zaccharie Risacher,REB,3.92,2,6,19.4,-5.0,minutes unclear (-5),book line,3.5,More,0.519,0.427,0.093,0.519,119,-159,Kalshi / Underdog
+DAL@CLE,DAL,Naji Marshall,REB,3.2,1,5,20.9,-1.5,,book line,3.5,Less,0.611,0.562,0.049,0.389,116,-146,Kalshi / Underdog
+DAL@CLE,DAL,P.J. Washington,AST,1.38,0,2,29.6,-2.0,,book line,1.5,Less,0.609,0.575,0.034,0.391,120,-160,Kalshi / Underdog
+DAL@CLE,CLE,Jaylon Tyson,AST,2.12,1,3,25.0,4.2,minutes unclear (+4),book line,1.5,More,0.593,0.601,-0.008,0.593,-190,130,Kalshi / Underdog
+DAL@CLE,DAL,Zaccharie Risacher,3PM,1.2,0,2,19.4,-5.0,minutes unclear (-5),book line,1.5,Less,0.673,0.671,0.001,0.327,186,-250,Kalshi / Underdog
+DAL@CLE,DAL,Walter Clayton Jr.,AST,3.54,2,5,16.9,1.4,,PP standard,3.5,Less,0.544,0.489,0.055,0.456,-104,105,PrizePicks / Underdog
+DAL@CLE,CLE,Jaylon Tyson,PTS,9.75,5,14,25.0,4.2,minutes unclear (+4),PP standard,11.5,Less,0.66,0.52,0.14,0.34,109,-108,PrizePicks / Underdog
+DAL@CLE,CLE,Meleek Thomas,PTS,10.61,5,16,23.6,10.9,minutes unclear (+11); small sample,book line,10.5,Less,0.539,0.494,0.046,0.461,-102,103,Kalshi / Underdog
+DAL@CLE,DAL,Daniel Gafford,PA,9.87,5,14,20.3,-0.9,,book line,9.5,Less,0.522,0.515,0.007,0.478,107,-105,Kalshi / Underdog
+DAL@CLE,DAL,Walter Clayton Jr.,PA,10.45,5,15,16.9,1.4,,book line,11.5,Less,0.622,0.491,0.131,0.378,-103,104,Kalshi / Underdog
+DAL@CLE,CLE,Jaylon Tyson,PA,11.87,6,17,25.0,4.2,minutes unclear (+4),book line,15.5,Less,0.746,0.484,0.262,0.254,-106,107,Kalshi / Underdog
+DAL@CLE,CLE,Meleek Thomas,PA,12.23,6,18,23.6,10.9,minutes unclear (+11); small sample,book line,15.5,Less,0.715,0.489,0.226,0.285,-104,105,Kalshi / Underdog
+DAL@CLE,CLE,Meleek Thomas,PR,13.28,7,19,23.6,10.9,minutes unclear (+11); small sample,book line,16.5,Less,0.71,0.484,0.225,0.29,-106,107,Kalshi / Underdog
+DAL@CLE,CLE,Jaylon Tyson,PR,13.86,8,19,25.0,4.2,minutes unclear (+4),book line,17.5,Less,0.739,0.491,0.247,0.261,-103,104,Kalshi / Underdog
+DAL@CLE,DAL,Daniel Gafford,PRA,15.72,10,21,20.3,-0.9,,PP standard,15.5,Less,0.525,0.855,-0.331,0.475,-10,-116,PrizePicks / Underdog
+DAL@CLE,CLE,Jaylon Tyson,PRA,15.98,10,21,25.0,4.2,minutes unclear (+4),PP standard,17.5,Less,0.625,0.513,0.112,0.375,106,-105,PrizePicks / Underdog
+DAL@CLE,DAL,Zaccharie Risacher,PRA,12.85,7,18,19.4,-5.0,minutes unclear (-5),PP standard,11.5,More,0.532,0.856,-0.323,0.532,-117,-10,PrizePicks / Underdog
+DAL@CLE,DAL,Walter Clayton Jr.,PRA,12.73,7,18,16.9,1.4,,PP standard,13.5,Less,0.596,0.477,0.118,0.404,-109,110,PrizePicks / Underdog
+DAL@CLE,CLE,Meleek Thomas,PRA,14.91,9,21,23.6,10.9,minutes unclear (+11); small sample,PP standard,18.5,Less,0.72,0.481,0.239,0.28,-108,108,PrizePicks / Underdog
+DAL@CLE,CLE,Jaylon Tyson,REB,4.11,2,6,25.0,4.2,minutes unclear (+4); role down (last 8: 3.0),book line,4.5,Less,0.606,0.545,0.06,0.394,120,-120,Kalshi / Underdog
+DAL@CLE,DAL,Daniel Gafford,RA,7.29,5,10,20.3,-0.9,,book line,6.5,More,0.562,0.551,0.011,0.562,-122,123,Kalshi / Underdog
+DAL@CLE,DAL,Caleb Martin,RA,4.13,2,6,16.5,0.8,,book line,4.5,Less,0.605,0.499,0.106,0.395,100,101,Kalshi / Underdog
+DAL@CLE,DAL,Zaccharie Risacher,RA,5.03,3,7,19.4,-5.0,minutes unclear (-5),book line,4.5,More,0.531,0.499,0.032,0.531,101,100,Kalshi / Underdog
+DAL@CLE,CLE,Meleek Thomas,RA,4.31,2,6,23.6,10.9,minutes unclear (+11); small sample,book line,4.5,Less,0.581,0.429,0.152,0.419,-132,134,Kalshi / Underdog
+DAL@CLE,CLE,Jaylon Tyson,3PM,1.46,0,3,25.0,4.2,minutes unclear (+4),book line,1.5,Less,0.593,0.396,0.197,0.407,-152,153,Kalshi / Underdog
+DAL@CLE,DAL,Walter Clayton Jr.,3PM,1.17,0,2,16.9,1.4,,book line,1.5,Less,0.683,0.626,0.057,0.317,168,-167,Kalshi / Underdog
+DAL@CLE,CLE,Meleek Thomas,3PM,1.85,0,3,23.6,10.9,minutes unclear (+11); small sample,book line,2.5,Less,0.706,0.605,0.101,0.294,154,-152,Kalshi / Underdog
+DAL@CLE,CLE,Tyrese Proctor,PTS,6.26,2,10,16.7,0.0,role up (last 8: 10.4),PP standard,9.5,Less,0.775,0.5,0.275,0.225,-119,-119,PrizePicks / Underdog
+DAL@CLE,CLE,Tyrese Proctor,REB,2.34,1,4,16.7,0.0,,PP standard,2.5,Less,0.598,0.5,0.098,0.402,-119,-119,PrizePicks / Underdog
+DAL@CLE,DAL,Walter Clayton Jr.,PTS,6.91,3,11,16.9,1.4,,PP standard,7.5,Less,0.61,0.5,0.11,0.39,-119,-119,PrizePicks / Underdog
+DAL@CLE,DAL,Caleb Martin,3PM,0.51,0,1,16.5,0.8,,PP standard,0.5,Less,0.648,0.5,0.148,0.352,-128,-128,PrizePicks / Underdog
 BKN@MEM,BKN,Egor Demin,AST,2.82,1,4,22.4,3.9,small sample,PP standard,2.5,More,0.514,0.367,0.147,0.514,-132,2,PrizePicks / Underdog
 BKN@MEM,MEM,Cedric Coward,AST,3.34,2,5,31.3,0.0,,book line,2.5,More,0.628,0.576,0.052,0.628,-162,120,Kalshi / Underdog
 BKN@MEM,BKN,Day'Ron Sharpe,AST,3.27,2,5,21.9,1.2,teammate back (Mikel Brown Jr.; last 8: 5.0),PP standard,3.5,Less,0.592,0.445,0.147,0.408,-146,110,PrizePicks / Underdog
