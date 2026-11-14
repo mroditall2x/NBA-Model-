@@ -1,0 +1,13 @@
+game,team,player,combo,chance,fair_odds,min,min_bump,why,avg,size,special
+BKN@MEM,BKN,Michael Porter Jr.,20+ pts & 8+ reb,0.177,+465,31.3,4.3,+4 min,6.6 reb / 2.0 ast / 19.9 pts,28,True
+CHI@MIN,CHI,Jalen Smith,15+ pts & 10+ reb,0.132,+659,27.6,0.9,Caleb Wilson out,8.0 reb / 1.7 ast / 12.5 pts,25,True
+DEN@NO,DEN,Cameron Johnson,15+ pts & 4+ reb,0.131,+662,26.8,4.9,+5 min,3.5 reb / 2.0 ast / 11.4 pts,19,True
+DET@MIA,MIA,Giannis Antetokounmpo,30+ pts & 13+ reb,0.122,+722,32.4,3.1,+3 min,10.9 reb / 5.0 ast / 27.2 pts,43,True
+DET@MIA,MIA,Davion Mitchell,15+ pts & 9+ ast,0.12,+730,35.0,5.1,+5 min,2.8 reb / 7.7 ast / 11.9 pts,24,True
+DAL@CLE,CLE,Jarrett Allen,15+ pts & 10+ reb,0.119,+740,26.3,3.9,+4 min,8.0 reb / 1.4 ast / 12.6 pts,25,True
+CHI@MIN,MIN,Rudy Gobert,15+ pts & 2+ ast,0.116,+765,30.1,-2.8,Anthony Edwards out,10.9 reb / 1.6 ast / 11.3 pts,17,True
+CHI@MIN,CHI,Matas Buzelis,20+ pts & 7+ reb,0.109,+819,32.1,-0.3,Caleb Wilson out,5.6 reb / 2.1 ast / 16.0 pts,27,True
+CHI@MIN,CHI,Josh Giddey,20+ pts & 11+ ast,0.106,+846,33.9,-2.8,Caleb Wilson out,6.8 reb / 9.4 ast / 14.8 pts,31,True
+CHI@MIN,CHI,Matas Buzelis,20+ pts & 3+ ast,0.105,+850,32.1,-0.3,Caleb Wilson out,5.6 reb / 2.1 ast / 16.0 pts,23,True
+BKN@MEM,BKN,Michael Porter Jr.,25+ pts & 8+ reb,0.103,+870,31.3,4.3,+4 min,6.6 reb / 2.0 ast / 19.9 pts,33,True
+DET@MIA,MIA,Klay Thompson,15+ pts & 3+ reb,0.102,+880,24.1,5.3,+5 min,2.0 reb / 1.7 ast / 11.8 pts,18,True
