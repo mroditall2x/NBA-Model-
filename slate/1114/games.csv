@@ -1,5 +1,5 @@
 game,model_spread_home,mkt_spread_home,p_home_cover,mkt_home_cover,model_total,mkt_total,p_over,mkt_over,p_home_win,mkt_home_win,poss,full_game_note,ev_tag
-DEN@NO,7.1,12.5,0.666,0.504,234.3,234.0,0.488,0.5,0.287,0.171,100.9,,
+DEN@NO,7.2,12.5,0.662,0.504,234.2,234.0,0.485,0.5,0.289,0.171,100.9,,
 DAL@CLE,-7.4,1.0,0.737,0.5,230.3,231.5,0.464,0.5,0.71,0.489,101.8,skip: model >6 off market,
 BKN@MEM,-8.0,-3.5,0.633,0.504,226.9,228.5,0.455,0.5,0.717,0.6,101.4,,EV+ MEM ML (fav) 66% vs mkt 60%
 CHI@MIN,-16.9,-15.0,0.541,0.5,233.5,235.0,0.445,0.5,0.888,0.867,105.0,,
