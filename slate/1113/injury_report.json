@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-14T03:22:32.009362+00:00",
+ "checked": "2026-11-14T04:22:25.718553+00:00",
  "games": {
   "NY@IND": [
    {
@@ -55,6 +55,12 @@
   ],
   "ATL@CHI": [
    {
+    "player": "Kingston Flemings",
+    "team": "ATL",
+    "status": "Day-To-Day",
+    "note": "Flemings (back tightness) will not return to Friday's game against the Bulls."
+   },
+   {
     "player": "Mouhamed Gueye",
     "team": "ATL",
     "status": "Out",
@@ -77,6 +83,12 @@
     "team": "ATL",
     "status": "Out",
     "note": "Veesaar was diagnosed with a torn right ACL and is expected to miss the 2026-27 season, the Hawks announced Monday."
+   },
+   {
+    "player": "Jalen Smith",
+    "team": "CHI",
+    "status": "Day-To-Day",
+    "note": "Smith (hand) exited Friday's 125-117 win over the Hawks in overtime and did not return, finishing with 15 points (6-15 FG, 1-6 3Pt, 2-2 FT), 12 rebounds, three assists and three steals across 32 minutes."
    },
    {
     "player": "Dailyn Swain",
