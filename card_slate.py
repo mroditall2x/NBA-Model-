@@ -63,6 +63,9 @@ for g,pl,st,l,o,u,pp,gob,dem in rows:
         if rv>=1.25*mv and rv-mv>=dmin: flags.append(f'role up (last {RECENT_N}: {rv:.1f})')
         elif rv<=0.75*mv and mv-rv>=dmin: flags.append(f'role down (last {RECENT_N}: {rv:.1f})')
     base=dict(game=g,team=team,player=pl,stat=AB[st],mean=round(v.mean(),2),lo=int(np.percentile(v,20)),hi=int(np.percentile(v,80)),min=round(x['min'].mean(),1),gap=gp,flags='; '.join(flags))
+    if STAT[st]=='fg3m':   # 3PT volume (11/14): max(sim 3PA, last-10 3PA) - see research/threes_volume.py
+        _sa=float(x['fg3a'].mean()) if 'fg3a' in x else np.nan; _l=_cur[_cur.k==k].tail(10).fg3a
+        base['vol3']=round(np.nanmax([_sa,_l.mean() if len(_l) else np.nan]),1) if not (np.isnan(_sa) and not len(_l)) else np.nan
     if l:
         L=float(l); q=pov(L); side='More' if q>.5 else 'Less'; P=max(q,1-q)
         mk=imp(int(o))/(imp(int(o))+imp(int(u))); mk=mk if side=='More' else 1-mk

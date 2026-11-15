@@ -754,3 +754,11 @@ if __name__ == '__main__':
 - Deon SGP cashed: Clingan PR <23, Boozer 4+ AST (12), Under 232.5 -> $117 on $25.
 - Lessons: missing props != OUT (Boozer had no posted props but played 12 ast) — check ESPN injury feed instead. Outlier EV+ tag on an underdog ML is a signal worth tracking ('EV+ dog' category).
 - Line movement rule (Deon 10/30, spreads, totals, moneylines and props): ML = 3+ pts of no-vig win prob. snapshot lines in the morning (gh/line_moves.py snap) and re-check before tip. A move of 1+ pt (0.5 on prop lines under 5) AGAINST the model's side = drop the leg or follow the market if tied to injury news; a move TOWARD the model = keep. Log open vs close on every pick.
+
+## 11/14: 3PT volume rules (research/threes_volume.py, threes_replay.py)
+- Card 3PM Unders were 21-25 at a 63% model p. Over 734 3PM props from 10/31 to 11/13, the model's 3PA projection was accurate (5.07 vs 5.11 actual), but its 3P% ran low (sim makes/3PA 34.9% vs 36.9% actual; the profile has 36.1%, so the sim's scaling lowers it). Not fixed yet.
+- vol3 = max(sim 3PA, last-10 3PA), shown on the board and the card.
+- Block 3PM Under 1.5 when vol3>=4.5 (45% hit vs 64% below). Block 3PM Under 2.5 when vol3>=6.5 (46% vs 58%).
+- Volume Overs: 3PM Over 1.5 when vol3>=5.5 and the market Over is 60% or less, p=0.60, max 2 a night (63% hit vs 54% market, 68 props). Thresholds were chosen in-sample, so re-check after 2 weeks.
+- Replay 11/04-11/13 (card top 10): 3PM went 16-20 under the old rules, 23-16 under the new ones (Overs 8-3; the blocked Unders had gone 1-7).
+- espn_box.csv now records 3PA, so 3PM picks can be graded on volume.
