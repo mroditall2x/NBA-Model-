@@ -3,20 +3,21 @@ Steps: hoopR pull -> ESPN injuries -> rotations (auto_minutes + rot_blend) -> si
 -> board -> card (calibrated, rule-filtered) saved to slate/MMDD/card.csv with model p for grading.
 Needs slate/MMDD/lines.json + props_p1.txt (+ pp_compact.json) from the lines source (Outlier scraper or odds API)."""
 import sys, os, json, subprocess, urllib.request
-import pandas as pd
+import pandas as pd, numpy as np
 DATE=sys.argv[1]; MMDD=DATE[5:7]+DATE[8:10]; D=f'slate/{MMDD}'
 def sh(c): print('$',c); subprocess.run(c,shell=True,check=True)
 if os.path.isdir('repo/.git') and not os.environ.get('CI'): sh('cd repo && git pull -q')
 os.makedirs(D, exist_ok=True)
 if not os.path.exists(f'{D}/lines.json'): print('no lines for this date (no games?) - nothing to build'); sys.exit(0)
 # injuries (ESPN public feed) -> outs + questionable
+_inj_ok=True
 try:
     j=json.load(urllib.request.urlopen('https://site.api.espn.com/apis/site/v2/sports/basketball/nba/injuries',timeout=30))
     outs=[i['athlete']['displayName'] for t in j['injuries'] for i in t['injuries'] if i['status']=='Out']
     gtd=[i['athlete']['displayName'] for t in j['injuries'] for i in t['injuries'] if i['status']!='Out']
     json.dump(outs,open(f'slate/{DATE}_out.json','w')); json.dump(gtd,open(f'{D}/gtd.json','w'))
 except Exception as e:
-    print('injury feed failed:',e)
+    _inj_ok=False; print('injury feed failed:',e)
     if not os.path.exists(f'slate/{DATE}_out.json'): json.dump([],open(f'slate/{DATE}_out.json','w'))
     if not os.path.exists(f'{D}/gtd.json'): json.dump([],open(f'{D}/gtd.json','w'))
 # projected lineups (RotoWire, 11/13): their Out list joins ESPN's before minutes are built; starters feed card_slate flags
@@ -25,6 +26,8 @@ if os.path.exists(f'{D}/lineups.json'):
     _o=json.load(open(f'slate/{DATE}_out.json'))
     _add=[n for t in json.load(open(f'{D}/lineups.json')).values() for n in t.get('out',[]) if n not in _o]
     if _add: json.dump(_o+_add,open(f'slate/{DATE}_out.json','w')); print('RotoWire out added:',_add)
+# stale-data check (11/15): warns on the card + emails if box scores / injuries / lines are old; never stops the build
+subprocess.run(f"python3 data_check.py {DATE}{'' if _inj_ok else ' --injury-failed'}", shell=True)
 sh(f'python3 auto_minutes.py {DATE} slate/{DATE}_rot_last.json > /dev/null')
 sh(f'python3 rot_blend.py {DATE} 0.6')
 os.environ['NO_OUTGUESS']='1'; os.environ['SAVE_SIM']='1'
@@ -53,9 +56,18 @@ ok&=~((B.side=='More')&B['flags'].str.contains('teammate back'))
 # Model 3PM Unders at 1.5 hit 45% when vol3>=4.5 (64% below); at 2.5 hit 46% when vol3>=6.5 (58% below).
 if 'vol3' not in B: B['vol3']=float('nan')
 ok&=~((B.stat=='3PM')&(B.side=='Less')&(((B.line==1.5)&(B.vol3>=4.5))|((B.line==2.5)&(B.vol3>=6.5))))
-std=B[ok&B.type.isin(['PP standard','book line'])&~B.stat.isin(['STL','BLK','STL+BLK'])]
-std=std[(std.adj>=0.58)&(std.edge>=0.05)&~((std['min']>=35)&(std.side=='Less')&(std.adj<0.62))]
-std=std[~((std.stat=='PTS')&(std.side=='Less')&(std.adj<0.60))]          # straight PTS Unders need 60%; combos preferred
+std=B[ok&B.type.isin(['PP standard','book line'])&~B.stat.isin(['STL','BLK','STL+BLK'])].copy()
+# 11/15 side-specific calibration + market-agreement ranking (from 11/12 branch card-calibration-market):
+#  Unders: calibrated fine up to adj .62, but .62-.66 hit 52.6% and .66+ 40.5% -> fold anything above .62 back down.
+#  Overs:  overconfident at every level -> shrink with k=.25 instead of .6.
+#  Pick needs the market on our side (no-vig >= .50) and a price no worse than -150; rank by q = .5*cal + .5*market.
+#  research/replay_card_rules.py (saved boards vs ESPN box, flat 1u at the price paid):
+#   design window 11/04-11/11: old 38-31 (+1.2u) -> new 40-22 (+11.7u); OUT-OF-SAMPLE 11/12-11/13: old 7-13 (-7.1u) -> new 13-7 (+4.0u).
+std['cal']=np.where(std.side=='Less',np.where(std.adj>0.62,0.62-(std.adj-0.62),std.adj),0.5+0.25*(std.model-0.5))
+std['px']=np.where((std.o==-119)&(std.u==-119),-119,np.where(std.side=='More',std.o,std.u))
+std['q']=0.5*std.cal+0.5*std.market
+std=std[(std.o.abs()>=100)&(std.u.abs()>=100)]                   # junk feed odds (e.g. -1) give a fake market chance
+std=std[(std.cal>=0.56)&(std.market>=0.50)&(std.px>=-150)]
 gob=B[ok&(B.type=='goblin')&(B.model>=0.84)]
 # volume Overs (11/14): 3PM Over 1.5 when vol3>=5.5 and the market prices the Over at 60% or less.
 # Backtest: 63% hit vs 54% market (68 props, 11 slates). In-sample, so p is set to 0.60 and max 2 a night.
@@ -64,7 +76,7 @@ _v=B[(B.stat=='3PM')&(B.line==1.5)&(B.vol3>=5.5)&B.type.isin(['PP standard','boo
 if len(_v):
     _v['mkt_over']=[_imp(int(o))/(_imp(int(o))+_imp(int(u))) for o,u in zip(_v.o,_v.u)]
     _v=_v[_v.mkt_over<=0.60].sort_values('vol3',ascending=False).head(2).assign(side='More',tier='standard',p=0.60)
-card=pd.concat([std.assign(tier='standard',p=std.adj),gob.assign(tier='goblin',p=gob.model),_v.drop(columns=['mkt_over'],errors='ignore')])
+card=pd.concat([std.assign(tier='standard',p=std.q.round(4)),gob.assign(tier='goblin',p=gob.model),_v.drop(columns=['mkt_over'],errors='ignore')])
 card=card.sort_values('p',ascending=False).drop_duplicates(['player','stat'])
 # ---- price + EV for each play (book odds of that side, from the props pull) ----
 _AB={'Points':'PTS','Rebounds':'REB','Assists':'AST','Points + Assists':'PA','Points + Rebounds':'PR','Rebounds + Assists':'RA','Pts + Reb + Ast':'PRA','Three Pointers':'3PM','Steals':'STL','Blocks':'BLK','Steals + Blocks':'Stl+Blk'}
@@ -82,7 +94,7 @@ def _ev(p,a): return None if a is None or pd.isna(a) else round(p*((a/100+1) if 
 card['price']=[_price(r) for r in card.itertuples()]
 card['ev']=[_ev(p,a) if t=='standard' else None for p,a,t in zip(card.p,card.price,card.tier)]
 # rank: EV when a price exists, otherwise edge over a ~54.5% break-even (DFS); keep the 10 best
-card['score']=card.p   # rank by calibrated chance (replay 10/23-10/30: ranking by EV at the book price went 33-34, by chance 84-68)
+card['score']=card.p   # standard p = q (side-calibrated chance blended 50/50 with the market, 11/15); goblins = model
 card=card.sort_values('score',ascending=False).head(10)
 card['top']=False; card.loc[card.index[:5],'top']=True
 # EV+ props (any side the model likes at a price that pays more than its real chance), incl. plus-money sides like 1+ threes
@@ -107,8 +119,9 @@ card=card[~card.game.isin(_started)][[c for c in _cols if c in card]]
 if _started and os.path.exists(f'{D}/card.csv'):          # games already tipped keep the card that was posted before tip
     _old=pd.read_csv(f'{D}/card.csv'); card=pd.concat([_old[_old.game.isin(_started)][[c for c in _cols if c in _old]],card])
 card.to_csv(f'{D}/card.csv',index=False)
+subprocess.run(f'python3 ledger.py stamp {D}', shell=True)   # first-seen time + posted price per pick, for bet_ledger.csv (11/15)
 if not os.path.exists(f'{D}/card_early.csv'):            # first build of the day = early card (stricter bar so it survives line moves)
-    card[(card.p>=0.62)|(card.tier=='goblin')].to_csv(f'{D}/card_early.csv',index=False)
+    card[(card.p>=0.60)|(card.tier=='goblin')].to_csv(f'{D}/card_early.csv',index=False)
 G=pd.read_csv(f'{D}/games.csv')
 G['full_game_note']=['skip: model >6 off market' if abs(r.model_total-r.mkt_total)>6 or abs(r.model_spread_home-r.mkt_spread_home)>6 else '' for r in G.itertuples()]
 # 11/10 (NO@GS 11/09: model NO +11.5 / NO ML EV+ while the spread went GS -9.5 -> -11.5 and GS won by 51):

@@ -762,3 +762,8 @@ if __name__ == '__main__':
 - Volume Overs: 3PM Over 1.5 when vol3>=5.5 and the market Over is 60% or less, p=0.60, max 2 a night (63% hit vs 54% market, 68 props). Thresholds were chosen in-sample, so re-check after 2 weeks.
 - Replay 11/04-11/13 (card top 10): 3PM went 16-20 under the old rules, 23-16 under the new ones (Overs 8-3; the blocked Unders had gone 1-7).
 - espn_box.csv now records 3PA, so 3PM picks can be graded on volume.
+
+## 11/15/26 update: calibration + tracker live
+- Card rule (run_day.py): side-specific calibration + market agreement. Unders above adj .62 fold back, Overs shrink k=.25; standard picks need market >= .50 and price no worse than -150; card p = q = .5*cal + .5*market (so card p now runs ~.55-.62, NOT on the old .58+ scale). Replay `research/replay_card_rules.py`: out-of-sample 11/12-11/13 old 7-13 (-7.1u) vs new 13-7 (+4.0u).
+- RotoWire lineups (lineups.py): projected starter with model < 24 min -> 'minutes unclear' (off card); RotoWire Out joins the out list. No-op if the page can't be read.
+- Tracker live: `bet_ledger.csv` (append-only, flat 1u), `performance.md`, `model_report.md` rebuilt after every grade; `data_check.py` stale-data warnings. model_report emails (GitHub issue) when its LIKELY REAL list changes. Report only: model changes still need an out-of-sample pass + Deon's OK.
