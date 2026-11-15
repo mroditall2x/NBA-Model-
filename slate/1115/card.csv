@@ -1,11 +1,11 @@
-game,team,player,stat,tier,line,side,p,price,ev,top,mean,lo,hi,min,gap,where,vol3,line_open,line_now,move,line_move,keep
-LAL@PHX,PHX,Devin Booker,3PM,standard,1.5,More,0.6,-172,-0.051,True,2.24,1,4,34.7,-0.6,Kalshi / Underdog,6.4,,,,,True
-ATL@MIL,ATL,Aaron Wiggins,3PM,standard,1.5,More,0.6,-174,-0.055,True,2.33,1,4,25.1,-0.2,Kalshi / Underdog,7.3,,,,,True
-LAL@PHX,LAL,Ziaire Williams,3PM,standard,1.5,Less,0.5783,-143,-0.017,True,1.39,0,2,22.7,0.9,Kalshi / Underdog,4.3,,,,,True
-LAL@PHX,LAL,Ziaire Williams,RA,standard,4.5,Less,0.5701,-132,0.002,True,4.09,2,6,22.7,0.9,Kalshi / Underdog,,4.5,4.5,0.0,,True
-ATL@MIL,MIL,Jaime Jaquez Jr,REB,standard,5.5,Less,0.5637,-145,-0.048,True,4.98,3,7,27.1,-2.1,PrizePicks / Underdog,,5.5,5.5,0.0,,True
-NY@TOR,NY,Karl-Anthony Towns,AST,standard,3.5,Less,0.5634,-150,-0.061,False,3.2,2,5,33.0,1.0,Kalshi / Underdog,,3.5,3.5,0.0,,True
-HOU@WSH,WSH,Kyshawn George,REB,standard,4.5,Less,0.5565,-141,-0.049,False,4.12,2,6,30.3,0.9,PrizePicks / Underdog,,4.5,4.5,0.0,,True
-CHA@LAC,CHA,Moussa Diabate,REB,standard,9.5,Less,0.5496,-125,-0.011,False,8.61,6,11,28.8,0.2,PrizePicks / Underdog,,9.5,9.5,0.0,,True
-SA@UTAH,SA,Luke Kornet,PTS,standard,5.5,Less,0.5489,-111,0.043,False,4.99,2,8,17.6,-0.2,PrizePicks / Underdog,,5.5,5.5,0.0,,True
-LAL@PHX,LAL,Collin Sexton,PTS,standard,14.5,Less,0.5487,-128,-0.023,False,13.1,7,19,21.5,0.8,PrizePicks / Underdog,,14.5,14.5,0.0,,True
+game,team,player,stat,tier,line,side,p,price,ev,top,mean,lo,hi,min,gap,where,vol3
+LAL@PHX,PHX,Devin Booker,3PM,standard,1.5,More,0.6,-172,-0.051,True,2.22,1,4,34.6,-0.4,Kalshi / Underdog,6.4
+ATL@MIL,ATL,Aaron Wiggins,3PM,standard,1.5,More,0.6,-174,-0.055,True,2.32,1,4,25.1,-0.4,Kalshi / Underdog,7.3
+LAL@PHX,LAL,Ziaire Williams,3PM,standard,1.5,Less,0.5789,-143,-0.016,True,1.39,0,2,22.6,1.0,Kalshi / Underdog,4.3
+IND@PHI,IND,Pascal Siakam,REB,standard,6.5,Less,0.5706,-142,-0.028,True,5.66,3,8,31.6,-1.6,Kalshi / Underdog,
+LAL@PHX,LAL,Ziaire Williams,RA,standard,4.5,Less,0.5701,-132,0.002,True,4.08,2,6,22.6,1.0,Kalshi / Underdog,
+NY@TOR,NY,Karl-Anthony Towns,AST,standard,3.5,Less,0.5643,-150,-0.059,False,3.19,2,5,33.0,1.0,Kalshi / Underdog,
+ATL@MIL,ATL,Aaron Wiggins,AST,standard,2.5,Less,0.5619,-150,-0.064,False,2.33,1,4,25.1,-0.4,Kalshi / Underdog,
+ATL@MIL,MIL,Jaime Jaquez Jr,REB,standard,5.5,Less,0.5598,-145,-0.054,False,5.02,3,7,27.1,-2.0,PrizePicks / Underdog,
+IND@PHI,IND,Obi Toppin,PR,standard,14.5,Less,0.5565,-125,0.002,False,12.66,7,18,17.7,0.8,PrizePicks / Underdog,
+HOU@WSH,WSH,Kyshawn George,REB,standard,4.5,Less,0.5556,-141,-0.05,False,4.13,2,6,30.3,0.7,PrizePicks / Underdog,

@@ -2,7 +2,7 @@
  "IND": {
   "status": "expected",
   "starters": [
-   "Andrew Nembhard",
+   "Quenton Jackson",
    "Kelly Oubre",
    "Aaron Nesmith",
    "Pascal Siakam",
@@ -11,16 +11,12 @@
   "out": [
    "Johnny Furphy",
    "Tyrese Haliburton",
+   "Andrew Nembhard",
    "Ben Sheppard"
   ],
-  "ques": [
-   "Andrew Nembhard",
-   "Aaron Nesmith"
-  ],
+  "ques": [],
   "doubt": [],
-  "prob": [
-   "T.J. McConnell"
-  ]
+  "prob": []
  },
  "PHI": {
   "status": "expected",
@@ -28,8 +24,8 @@
    "Tyrese Maxey",
    "VJ Edgecombe",
    "Jaylen Brown",
-   "Dean Wade",
-   "LeBron James"
+   "LeBron James",
+   "Jabari Walker"
   ],
   "out": [
    "Ariel Hukporti",
@@ -55,9 +51,9 @@
    "Austin Reaves"
   ],
   "ques": [
-   "Adou Thiero",
    "Bronny James",
-   "Collin Sexton"
+   "Collin Sexton",
+   "Adou Thiero"
   ],
   "doubt": [],
   "prob": []
@@ -136,9 +132,9 @@
   "starters": [
    "Keyonte George",
    "Darryn Peterson",
-   "Josh Green",
+   "Josh Okogie",
    "Ace Bailey",
-   "Kyle Filipowski"
+   "Mo Bamba"
   ],
   "out": [
    "Jaxson Hayes",
@@ -175,7 +171,7 @@
   "status": "expected",
   "starters": [
    "Derrick White",
-   "Jordan Walsh",
+   "Baylor Scheierman",
    "Jayson Tatum",
    "Paul George",
    "Neemias Queta"
@@ -293,7 +289,9 @@
   "out": [
    "Ousmane Dieng"
   ],
-  "ques": [],
+  "ques": [
+   "Ryan Rollins"
+  ],
   "doubt": [],
   "prob": []
  },

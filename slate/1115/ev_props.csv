@@ -1,9 +1,9 @@
 game,team,player,stat,line,side,p,price,ev,mean,where
-ATL@MIL,ATL,Jock Landale,REB,4.5,Less,0.528,125,0.187,4.59,Kalshi / Novig / books
-DAL@BOS,BOS,Mitchell Robinson,PR,10.5,More,0.564,109,0.178,12.7,Kalshi / Novig / books
-LAL@PHX,LAL,Jake LaRavia,RA,5.5,More,0.531,119,0.163,6.13,Kalshi / Novig / books
-DAL@BOS,BOS,Mitchell Robinson,RA,6.5,More,0.527,118,0.149,7.17,Kalshi / Novig / books
-IND@PHI,PHI,Dean Wade,3PM,0.5,Less,0.422,168,0.13,0.99,Kalshi / Novig / books
-DAL@BOS,BOS,Mitchell Robinson,REB,5.5,More,0.548,106,0.129,6.38,Kalshi / Novig / books
-HOU@WSH,WSH,Alex Sarr,3PM,0.5,Less,0.425,165,0.125,0.95,Kalshi / Novig / books
-ATL@MIL,ATL,Jock Landale,PRA,13.5,Less,0.545,105,0.117,13.25,Kalshi / Novig / books
+ATL@MIL,ATL,Jock Landale,REB,4.5,Less,0.529,125,0.191,4.58,Kalshi / Novig / books
+DAL@BOS,BOS,Mitchell Robinson,PR,10.5,More,0.563,109,0.177,12.67,Kalshi / Novig / books
+LAL@PHX,LAL,Jake LaRavia,RA,5.5,More,0.534,119,0.17,6.18,Kalshi / Novig / books
+DAL@BOS,BOS,Mitchell Robinson,RA,6.5,More,0.527,118,0.149,7.15,Kalshi / Novig / books
+IND@PHI,PHI,LeBron James,AST,6.5,Less,0.559,104,0.14,6.06,Kalshi / Novig / books
+HOU@WSH,WSH,Alex Sarr,3PM,0.5,Less,0.427,165,0.133,0.95,Kalshi / Novig / books
+IND@PHI,IND,T.J. McConnell,PRA,12.5,Less,0.537,111,0.132,12.29,Kalshi / Novig / books
+SA@UTAH,SA,Stephon Castle,AST,5.5,More,0.532,112,0.129,6.04,Kalshi / Novig / books
