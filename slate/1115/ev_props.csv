@@ -1,9 +1,9 @@
 game,team,player,stat,line,side,p,price,ev,mean,where
+IND@PHI,IND,T.J. McConnell,PRA,12.5,Less,0.569,111,0.201,11.47,Kalshi / Novig / books
 ATL@MIL,ATL,Jock Landale,REB,4.5,Less,0.529,125,0.191,4.58,Kalshi / Novig / books
-DAL@BOS,BOS,Mitchell Robinson,PR,10.5,More,0.563,109,0.177,12.67,Kalshi / Novig / books
-LAL@PHX,LAL,Jake LaRavia,RA,5.5,More,0.534,119,0.17,6.18,Kalshi / Novig / books
-DAL@BOS,BOS,Mitchell Robinson,RA,6.5,More,0.527,118,0.149,7.15,Kalshi / Novig / books
-HOU@WSH,WSH,Alex Sarr,3PM,0.5,Less,0.43,165,0.14,0.94,Kalshi / Novig / books
-IND@PHI,PHI,LeBron James,AST,6.5,Less,0.559,104,0.14,6.06,Kalshi / Novig / books
-IND@PHI,IND,T.J. McConnell,PRA,12.5,Less,0.537,111,0.132,12.29,Kalshi / Novig / books
-SA@UTAH,SA,Stephon Castle,AST,5.5,More,0.532,112,0.129,6.04,Kalshi / Novig / books
+DAL@BOS,BOS,Mitchell Robinson,PR,10.5,More,0.565,109,0.18,12.66,Kalshi / Novig / books
+IND@PHI,IND,T.J. McConnell,RA,5.5,Less,0.529,122,0.174,5.46,Kalshi / Novig / books
+IND@PHI,IND,Pascal Siakam,AST,3.5,Less,0.545,114,0.166,3.34,Kalshi / Novig / books
+LAL@PHX,PHX,Dillon Brooks,AST,1.5,Less,0.508,125,0.143,1.7,Kalshi / Novig / books
+DAL@BOS,BOS,Mitchell Robinson,RA,6.5,More,0.523,118,0.14,7.17,Kalshi / Novig / books
+HOU@WSH,WSH,Alex Sarr,3PM,0.5,Less,0.427,165,0.133,0.94,Kalshi / Novig / books

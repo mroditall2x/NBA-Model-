@@ -11,10 +11,11 @@
   "out": [
    "Johnny Furphy",
    "Tyrese Haliburton",
-   "Andrew Nembhard",
    "Ben Sheppard"
   ],
-  "ques": [],
+  "ques": [
+   "Andrew Nembhard"
+  ],
   "doubt": [],
   "prob": []
  },
@@ -30,15 +31,16 @@
   "out": [
    "Ariel Hukporti",
    "Dominick Barlow",
-   "Adem Bona",
+   "Adem Bona"
+  ],
+  "ques": [
    "Joel Embiid"
   ],
-  "ques": [],
   "doubt": [],
   "prob": []
  },
  "LAL": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Luka Doncic",
    "Quentin Grimes",
@@ -55,7 +57,7 @@
   "prob": []
  },
  "PHX": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Devin Booker",
    "Jalen Green",
@@ -71,10 +73,10 @@
   "prob": []
  },
  "CHA": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Coby White",
-   "Grayson Allen",
+   "Sion James",
    "Brandon Miller",
    "Naz Reid",
    "Moussa Diabate"
@@ -88,7 +90,7 @@
   "prob": []
  },
  "LAC": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Darius Garland",
    "Kris Dunn",
@@ -109,19 +111,18 @@
  "SA": {
   "status": "expected",
   "starters": [
-   "De'Aaron Fox",
    "Stephon Castle",
    "Dylan Harper",
+   "Julian Champagnie",
    "Devin Vassell",
    "Victor Wembanyama"
   ],
   "out": [
+   "De'Aaron Fox",
    "Tobias Harris",
    "Jayden Quaintance"
   ],
-  "ques": [
-   "De'Aaron Fox"
-  ],
+  "ques": [],
   "doubt": [],
   "prob": []
  },
@@ -147,7 +148,7 @@
  "DAL": {
   "status": "expected",
   "starters": [
-   "Kyrie Irving",
+   "Marcus Sasser",
    "Caleb Martin",
    "Cooper Flagg",
    "P.J. Washington",
@@ -155,16 +156,15 @@
   ],
   "out": [
    "Tarik Biberovic",
+   "Max Christie",
    "Sergio de Larrea",
+   "Kyrie Irving",
    "Dereck Lively"
   ],
   "ques": [
-   "Santi Aldama",
-   "Kyrie Irving"
+   "Santi Aldama"
   ],
-  "doubt": [
-   "Max Christie"
-  ],
+  "doubt": [],
   "prob": [
    "Daniel Gafford"
   ]

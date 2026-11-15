@@ -1,11 +1,11 @@
 {
- "checked": "2026-11-15T20:22:28.237456+00:00",
+ "checked": "2026-11-15T21:22:32.676066+00:00",
  "games": {
   "IND@PHI": [
    {
     "player": "Andrew Nembhard",
     "team": "IND",
-    "status": "Out",
+    "status": "Day-To-Day",
     "note": "Nembhard (hip) has been ruled out for Sunday's game against the 76ers, Tony East of Forbes.com reports."
    },
    {
@@ -29,7 +29,7 @@
    {
     "player": "Joel Embiid",
     "team": "PHI",
-    "status": "Out",
+    "status": "Day-To-Day",
     "note": "Embiid (right foot injury management) has been ruled out for Sunday's game against the Pacers."
    },
    {
@@ -113,8 +113,8 @@
    {
     "player": "De'Aaron Fox",
     "team": "SA",
-    "status": "Day-To-Day",
-    "note": "Fox (hip) is listed as questionable for Sunday's game against Utah."
+    "status": "Out",
+    "note": "Fox (hip) has been ruled out for Sunday's game against the Jazz."
    },
    {
     "player": "Tobias Harris",
@@ -317,16 +317,16 @@
     "note": "Veesaar was diagnosed with a torn right ACL and is expected to miss the 2026-27 season, the Hawks announced Monday."
    },
    {
+    "player": "Ousmane Dieng",
+    "team": "MIL",
+    "status": "Out",
+    "note": "Dieng (finger) is listed as out for Sunday's game versus the Hawks."
+   },
+   {
     "player": "Ryan Rollins",
     "team": "MIL",
     "status": "Day-To-Day",
     "note": "Rollins (illness) is questionable to play in Sunday's game against the Hawks."
-   },
-   {
-    "player": "Ousmane Dieng",
-    "team": "MIL",
-    "status": "Out",
-    "note": "Dieng (finger) has been ruled out for Sunday's game against the Hawks."
    }
   ],
   "OKC@SAC": [
