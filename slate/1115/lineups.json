@@ -109,7 +109,7 @@
   "prob": []
  },
  "SA": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Stephon Castle",
    "Dylan Harper",
@@ -127,11 +127,11 @@
   "prob": []
  },
  "UTAH": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Keyonte George",
    "Darryn Peterson",
-   "Josh Okogie",
+   "Josh Green",
    "Ace Bailey",
    "Mo Bamba"
   ],
@@ -210,11 +210,11 @@
    "Nate Bittle",
    "Kawhi Leonard"
   ],
-  "ques": [
-   "Scottie Barnes"
-  ],
+  "ques": [],
   "doubt": [],
-  "prob": []
+  "prob": [
+   "Scottie Barnes"
+  ]
  },
  "HOU": {
   "status": "expected",
