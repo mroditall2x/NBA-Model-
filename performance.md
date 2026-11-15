@@ -1,6 +1,6 @@
 # Model performance
 
-_Updated 2026-11-14 22:11 CT from `bet_ledger.csv`. Flat 1 unit per pick. Rows are never deleted or edited, losses and voids included._
+_Updated 2026-11-15 01:00 CT from `bet_ledger.csv`. Flat 1 unit per pick. Rows are never deleted or edited, losses and voids included._
 
 ## Live (logged at grading, from the day this tracker started)
 
