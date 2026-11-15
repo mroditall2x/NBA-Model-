@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-15T19:22:28.579052+00:00",
+ "checked": "2026-11-15T20:22:28.237456+00:00",
  "games": {
   "IND@PHI": [
    {
@@ -52,18 +52,6 @@
    }
   ],
   "LAL@PHX": [
-   {
-    "player": "Adou Thiero",
-    "team": "LAL",
-    "status": "Day-To-Day",
-    "note": "Thiero (ankle) is questionable for Sunday's game against the Suns."
-   },
-   {
-    "player": "Collin Sexton",
-    "team": "LAL",
-    "status": "Day-To-Day",
-    "note": "Sexton (head) is questionable for Sunday's game against the Suns, Daniel Starkand of LakersNation.com reports."
-   },
    {
     "player": "Austin Reaves",
     "team": "LAL",
@@ -261,22 +249,10 @@
     "note": "Smart has been suspended three games for throwing a punch during Wednesday's matchup against Golden State, Shams Charania of ESPN reports."
    },
    {
-    "player": "Alex Sarr",
-    "team": "WSH",
-    "status": "Day-To-Day",
-    "note": "Sarr (illness) is listed as questionable for Sunday's game against Houston."
-   },
-   {
     "player": "Tre Johnson",
     "team": "WSH",
     "status": "Day-To-Day",
     "note": "Johnson is listed as questionable for Sunday's game against the Rockets due to lower-back soreness."
-   },
-   {
-    "player": "Bub Carrington",
-    "team": "WSH",
-    "status": "Day-To-Day",
-    "note": "Carrington (chest) is listed as questionable for Sunday's game against Houston."
    },
    {
     "player": "Tristan Vukcevic",
@@ -395,12 +371,6 @@
     "team": "SAC",
     "status": "Out",
     "note": "Raynaud (knee) has been ruled out for Sunday's game against the Thunder."
-   },
-   {
-    "player": "Keegan Murray",
-    "team": "SAC",
-    "status": "Day-To-Day",
-    "note": "Murray (illness) is questionable for Sunday's game against the Thunder."
    },
    {
     "player": "Precious Achiuwa",
