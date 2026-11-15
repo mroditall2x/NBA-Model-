@@ -1,0 +1,407 @@
+{
+ "checked": "2026-11-15T16:22:32.662919+00:00",
+ "games": {
+  "IND@PHI": [
+   {
+    "player": "Andrew Nembhard",
+    "team": "IND",
+    "status": "Day-To-Day",
+    "note": "Nembhard is questionable for Sunday's game against the 76ers due to left hip soreness."
+   },
+   {
+    "player": "T.J. McConnell",
+    "team": "IND",
+    "status": "Day-To-Day",
+    "note": "McConnell (hamstring) is listed as probable for Sunday's game against the 76ers."
+   },
+   {
+    "player": "Aaron Nesmith",
+    "team": "IND",
+    "status": "Day-To-Day",
+    "note": "Nesmith (hand) is listed as questionable for Sunday's game against Philadelphia."
+   },
+   {
+    "player": "Tyrese Haliburton",
+    "team": "IND",
+    "status": "Out",
+    "note": "Head coach Rick Carlisle said Wednesday that Haliburton (hamstring) will miss at least 10 more days, Alex Golden of SI.com reports."
+   },
+   {
+    "player": "Johnny Furphy",
+    "team": "IND",
+    "status": "Out",
+    "note": "Furphy (knee) is practicing with the G League's Noblesville Boom, per Alex Golden of SI.com."
+   },
+   {
+    "player": "Ben Sheppard",
+    "team": "IND",
+    "status": "Out",
+    "note": "Head coach Rick Carlise confirmed Sheppard will miss \"months\" after undergoing surgery to repair a torn meniscus in his left knee, Tony East of Forbes.com reports."
+   },
+   {
+    "player": "Joel Embiid",
+    "team": "PHI",
+    "status": "Out",
+    "note": "Embiid (right foot injury management) has been ruled out for Sunday's game against the Pacers."
+   },
+   {
+    "player": "Dominick Barlow",
+    "team": "PHI",
+    "status": "Out",
+    "note": "Barlow (back) participated in Thursday's shootaround but doesn't have a timeline to return to game action, Ky Carlin of USA Today reports."
+   },
+   {
+    "player": "Adem Bona",
+    "team": "PHI",
+    "status": "Out",
+    "note": "Bona (back) will be re-evaluated in approximately one week after seeing a specialist, Ky Carlin of USA Today reports."
+   },
+   {
+    "player": "Ariel Hukporti",
+    "team": "PHI",
+    "status": "Out",
+    "note": "Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania of ESPN."
+   }
+  ],
+  "LAL@PHX": [
+   {
+    "player": "Adou Thiero",
+    "team": "LAL",
+    "status": "Day-To-Day",
+    "note": "Thiero (ankle) is questionable for Sunday's game against the Suns."
+   },
+   {
+    "player": "Collin Sexton",
+    "team": "LAL",
+    "status": "Day-To-Day",
+    "note": "Sexton (head) is questionable for Sunday's game against the Suns, Daniel Starkand of LakersNation.com reports."
+   },
+   {
+    "player": "Austin Reaves",
+    "team": "LAL",
+    "status": "Out",
+    "note": "Reaves (heel) has been ruled out for Sunday's game against the Suns, Daniel Starkand of LakersNation.com reports."
+   },
+   {
+    "player": "Drew Timme",
+    "team": "PHX",
+    "status": "Day-To-Day",
+    "note": "The Suns claimed Timme off waivers Monday, per Michael Scotto of HoopsHype.com."
+   },
+   {
+    "player": "Mark Williams",
+    "team": "PHX",
+    "status": "Out",
+    "note": "Williams underwent surgery Thursday to repair a torn labrum in his left shoulder and will miss an extended period of time, Shams Charania of ESPN reports."
+   }
+  ],
+  "CHA@LAC": [
+   {
+    "player": "Kon Knueppel",
+    "team": "CHA",
+    "status": "Out",
+    "note": "Knueppel (hamstring) was diagnosed with a left hamstring strain Sunday and will be re-evaluated in four weeks."
+   },
+   {
+    "player": "Dennis Schroder",
+    "team": "CHA",
+    "status": "Out",
+    "note": "Schroder has been diagnosed with a left hamstring strain and will be reevaluated in two weeks, Michael Scotto of HoopsHype.com reports."
+   },
+   {
+    "player": "Brandon Ingram",
+    "team": "LAC",
+    "status": "Out",
+    "note": "Ingram (Achilles) won't play in Friday's game against the Thunder, per Law Murray of The Athletic."
+   },
+   {
+    "player": "Yanic Konan Niederhauser",
+    "team": "LAC",
+    "status": "Out",
+    "note": "Niederhauser (foot) is out for Tuesday's game against Phoenix, Ohm Youngmisuk of ESPN.com reports."
+   },
+   {
+    "player": "Bradley Beal",
+    "team": "LAC",
+    "status": "Out",
+    "note": "Beal (knee) will not be ready for the start of the regular season, NBA writer Justin Russo reports."
+   },
+   {
+    "player": "Jordan Miller",
+    "team": "LAC",
+    "status": "Out",
+    "note": "Miller underwent surgery Wednesday to repair a torn left rotator cuff and will be re-evaluated in six months, per Law Murray of The Athletic."
+   }
+  ],
+  "SA@UTAH": [
+   {
+    "player": "Tobias Harris",
+    "team": "SA",
+    "status": "Out",
+    "note": "Harris (calf) is out for Wednesday's game against Chicago, Jared Weiss of The Athletic reports."
+   },
+   {
+    "player": "Jayden Quaintance",
+    "team": "SA",
+    "status": "Out",
+    "note": "Quaintance has been around the team but has not yet been cleared for basketball activities, Matt Guzman of SI.com reports."
+   },
+   {
+    "player": "Jaxson Hayes",
+    "team": "UTAH",
+    "status": "Out",
+    "note": "Hayes (knee) has been ruled out for Sunday's game against the Spurs."
+   },
+   {
+    "player": "Trey Alexander",
+    "team": "UTAH",
+    "status": "Out",
+    "note": "Alexander won't play Wednesday against the Grizzlies due to a left knee bone bruise."
+   },
+   {
+    "player": "Lauri Markkanen",
+    "team": "UTAH",
+    "status": "Out",
+    "note": "Markkanen has been diagnosed with a non-displaced fracture in his right hand and will be sidelined for at least one month, Shams Charania of ESPN reports."
+   },
+   {
+    "player": "Jusuf Nurkic",
+    "team": "UTAH",
+    "status": "Out",
+    "note": "Nurkic (toe) has begun participating in on-court activities as he continues recovering from a right foot injury sustained during an Oct. 4 preseason game against Denver. He will be re-evaluated in two weeks, the Jazz announced Friday."
+   },
+   {
+    "player": "Jaren Jackson Jr.",
+    "team": "UTAH",
+    "status": "Out",
+    "note": "Jackson has been diagnosed with a torn MCL in his right knee and will be sidelined for 6-to-8 weeks, per Shams Charania of ESPN."
+   }
+  ],
+  "DAL@BOS": [
+   {
+    "player": "Daniel Gafford",
+    "team": "DAL",
+    "status": "Day-To-Day",
+    "note": "Gafford (face) won't return to Saturday's game against the Cavaliers, Grant Afseth of DallasHoopsJournal.com reports."
+   },
+   {
+    "player": "Max Christie",
+    "team": "DAL",
+    "status": "Day-To-Day",
+    "note": "Christie (ankle) has been ruled out for Saturday's game against Cleveland."
+   },
+   {
+    "player": "Dereck Lively II",
+    "team": "DAL",
+    "status": "Out",
+    "note": "Lively (foot) is listed as out for Thursday's game in Minnesota."
+   },
+   {
+    "player": "Tarik Biberovic",
+    "team": "DAL",
+    "status": "Out",
+    "note": "Biberovic (heel) is out for Thursday's game against Minnesota."
+   },
+   {
+    "player": "Sergio de Larrea",
+    "team": "DAL",
+    "status": "Out",
+    "note": "De Larrea (knee) has been ruled out for Thursday's game at Minnesota."
+   }
+  ],
+  "NY@TOR": [
+   {
+    "player": "Nate Bittle",
+    "team": "TOR",
+    "status": "Out",
+    "note": "Bittle (foot) has been ruled out for Sunday's game against the Knicks, Zulfi Sheikh of Sportsnet.ca reports."
+   },
+   {
+    "player": "Scottie Barnes",
+    "team": "TOR",
+    "status": "Out",
+    "note": "Barnes (groin) is listed as questionable for Sunday's game against the Knicks, Michael Grange of Sportsnet.ca reports."
+   },
+   {
+    "player": "Kevin McCullar Jr.",
+    "team": "TOR",
+    "status": "Day-To-Day",
+    "note": "McCullar signed a two-way contract with the Raptors on Thursday, Michael Scotto of HoopsHype.com reports."
+   },
+   {
+    "player": "Kawhi Leonard",
+    "team": "TOR",
+    "status": "Out",
+    "note": "Head coach Darko Rajakovic said Wednesday that Leonard (knee) is doing individual on-court work and is progressing well, Michael Grange of Sportsnet.ca reports."
+   }
+  ],
+  "HOU@WSH": [
+   {
+    "player": "Clint Capela",
+    "team": "HOU",
+    "status": "Out",
+    "note": "Capela (ankle) has been ruled out for Sunday's game at Washington."
+   },
+   {
+    "player": "Steven Adams",
+    "team": "HOU",
+    "status": "Out",
+    "note": "Adams (calf) has been upgraded to probable for Sunday's game against the Wizards."
+   },
+   {
+    "player": "Fred VanVleet",
+    "team": "HOU",
+    "status": "Out",
+    "note": "VanVleet (right knee injury management) has been ruled out for Sunday's game against the Wizards."
+   },
+   {
+    "player": "Marcus Smart",
+    "team": "HOU",
+    "status": "Suspension",
+    "note": "Smart has been suspended three games for throwing a punch during Wednesday's matchup against Golden State, Shams Charania of ESPN reports."
+   },
+   {
+    "player": "Alex Sarr",
+    "team": "WSH",
+    "status": "Day-To-Day",
+    "note": "Sarr (illness) is listed as questionable for Sunday's game against Houston."
+   },
+   {
+    "player": "Tre Johnson",
+    "team": "WSH",
+    "status": "Day-To-Day",
+    "note": "Johnson is listed as questionable for Sunday's game against the Rockets due to lower-back soreness."
+   },
+   {
+    "player": "Bub Carrington",
+    "team": "WSH",
+    "status": "Day-To-Day",
+    "note": "Carrington (chest) is listed as questionable for Sunday's game against Houston."
+   },
+   {
+    "player": "Tristan Vukcevic",
+    "team": "WSH",
+    "status": "Out",
+    "note": "Vukcevic (hip) has been ruled out for Monday's game against Detroit."
+   },
+   {
+    "player": "Reece Beekman",
+    "team": "WSH",
+    "status": "Out",
+    "note": "The Wizards announced Monday that Beekman sustained a right acromioclavicular joint injury and will be re-evaluated in approximately three weeks."
+   },
+   {
+    "player": "Justin Champagnie",
+    "team": "WSH",
+    "status": "Out",
+    "note": "Champagnie (foot) is expected to miss several months, per Josh Robbins of The Athletic."
+   },
+   {
+    "player": "Jamir Watkins",
+    "team": "WSH",
+    "status": "Out",
+    "note": "The Wizards announced Thursday that Watkins has undergone surgery for a torn ACL."
+   }
+  ],
+  "ATL@MIL": [
+   {
+    "player": "Kingston Flemings",
+    "team": "ATL",
+    "status": "Out",
+    "note": "Flemings (back) has been ruled out for Sunday's game against the Bucks."
+   },
+   {
+    "player": "Mouhamed Gueye",
+    "team": "ATL",
+    "status": "Out",
+    "note": "Gueye (foot) is ready to begin on-court activities and will be re-evaluated in four weeks, Brad Rowland of the Locked On Podcast Network reports."
+   },
+   {
+    "player": "Keshon Gilbert",
+    "team": "ATL",
+    "status": "Out",
+    "note": "Gilbert (knee) has been ruled out for Friday's game against the Bulls."
+   },
+   {
+    "player": "Asa Newell",
+    "team": "ATL",
+    "status": "Out",
+    "note": "Newell (toe) has been ruled out for Friday's game against Chicago."
+   },
+   {
+    "player": "Henri Veesaar",
+    "team": "ATL",
+    "status": "Out",
+    "note": "Veesaar was diagnosed with a torn right ACL and is expected to miss the 2026-27 season, the Hawks announced Monday."
+   },
+   {
+    "player": "Ousmane Dieng",
+    "team": "MIL",
+    "status": "Out",
+    "note": "Dieng (finger) has been ruled out for Sunday's game against the Hawks."
+   }
+  ],
+  "OKC@SAC": [
+   {
+    "player": "Jaylin Williams",
+    "team": "OKC",
+    "status": "Out",
+    "note": "Williams (back) has been ruled out for Sunday's game against the Kings."
+   },
+   {
+    "player": "Ajay Mitchell",
+    "team": "OKC",
+    "status": "Day-To-Day",
+    "note": "Mitchell (ankle) is questionable to suit up for Sunday's game against the Kings."
+   },
+   {
+    "player": "Thomas Sorber",
+    "team": "OKC",
+    "status": "Out",
+    "note": "Sorber (knee) has been ruled out for Friday's game against the Clippers."
+   },
+   {
+    "player": "Cason Wallace",
+    "team": "OKC",
+    "status": "Out",
+    "note": "Wallace underwent surgery Friday to repair a torn labrum in his left shoulder and will be re-evaluated before the end of the regular season, Clemente Almanza of USA Today reports."
+   },
+   {
+    "player": "Chet Holmgren",
+    "team": "OKC",
+    "status": "Out",
+    "note": "Holmgren underwent a biological treatment Friday to address a small patellar tendon tear and will miss at least 8-10 weeks, Nick Crain of Slam reports."
+   },
+   {
+    "player": "Jalen Williams",
+    "team": "OKC",
+    "status": "Out",
+    "note": "Williams (leg) underwent successful surgery Wednesday to \"address a fractured left fibula and reconstruction of ankle ligaments following a fracture and dislocation.\" He will be re-evaluated before the end of the regular season, Tim MacMahon of ESPN.com reports."
+   },
+   {
+    "player": "Maxime Raynaud",
+    "team": "SAC",
+    "status": "Out",
+    "note": "Raynaud (knee) has been ruled out for Sunday's game against the Thunder."
+   },
+   {
+    "player": "Keegan Murray",
+    "team": "SAC",
+    "status": "Day-To-Day",
+    "note": "Murray (illness) is questionable for Sunday's game against the Thunder."
+   },
+   {
+    "player": "Precious Achiuwa",
+    "team": "SAC",
+    "status": "Day-To-Day",
+    "note": "Achiuwa (ankle) is questionable for Sunday's game against the Thunder."
+   },
+   {
+    "player": "Ben Simmons",
+    "team": "SAC",
+    "status": "Out",
+    "note": "Simmons underwent successful surgery Tuesday to repair a torn right Achilles tendon, James Ham of ESPN 1320 Sacramento reports."
+   }
+  ]
+ }
+}
