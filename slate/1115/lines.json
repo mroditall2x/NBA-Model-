@@ -5,17 +5,17 @@
    "home": "PHX",
    "id": "29b8bbf05645162d89780189eed390c2",
    "commence": "2026-11-15T21:10:00Z",
-   "home_spread": 9.5,
+   "home_spread": 18.0,
    "spread_odds": [
-    -114,
-    -114
+    -125,
+    -107
    ],
-   "ml_home": 418,
-   "ml_away": -650,
+   "ml_home": 1800,
+   "ml_away": -10000,
    "total": 228.5,
    "total_odds": [
-    -118,
-    -111
+    -116,
+    -114
    ]
   },
   {
@@ -23,17 +23,17 @@
    "home": "LAC",
    "id": "db26abc3cfd070ab012227413abafeb2",
    "commence": "2026-11-15T21:41:00Z",
-   "home_spread": -4.0,
+   "home_spread": 1.5,
    "spread_odds": [
-    -116,
-    -110
+    -122,
+    -105
    ],
-   "ml_home": -190,
-   "ml_away": 148,
-   "total": 207.5,
+   "ml_home": -112,
+   "ml_away": -118,
+   "total": 209.0,
    "total_odds": [
-    -115,
-    -115
+    -118,
+    -111
    ]
   },
   {
@@ -41,17 +41,17 @@
    "home": "UTAH",
    "id": "b2ffb781fe21df092fae2cff6c4c8c89",
    "commence": "2026-11-15T22:10:00Z",
-   "home_spread": 13.5,
+   "home_spread": 8.5,
    "spread_odds": [
-    -115,
-    -115
+    -118,
+    -110
    ],
-   "ml_home": 520,
-   "ml_away": -900,
-   "total": 227.5,
+   "ml_home": 275,
+   "ml_away": -388,
+   "total": 234.5,
    "total_odds": [
-    -111,
-    -115
+    -113,
+    -116
    ]
   },
   {
@@ -82,12 +82,12 @@
     -110,
     -110
    ],
-   "ml_home": 145,
-   "ml_away": -172,
+   "ml_home": 146,
+   "ml_away": -170,
    "total": 218.0,
    "total_odds": [
     -110,
-    -110
+    -107
    ]
   },
   {
@@ -100,7 +100,7 @@
     -110,
     -110
    ],
-   "ml_home": 276,
+   "ml_home": 275,
    "ml_away": -350,
    "total": 223.5,
    "total_odds": [
@@ -142,24 +142,6 @@
    "total_odds": [
     -110,
     -110
-   ]
-  },
-  {
-   "away": "IND",
-   "home": "PHI",
-   "id": "de475830b5df0d1aae4fcd8f9bbaead9",
-   "commence": "2026-11-15T18:10:00Z",
-   "home_spread": -8.0,
-   "spread_odds": [
-    -110,
-    -110
-   ],
-   "ml_home": -305,
-   "ml_away": 250,
-   "total": 225.5,
-   "total_odds": [
-    -109,
-    -111
    ]
   }
  ]

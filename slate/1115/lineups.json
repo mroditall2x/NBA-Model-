@@ -146,34 +146,31 @@
   "prob": []
  },
  "DAL": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
-   "Marcus Sasser",
-   "Caleb Martin",
    "Cooper Flagg",
+   "Caleb Martin",
+   "Naji Marshall",
    "P.J. Washington",
    "Daniel Gafford"
   ],
   "out": [
+   "Santi Aldama",
    "Tarik Biberovic",
    "Max Christie",
    "Sergio de Larrea",
    "Kyrie Irving",
    "Dereck Lively"
   ],
-  "ques": [
-   "Santi Aldama"
-  ],
+  "ques": [],
   "doubt": [],
-  "prob": [
-   "Daniel Gafford"
-  ]
+  "prob": []
  },
  "BOS": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Derrick White",
-   "Baylor Scheierman",
+   "Jordan Walsh",
    "Jayson Tatum",
    "Paul George",
    "Neemias Queta"
@@ -184,7 +181,7 @@
   "prob": []
  },
  "NY": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Jalen Brunson",
    "Mikal Bridges",
@@ -198,13 +195,13 @@
   "prob": []
  },
  "TOR": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Immanuel Quickley",
    "RJ Barrett",
    "Ja'Kobe Walter",
    "Scottie Barnes",
-   "Jakob Poeltl"
+   "Collin Murray-Boyles"
   ],
   "out": [
    "Nate Bittle",
@@ -212,18 +209,16 @@
   ],
   "ques": [],
   "doubt": [],
-  "prob": [
-   "Scottie Barnes"
-  ]
+  "prob": []
  },
  "HOU": {
   "status": "expected",
   "starters": [
    "Amen Thompson",
-   "Reed Sheppard",
    "Kevin Durant",
    "Jabari Smith",
-   "Alperen Sengun"
+   "Alperen Sengun",
+   "Steven Adams"
   ],
   "out": [
    "Clint Capela",
@@ -246,12 +241,11 @@
   "out": [
    "Reece Beekman",
    "Justin Champagnie",
+   "Tre Johnson",
    "Tristan Vukcevic",
    "Jamir Watkins"
   ],
-  "ques": [
-   "Tre Johnson"
-  ],
+  "ques": [],
   "doubt": [],
   "prob": []
  },
