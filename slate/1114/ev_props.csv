@@ -1,9 +1,9 @@
 game,team,player,stat,line,side,p,price,ev,mean,where
-BKN@MEM,BKN,Danny Wolf,REB,3.5,Less,0.539,126,0.218,3.42,Kalshi / Novig / books
-BKN@MEM,BKN,Day'Ron Sharpe,AST,3.5,Less,0.562,110,0.181,3.22,Kalshi / Novig / books
-BKN@MEM,BKN,Danny Wolf,PA,9.5,Less,0.62,-111,0.179,7.44,Kalshi / Underdog
-BKN@MEM,BKN,Danny Wolf,PR,10.5,Less,0.576,104,0.174,9.39,Kalshi / Novig / books
-BKN@MEM,BKN,Danny Wolf,PRA,12.5,Less,0.586,-103,0.155,10.86,PrizePicks / Underdog
-BKN@MEM,BKN,Danny Wolf,RA,5.5,Less,0.573,100,0.145,4.89,Kalshi / Novig / books
+DET@MIA,MIA,Davion Mitchell,REB,2.5,More,0.522,120,0.148,2.94,Kalshi / Novig / books
+DET@MIA,DET,Kevin Huerter,PR,13.5,Less,0.539,110,0.132,13.49,Kalshi / Novig / books
+DET@MIA,DET,John Collins,RA,7.5,Less,0.577,-104,0.131,6.77,PrizePicks / Underdog
 DAL@CLE,DAL,Santi Aldama,PRA,12.5,Less,0.539,109,0.127,12.28,Kalshi / Novig / books
-DET@MIA,DET,John Collins,RA,7.5,Less,0.573,-104,0.124,6.8,PrizePicks / Underdog
+DAL@CLE,DAL,Santi Aldama,RA,5.5,Less,0.56,100,0.12,5.05,Kalshi / Novig / books
+DEN@NO,NO,Jordan Poole,AST,2.5,Less,0.502,120,0.104,2.8,Kalshi / Novig / books
+DAL@CLE,DAL,Walter Clayton Jr.,PTS,7.5,Less,0.537,105,0.101,7.58,Kalshi / Novig / books
+BKN@MEM,BKN,Day'Ron Sharpe,AST,3.5,Less,0.522,110,0.095,3.54,Kalshi / Novig / books

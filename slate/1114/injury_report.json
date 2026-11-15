@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-14T23:22:29.080512+00:00",
+ "checked": "2026-11-15T00:22:35.112220+00:00",
  "games": {
   "DEN@NO": [
    {
@@ -111,20 +111,8 @@
    {
     "player": "Michael Porter Jr.",
     "team": "BKN",
-    "status": "Day-To-Day",
-    "note": "Porter delivered 22 points (7-14 FG, 4-10 3Pt, 4-4 FT), six rebounds, three assists and a steal across 28 minutes in Wednesday's 145-111 win over the Pelicans."
-   },
-   {
-    "player": "Mikel Brown Jr.",
-    "team": "BKN",
-    "status": "Day-To-Day",
-    "note": "Brown (illness) has been upgraded to probable for Saturday's game at Memphis."
-   },
-   {
-    "player": "Nolan Traore",
-    "team": "BKN",
-    "status": "Day-To-Day",
-    "note": "Traore (calf) is listed as probable for Saturday's game against Memphis."
+    "status": "Out",
+    "note": "Porter (personal) is out for Saturday's game against the Grizzlies, Brian Lewis of the New York Post reports."
    },
    {
     "player": "Quinten Post",
@@ -165,28 +153,22 @@
   ],
   "CHI@MIN": [
    {
-    "player": "Tobe Awaka",
+    "player": "Jalen Smith",
     "team": "CHI",
     "status": "Out",
-    "note": "Awaka has been ruled out for Saturday's game against the Timberwolves."
+    "note": "Smith (finger) has been ruled out for Saturday's game against Minnesota, K.C. Johnson of Chicago Sports Network reports."
    },
    {
     "player": "Nic Claxton",
     "team": "CHI",
-    "status": "Day-To-Day",
-    "note": "Claxton (hamstring) is listed as questionable for Saturday's game against the Timberwolves."
+    "status": "Out",
+    "note": "Claxton (hamstring) is out for Saturday's game against the Timberwolves, K.C. Johnson of Chicago Sports Network reports."
    },
    {
-    "player": "Jalen Smith",
+    "player": "Tobe Awaka",
     "team": "CHI",
-    "status": "Day-To-Day",
-    "note": "Smith (finger) is listed as questionable for Saturday's game at Minnesota."
-   },
-   {
-    "player": "Norman Powell",
-    "team": "CHI",
-    "status": "Day-To-Day",
-    "note": "Powell (back) is listed as questionable for Saturday's game against Minnesota."
+    "status": "Out",
+    "note": "Awaka has been ruled out for Saturday's game against the Timberwolves."
    },
    {
     "player": "Caleb Wilson",
@@ -229,20 +211,8 @@
    {
     "player": "Pelle Larsson",
     "team": "MIA",
-    "status": "Day-To-Day",
-    "note": "Larsson (illness) is listed as doubtful for Saturday's game against Detroit."
-   },
-   {
-    "player": "Klay Thompson",
-    "team": "MIA",
-    "status": "Day-To-Day",
-    "note": "Thompson (ankle) is listed as probable for Saturday's game against the Pistons."
-   },
-   {
-    "player": "Giannis Antetokounmpo",
-    "team": "MIA",
-    "status": "Day-To-Day",
-    "note": "Antetokounmpo (wrist) is listed as probable for Saturday's game against Detroit."
+    "status": "Out",
+    "note": "Larsson (illness) has been ruled out for Saturday's game against the Pistons."
    }
   ]
  }
