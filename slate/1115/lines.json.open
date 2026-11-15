@@ -1,0 +1,166 @@
+{
+ "games": [
+  {
+   "away": "IND",
+   "home": "PHI",
+   "id": "de475830b5df0d1aae4fcd8f9bbaead9",
+   "commence": "2026-11-15T18:10:00Z",
+   "home_spread": -7.0,
+   "spread_odds": [
+    -110,
+    -110
+   ],
+   "ml_home": -275,
+   "ml_away": 222,
+   "total": 225.0,
+   "total_odds": [
+    -110,
+    -110
+   ]
+  },
+  {
+   "away": "LAL",
+   "home": "PHX",
+   "id": "29b8bbf05645162d89780189eed390c2",
+   "commence": "2026-11-15T21:10:00Z",
+   "home_spread": 3.0,
+   "spread_odds": [
+    -110,
+    -110
+   ],
+   "ml_home": 127,
+   "ml_away": -150,
+   "total": 227.5,
+   "total_odds": [
+    -110,
+    -110
+   ]
+  },
+  {
+   "away": "CHA",
+   "home": "LAC",
+   "id": "db26abc3cfd070ab012227413abafeb2",
+   "commence": "2026-11-15T21:40:00Z",
+   "home_spread": 1.0,
+   "spread_odds": [
+    -110,
+    -108
+   ],
+   "ml_home": -110,
+   "ml_away": -110,
+   "total": 214.5,
+   "total_odds": [
+    -110,
+    -110
+   ]
+  },
+  {
+   "away": "SA",
+   "home": "UTAH",
+   "id": "b2ffb781fe21df092fae2cff6c4c8c89",
+   "commence": "2026-11-15T22:10:00Z",
+   "home_spread": 16.5,
+   "spread_odds": [
+    -113,
+    -105
+   ],
+   "ml_home": 825,
+   "ml_away": -1400,
+   "total": 225.5,
+   "total_odds": [
+    -110,
+    -110
+   ]
+  },
+  {
+   "away": "DAL",
+   "home": "BOS",
+   "id": "956532b58659658093d93e24e83f5213",
+   "commence": "2026-11-15T23:10:00Z",
+   "home_spread": -13.5,
+   "spread_odds": [
+    -110,
+    -110
+   ],
+   "ml_home": -750,
+   "ml_away": 530,
+   "total": 219.5,
+   "total_odds": [
+    -110,
+    -110
+   ]
+  },
+  {
+   "away": "NY",
+   "home": "TOR",
+   "id": "78f61a78b70b9d79f38eb7648eac1a08",
+   "commence": "2026-11-15T23:10:00Z",
+   "home_spread": 4.5,
+   "spread_odds": [
+    -115,
+    -105
+   ],
+   "ml_home": 159,
+   "ml_away": -187,
+   "total": 217.5,
+   "total_odds": [
+    -110,
+    -110
+   ]
+  },
+  {
+   "away": "HOU",
+   "home": "WSH",
+   "id": "488c2bc1e099361f06015cf126f95fd6",
+   "commence": "2026-11-16T00:10:00Z",
+   "home_spread": 8.5,
+   "spread_odds": [
+    -110,
+    -110
+   ],
+   "ml_home": 285,
+   "ml_away": -359,
+   "total": 223.0,
+   "total_odds": [
+    -110,
+    -110
+   ]
+  },
+  {
+   "away": "ATL",
+   "home": "MIL",
+   "id": "b931a21d34e414ee92b1a4b8e63774aa",
+   "commence": "2026-11-16T01:10:00Z",
+   "home_spread": 7.5,
+   "spread_odds": [
+    -105,
+    -114
+   ],
+   "ml_home": 250,
+   "ml_away": -310,
+   "total": 234.5,
+   "total_odds": [
+    -113,
+    -105
+   ]
+  },
+  {
+   "away": "OKC",
+   "home": "SAC",
+   "id": "f8334b355cf9346d423fa9eb93b425f0",
+   "commence": "2026-11-16T02:10:00Z",
+   "home_spread": 10.5,
+   "spread_odds": [
+    -110,
+    -110
+   ],
+   "ml_home": 360,
+   "ml_away": -475,
+   "total": 222.5,
+   "total_odds": [
+    -110,
+    -110
+   ]
+  }
+ ]
+}

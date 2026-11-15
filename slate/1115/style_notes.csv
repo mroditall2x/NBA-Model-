@@ -1,0 +1,18 @@
+game,team,kind,note
+IND@PHI,IND,edge,"IND offense top-8 in rim shots (33.9%, #6) vs PHI D that allows #4"
+IND@PHI,PHI,watch,"PHI offense often stuck late in the clock (40.6% of shots, #3)"
+LAL@PHX,LAL,edge,"LAL offense top-8 in rim shots (32.8%, #7) vs PHX D that allows #7"
+LAL@PHX,LAL,watch,"LAL offense often stuck late in the clock (39.6% of shots, #4)"
+LAL@PHX,PHX,edge,"PHX offense top-8 in pull-up 3s (12.0%, #8) vs LAL D that allows #6"
+LAL@PHX,PHX,clash,PHX leans on pull-up 2s (#1) but LAL D takes it away (#30 allowed)
+CHA@LAC,CHA,clash,CHA leans on spot-up 3s (#1) but LAC D takes it away (#28 allowed)
+CHA@LAC,CHA,watch,"CHA offense often stuck late in the clock (41.3% of shots, #2)"
+CHA@LAC,LAC,edge,"LAC offense top-8 in transition (10.8%, #8) vs CHA D that allows #3"
+SA@UTAH,SA,clash,SA leans on transition (#2) but UTAH D takes it away (#24 allowed)
+DAL@BOS,DAL,clash,DAL leans on pull-up 2s (#8) but BOS D takes it away (#24 allowed)
+DAL@BOS,BOS,clash,BOS leans on pull-up 3s (#4) but DAL D takes it away (#30 allowed)
+NY@TOR,NY,watch,"NY offense often stuck late in the clock (38.7% of shots, #5)"
+HOU@WSH,HOU,watch,"HOU offense often stuck late in the clock (45.2% of shots, #1)"
+HOU@WSH,WSH,edge,"WSH offense top-8 in pull-up 2s (18.3%, #6) vs HOU D that allows #7"
+HOU@WSH,WSH,watch,"WSH offense often stuck late in the clock (37.0% of shots, #8)"
+OKC@SAC,OKC,edge,"OKC offense top-8 in pull-up 2s (21.8%, #2) vs SAC D that allows #8"

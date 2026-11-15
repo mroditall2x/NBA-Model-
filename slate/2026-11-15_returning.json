@@ -1,0 +1,29 @@
+{
+ "OKC": [
+  {
+   "player": "Ajay Mitchell",
+   "missed": 2,
+   "normal_min": 29.8,
+   "proj_min": 26.8,
+   "final_min": 29.6
+  }
+ ],
+ "CHA": [
+  {
+   "player": "Brandon Miller",
+   "missed": 2,
+   "normal_min": 30.8,
+   "proj_min": 27.7,
+   "final_min": 30.7
+  }
+ ],
+ "LAL": [
+  {
+   "player": "Quentin Grimes",
+   "missed": 2,
+   "normal_min": 28.1,
+   "proj_min": 25.3,
+   "final_min": 28.4
+  }
+ ]
+}
