@@ -1,6 +1,6 @@
 {
  "IND": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Quenton Jackson",
    "Kelly Oubre",
@@ -19,7 +19,7 @@
   "prob": []
  },
  "PHI": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Tyrese Maxey",
    "VJ Edgecombe",
@@ -161,11 +161,15 @@
    "Dereck Lively"
   ],
   "ques": [
-   "Max Christie",
-   "Daniel Gafford"
+   "Santi Aldama",
+   "Kyrie Irving"
   ],
-  "doubt": [],
-  "prob": []
+  "doubt": [
+   "Max Christie"
+  ],
+  "prob": [
+   "Daniel Gafford"
+  ]
  },
  "BOS": {
   "status": "expected",
@@ -230,9 +234,7 @@
   ],
   "ques": [],
   "doubt": [],
-  "prob": [
-   "Steven Adams"
-  ]
+  "prob": []
  },
  "WSH": {
   "status": "expected",
@@ -273,7 +275,9 @@
    "Mouhamed Gueye",
    "Asa Newell"
   ],
-  "ques": [],
+  "ques": [
+   "Jock Landale"
+  ],
   "doubt": [],
   "prob": []
  },
