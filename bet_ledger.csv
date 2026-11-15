@@ -489,3 +489,9 @@ date,game,player,stat,side,line,team,tier,top,model_p,price,price_src,book,poste
 2026-11-13,UTAH@HOU,Tari Eason,AST,Less,1.5,,standard,False,0.6092000000000001,-172.0,book,Kalshi / Underdog,,2.0,Loss,-1.0,backfill,2026-11-14 20:56,backfilled from graded_log; posting time unknown
 2026-11-13,GS@SA,Julian Champagnie,REB,Less,5.5,,standard,False,0.6122000000000001,-130.0,book,Kalshi / Underdog,,8.0,Loss,-1.0,backfill,2026-11-14 20:56,backfilled from graded_log; posting time unknown
 2026-11-13,POR@SAC,Domantas Sabonis,RA,Less,18.5,,standard,False,0.6038,-135.0,book,PrizePicks / Underdog,,17.0,Win,0.741,backfill,2026-11-14 20:56,backfilled from graded_log; posting time unknown
+2026-11-14,DEN@NO,DeAndre Jordan,REB,Less,6.0,NO,standard,True,0.7364,-120.0,assumed_dfs,PrizePicks / Underdog,,,DNP,0.0,live,2026-11-14 22:11,no book price - counted at -120 (DFS); void (DNP); posting time unknown
+2026-11-14,DET@MIA,John Collins,AST,Less,1.5,DET,standard,True,0.6548,-238.0,book,Kalshi / Underdog,,0.0,Win,0.42,live,2026-11-14 22:11,posting time unknown
+2026-11-14,DET@MIA,Kevin Huerter,RA,Less,6.5,DET,standard,True,0.599,-128.0,book,PrizePicks / Underdog,,11.0,Loss,-1.0,live,2026-11-14 22:11,posting time unknown
+2026-11-14,DET@MIA,Duncan Robinson,AST,Less,2.5,DET,standard,True,0.5876,-169.0,book,Kalshi / Underdog,,1.0,Win,0.592,live,2026-11-14 22:11,posting time unknown
+2026-11-14,DET@MIA,Bam Adebayo,AST,Less,3.5,MIA,standard,True,0.581,-152.0,book,Kalshi / Underdog,,4.0,Loss,-1.0,live,2026-11-14 22:11,posting time unknown
+2026-11-14,DET@MIA,Giannis Antetokounmpo,REB,Less,12.5,MIA,standard,False,0.5804,-134.0,book,Kalshi / Underdog,,14.0,Loss,-1.0,live,2026-11-14 22:11,posting time unknown

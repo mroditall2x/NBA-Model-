@@ -1,0 +1,7 @@
+game,team,player,stat,tier,line,side,p,price,ev,top,mean,lo,hi,min,gap,where,actual,result,group
+DEN@NO,NO,DeAndre Jordan,REB,standard,6.0,Less,0.7363999999999999,,,True,3.32,1,5,10.8,0.0,PrizePicks / Underdog,,DNP,reb/ast
+DET@MIA,DET,John Collins,AST,standard,1.5,Less,0.6548,-238.0,-0.07,True,0.93,0,2,26.5,-1.4,Kalshi / Underdog,0.0,Win,reb/ast
+DET@MIA,DET,Kevin Huerter,RA,standard,6.5,Less,0.599,-128.0,0.067,True,5.58,3,8,24.1,1.6,PrizePicks / Underdog,11.0,Loss,reb/ast
+DET@MIA,DET,Duncan Robinson,AST,standard,2.5,Less,0.5876,-169.0,-0.065,True,2.13,1,3,30.7,0.2,Kalshi / Underdog,1.0,Win,reb/ast
+DET@MIA,MIA,Bam Adebayo,AST,standard,3.5,Less,0.581,-152.0,-0.037,True,3.07,1,5,34.1,-4.0,Kalshi / Underdog,4.0,Loss,reb/ast
+DET@MIA,MIA,Giannis Antetokounmpo,REB,standard,12.5,Less,0.5804,-134.0,0.014,False,11.4,8,15,34.6,1.1,Kalshi / Underdog,14.0,Loss,reb/ast

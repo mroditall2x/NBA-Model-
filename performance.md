@@ -1,16 +1,50 @@
 # Model performance
 
-_Updated 2026-11-14 20:56 CT from `bet_ledger.csv`. Flat 1 unit per pick. Rows are never deleted or edited, losses and voids included._
+_Updated 2026-11-14 22:11 CT from `bet_ledger.csv`. Flat 1 unit per pick. Rows are never deleted or edited, losses and voids included._
 
 ## Live (logged at grading, from the day this tracker started)
 
-_No picks yet._
+**2-3-0 (1 void)**, win rate 40.0%, **-1.99 units**, ROI -39.8%, max drawdown 2.41u
+
+Cumulative units by day: 11-14 -1.99
+
+### By price basis
+
+| price_basis | picks | record | win_pct | units | roi | max_dd |
+|---|---|---|---|---|---|---|
+| DFS (-120 assumed) | 1 | 0-0-0 (1 void) | - | +0.00 | - | - |
+| real book price | 5 | 2-3-0 | 40.0% | -1.99 | -39.8% | 2.41u |
+
+### By tier
+
+| tier | picks | record | win_pct | units | roi | max_dd |
+|---|---|---|---|---|---|---|
+| standard | 6 | 2-3-0 (1 void) | 40.0% | -1.99 | -39.8% | 2.41u |
+
+### By stat group
+
+| stat_group | picks | record | win_pct | units | roi | max_dd |
+|---|---|---|---|---|---|---|
+| reb/ast | 6 | 2-3-0 (1 void) | 40.0% | -1.99 | -39.8% | 2.41u |
+
+### Over vs Under
+
+| side | picks | record | win_pct | units | roi | max_dd |
+|---|---|---|---|---|---|---|
+| Less | 6 | 2-3-0 (1 void) | 40.0% | -1.99 | -39.8% | 2.41u |
+
+### Top-5 vs rest
+
+| top | picks | record | win_pct | units | roi | max_dd |
+|---|---|---|---|---|---|---|
+| False | 1 | 0-1-0 | 0.0% | -1.00 | -100.0% | 1.00u |
+| True | 5 | 2-2-0 (1 void) | 50.0% | -0.99 | -24.7% | 1.41u |
 
 ## History (backfilled from graded_log.csv; posting times and some prices unknown)
 
 **293-192-5**, win rate 60.4%, **-29.57 units**, ROI -18.1%, max drawdown 31.31u
 
-Cumulative units by day: 10-20 -0.17, 10-21 -1.84, 10-24 -4.51, 10-25 -4.34, 10-26 -5.01, 10-27 -5.51, 10-30 -4.34, 10-31 -6.34, 11-01 -8.01, 11-02 -7.18, 11-04 -6.13, 11-05 -5.01, 11-06 -11.52, 11-07 -16.36, 11-08 -19.81, 11-09 -22.6, 11-10 -22.31, 11-11 -20.79, 11-12 -24.53, 11-13 -29.57
+Cumulative units by day: 10-20 -0.17, 10-21 -1.84, 10-24 -4.5, 10-25 -4.34, 10-26 -5.01, 10-27 -5.51, 10-30 -4.34, 10-31 -6.34, 11-01 -8.01, 11-02 -7.18, 11-04 -6.13, 11-05 -5.01, 11-06 -11.52, 11-07 -16.36, 11-08 -19.81, 11-09 -22.6, 11-10 -22.31, 11-11 -20.79, 11-12 -24.53, 11-13 -29.57
 
 ### By price basis
 
