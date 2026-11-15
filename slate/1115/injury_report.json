@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-15T22:22:31.424741+00:00",
+ "checked": "2026-11-15T23:22:28.157739+00:00",
  "games": {
   "LAL@PHX": [
    {
@@ -111,6 +111,12 @@
   ],
   "DAL@BOS": [
    {
+    "player": "Santi Aldama",
+    "team": "DAL",
+    "status": "Out",
+    "note": "Aldama (ankle) is out for Sunday's game against the Celtics."
+   },
+   {
     "player": "Max Christie",
     "team": "DAL",
     "status": "Out",
@@ -121,18 +127,6 @@
     "team": "DAL",
     "status": "Out",
     "note": "Irving (knee) has been ruled out for Sunday's game against the Celtics."
-   },
-   {
-    "player": "Santi Aldama",
-    "team": "DAL",
-    "status": "Day-To-Day",
-    "note": "Aldama (ankle) is listed as questionable for Sunday's game in Boston."
-   },
-   {
-    "player": "Daniel Gafford",
-    "team": "DAL",
-    "status": "Day-To-Day",
-    "note": "Gafford (shoulder) is probable to play in Sunday's game against the Celtics."
    },
    {
     "player": "Dereck Lively II",
@@ -154,12 +148,6 @@
    }
   ],
   "NY@TOR": [
-   {
-    "player": "Scottie Barnes",
-    "team": "TOR",
-    "status": "Out",
-    "note": "Barnes (groin) is listed as probable to play in Sunday's game against the Knicks."
-   },
    {
     "player": "Nate Bittle",
     "team": "TOR",
@@ -201,8 +189,8 @@
    {
     "player": "Tre Johnson",
     "team": "WSH",
-    "status": "Day-To-Day",
-    "note": "Johnson is listed as questionable for Sunday's game against the Rockets due to lower-back soreness."
+    "status": "Out",
+    "note": "Johnson (back) won't play in Sunday's game against Houston, Josh Robbins of The Athletic reports."
    },
    {
     "player": "Tristan Vukcevic",
@@ -333,56 +321,6 @@
     "team": "SAC",
     "status": "Out",
     "note": "Simmons underwent successful surgery Tuesday to repair a torn right Achilles tendon, James Ham of ESPN 1320 Sacramento reports."
-   }
-  ],
-  "IND@PHI": [
-   {
-    "player": "Andrew Nembhard",
-    "team": "IND",
-    "status": "Day-To-Day",
-    "note": "Nembhard (hip) has been ruled out for Sunday's game against the 76ers, Tony East of Forbes.com reports."
-   },
-   {
-    "player": "Tyrese Haliburton",
-    "team": "IND",
-    "status": "Out",
-    "note": "Head coach Rick Carlisle said Wednesday that Haliburton (hamstring) will miss at least 10 more days, Alex Golden of SI.com reports."
-   },
-   {
-    "player": "Johnny Furphy",
-    "team": "IND",
-    "status": "Out",
-    "note": "Furphy (knee) is practicing with the G League's Noblesville Boom, per Alex Golden of SI.com."
-   },
-   {
-    "player": "Ben Sheppard",
-    "team": "IND",
-    "status": "Out",
-    "note": "Head coach Rick Carlise confirmed Sheppard will miss \"months\" after undergoing surgery to repair a torn meniscus in his left knee, Tony East of Forbes.com reports."
-   },
-   {
-    "player": "Joel Embiid",
-    "team": "PHI",
-    "status": "Day-To-Day",
-    "note": "Embiid (right foot injury management) has been ruled out for Sunday's game against the Pacers."
-   },
-   {
-    "player": "Dominick Barlow",
-    "team": "PHI",
-    "status": "Out",
-    "note": "Barlow (back) participated in Thursday's shootaround but doesn't have a timeline to return to game action, Ky Carlin of USA Today reports."
-   },
-   {
-    "player": "Adem Bona",
-    "team": "PHI",
-    "status": "Out",
-    "note": "Bona (back) will be re-evaluated in approximately one week after seeing a specialist, Ky Carlin of USA Today reports."
-   },
-   {
-    "player": "Ariel Hukporti",
-    "team": "PHI",
-    "status": "Out",
-    "note": "Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania of ESPN."
    }
   ]
  }
