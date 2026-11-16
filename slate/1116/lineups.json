@@ -52,11 +52,11 @@
   "prob": []
  },
  "CLE": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "James Harden",
    "Donovan Mitchell",
-   "Meleek Thomas",
+   "Tyrese Proctor",
    "Peyton Watson",
    "Jarrett Allen"
   ],
@@ -85,10 +85,7 @@
    "Scotty Pippen",
    "Isaiah Stewart"
   ],
-  "ques": [
-   "Zach Edey",
-   "Quinten Post"
-  ],
+  "ques": [],
   "doubt": [],
   "prob": []
  },
@@ -140,13 +137,12 @@
    "Giannis Antetokounmpo",
    "Bam Adebayo"
   ],
-  "out": [],
-  "ques": [
-   "Nikola Jovic"
-  ],
-  "doubt": [
+  "out": [
+   "Nikola Jovic",
    "Pelle Larsson"
   ],
+  "ques": [],
+  "doubt": [],
   "prob": []
  },
  "PHI": {
