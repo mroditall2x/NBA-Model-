@@ -212,7 +212,7 @@
   "prob": []
  },
  "HOU": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Amen Thompson",
    "Kevin Durant",
@@ -230,7 +230,7 @@
   "prob": []
  },
  "WSH": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Trae Young",
    "Kyshawn George",
@@ -263,11 +263,10 @@
    "Kingston Flemings",
    "Keshon Gilbert",
    "Mouhamed Gueye",
+   "Jock Landale",
    "Asa Newell"
   ],
-  "ques": [
-   "Jock Landale"
-  ],
+  "ques": [],
   "doubt": [],
   "prob": []
  },
@@ -281,11 +280,10 @@
    "Myles Turner"
   ],
   "out": [
-   "Ousmane Dieng"
-  ],
-  "ques": [
+   "Ousmane Dieng",
    "Ryan Rollins"
   ],
+  "ques": [],
   "doubt": [],
   "prob": []
  },
@@ -325,7 +323,8 @@
    "Maxime Raynaud"
   ],
   "ques": [
-   "Precious Achiuwa"
+   "Precious Achiuwa",
+   "De'Andre Hunter"
   ],
   "doubt": [],
   "prob": []

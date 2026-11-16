@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-15T23:22:28.157739+00:00",
+ "checked": "2026-11-16T00:22:33.708743+00:00",
  "games": {
   "LAL@PHX": [
    {
@@ -221,8 +221,8 @@
    {
     "player": "Jock Landale",
     "team": "ATL",
-    "status": "Day-To-Day",
-    "note": "Landale (hip) is listed as questionable for Sunday's game against Milwakee."
+    "status": "Out",
+    "note": "Landale (hip) is out for Sunday's game against Bucks, Brad Rowland of the Locked On Podcast Network reports."
    },
    {
     "player": "Kingston Flemings",
@@ -258,13 +258,13 @@
     "player": "Ousmane Dieng",
     "team": "MIL",
     "status": "Out",
-    "note": "Dieng (finger) is listed as out for Sunday's game versus the Hawks."
+    "note": "Dieng will undergo a procedure to repair a fractured left finger Monday, Justin Garcia of the Milwaukee Bucks Radio Network reports."
    },
    {
     "player": "Ryan Rollins",
     "team": "MIL",
-    "status": "Day-To-Day",
-    "note": "Rollins (illness) is questionable to play in Sunday's game against the Hawks."
+    "status": "Out",
+    "note": "Rollins (illness) is out for Sunday's game against the Hawks."
    }
   ],
   "OKC@SAC": [
