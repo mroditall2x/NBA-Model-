@@ -28,7 +28,9 @@
    "Neemias Queta"
   ],
   "out": [],
-  "ques": [],
+  "ques": [
+   "Neemias Queta"
+  ],
   "doubt": [],
   "prob": []
  },
@@ -56,8 +58,8 @@
   "starters": [
    "James Harden",
    "Donovan Mitchell",
+   "Meleek Thomas",
    "Peyton Watson",
-   "Jaylon Tyson",
    "Jarrett Allen"
   ],
   "out": [
@@ -66,10 +68,11 @@
    "Nae'Qwan Tomlin"
   ],
   "ques": [
-   "Jaylon Tyson",
    "Peyton Watson"
   ],
-  "doubt": [],
+  "doubt": [
+   "Jaylon Tyson"
+  ],
   "prob": []
  },
  "MEM": {
@@ -84,12 +87,12 @@
   "out": [
    "GG Jackson",
    "Ty Jerome",
-   "Scotty Pippen"
+   "Scotty Pippen",
+   "Isaiah Stewart"
   ],
   "ques": [
    "Zach Edey",
-   "Quinten Post",
-   "Isaiah Stewart"
+   "Quinten Post"
   ],
   "doubt": [],
   "prob": []
@@ -106,14 +109,13 @@
   "out": [
    "Reece Beekman",
    "Justin Champagnie",
+   "Tristan Vukcevic",
    "Jamir Watkins"
   ],
   "ques": [
    "Tre Johnson"
   ],
-  "doubt": [
-   "Tristan Vukcevic"
-  ],
+  "doubt": [],
   "prob": []
  },
  "HOU": {
@@ -126,30 +128,32 @@
    "Alperen Sengun"
   ],
   "out": [
+   "Steven Adams",
+   "Clint Capela",
    "Marcus Smart"
   ],
   "ques": [
-   "Clint Capela"
+   "Amen Thompson"
   ],
   "doubt": [],
-  "prob": [
-   "Fred VanVleet"
-  ]
+  "prob": []
  },
  "MIA": {
   "status": "expected",
   "starters": [
    "Davion Mitchell",
    "Klay Thompson",
-   "Pelle Larsson",
+   "Myron Gardner",
    "Giannis Antetokounmpo",
    "Bam Adebayo"
   ],
   "out": [],
   "ques": [
+   "Nikola Jovic"
+  ],
+  "doubt": [
    "Pelle Larsson"
   ],
-  "doubt": [],
   "prob": []
  },
  "PHI": {
@@ -158,19 +162,20 @@
    "Tyrese Maxey",
    "VJ Edgecombe",
    "Jaylen Brown",
-   "LeBron James",
+   "Dean Wade",
    "Joel Embiid"
   ],
   "out": [
    "Ariel Hukporti",
    "Dominick Barlow",
-   "Adem Bona"
+   "Adem Bona",
+   "LeBron James"
   ],
-  "ques": [],
-  "doubt": [],
-  "prob": [
+  "ques": [
    "Joel Embiid"
-  ]
+  ],
+  "doubt": [],
+  "prob": []
  },
  "BKN": {
   "status": "expected",

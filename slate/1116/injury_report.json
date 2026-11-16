@@ -1,7 +1,13 @@
 {
- "checked": "2026-11-16T17:22:32.645171+00:00",
+ "checked": "2026-11-16T18:22:32.684720+00:00",
  "games": {
   "ORL@BOS": [
+   {
+    "player": "Neemias Queta",
+    "team": "BOS",
+    "status": "Day-To-Day",
+    "note": "Queta (rest) is questionable for Monday's game against the Magic."
+   },
    {
     "player": "Jonathan Isaac",
     "team": "ORL",
@@ -50,7 +56,7 @@
     "player": "Jaylon Tyson",
     "team": "CLE",
     "status": "Day-To-Day",
-    "note": "Tyson (ankle) is questionable for Monday's game against the Bulls."
+    "note": "Tyson (ankle) has been downgraded to doubtful for Monday's game against the Bulls."
    },
    {
     "player": "Peyton Watson",
@@ -79,16 +85,22 @@
   ],
   "MEM@WSH": [
    {
+    "player": "Isaiah Stewart",
+    "team": "MEM",
+    "status": "Out",
+    "note": "Stewart is questionable for Monday's game against the Wizards due to an illness."
+   },
+   {
+    "player": "Scotty Pippen Jr.",
+    "team": "MEM",
+    "status": "Out",
+    "note": "Pippen (back) is progressing in his recovery but is still considered week-to-week."
+   },
+   {
     "player": "GG Jackson",
     "team": "MEM",
     "status": "Out",
-    "note": "Jackson (foot) is out for Monday's game against Washington."
-   },
-   {
-    "player": "Isaiah Stewart",
-    "team": "MEM",
-    "status": "Day-To-Day",
-    "note": "Stewart is questionable for Monday's game against the Wizards due to an illness."
+    "note": "Jackson will undergo surgery to repair the broken fifth metatarsal in his left foot and is set to miss significant time."
    },
    {
     "player": "Ty Jerome",
@@ -107,12 +119,6 @@
     "team": "MEM",
     "status": "Day-To-Day",
     "note": "Edey (ankle) is questionable for Monday's game against Washington."
-   },
-   {
-    "player": "Scotty Pippen Jr.",
-    "team": "MEM",
-    "status": "Out",
-    "note": "Pippen (back) remains out for Wednesday's game against Denver, Michael Wallace of the Grizzlies' official site reports."
    },
    {
     "player": "Richie Saunders",
@@ -156,7 +162,13 @@
     "player": "Joel Embiid",
     "team": "PHI",
     "status": "Day-To-Day",
-    "note": "Embiid (right foot injury management) has been ruled out for Sunday's game against the Pacers."
+    "note": "Embiid (foot) is questionable for Monday's game against the Nets."
+   },
+   {
+    "player": "LeBron James",
+    "team": "PHI",
+    "status": "Out",
+    "note": "James (back) has been ruled out for Monday's game against the Nets."
    },
    {
     "player": "Dominick Barlow",
@@ -178,6 +190,12 @@
    }
   ],
   "HOU@MIA": [
+   {
+    "player": "Steven Adams",
+    "team": "HOU",
+    "status": "Out",
+    "note": "Adams will start in Sunday's game against Washington but will be limited to 15 minutes, Varun Shankar of the Houston Chronicle reports."
+   },
    {
     "player": "Julian Phillips",
     "team": "HOU",
@@ -203,10 +221,16 @@
     "note": "Smart has been suspended three games for throwing a punch during Wednesday's matchup against Golden State, Shams Charania of ESPN reports."
    },
    {
+    "player": "Nikola Jovic",
+    "team": "MIA",
+    "status": "Day-To-Day",
+    "note": "Jovic (illness) has been downgraded to questionable for Monday's game against Houston."
+   },
+   {
     "player": "Pelle Larsson",
     "team": "MIA",
     "status": "Day-To-Day",
-    "note": "Larsson (illness) is questionable to play in Monday's game against the Rockets."
+    "note": "Larsson (illness) has been downgraded to doubtful for Monday's game against Houston."
    }
   ],
   "GS@NO": [
