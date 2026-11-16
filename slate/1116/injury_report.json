@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-16T18:22:32.684720+00:00",
+ "checked": "2026-11-16T19:22:31.805294+00:00",
  "games": {
   "ORL@BOS": [
    {
@@ -88,7 +88,7 @@
     "player": "Isaiah Stewart",
     "team": "MEM",
     "status": "Out",
-    "note": "Stewart is questionable for Monday's game against the Wizards due to an illness."
+    "note": "Stewart is out for Monday's game against the Wizards due to an illness."
    },
    {
     "player": "Scotty Pippen Jr.",
@@ -130,13 +130,13 @@
     "player": "Tre Johnson",
     "team": "WSH",
     "status": "Day-To-Day",
-    "note": "Johnson (back) won't play in Sunday's game against Houston, Josh Robbins of The Athletic reports."
+    "note": "Johnson (back) is listed as questionable for Monday's game against Memphis."
    },
    {
     "player": "Tristan Vukcevic",
     "team": "WSH",
     "status": "Out",
-    "note": "Vukcevic (hip) has been ruled out for Monday's game against Detroit."
+    "note": "Vukcevic (hip) has been ruled out for Monday's game against Memphis."
    },
    {
     "player": "Reece Beekman",
@@ -191,28 +191,28 @@
   ],
   "HOU@MIA": [
    {
+    "player": "Amen Thompson",
+    "team": "HOU",
+    "status": "Day-To-Day",
+    "note": "Thompson (knee) is listed as questionable for Monday's game against the Heat."
+   },
+   {
+    "player": "Clint Capela",
+    "team": "HOU",
+    "status": "Out",
+    "note": "Capela (ankle) is out for Monday's game against the Heat."
+   },
+   {
     "player": "Steven Adams",
     "team": "HOU",
     "status": "Out",
-    "note": "Adams will start in Sunday's game against Washington but will be limited to 15 minutes, Varun Shankar of the Houston Chronicle reports."
+    "note": "Adams (calf) is out for Monday's game against the Heat."
    },
    {
     "player": "Julian Phillips",
     "team": "HOU",
     "status": "Day-To-Day",
     "note": "Phillips (illness) is available for Wednesday's game against Dallas."
-   },
-   {
-    "player": "Fred VanVleet",
-    "team": "HOU",
-    "status": "Day-To-Day",
-    "note": "VanVleet (right knee injury management) has been ruled out for Sunday's game against the Wizards."
-   },
-   {
-    "player": "Clint Capela",
-    "team": "HOU",
-    "status": "Out",
-    "note": "Capela (ankle) has been ruled out for Sunday's game at Washington."
    },
    {
     "player": "Marcus Smart",
