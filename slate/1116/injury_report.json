@@ -1,12 +1,12 @@
 {
- "checked": "2026-11-16T21:22:36.122099+00:00",
+ "checked": "2026-11-16T22:22:26.711953+00:00",
  "games": {
   "ORL@BOS": [
    {
     "player": "Neemias Queta",
     "team": "BOS",
-    "status": "Day-To-Day",
-    "note": "Queta (rest) is questionable for Monday's game against the Magic."
+    "status": "Out",
+    "note": "Queta (rest) won't play in Monday's game against the Magic, Taylor Snow of the Celtics' official site reports."
    },
    {
     "player": "Jonathan Isaac",
@@ -53,6 +53,12 @@
     "note": "Wilson (hand) is expected to miss four to six weeks, Shams Charania of ESPN reports."
    },
    {
+    "player": "Evan Mobley",
+    "team": "CLE",
+    "status": "Out",
+    "note": "Mobley will receive treatment and participate in rehab after the team confirmed a diagnosis of a right great toe sprain, and he'll be re-evaluated in the next 7-to-10 days."
+   },
+   {
     "player": "Jaylon Tyson",
     "team": "CLE",
     "status": "Day-To-Day",
@@ -63,12 +69,6 @@
     "team": "CLE",
     "status": "Day-To-Day",
     "note": "Watson (abdominal soreness) is questionable to play in Monday's game against the Bulls."
-   },
-   {
-    "player": "Evan Mobley",
-    "team": "CLE",
-    "status": "Out",
-    "note": "Mobley (toe) has been ruled out for Monday's game against Chicago."
    },
    {
     "player": "Sam Merrill",
