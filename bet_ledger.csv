@@ -495,3 +495,8 @@ date,game,player,stat,side,line,team,tier,top,model_p,price,price_src,book,poste
 2026-11-14,DET@MIA,Duncan Robinson,AST,Less,2.5,DET,standard,True,0.5876,-169.0,book,Kalshi / Underdog,,1.0,Win,0.592,live,2026-11-14 22:11,posting time unknown
 2026-11-14,DET@MIA,Bam Adebayo,AST,Less,3.5,MIA,standard,True,0.581,-152.0,book,Kalshi / Underdog,,4.0,Loss,-1.0,live,2026-11-14 22:11,posting time unknown
 2026-11-14,DET@MIA,Giannis Antetokounmpo,REB,Less,12.5,MIA,standard,False,0.5804,-134.0,book,Kalshi / Underdog,,14.0,Loss,-1.0,live,2026-11-14 22:11,posting time unknown
+2026-11-15,LAL@PHX,Devin Booker,3PM,More,1.5,PHX,standard,True,0.6,-172.0,book,Kalshi / Underdog,2026-11-15 09:32,0.0,Loss,-1.0,live,2026-11-15 20:39,
+2026-11-15,LAL@PHX,Ziaire Williams,3PM,Less,1.5,LAL,standard,True,0.5789,-143.0,book,Kalshi / Underdog,2026-11-15 09:32,0.0,Win,0.699,live,2026-11-15 20:39,
+2026-11-15,LAL@PHX,Ziaire Williams,RA,Less,4.5,LAL,standard,True,0.5701,-132.0,book,Kalshi / Underdog,2026-11-15 09:32,5.0,Loss,-1.0,live,2026-11-15 20:39,
+2026-11-15,NY@TOR,Karl-Anthony Towns,AST,Less,3.5,NY,standard,True,0.5625,-150.0,book,Kalshi / Underdog,2026-11-15 09:32,3.0,Win,0.667,live,2026-11-15 20:39,
+2026-11-15,HOU@WSH,Kyshawn George,RA,Less,8.5,WSH,standard,False,0.544,-130.0,book,PrizePicks / Underdog,2026-11-15 16:46,6.0,Win,0.769,live,2026-11-15 20:39,

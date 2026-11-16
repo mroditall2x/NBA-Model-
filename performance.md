@@ -1,44 +1,46 @@
 # Model performance
 
-_Updated 2026-11-15 01:45 CT from `bet_ledger.csv`. Flat 1 unit per pick. Rows are never deleted or edited, losses and voids included._
+_Updated 2026-11-15 20:39 CT from `bet_ledger.csv`. Flat 1 unit per pick. Rows are never deleted or edited, losses and voids included._
 
 ## Live (logged at grading, from the day this tracker started)
 
-**2-3-0 (1 void)**, win rate 40.0%, **-1.99 units**, ROI -39.8%, max drawdown 2.41u
+**5-5-0 (1 void)**, win rate 50.0%, **-1.85 units**, ROI -18.5%, max drawdown 3.71u
 
-Cumulative units by day: 11-14 -1.99
+Cumulative units by day: 11-14 -1.99, 11-15 -1.85
 
 ### By price basis
 
 | price_basis | picks | record | win_pct | units | roi | max_dd |
 |---|---|---|---|---|---|---|
 | DFS (-120 assumed) | 1 | 0-0-0 (1 void) | - | +0.00 | - | - |
-| real book price | 5 | 2-3-0 | 40.0% | -1.99 | -39.8% | 2.41u |
+| real book price | 10 | 5-5-0 | 50.0% | -1.85 | -18.5% | 3.71u |
 
 ### By tier
 
 | tier | picks | record | win_pct | units | roi | max_dd |
 |---|---|---|---|---|---|---|
-| standard | 6 | 2-3-0 (1 void) | 40.0% | -1.99 | -39.8% | 2.41u |
+| standard | 11 | 5-5-0 (1 void) | 50.0% | -1.85 | -18.5% | 3.71u |
 
 ### By stat group
 
 | stat_group | picks | record | win_pct | units | roi | max_dd |
 |---|---|---|---|---|---|---|
-| reb/ast | 6 | 2-3-0 (1 void) | 40.0% | -1.99 | -39.8% | 2.41u |
+| other | 2 | 1-1-0 | 50.0% | -0.30 | -15.1% | 1.00u |
+| reb/ast | 9 | 4-4-0 (1 void) | 50.0% | -1.55 | -19.4% | 3.41u |
 
 ### Over vs Under
 
 | side | picks | record | win_pct | units | roi | max_dd |
 |---|---|---|---|---|---|---|
-| Less | 6 | 2-3-0 (1 void) | 40.0% | -1.99 | -39.8% | 2.41u |
+| Less | 10 | 5-4-0 (1 void) | 55.6% | -0.85 | -9.5% | 2.71u |
+| More | 1 | 0-1-0 | 0.0% | -1.00 | -100.0% | 1.00u |
 
 ### Top-5 vs rest
 
 | top | picks | record | win_pct | units | roi | max_dd |
 |---|---|---|---|---|---|---|
-| False | 1 | 0-1-0 | 0.0% | -1.00 | -100.0% | 1.00u |
-| True | 5 | 2-2-0 (1 void) | 50.0% | -0.99 | -24.7% | 1.41u |
+| False | 2 | 1-1-0 | 50.0% | -0.23 | -11.5% | 1.00u |
+| True | 9 | 4-4-0 (1 void) | 50.0% | -1.62 | -20.3% | 2.71u |
 
 ## History (backfilled from graded_log.csv; posting times and some prices unknown)
 
