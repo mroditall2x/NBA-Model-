@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-16T20:22:36.892682+00:00",
+ "checked": "2026-11-16T21:22:36.122099+00:00",
  "games": {
   "ORL@BOS": [
    {
@@ -351,6 +351,12 @@
     "team": "DEN",
     "status": "Out",
     "note": "Strawther (knee) was diagnosed with a left knee sprain Friday and will be re-evaluated in six weeks, Vinny Benedetto of The Denver Gazette reports."
+   },
+   {
+    "player": "Ryan Dunn",
+    "team": "PHX",
+    "status": "Day-To-Day",
+    "note": "Dunn (thumb) is listed as questionable for Monday's game against Denver."
    },
    {
     "player": "Mark Williams",
