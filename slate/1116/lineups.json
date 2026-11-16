@@ -1,0 +1,300 @@
+{
+ "ORL": {
+  "status": "expected",
+  "starters": [
+   "Jalen Suggs",
+   "Anthony Black",
+   "Desmond Bane",
+   "Franz Wagner",
+   "Wendell Carter"
+  ],
+  "out": [
+   "Paolo Banchero",
+   "Jonathan Isaac",
+   "Izaiyah Nelson",
+   "Noah Penda"
+  ],
+  "ques": [],
+  "doubt": [],
+  "prob": []
+ },
+ "BOS": {
+  "status": "expected",
+  "starters": [
+   "Derrick White",
+   "Baylor Scheierman",
+   "Jayson Tatum",
+   "Paul George",
+   "Neemias Queta"
+  ],
+  "out": [],
+  "ques": [],
+  "doubt": [],
+  "prob": []
+ },
+ "CHI": {
+  "status": "expected",
+  "starters": [
+   "Josh Giddey",
+   "Norman Powell",
+   "Isaac Okoro",
+   "Matas Buzelis",
+   "Jalen Smith"
+  ],
+  "out": [
+   "Tobe Awaka",
+   "Caleb Wilson"
+  ],
+  "ques": [
+   "Jalen Smith"
+  ],
+  "doubt": [],
+  "prob": []
+ },
+ "CLE": {
+  "status": "expected",
+  "starters": [
+   "James Harden",
+   "Donovan Mitchell",
+   "Peyton Watson",
+   "Jaylon Tyson",
+   "Jarrett Allen"
+  ],
+  "out": [
+   "Sam Merrill",
+   "Evan Mobley",
+   "Nae'Qwan Tomlin"
+  ],
+  "ques": [
+   "Jaylon Tyson",
+   "Peyton Watson"
+  ],
+  "doubt": [],
+  "prob": []
+ },
+ "MEM": {
+  "status": "expected",
+  "starters": [
+   "Cam Spencer",
+   "Cedric Coward",
+   "Jaylen Wells",
+   "Cameron Boozer",
+   "Zach Edey"
+  ],
+  "out": [
+   "GG Jackson",
+   "Ty Jerome",
+   "Scotty Pippen"
+  ],
+  "ques": [
+   "Zach Edey",
+   "Quinten Post",
+   "Isaiah Stewart"
+  ],
+  "doubt": [],
+  "prob": []
+ },
+ "WSH": {
+  "status": "expected",
+  "starters": [
+   "Trae Young",
+   "Kyshawn George",
+   "AJ Dybantsa",
+   "Anthony Davis",
+   "Alex Sarr"
+  ],
+  "out": [
+   "Reece Beekman",
+   "Justin Champagnie",
+   "Jamir Watkins"
+  ],
+  "ques": [
+   "Tre Johnson"
+  ],
+  "doubt": [
+   "Tristan Vukcevic"
+  ],
+  "prob": []
+ },
+ "HOU": {
+  "status": "expected",
+  "starters": [
+   "Fred VanVleet",
+   "Amen Thompson",
+   "Kevin Durant",
+   "Jabari Smith",
+   "Alperen Sengun"
+  ],
+  "out": [
+   "Marcus Smart"
+  ],
+  "ques": [
+   "Clint Capela"
+  ],
+  "doubt": [],
+  "prob": [
+   "Fred VanVleet"
+  ]
+ },
+ "MIA": {
+  "status": "expected",
+  "starters": [
+   "Davion Mitchell",
+   "Klay Thompson",
+   "Pelle Larsson",
+   "Giannis Antetokounmpo",
+   "Bam Adebayo"
+  ],
+  "out": [],
+  "ques": [
+   "Pelle Larsson"
+  ],
+  "doubt": [],
+  "prob": []
+ },
+ "PHI": {
+  "status": "expected",
+  "starters": [
+   "Tyrese Maxey",
+   "VJ Edgecombe",
+   "Jaylen Brown",
+   "LeBron James",
+   "Joel Embiid"
+  ],
+  "out": [
+   "Ariel Hukporti",
+   "Dominick Barlow",
+   "Adem Bona"
+  ],
+  "ques": [],
+  "doubt": [],
+  "prob": [
+   "Joel Embiid"
+  ]
+ },
+ "BKN": {
+  "status": "expected",
+  "starters": [
+   "Egor Demin",
+   "Michael Porter",
+   "Danny Wolf",
+   "Julius Randle",
+   "Day'Ron Sharpe"
+  ],
+  "out": [],
+  "ques": [],
+  "doubt": [],
+  "prob": []
+ },
+ "GS": {
+  "status": "expected",
+  "starters": [
+   "Brandin Podziemski",
+   "De'Anthony Melton",
+   "Will Richard",
+   "Yaxel Lendeborg",
+   "Draymond Green"
+  ],
+  "out": [
+   "Jimmy Butler",
+   "Stephen Curry",
+   "Moses Moody",
+   "Kristaps Porzingis",
+   "Brandon Williams"
+  ],
+  "ques": [
+   "Gui Santos"
+  ],
+  "doubt": [],
+  "prob": []
+ },
+ "NO": {
+  "status": "expected",
+  "starters": [
+   "Jeremiah Fears",
+   "Herbert Jones",
+   "Saddiq Bey",
+   "Zion Williamson",
+   "Yves Missi"
+  ],
+  "out": [
+   "Bennedict Mathurin",
+   "Bryce McGowens",
+   "Trey Murphy",
+   "Dejounte Murray",
+   "Trendon Watford"
+  ],
+  "ques": [],
+  "doubt": [],
+  "prob": []
+ },
+ "POR": {
+  "status": "expected",
+  "starters": [
+   "Damian Lillard",
+   "Sidy Cissoko",
+   "Toumani Camara",
+   "Deni Avdija",
+   "Donovan Clingan"
+  ],
+  "out": [
+   "Vit Krejci",
+   "Ja Morant",
+   "Shaedon Sharpe",
+   "Chris Youngblood"
+  ],
+  "ques": [],
+  "doubt": [],
+  "prob": []
+ },
+ "MIN": {
+  "status": "expected",
+  "starters": [
+   "LaMelo Ball",
+   "Ayo Dosunmu",
+   "Jonathan Kuminga",
+   "Jaden McDaniels",
+   "Rudy Gobert"
+  ],
+  "out": [
+   "Jaylen Clark",
+   "Donte DiVincenzo",
+   "Anthony Edwards"
+  ],
+  "ques": [],
+  "doubt": [],
+  "prob": []
+ },
+ "PHX": {
+  "status": "expected",
+  "starters": [
+   "Devin Booker",
+   "Jalen Green",
+   "Dillon Brooks",
+   "Miles Bridges",
+   "Oso Ighodaro"
+  ],
+  "out": [
+   "Mark Williams"
+  ],
+  "ques": [],
+  "doubt": [],
+  "prob": []
+ },
+ "DEN": {
+  "status": "expected",
+  "starters": [
+   "Jamal Murray",
+   "Christian Braun",
+   "Cameron Johnson",
+   "Aaron Gordon",
+   "Nikola Jokic"
+  ],
+  "out": [
+   "Julian Strawther"
+  ],
+  "ques": [],
+  "doubt": [],
+  "prob": []
+ }
+}
