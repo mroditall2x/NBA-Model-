@@ -1,64 +1,6 @@
 {
- "checked": "2026-11-16T00:22:33.708743+00:00",
+ "checked": "2026-11-16T01:22:29.087916+00:00",
  "games": {
-  "LAL@PHX": [
-   {
-    "player": "Austin Reaves",
-    "team": "LAL",
-    "status": "Out",
-    "note": "Reaves (heel) has been ruled out for Sunday's game against the Suns, Daniel Starkand of LakersNation.com reports."
-   },
-   {
-    "player": "Drew Timme",
-    "team": "PHX",
-    "status": "Day-To-Day",
-    "note": "The Suns claimed Timme off waivers Monday, per Michael Scotto of HoopsHype.com."
-   },
-   {
-    "player": "Mark Williams",
-    "team": "PHX",
-    "status": "Out",
-    "note": "Williams underwent surgery Thursday to repair a torn labrum in his left shoulder and will miss an extended period of time, Shams Charania of ESPN reports."
-   }
-  ],
-  "CHA@LAC": [
-   {
-    "player": "Kon Knueppel",
-    "team": "CHA",
-    "status": "Out",
-    "note": "Knueppel (hamstring) was diagnosed with a left hamstring strain Sunday and will be re-evaluated in four weeks."
-   },
-   {
-    "player": "Dennis Schroder",
-    "team": "CHA",
-    "status": "Out",
-    "note": "Schroder has been diagnosed with a left hamstring strain and will be reevaluated in two weeks, Michael Scotto of HoopsHype.com reports."
-   },
-   {
-    "player": "Brandon Ingram",
-    "team": "LAC",
-    "status": "Out",
-    "note": "Ingram (Achilles) won't play in Friday's game against the Thunder, per Law Murray of The Athletic."
-   },
-   {
-    "player": "Yanic Konan Niederhauser",
-    "team": "LAC",
-    "status": "Out",
-    "note": "Niederhauser (foot) is out for Tuesday's game against Phoenix, Ohm Youngmisuk of ESPN.com reports."
-   },
-   {
-    "player": "Bradley Beal",
-    "team": "LAC",
-    "status": "Out",
-    "note": "Beal (knee) will not be ready for the start of the regular season, NBA writer Justin Russo reports."
-   },
-   {
-    "player": "Jordan Miller",
-    "team": "LAC",
-    "status": "Out",
-    "note": "Miller underwent surgery Wednesday to repair a torn left rotator cuff and will be re-evaluated in six months, per Law Murray of The Athletic."
-   }
-  ],
   "SA@UTAH": [
    {
     "player": "De'Aaron Fox",
@@ -275,12 +217,6 @@
     "note": "Williams (back) has been ruled out for Sunday's game against the Kings."
    },
    {
-    "player": "Ajay Mitchell",
-    "team": "OKC",
-    "status": "Day-To-Day",
-    "note": "Mitchell (ankle) is questionable to suit up for Sunday's game against the Kings."
-   },
-   {
     "player": "Thomas Sorber",
     "team": "OKC",
     "status": "Out",
@@ -305,22 +241,92 @@
     "note": "Williams (leg) underwent successful surgery Wednesday to \"address a fractured left fibula and reconstruction of ankle ligaments following a fracture and dislocation.\" He will be re-evaluated before the end of the regular season, Tim MacMahon of ESPN.com reports."
    },
    {
+    "player": "Zach LaVine",
+    "team": "SAC",
+    "status": "Out",
+    "note": "LaVine is out for Sunday's game against Oklahoma City due to illness, Brandon Rahbar of DailyThunder.com reports."
+   },
+   {
+    "player": "Precious Achiuwa",
+    "team": "SAC",
+    "status": "Out",
+    "note": "Achiuwa (ankle) has been ruled out for Sunday's game against the Thunder, Brenden Nunes of KHTK Sactown Sports 1140 reports."
+   },
+   {
+    "player": "De'Andre Hunter",
+    "team": "SAC",
+    "status": "Day-To-Day",
+    "note": "Hunter is questionable for Sunday's game against the Thunder due to left hip soreness."
+   },
+   {
     "player": "Maxime Raynaud",
     "team": "SAC",
     "status": "Out",
     "note": "Raynaud (knee) has been ruled out for Sunday's game against the Thunder."
    },
    {
-    "player": "Precious Achiuwa",
-    "team": "SAC",
-    "status": "Day-To-Day",
-    "note": "Achiuwa (ankle) is questionable for Sunday's game against the Thunder."
-   },
-   {
     "player": "Ben Simmons",
     "team": "SAC",
     "status": "Out",
     "note": "Simmons underwent successful surgery Tuesday to repair a torn right Achilles tendon, James Ham of ESPN 1320 Sacramento reports."
+   }
+  ],
+  "LAL@PHX": [
+   {
+    "player": "Austin Reaves",
+    "team": "LAL",
+    "status": "Out",
+    "note": "Reaves (heel) has been ruled out for Sunday's game against the Suns, Daniel Starkand of LakersNation.com reports."
+   },
+   {
+    "player": "Drew Timme",
+    "team": "PHX",
+    "status": "Day-To-Day",
+    "note": "The Suns claimed Timme off waivers Monday, per Michael Scotto of HoopsHype.com."
+   },
+   {
+    "player": "Mark Williams",
+    "team": "PHX",
+    "status": "Out",
+    "note": "Williams underwent surgery Thursday to repair a torn labrum in his left shoulder and will miss an extended period of time, Shams Charania of ESPN reports."
+   }
+  ],
+  "CHA@LAC": [
+   {
+    "player": "Kon Knueppel",
+    "team": "CHA",
+    "status": "Out",
+    "note": "Knueppel (hamstring) was diagnosed with a left hamstring strain Sunday and will be re-evaluated in four weeks."
+   },
+   {
+    "player": "Dennis Schroder",
+    "team": "CHA",
+    "status": "Out",
+    "note": "Schroder has been diagnosed with a left hamstring strain and will be reevaluated in two weeks, Michael Scotto of HoopsHype.com reports."
+   },
+   {
+    "player": "Brandon Ingram",
+    "team": "LAC",
+    "status": "Out",
+    "note": "Ingram (Achilles) won't play in Friday's game against the Thunder, per Law Murray of The Athletic."
+   },
+   {
+    "player": "Yanic Konan Niederhauser",
+    "team": "LAC",
+    "status": "Out",
+    "note": "Niederhauser (foot) is out for Tuesday's game against Phoenix, Ohm Youngmisuk of ESPN.com reports."
+   },
+   {
+    "player": "Bradley Beal",
+    "team": "LAC",
+    "status": "Out",
+    "note": "Beal (knee) will not be ready for the start of the regular season, NBA writer Justin Russo reports."
+   },
+   {
+    "player": "Jordan Miller",
+    "team": "LAC",
+    "status": "Out",
+    "note": "Miller underwent surgery Wednesday to repair a torn left rotator cuff and will be re-evaluated in six months, per Law Murray of The Athletic."
    }
   ]
  }

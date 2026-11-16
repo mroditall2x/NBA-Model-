@@ -250,7 +250,7 @@
   "prob": []
  },
  "ATL": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "CJ McCollum",
    "Nickeil Alexander-Walker",
@@ -271,12 +271,12 @@
   "prob": []
  },
  "MIL": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Brayden Burries",
    "Tyler Herro",
-   "Jaime Jaquez",
    "Kyle Kuzma",
+   "Jericho Sims",
    "Myles Turner"
   ],
   "out": [
@@ -303,9 +303,7 @@
    "Jalen Williams",
    "Jaylin Williams"
   ],
-  "ques": [
-   "Ajay Mitchell"
-  ],
+  "ques": [],
   "doubt": [],
   "prob": []
  },
@@ -313,19 +311,19 @@
   "status": "expected",
   "starters": [
    "Darius Acuff",
-   "Zach LaVine",
-   "De'Andre Hunter",
+   "Emanuel Sharp",
+   "Leaky Black",
    "Keegan Murray",
    "Domantas Sabonis"
   ],
   "out": [
    "Ben Simmons",
+   "Precious Achiuwa",
+   "De'Andre Hunter",
+   "Zach LaVine",
    "Maxime Raynaud"
   ],
-  "ques": [
-   "Precious Achiuwa",
-   "De'Andre Hunter"
-  ],
+  "ques": [],
   "doubt": [],
   "prob": []
  }

@@ -1,12 +1,6 @@
-game,team,player,stat,tier,line,side,p,price,ev,top,mean,lo,hi,min,gap,where,vol3,line_open,line_now,move,line_move,keep
-LAL@PHX,PHX,Devin Booker,3PM,standard,1.5,More,0.6,-172,-0.051,True,2.22,1,4,34.6,-0.4,Kalshi / Underdog,6.4,,,,,True
-LAL@PHX,LAL,Ziaire Williams,3PM,standard,1.5,Less,0.5789,-143,-0.016,True,1.39,0,2,22.6,1.0,Kalshi / Underdog,4.3,,,,,True
-LAL@PHX,LAL,Ziaire Williams,RA,standard,4.5,Less,0.5701,-132,0.002,True,4.08,2,6,22.6,1.0,Kalshi / Underdog,,4.5,4.5,0.0,,True
-ATL@MIL,ATL,Aaron Wiggins,3PM,standard,1.5,More,0.6,-174,-0.055,True,2.32,1,4,25.1,-0.4,Kalshi / Underdog,7.3,,,,,True
-NY@TOR,NY,Karl-Anthony Towns,AST,standard,3.5,Less,0.5625,-150,-0.063,True,3.19,2,5,33.0,1.0,Kalshi / Underdog,,3.5,3.5,0.0,,True
-ATL@MIL,ATL,Aaron Wiggins,AST,standard,2.5,Less,0.5619,-150,-0.064,True,2.33,1,4,25.1,-0.4,Kalshi / Underdog,,2.5,2.5,0.0,,True
-ATL@MIL,MIL,Jaime Jaquez Jr,REB,standard,5.5,Less,0.5598,-145,-0.054,True,5.02,3,7,27.1,-2.0,PrizePicks / Underdog,,5.5,5.5,0.0,,True
-ATL@MIL,ATL,Jock Landale,RA,standard,6.5,Less,0.548,-111,0.042,False,5.97,3,9,16.0,0.8,Kalshi / Underdog,,6.5,6.5,0.0,,True
-ATL@MIL,MIL,Myles Turner,RA,standard,8.5,Less,0.5455,-126,-0.022,False,7.79,5,10,27.0,1.5,PrizePicks / Underdog,,8.5,8.5,0.0,,True
-HOU@WSH,WSH,Kyshawn George,RA,standard,8.5,Less,0.544,-130,-0.038,False,7.89,5,11,31.7,-0.8,PrizePicks / Underdog,,8.5,8.5,0.0,,True
-ATL@MIL,ATL,Jock Landale,PR,standard,12.5,Less,0.5409,-108,0.042,False,11.79,6,17,16.0,0.8,Kalshi / Underdog,,12.5,12.5,0.0,,True
+game,team,player,stat,tier,line,side,p,price,ev,top,mean,lo,hi,min,gap,where,vol3
+LAL@PHX,PHX,Devin Booker,3PM,standard,1.5,More,0.6,-172,-0.051,True,2.22,1,4,34.6,-0.4,Kalshi / Underdog,6.4
+LAL@PHX,LAL,Ziaire Williams,3PM,standard,1.5,Less,0.5789,-143,-0.016,True,1.39,0,2,22.6,1.0,Kalshi / Underdog,4.3
+LAL@PHX,LAL,Ziaire Williams,RA,standard,4.5,Less,0.5701,-132,0.002,True,4.08,2,6,22.6,1.0,Kalshi / Underdog,
+NY@TOR,NY,Karl-Anthony Towns,AST,standard,3.5,Less,0.5625,-150,-0.063,True,3.19,2,5,33.0,1.0,Kalshi / Underdog,
+HOU@WSH,WSH,Kyshawn George,RA,standard,8.5,Less,0.544,-130,-0.038,False,7.89,5,11,31.7,-0.8,PrizePicks / Underdog,
