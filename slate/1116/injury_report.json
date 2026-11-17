@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-17T01:22:35.446657+00:00",
+ "checked": "2026-11-17T02:22:33.123315+00:00",
  "games": {
   "ORL@BOS": [
    {
@@ -35,6 +35,12 @@
   ],
   "CHI@CLE": [
    {
+    "player": "Patrick Williams",
+    "team": "CHI",
+    "status": "Day-To-Day",
+    "note": "Williams ended with 13 points (4-7 FG, 4-6 3Pt, 1-2 FT), four rebounds, two assists and two steals in 24 minutes during Friday's 125-117 overtime victory over the Hawks."
+   },
+   {
     "player": "Tobe Awaka",
     "team": "CHI",
     "status": "Out",
@@ -45,6 +51,12 @@
     "team": "CHI",
     "status": "Out",
     "note": "Wilson (hand) is expected to miss four to six weeks, Shams Charania of ESPN reports."
+   },
+   {
+    "player": "Peyton Watson",
+    "team": "CLE",
+    "status": "Day-To-Day",
+    "note": "Watson (abdomen) will play in Monday's game against the Bulls, Danny Cunningham of Sports Radio 92.3 The Fan Cleveland reports."
    },
    {
     "player": "Jaylon Tyson",
@@ -183,6 +195,12 @@
     "team": "HOU",
     "status": "Suspension",
     "note": "Smart has been suspended three games for throwing a punch during Wednesday's matchup against Golden State, Shams Charania of ESPN reports."
+   },
+   {
+    "player": "Bam Adebayo",
+    "team": "MIA",
+    "status": "Day-To-Day",
+    "note": "Adebayo is dealing with tightness in his right hip and is questionable to return to Monday's game versus Houston, Zachary Weinberger of ClutchPoints.com reports."
    },
    {
     "player": "Nikola Jovic",
