@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-17T19:22:37.042733+00:00",
+ "checked": "2026-11-17T20:22:31.646182+00:00",
  "games": {
   "NY@TOR": [
    {
@@ -76,13 +76,13 @@
     "player": "Zyon Pullin",
     "team": "MIN",
     "status": "Out",
-    "note": "Pullin is in the starting lineup for Friday's preseason matchup with the Bulls."
+    "note": "Pullin (quadriceps) has been ruled out for Tuesday's game against Portland."
    },
    {
     "player": "Jonathan Kuminga",
     "team": "MIN",
     "status": "Out",
-    "note": "Kuminga (shoulder) exited in the fourth quarter of Monday's 106-98 win over Portland and did not return. He closed with 13 points (5-12 FG, 1-2 3Pt, 2-2 FT), nine rebounds and one assist across 29 minutes."
+    "note": "Kuminga (shoulder) is out for Tuesday's game against Portland."
    },
    {
     "player": "Jaylen Clark",
@@ -103,10 +103,16 @@
     "note": "DiVincenzo (Achilles) remains confident that he'll return during the 2026-27 season, Jon Krawczynski of The Athletic reports."
    },
    {
+    "player": "Deni Avdija",
+    "team": "POR",
+    "status": "Day-To-Day",
+    "note": "Avdija (foot) is questionable for Tuesday's game against the Timberwolves."
+   },
+   {
     "player": "Chris Youngblood",
     "team": "POR",
     "status": "Out",
-    "note": "Youngblood (foot) is out for Monday's game against the Timberwolves."
+    "note": "Youngblood (heel) has been ruled out for Tuesday's game at Minnesota."
    },
    {
     "player": "Vit Krejci",
