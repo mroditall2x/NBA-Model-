@@ -1,0 +1,11 @@
+game,team,player,stat,tier,line,side,p,price,ev,top,mean,lo,hi,min,gap,where,vol3,line_open,line_now,move,line_move,keep
+NY@TOR,NY,Karl-Anthony Towns,3PM,standard,1.5,More,0.6,-128,0.069,True,1.52,0,3,33.4,1.9,PrizePicks / Underdog,5.7,,,,,True
+DET@SA,SA,Victor Wembanyama,3PM,standard,1.5,More,0.6,-138,0.035,True,2.07,1,3,31.0,2.7,Kalshi / Underdog,6.6,,,,,True
+NY@TOR,NY,Karl-Anthony Towns,AST,standard,3.5,Less,0.5699,-150,-0.05,True,3.1,1,5,33.4,1.9,Kalshi / Underdog,,3.5,3.5,0.0,,True
+UTAH@LAC,UTAH,Brice Sensabaugh,PA,standard,16.5,Less,0.5633,-120,0.033,True,14.62,8,21,23.2,1.4,Kalshi / Underdog,,16.5,16.5,0.0,,True
+CHA@LAL,CHA,Brandon Miller,RA,standard,7.5,Less,0.5576,-145,-0.058,True,6.95,4,10,27.8,0.1,PrizePicks / Underdog,,7.5,7.5,0.0,,True
+POR@MIN,POR,Toumani Camara,REB,standard,4.5,Less,0.5542,-139,-0.047,False,4.14,2,6,33.0,-0.1,Kalshi / Underdog,,4.5,4.5,0.0,,True
+POR@MIN,MIN,LaMelo Ball,REB,standard,4.5,Less,0.5496,-132,-0.034,False,4.1,2,6,29.7,-0.1,PrizePicks / Underdog,,4.5,4.5,0.0,,True
+NY@TOR,NY,Landry Shamet,PR,standard,11.5,Less,0.5478,-125,-0.014,False,10.42,5,15,24.6,-1.5,PrizePicks / Underdog,,11.5,11.5,0.0,,True
+CHA@LAL,CHA,Naz Reid,REB,standard,7.5,Less,0.5442,-125,-0.02,False,6.88,4,9,29.1,1.6,PrizePicks / Underdog,,7.5,7.5,0.0,,True
+UTAH@LAC,LAC,Brook Lopez,3PM,standard,1.5,Less,0.5361,-120,-0.017,False,1.4,0,2,26.3,2.0,PrizePicks / Underdog,3.9,,,,,True

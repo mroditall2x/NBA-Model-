@@ -1,6 +1,6 @@
 game,team,player,stat,line,side,p,mean,min,grade,where
 CHA@LAL,CHA,Royce O'Neale,3PM,0.5,More,0.675,1.95,24.6,card,Kalshi / Underdog
-CHA@LAL,CHA,Sion James,3PM,1.5,Less,0.589,1.27,25.2,card,Kalshi / Underdog
+CHA@LAL,CHA,Sion James,3PM,1.5,Less,0.589,1.27,25.2,lean,Kalshi / Underdog
 CHA@LAL,CHA,Brandon Miller,RA,7.5,Less,0.561,6.95,27.8,lean,PrizePicks / Underdog
 CHA@LAL,CHA,Naz Reid,PRA,27.5,Less,0.552,26.12,29.1,lean,PrizePicks / Underdog
 DET@SA,DET,Cade Cunningham,REB,4.5,More,0.571,5.53,37.8,lean,PrizePicks / Underdog
