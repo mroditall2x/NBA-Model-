@@ -1,0 +1,13 @@
+game,team,player,combo,chance,fair_odds,min,min_bump,why,avg,size,special
+NY@TOR,TOR,Collin Murray-Boyles,10+ pts & 7+ reb,0.159,+529,25.9,4.7,Kawhi Leonard out; +5 min,5.5 reb / 1.7 ast / 9.7 pts,17,True
+POR@MIN,POR,Jrue Holiday,15+ pts & 5+ ast,0.158,+532,29.1,-0.4,Ja Morant out,3.8 reb / 4.3 ast / 12.7 pts,20,True
+POR@MIN,POR,Sidy Cissoko,10+ pts & 2+ ast,0.146,+585,24.7,2.5,Ja Morant out,3.1 reb / 1.9 ast / 6.9 pts,12,True
+CHA@LAL,LAL,Jake LaRavia,10+ pts & 6+ reb,0.133,+652,30.5,-2.2,Austin Reaves out,5.2 reb / 2.2 ast / 7.8 pts,16,True
+POR@MIN,POR,Donovan Clingan,15+ pts & 2+ ast,0.128,+683,27.9,0.0,Ja Morant out,10.5 reb / 1.7 ast / 11.4 pts,17,True
+CHA@LAL,LAL,Jake LaRavia,10+ pts & 3+ ast,0.127,+685,30.5,-2.2,Austin Reaves out,5.2 reb / 2.2 ast / 7.8 pts,13,True
+CHA@LAL,CHA,Moussa Diabate,10+ pts & 10+ reb,0.125,+700,26.9,3.9,+4 min,8.3 reb / 2.1 ast / 8.3 pts,20,True
+POR@MIN,POR,Toumani Camara,15+ pts & 5+ reb,0.124,+708,33.0,-0.1,Ja Morant out,4.1 reb / 1.7 ast / 12.1 pts,20,True
+DET@SA,SA,Dylan Harper,20+ pts & 5+ ast,0.12,+733,30.4,4.2,+4 min,4.8 reb / 4.4 ast / 15.5 pts,25,True
+CHA@LAL,LAL,Sandro Mamukelashvili,15+ pts & 8+ reb,0.118,+746,30.4,3.2,Austin Reaves out; +3 min,6.4 reb / 2.2 ast / 13.1 pts,23,True
+NY@TOR,TOR,RJ Barrett,25+ pts & 7+ reb,0.117,+756,33.1,-3.1,Kawhi Leonard out,6.2 reb / 3.5 ast / 20.1 pts,32,True
+NY@TOR,TOR,Immanuel Quickley,20+ pts & 6+ ast,0.116,+761,30.9,-0.3,Kawhi Leonard out,3.8 reb / 5.0 ast / 15.8 pts,26,True

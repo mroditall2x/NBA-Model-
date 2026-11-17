@@ -1,0 +1,183 @@
+{
+ "NY": {
+  "status": "expected",
+  "starters": [
+   "Jalen Brunson",
+   "Mikal Bridges",
+   "Josh Hart",
+   "OG Anunoby",
+   "Karl-Anthony Towns"
+  ],
+  "out": [],
+  "ques": [],
+  "doubt": [],
+  "prob": []
+ },
+ "TOR": {
+  "status": "expected",
+  "starters": [
+   "Immanuel Quickley",
+   "RJ Barrett",
+   "Ja'Kobe Walter",
+   "Scottie Barnes",
+   "Collin Murray-Boyles"
+  ],
+  "out": [
+   "Nate Bittle",
+   "Kawhi Leonard"
+  ],
+  "ques": [],
+  "doubt": [],
+  "prob": []
+ },
+ "POR": {
+  "status": "expected",
+  "starters": [
+   "Damian Lillard",
+   "Sidy Cissoko",
+   "Toumani Camara",
+   "Deni Avdija",
+   "Donovan Clingan"
+  ],
+  "out": [
+   "Vit Krejci",
+   "Ja Morant",
+   "Shaedon Sharpe"
+  ],
+  "ques": [
+   "Chris Youngblood"
+  ],
+  "doubt": [],
+  "prob": []
+ },
+ "MIN": {
+  "status": "expected",
+  "starters": [
+   "LaMelo Ball",
+   "Ayo Dosunmu",
+   "Jonathan Kuminga",
+   "Jaden McDaniels",
+   "Rudy Gobert"
+  ],
+  "out": [
+   "Jaylen Clark",
+   "Donte DiVincenzo",
+   "Anthony Edwards"
+  ],
+  "ques": [
+   "Jonathan Kuminga"
+  ],
+  "doubt": [],
+  "prob": []
+ },
+ "DET": {
+  "status": "expected",
+  "starters": [
+   "Cade Cunningham",
+   "Daniss Jenkins",
+   "Kevin Huerter",
+   "Ausar Thompson",
+   "John Collins"
+  ],
+  "out": [
+   "Jalen Duren",
+   "Ronald Holland",
+   "Taurean Prince",
+   "Duncan Robinson"
+  ],
+  "ques": [],
+  "doubt": [
+   "Isaiah Joe"
+  ],
+  "prob": []
+ },
+ "SA": {
+  "status": "expected",
+  "starters": [
+   "De'Aaron Fox",
+   "Stephon Castle",
+   "Dylan Harper",
+   "Devin Vassell",
+   "Victor Wembanyama"
+  ],
+  "out": [
+   "Tobias Harris",
+   "Jayden Quaintance"
+  ],
+  "ques": [],
+  "doubt": [],
+  "prob": []
+ },
+ "UTAH": {
+  "status": "expected",
+  "starters": [
+   "Keyonte George",
+   "Darryn Peterson",
+   "Josh Green",
+   "Ace Bailey",
+   "Mo Bamba"
+  ],
+  "out": [
+   "Jaxson Hayes",
+   "Jaren Jackson",
+   "Lauri Markkanen",
+   "Jusuf Nurkic"
+  ],
+  "ques": [],
+  "doubt": [],
+  "prob": []
+ },
+ "LAC": {
+  "status": "expected",
+  "starters": [
+   "Darius Garland",
+   "Kris Dunn",
+   "Derrick Jones",
+   "Rui Hachimura",
+   "Brook Lopez"
+  ],
+  "out": [
+   "Bradley Beal",
+   "Brandon Ingram",
+   "Jordan Miller",
+   "Yanic Konan Niederhauser"
+  ],
+  "ques": [],
+  "doubt": [],
+  "prob": []
+ },
+ "CHA": {
+  "status": "expected",
+  "starters": [
+   "Coby White",
+   "Grayson Allen",
+   "Brandon Miller",
+   "Naz Reid",
+   "Moussa Diabate"
+  ],
+  "out": [
+   "Kon Knueppel",
+   "Dennis Schroder"
+  ],
+  "ques": [],
+  "doubt": [],
+  "prob": []
+ },
+ "LAL": {
+  "status": "expected",
+  "starters": [
+   "Luka Doncic",
+   "Quentin Grimes",
+   "Matisse Thybulle",
+   "Jake LaRavia",
+   "Sandro Mamukelashvili"
+  ],
+  "out": [
+   "Walker Kessler",
+   "Austin Reaves"
+  ],
+  "ques": [],
+  "doubt": [],
+  "prob": []
+ }
+}
