@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-17T16:22:32.194537+00:00",
+ "checked": "2026-11-17T17:22:32.404418+00:00",
  "games": {
   "NY@TOR": [
    {
@@ -23,6 +23,12 @@
   ],
   "DET@SA": [
    {
+    "player": "Duncan Robinson",
+    "team": "DET",
+    "status": "Out",
+    "note": "Robinson will be re-evaluated in one week due to a left quadriceps strain, Coty M. Davis of The Detroit News reports."
+   },
+   {
     "player": "Taurean Prince",
     "team": "DET",
     "status": "Out",
@@ -39,12 +45,6 @@
     "team": "DET",
     "status": "Out",
     "note": "Joe (hip) is doubtful to play in Tuesday's game against the Spurs."
-   },
-   {
-    "player": "Duncan Robinson",
-    "team": "DET",
-    "status": "Out",
-    "note": "Robinson (quadriceps) has been ruled out for Tuesday's game against the Spurs."
    },
    {
     "player": "Jalen Duren",
