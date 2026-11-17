@@ -116,3 +116,11 @@ date,game,home,away,home_score,away_score,open_spread,home_spread,cover_home,ats
 2026-11-15,NY@TOR,TOR,NY,108.0,112.0,4.5,5.5,1.5,home,217.5,195.5,220.0,over,2,1,home,5.0,W,skip: model >6 off market,espn
 2026-11-15,OKC@SAC,SAC,OKC,103.0,125.0,10.5,11.0,-11.0,away,222.5,223.5,228.0,over,1,1,away,-3.3,W,,espn
 2026-11-15,SA@UTAH,UTAH,SA,102.0,110.0,16.5,7.5,-0.5,away,225.5,214.5,212.0,under,1,1,away,-7.3,W,skip: model >6 off market,espn
+2026-11-16,CHI@CLE,CLE,CHI,126.0,115.0,-9.0,-8.5,2.5,home,242.0,241.5,241.0,under,1,1,home,2.7,W,,espn
+2026-11-16,GS@NO,NO,GS,115.0,94.0,3.5,3.5,24.5,home,223.5,223.5,209.0,under,1,2,home,0.5,W,,espn
+2026-11-16,HOU@MIA,MIA,HOU,128.0,110.0,2.5,2.0,20.0,home,231.5,232.0,238.0,over,1,0,away,-1.6,L,,espn
+2026-11-16,MEM@WSH,WSH,MEM,120.0,136.0,3.5,3.5,-12.5,away,232.0,231.5,256.0,over,0,1,away,-0.6,W,,espn
+2026-11-16,ORL@BOS,BOS,ORL,105.0,115.0,-8.5,-9.0,-19.0,away,212.5,214.5,220.0,over,0,2,home,4.1,L,,espn
+2026-11-16,PHI@BKN,BKN,PHI,123.0,135.0,5.5,5.0,-7.0,away,226.0,226.5,258.0,over,1,0,away,-0.7,W,,espn
+2026-11-16,PHX@DEN,DEN,PHX,105.0,117.0,-9.5,-10.0,-22.0,away,230.0,230.5,222.0,under,1,0,away,-2.3,W,,espn
+2026-11-16,POR@MIN,MIN,POR,106.0,98.0,-2.0,-2.0,6.0,home,227.5,227.5,204.0,under,1,2,home,1.7,W,,espn

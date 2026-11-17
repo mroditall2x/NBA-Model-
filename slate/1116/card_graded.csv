@@ -1,0 +1,11 @@
+game,team,player,stat,tier,line,side,p,price,ev,top,mean,lo,hi,min,gap,where,vol3,actual,result,group
+HOU@MIA,MIA,Davion Mitchell,3PM,standard,1.5,More,0.6,-176.0,-0.059,True,1.78,0,3,37.7,-0.3,Kalshi / Underdog,5.9,1.0,Loss,other
+POR@MIN,MIN,Bones Hyland,AST,standard,3.5,Less,0.5847,-135.0,0.018,True,2.96,1,5,17.6,1.9,Kalshi / Underdog,,5.0,Loss,reb/ast
+POR@MIN,MIN,Bones Hyland,RA,standard,5.5,Less,0.584,-133.0,0.023,True,4.7,2,7,17.6,1.9,Kalshi / Underdog,,6.0,Loss,reb/ast
+GS@NO,NO,Jordan Poole,RA,standard,5.5,Less,0.582,-132.0,0.023,True,4.72,2,7,20.1,1.8,Kalshi / Underdog,,7.0,Loss,reb/ast
+GS@NO,NO,Jordan Poole,AST,standard,3.5,Less,0.581,-145.0,-0.018,False,3.0,1,5,20.1,1.8,Kalshi / Underdog,,5.0,Loss,reb/ast
+GS@NO,NO,Saddiq Bey,REB,standard,5.5,Less,0.5727,-144.0,-0.03,False,4.72,3,7,34.0,-1.9,PrizePicks / Underdog,,6.0,Loss,reb/ast
+POR@MIN,MIN,Trey Lyles,RA,standard,5.5,Less,0.5713,-122.0,0.04,False,4.77,2,7,19.1,-1.6,Kalshi / Underdog,,4.0,Win,reb/ast
+GS@NO,NO,Karlo Matkovic,REB,standard,4.5,Less,0.5689,-119.0,0.047,False,3.86,2,6,19.3,0.2,PrizePicks / Underdog,,2.0,Win,reb/ast
+GS@NO,GS,Al Horford,REB,standard,4.5,Less,0.5678,-125.0,0.022,False,3.97,2,6,18.9,-1.3,PrizePicks / Underdog,,5.0,Loss,reb/ast
+PHX@DEN,PHX,Devin Booker,3PM,standard,1.5,More,0.6,-145.0,0.014,True,2.05,1,3,33.0,-1.8,Kalshi / Underdog,6.1,1.0,Loss,other
