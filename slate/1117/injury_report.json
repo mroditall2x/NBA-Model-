@@ -1,12 +1,12 @@
 {
- "checked": "2026-11-17T22:22:29.187122+00:00",
+ "checked": "2026-11-17T23:22:32.745222+00:00",
  "games": {
   "NY@TOR": [
    {
-    "player": "Scottie Barnes",
+    "player": "Kawhi Leonard",
     "team": "TOR",
-    "status": "Day-To-Day",
-    "note": "Barnes (illness) has been downgraded to questionable for Tuesday's game against the Knicks, Blake Murphy of Sportsnet.ca reports."
+    "status": "Out",
+    "note": "Leonard (knee) has progressed in his strength and conditioning program but will miss at least one more week, Michael Scotto of HoopsHype.com reports."
    },
    {
     "player": "Nate Bittle",
@@ -19,12 +19,6 @@
     "team": "TOR",
     "status": "Day-To-Day",
     "note": "McCullar signed a two-way contract with the Raptors on Thursday, Michael Scotto of HoopsHype.com reports."
-   },
-   {
-    "player": "Kawhi Leonard",
-    "team": "TOR",
-    "status": "Out",
-    "note": "Head coach Darko Rajakovic said Wednesday that Leonard (knee) is doing individual on-court work and is progressing well, Michael Grange of Sportsnet.ca reports."
    }
   ],
   "DET@SA": [
