@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-16T23:22:35.175534+00:00",
+ "checked": "2026-11-17T00:22:32.436183+00:00",
  "games": {
   "ORL@BOS": [
    {
@@ -97,18 +97,6 @@
     "note": "Jerome (hip) has been ruled out for Monday's game against the Wizards."
    },
    {
-    "player": "Quinten Post",
-    "team": "MEM",
-    "status": "Out",
-    "note": "Post (concussion) is questionable for Monday's game against the Wizards."
-   },
-   {
-    "player": "Zach Edey",
-    "team": "MEM",
-    "status": "Day-To-Day",
-    "note": "Edey (ankle) is questionable for Monday's game against Washington."
-   },
-   {
     "player": "Richie Saunders",
     "team": "MEM",
     "status": "Out",
@@ -141,22 +129,16 @@
   ],
   "PHI@BKN": [
    {
-    "player": "Joel Embiid",
+    "player": "Dominick Barlow",
     "team": "PHI",
-    "status": "Day-To-Day",
-    "note": "Embiid (foot) is questionable for Monday's game against the Nets."
+    "status": "Out",
+    "note": "Barlow (back) will be re-evaluated later in the week and is thought to be nearing his 2026-27 season debut, Tony Jones of The Athletic reports."
    },
    {
     "player": "LeBron James",
     "team": "PHI",
     "status": "Out",
     "note": "James (back) has been ruled out for Monday's game against the Nets."
-   },
-   {
-    "player": "Dominick Barlow",
-    "team": "PHI",
-    "status": "Out",
-    "note": "Barlow (back) participated in Thursday's shootaround but doesn't have a timeline to return to game action, Ky Carlin of USA Today reports."
    },
    {
     "player": "Adem Bona",
@@ -175,8 +157,8 @@
    {
     "player": "Amen Thompson",
     "team": "HOU",
-    "status": "Day-To-Day",
-    "note": "Thompson (knee) is listed as questionable for Monday's game against the Heat."
+    "status": "Out",
+    "note": "Thompson (knee) is out for Monday's game against the Heat."
    },
    {
     "player": "Clint Capela",

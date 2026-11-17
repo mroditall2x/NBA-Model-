@@ -1,6 +1,6 @@
 {
  "ORL": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Jalen Suggs",
    "Anthony Black",
@@ -19,13 +19,13 @@
   "prob": []
  },
  "BOS": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Derrick White",
-   "Baylor Scheierman",
+   "Jordan Walsh",
    "Jayson Tatum",
    "Paul George",
-   "Mitchell Robinson"
+   "Luka Garza"
   ],
   "out": [
    "Neemias Queta"
@@ -35,7 +35,7 @@
   "prob": []
  },
  "CHI": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Josh Giddey",
    "Norman Powell",
@@ -71,7 +71,7 @@
   "prob": []
  },
  "MEM": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Cam Spencer",
    "Cedric Coward",
@@ -90,7 +90,7 @@
   "prob": []
  },
  "WSH": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Trae Young",
    "Kyshawn George",
@@ -109,10 +109,10 @@
   "prob": []
  },
  "HOU": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Fred VanVleet",
-   "Amen Thompson",
+   "Tari Eason",
    "Kevin Durant",
    "Jabari Smith",
    "Alperen Sengun"
@@ -120,16 +120,15 @@
   "out": [
    "Steven Adams",
    "Clint Capela",
-   "Marcus Smart"
-  ],
-  "ques": [
+   "Marcus Smart",
    "Amen Thompson"
   ],
+  "ques": [],
   "doubt": [],
   "prob": []
  },
  "MIA": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Davion Mitchell",
    "Klay Thompson",
@@ -146,7 +145,7 @@
   "prob": []
  },
  "PHI": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Tyrese Maxey",
    "VJ Edgecombe",
@@ -160,18 +159,16 @@
    "Adem Bona",
    "LeBron James"
   ],
-  "ques": [
-   "Joel Embiid"
-  ],
+  "ques": [],
   "doubt": [],
   "prob": []
  },
  "BKN": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
+   "Nolan Traore",
    "Egor Demin",
    "Michael Porter",
-   "Danny Wolf",
    "Julius Randle",
    "Day'Ron Sharpe"
   ],
@@ -196,9 +193,7 @@
    "Kristaps Porzingis",
    "Brandon Williams"
   ],
-  "ques": [
-   "Gui Santos"
-  ],
+  "ques": [],
   "doubt": [],
   "prob": []
  },
