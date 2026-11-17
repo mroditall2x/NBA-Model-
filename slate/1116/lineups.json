@@ -178,13 +178,13 @@
   "prob": []
  },
  "GS": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Brandin Podziemski",
-   "De'Anthony Melton",
-   "Will Richard",
+   "LJ Cryer",
    "Yaxel Lendeborg",
-   "Draymond Green"
+   "Draymond Green",
+   "Al Horford"
   ],
   "out": [
    "Jimmy Butler",
@@ -198,7 +198,7 @@
   "prob": []
  },
  "NO": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Jeremiah Fears",
    "Herbert Jones",
@@ -218,7 +218,7 @@
   "prob": []
  },
  "POR": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Damian Lillard",
    "Sidy Cissoko",
@@ -237,7 +237,7 @@
   "prob": []
  },
  "MIN": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "LaMelo Ball",
    "Ayo Dosunmu",
@@ -266,9 +266,7 @@
   "out": [
    "Mark Williams"
   ],
-  "ques": [
-   "Ryan Dunn"
-  ],
+  "ques": [],
   "doubt": [],
   "prob": []
  },
