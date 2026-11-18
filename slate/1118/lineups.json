@@ -411,19 +411,17 @@
   "status": "expected",
   "starters": [
    "Luka Doncic",
-   "Austin Reaves",
+   "Quentin Grimes",
    "Matisse Thybulle",
    "Jake LaRavia",
    "Walker Kessler"
   ],
-  "out": [],
-  "ques": [
+  "out": [
    "Austin Reaves"
   ],
+  "ques": [],
   "doubt": [],
-  "prob": [
-   "Walker Kessler"
-  ]
+  "prob": []
  },
  "PHX": {
   "status": "expected",
@@ -454,10 +452,7 @@
    "Ben Simmons",
    "Maxime Raynaud"
   ],
-  "ques": [
-   "Precious Achiuwa",
-   "De'Andre Hunter"
-  ],
+  "ques": [],
   "doubt": [],
   "prob": []
  }
