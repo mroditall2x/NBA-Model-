@@ -24,19 +24,19 @@
    "James Harden",
    "Donovan Mitchell",
    "Tyrese Proctor",
-   "Peyton Watson",
+   "Mario Hezonja",
    "Jarrett Allen"
   ],
   "out": [
    "Evan Mobley",
-   "Nae'Qwan Tomlin"
+   "Nae'Qwan Tomlin",
+   "Jaylon Tyson"
   ],
   "ques": [
-   "Sam Merrill",
-   "Peyton Watson"
+   "Sam Merrill"
   ],
   "doubt": [
-   "Jaylon Tyson"
+   "Peyton Watson"
   ],
   "prob": []
  },
@@ -90,7 +90,8 @@
    "Myles Turner"
   ],
   "out": [
-   "Ousmane Dieng"
+   "Ousmane Dieng",
+   "Ryan Rollins"
   ],
   "ques": [],
   "doubt": [],
@@ -105,15 +106,12 @@
    "Giannis Antetokounmpo",
    "Bam Adebayo"
   ],
-  "out": [],
-  "ques": [
+  "out": [
    "Myron Gardner"
   ],
+  "ques": [],
   "doubt": [],
-  "prob": [
-   "Bam Adebayo",
-   "Nikola Jovic"
-  ]
+  "prob": []
  },
  "PHI": {
   "status": "expected",
@@ -130,7 +128,9 @@
    "Adem Bona",
    "Jaylen Brown"
   ],
-  "ques": [],
+  "ques": [
+   "Dean Wade"
+  ],
   "doubt": [],
   "prob": []
  },
@@ -211,14 +211,17 @@
    "Immanuel Quickley",
    "RJ Barrett",
    "Ja'Kobe Walter",
-   "Scottie Barnes",
-   "Collin Murray-Boyles"
+   "Collin Murray-Boyles",
+   "Jakob Poeltl"
   ],
   "out": [
+   "Scottie Barnes",
    "Nate Bittle",
    "Kawhi Leonard"
   ],
-  "ques": [],
+  "ques": [
+   "RJ Barrett"
+  ],
   "doubt": [],
   "prob": []
  },
@@ -415,11 +418,12 @@
   ],
   "out": [],
   "ques": [
-   "Walker Kessler",
    "Austin Reaves"
   ],
   "doubt": [],
-  "prob": []
+  "prob": [
+   "Walker Kessler"
+  ]
  },
  "PHX": {
   "status": "expected",

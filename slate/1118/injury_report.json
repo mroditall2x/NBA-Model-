@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-18T17:22:34.077417+00:00",
+ "checked": "2026-11-18T18:22:28.204348+00:00",
  "games": {
   "MEM@CLE": [
    {
@@ -115,16 +115,10 @@
     "note": "Gardner (hamstring) is questionable for Wednesday's game against the Bucks, per Ira Winderman of the South Florida Sun Sentinel."
    },
    {
-    "player": "Nikola Jovic",
-    "team": "MIA",
-    "status": "Day-To-Day",
-    "note": "Jovic (illness) is listed as probable for Wednesday's game against Milwaukee, Ira Winderman of the South Florida Sun Sentinel reports."
-   },
-   {
-    "player": "Bam Adebayo",
-    "team": "MIA",
-    "status": "Day-To-Day",
-    "note": "Adebayo (hip) is probable for Wednesday's game against the Bucks, per Ira Winderman of the South Florida Sun Sentinel."
+    "player": "Ryan Rollins",
+    "team": "MIL",
+    "status": "Out",
+    "note": "Rollins (illness) has been ruled out for Wednesday's game at Miami."
    },
    {
     "player": "Ousmane Dieng",
@@ -138,7 +132,7 @@
     "player": "Izaiyah Nelson",
     "team": "ORL",
     "status": "Out",
-    "note": "Nelson (ankle) has been ruled out for Wednesday's game against the 76ers."
+    "note": "Head coach Sean Sweeney said Wednesday that Nelson (ankle) has been doing \"some on-court stuff,\" though Sweeney added that the work has been \"minimal,\" Jason Beede of the Orlando Sentinel reports."
    },
    {
     "player": "Jonathan Isaac",
@@ -157,6 +151,12 @@
     "team": "ORL",
     "status": "Out",
     "note": "Banchero is expected to be sidelined for the next four-to-six weeks due to a right high-ankle sprain, Shams Charania of ESPN reports."
+   },
+   {
+    "player": "Dean Wade",
+    "team": "PHI",
+    "status": "Day-To-Day",
+    "note": "Wade (hamstring) has been downgraded to questionable for Wednesday's game against the Magic."
    },
    {
     "player": "Dominick Barlow",
@@ -204,6 +204,18 @@
    }
   ],
   "WSH@TOR": [
+   {
+    "player": "RJ Barrett",
+    "team": "TOR",
+    "status": "Day-To-Day",
+    "note": "Barrett is questionable for Wednesday's game against the Wizards due to hamstring tightness, Esfandiar Baraheni of The Athletic reports."
+   },
+   {
+    "player": "Scottie Barnes",
+    "team": "TOR",
+    "status": "Out",
+    "note": "Barnes (injury management) has been ruled out for Wednesday's game against Washington, Esfandiar Baraheni of The Athletic reports."
+   },
    {
     "player": "Kawhi Leonard",
     "team": "TOR",
@@ -435,6 +447,12 @@
     "note": "Aldama (ankle) is probable for Wednesday's game against the Warriors."
    },
    {
+    "player": "Brandon Williams",
+    "team": "GS",
+    "status": "Out",
+    "note": "Williams (hamstring) has progressed to on-court activities and will be re-evaluated Saturday."
+   },
+   {
     "player": "Draymond Green",
     "team": "GS",
     "status": "Day-To-Day",
@@ -451,12 +469,6 @@
     "team": "GS",
     "status": "Out",
     "note": "Curry has been diagnosed with an oblique abdominal tear and will be re-evaluated in two weeks, Shams Charania of ESPN reports."
-   },
-   {
-    "player": "Brandon Williams",
-    "team": "GS",
-    "status": "Out",
-    "note": "Williams (hamstring) will miss at least one week, per Anthony Slater of ESPN.com."
    },
    {
     "player": "Kristaps Porzingis",
