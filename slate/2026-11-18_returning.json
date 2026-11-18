@@ -1,0 +1,29 @@
+{
+ "LAL": [
+  {
+   "player": "Austin Reaves",
+   "missed": 2,
+   "normal_min": 34.0,
+   "proj_min": 30.6,
+   "final_min": 31.5
+  }
+ ],
+ "SAC": [
+  {
+   "player": "Precious Achiuwa",
+   "missed": 2,
+   "normal_min": 23.1,
+   "proj_min": 20.8,
+   "final_min": 22.3
+  }
+ ],
+ "MIA": [
+  {
+   "player": "Pelle Larsson",
+   "missed": 3,
+   "normal_min": 27.7,
+   "proj_min": 24.9,
+   "final_min": 25.8
+  }
+ ]
+}

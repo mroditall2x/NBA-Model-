@@ -1,0 +1,13 @@
+game,team,player,combo,chance,fair_odds,min,min_bump,why,avg,size,special
+HOU@IND,IND,Andrew Nembhard,15+ pts & 9+ ast,0.163,+512,30.6,0.5,Tyrese Haliburton out,2.4 reb / 7.7 ast / 13.9 pts,24,True
+ATL@OKC,OKC,Isaiah Hartenstein,10+ pts & 14+ reb,0.154,+548,29.1,-2.6,Jalen Williams out,11.8 reb / 4.1 ast / 10.2 pts,24,True
+CHI@BKN,CHI,Jalen Smith,15+ pts & 10+ reb,0.144,+592,27.7,4.9,Caleb Wilson out; +5 min,8.2 reb / 1.9 ast / 13.5 pts,25,True
+PHI@ORL,PHI,Joel Embiid,25+ pts & 10+ reb,0.143,+601,31.9,0.4,Jaylen Brown out,8.7 reb / 3.0 ast / 22.8 pts,35,True
+MIL@MIA,MIA,Davion Mitchell,15+ pts & 10+ ast,0.142,+604,35.0,3.7,+4 min,3.1 reb / 8.6 ast / 13.2 pts,25,True
+HOU@IND,IND,Aaron Nesmith,15+ pts & 4+ reb,0.136,+637,28.5,2.6,Tyrese Haliburton out,3.1 reb / 2.0 ast / 12.5 pts,19,True
+HOU@IND,HOU,Fred VanVleet,15+ pts & 5+ ast,0.135,+641,28.7,5.1,+5 min,2.9 reb / 4.4 ast / 11.9 pts,20,True
+WSH@TOR,TOR,Jamal Shead,10+ pts & 8+ ast,0.132,+659,24.3,0.0,Kawhi Leonard out,2.1 reb / 6.3 ast / 8.5 pts,18,True
+ATL@OKC,ATL,Dyson Daniels,15+ pts & 7+ ast,0.132,+656,35.8,-4.9,CJ McCollum out,7.8 reb / 6.2 ast / 12.0 pts,22,True
+HOU@IND,IND,Kelly Oubre Jr.,15+ pts & 4+ reb,0.125,+698,26.9,0.0,Tyrese Haliburton out,3.6 reb / 1.6 ast / 11.2 pts,19,True
+ATL@OKC,ATL,Luguentz Dort,15+ pts & 2+ ast,0.125,+697,29.9,-1.6,CJ McCollum out,3.8 reb / 1.8 ast / 10.8 pts,17,True
+WSH@TOR,TOR,Immanuel Quickley,20+ pts & 7+ ast,0.125,+703,31.2,0.9,Kawhi Leonard out,3.9 reb / 5.8 ast / 17.0 pts,27,True
