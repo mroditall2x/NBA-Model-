@@ -1,9 +1,9 @@
 game,team,player,stat,line,side,p,price,ev,mean,where
-PHI@ORL,ORL,Wendell Carter Jr,3PM,0.5,Less,0.525,144,0.28,0.71,Kalshi / Novig / books
+PHI@ORL,ORL,Wendell Carter Jr,3PM,0.5,Less,0.522,144,0.273,0.73,Kalshi / Novig / books
 UTAH@LAL,LAL,Walker Kessler,PTS,13.5,Less,0.579,105,0.186,12.01,Kalshi / Novig / books
-GS@DAL,DAL,Naji Marshall,3PM,0.5,Less,0.474,150,0.185,0.83,Kalshi / Novig / books
+GS@DAL,DAL,Naji Marshall,3PM,0.5,Less,0.471,150,0.178,0.84,Kalshi / Novig / books
+MEM@CLE,MEM,Cedric Coward,AST,3.5,Less,0.554,112,0.174,3.29,Kalshi / Novig / books
+DET@NO,NO,Jordan Poole,RA,4.5,Less,0.527,122,0.17,4.52,Kalshi / Novig / books
 BOS@DEN,BOS,Jayson Tatum,AST,6.5,Less,0.564,106,0.161,6.01,Kalshi / Novig / books
-DET@NO,NO,Jordan Poole,RA,4.5,Less,0.525,121,0.161,4.51,Kalshi / Novig / books
-GS@DAL,DAL,Naji Marshall,RA,6.5,Less,0.539,113,0.148,6.31,Kalshi / Novig / books
-PHX@SAC,PHX,Luke Kennard,PTS,8.5,Less,0.607,-113,0.145,6.83,PrizePicks / Underdog
-DET@NO,NO,Jeremiah Fears,AST,6.5,Less,0.571,100,0.142,5.91,Kalshi / Novig / books
+PHX@SAC,PHX,Luke Kennard,PTS,8.5,Less,0.609,-113,0.147,6.78,PrizePicks / Underdog
+PHX@SAC,PHX,Devin Booker,AST,5.5,More,0.526,118,0.146,5.97,Kalshi / Novig / books
