@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-18T02:22:31.687738+00:00",
+ "checked": "2026-11-18T03:22:30.241700+00:00",
  "games": {
   "NY@TOR": [
    {
@@ -179,6 +179,12 @@
   ],
   "CHA@LAL": [
    {
+    "player": "Grayson Allen",
+    "team": "CHA",
+    "status": "Out",
+    "note": "Allen (concussion-like symptoms) has been ruled out for Tuesday's game against the Lakers."
+   },
+   {
     "player": "Kon Knueppel",
     "team": "CHA",
     "status": "Out",
@@ -191,16 +197,16 @@
     "note": "Schroder has been diagnosed with a left hamstring strain and will be reevaluated in two weeks, Michael Scotto of HoopsHype.com reports."
    },
    {
+    "player": "Walker Kessler",
+    "team": "LAL",
+    "status": "Out",
+    "note": "Head coach JJ Redick said he expects Walker (leg) to be available for Wednesday's game against the Jazz, Thuc Nhi Nguyen of the Los Angeles Times reports."
+   },
+   {
     "player": "Austin Reaves",
     "team": "LAL",
     "status": "Out",
     "note": "Reaves (heel) is out for Tuesday's game against the Hornets, Dave McMenamin of ESPN.com reports."
-   },
-   {
-    "player": "Walker Kessler",
-    "team": "LAL",
-    "status": "Out",
-    "note": "Walker (leg) has been ruled out for Tuesday's game against the Hornets."
    }
   ]
  }
