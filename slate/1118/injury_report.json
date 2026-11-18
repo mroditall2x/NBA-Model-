@@ -1,12 +1,12 @@
 {
- "checked": "2026-11-18T22:22:28.742083+00:00",
+ "checked": "2026-11-18T23:22:33.600384+00:00",
  "games": {
   "MEM@CLE": [
    {
     "player": "Peyton Watson",
     "team": "CLE",
-    "status": "Day-To-Day",
-    "note": "Watson (back) is doubtful for Wednesday's game versus Memphis."
+    "status": "Out",
+    "note": "Watson (back) is out for Wednesday's game versus Memphis."
    },
    {
     "player": "Jaylon Tyson",
@@ -19,12 +19,6 @@
     "team": "CLE",
     "status": "Out",
     "note": "Tomlin (back) will remain on the inactive list for Wednesday's game against the Grizzlies."
-   },
-   {
-    "player": "Sam Merrill",
-    "team": "CLE",
-    "status": "Out",
-    "note": "Merrill (elbow) is questionable to face the Grizzlies on Wednesday."
    },
    {
     "player": "Evan Mobley",
@@ -71,22 +65,10 @@
     "note": "Capela (ankle) has been ruled out for Wednesday's game against Indiana."
    },
    {
-    "player": "Amen Thompson",
-    "team": "HOU",
-    "status": "Day-To-Day",
-    "note": "Thompson (knee) is questionable for Wednesday's game against the Pacers."
-   },
-   {
-    "player": "T.J. McConnell",
-    "team": "IND",
-    "status": "Day-To-Day",
-    "note": "McConnell (hamstring) is probable to play Wednesday against the Rockets."
-   },
-   {
     "player": "Andrew Nembhard",
     "team": "IND",
-    "status": "Day-To-Day",
-    "note": "Nembhard (hip) is questionable for Wednesday's game against Houston."
+    "status": "Out",
+    "note": "Nembhard (hip) won't play in Wednesday's game against the Rockets, Tony East of Forbes.com reports."
    },
    {
     "player": "Tyrese Haliburton",
@@ -153,6 +135,18 @@
     "note": "Banchero is expected to be sidelined for the next four-to-six weeks due to a right high-ankle sprain, Shams Charania of ESPN reports."
    },
    {
+    "player": "Tyrese Maxey",
+    "team": "PHI",
+    "status": "Day-To-Day",
+    "note": "Maxey is questionable for Wednesday's game in Orlando due to right foot soreness, Gina Mizell of The Philadelphia Inquirer reports."
+   },
+   {
+    "player": "Jaylen Brown",
+    "team": "PHI",
+    "status": "Out",
+    "note": "Brown (hamstring) will be re-evaluated at some point this weekend, per Kris Rihm of ESPN.com."
+   },
+   {
     "player": "Dean Wade",
     "team": "PHI",
     "status": "Day-To-Day",
@@ -163,12 +157,6 @@
     "team": "PHI",
     "status": "Out",
     "note": "Barlow (back) is out for Wednesday's game against Orlando."
-   },
-   {
-    "player": "Jaylen Brown",
-    "team": "PHI",
-    "status": "Out",
-    "note": "Brown is out for Wednesday's game against the Magic with a left hamstring strain."
    },
    {
     "player": "Adem Bona",
@@ -184,12 +172,6 @@
    }
   ],
   "CHI@BKN": [
-   {
-    "player": "Patrick Williams",
-    "team": "CHI",
-    "status": "Day-To-Day",
-    "note": "Williams (finger) is listed as probable for Wednesday's game against Brooklyn."
-   },
    {
     "player": "Tobe Awaka",
     "team": "CHI",
@@ -207,8 +189,8 @@
    {
     "player": "RJ Barrett",
     "team": "TOR",
-    "status": "Day-To-Day",
-    "note": "Barrett is questionable for Wednesday's game against the Wizards due to hamstring tightness, Esfandiar Baraheni of The Athletic reports."
+    "status": "Out",
+    "note": "Barrett (hamstring) is out for Wednesday's game against the Wizards, Michael Grange of Sportsnet.ca reports."
    },
    {
     "player": "Scottie Barnes",

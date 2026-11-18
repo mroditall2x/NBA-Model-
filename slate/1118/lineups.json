@@ -30,14 +30,11 @@
   "out": [
    "Evan Mobley",
    "Nae'Qwan Tomlin",
-   "Jaylon Tyson"
-  ],
-  "ques": [
-   "Sam Merrill"
-  ],
-  "doubt": [
+   "Jaylon Tyson",
    "Peyton Watson"
   ],
+  "ques": [],
+  "doubt": [],
   "prob": []
  },
  "HOU": {
@@ -52,9 +49,7 @@
   "out": [
    "Clint Capela"
   ],
-  "ques": [
-   "Amen Thompson"
-  ],
+  "ques": [],
   "doubt": [],
   "prob": []
  },
@@ -75,9 +70,7 @@
   ],
   "ques": [],
   "doubt": [],
-  "prob": [
-   "T.J. McConnell"
-  ]
+  "prob": []
  },
  "MIL": {
   "status": "expected",
@@ -117,7 +110,7 @@
   "starters": [
    "Tyrese Maxey",
    "VJ Edgecombe",
-   "Dean Wade",
+   "Kentavious Caldwell-Pope",
    "LeBron James",
    "Joel Embiid"
   ],
@@ -125,10 +118,11 @@
    "Ariel Hukporti",
    "Dominick Barlow",
    "Adem Bona",
-   "Jaylen Brown"
+   "Jaylen Brown",
+   "Dean Wade"
   ],
   "ques": [
-   "Dean Wade"
+   "Tyrese Maxey"
   ],
   "doubt": [],
   "prob": []
@@ -167,9 +161,7 @@
   ],
   "ques": [],
   "doubt": [],
-  "prob": [
-   "Patrick Williams"
-  ]
+  "prob": []
  },
  "BKN": {
   "status": "expected",
@@ -208,19 +200,18 @@
   "status": "expected",
   "starters": [
    "Immanuel Quickley",
-   "RJ Barrett",
+   "Jamal Shead",
    "Ja'Kobe Walter",
    "Collin Murray-Boyles",
    "Jakob Poeltl"
   ],
   "out": [
    "Scottie Barnes",
+   "RJ Barrett",
    "Nate Bittle",
    "Kawhi Leonard"
   ],
-  "ques": [
-   "RJ Barrett"
-  ],
+  "ques": [],
   "doubt": [],
   "prob": []
  },
