@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-19T02:22:30.494905+00:00",
+ "checked": "2026-11-19T03:22:28.532133+00:00",
  "games": {
   "MEM@CLE": [
    {
@@ -69,6 +69,12 @@
     "team": "HOU",
     "status": "Out",
     "note": "Capela (ankle) has been ruled out for Wednesday's game against Indiana."
+   },
+   {
+    "player": "Braden Smith",
+    "team": "IND",
+    "status": "Day-To-Day",
+    "note": "Smith suffered a right ankle sprain during Wednesday's game against the Wizards, Tony East of Forbes.com reports."
    },
    {
     "player": "Andrew Nembhard",
@@ -289,6 +295,12 @@
     "team": "ATL",
     "status": "Out",
     "note": "Veesaar was diagnosed with a torn right ACL and is expected to miss the 2026-27 season, the Hawks announced Monday."
+   },
+   {
+    "player": "Alex Caruso",
+    "team": "OKC",
+    "status": "Out",
+    "note": "Caruso totaled 11 points (3-6 FG, 1-3 3Pt, 4-4 FT), two rebounds, three assists, one block and four steals across 18 minutes off the bench during Sunday's 125-103 win over the Kings."
    },
    {
     "player": "Thomas Sorber",
