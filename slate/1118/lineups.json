@@ -49,7 +49,9 @@
   "out": [
    "Clint Capela"
   ],
-  "ques": [],
+  "ques": [
+   "Alperen Sengun"
+  ],
   "doubt": [],
   "prob": []
  },
@@ -177,7 +179,7 @@
   "prob": []
  },
  "WSH": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Trae Young",
    "Kyshawn George",
@@ -210,34 +212,34 @@
    "Nate Bittle",
    "Kawhi Leonard"
   ],
-  "ques": [],
+  "ques": [
+   "Collin Murray-Boyles"
+  ],
   "doubt": [],
   "prob": []
  },
  "DET": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
-   "Cade Cunningham",
    "Daniss Jenkins",
    "Kevin Huerter",
+   "Javonte Green",
    "Ausar Thompson",
    "John Collins"
   ],
   "out": [
+   "Cade Cunningham",
    "Jalen Duren",
    "Ronald Holland",
    "Taurean Prince",
    "Duncan Robinson"
   ],
-  "ques": [
-   "Cade Cunningham",
-   "Isaiah Joe"
-  ],
+  "ques": [],
   "doubt": [],
   "prob": []
  },
  "NO": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Jeremiah Fears",
    "Herbert Jones",
@@ -257,7 +259,7 @@
   "prob": []
  },
  "GS": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "LJ Cryer",
    "Brandin Podziemski",
@@ -278,7 +280,7 @@
   "prob": []
  },
  "DAL": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Kyrie Irving",
    "Caleb Martin",
@@ -297,11 +299,11 @@
   "prob": []
  },
  "ATL": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Nickeil Alexander-Walker",
    "Dyson Daniels",
-   "Luguentz Dort",
+   "Aaron Wiggins",
    "Jalen Johnson",
    "Onyeka Okongwu"
   ],
@@ -318,13 +320,13 @@
   "prob": []
  },
  "OKC": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Shai Gilgeous-Alexander",
    "Jared McCain",
    "Ajay Mitchell",
-   "Kenrich Williams",
-   "Isaiah Hartenstein"
+   "Isaiah Hartenstein",
+   "Aday Mara"
   ],
   "out": [
    "Chet Holmgren",
@@ -337,7 +339,7 @@
   "prob": []
  },
  "BOS": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Derrick White",
    "Jordan Walsh",
@@ -351,7 +353,7 @@
   "prob": []
  },
  "DEN": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Jamal Murray",
    "Christian Braun",
@@ -380,9 +382,7 @@
    "Lauri Markkanen",
    "Jusuf Nurkic"
   ],
-  "ques": [
-   "Jaxson Hayes"
-  ],
+  "ques": [],
   "doubt": [],
   "prob": []
  },

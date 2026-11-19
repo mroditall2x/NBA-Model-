@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-19T00:22:32.165864+00:00",
+ "checked": "2026-11-19T02:22:30.494905+00:00",
  "games": {
   "MEM@CLE": [
    {
@@ -58,6 +58,12 @@
    }
   ],
   "HOU@IND": [
+   {
+    "player": "Alperen Sengun",
+    "team": "HOU",
+    "status": "Day-To-Day",
+    "note": "Sengun (eye) will not return to Wednesday's game against the Pacers, Will Guillory of The Athletic reports."
+   },
    {
     "player": "Clint Capela",
     "team": "HOU",
@@ -186,6 +192,12 @@
    }
   ],
   "WSH@TOR": [
+   {
+    "player": "Collin Murray-Boyles",
+    "team": "TOR",
+    "status": "Day-To-Day",
+    "note": "Murray-Boyles will not return to Wednesday's game against the Wizards due to an illness, Blake Murphy of Sportsnet.ca reports."
+   },
    {
     "player": "RJ Barrett",
     "team": "TOR",
@@ -369,14 +381,8 @@
    {
     "player": "Cade Cunningham",
     "team": "DET",
-    "status": "Day-To-Day",
-    "note": "Cunningham is questionable for Wednesday's game against the Pelicans due to right knee soreness"
-   },
-   {
-    "player": "Isaiah Joe",
-    "team": "DET",
     "status": "Out",
-    "note": "Joe (hip) is listed as questionable for Wednesday's game against the Pelicans."
+    "note": "Cunningham (knee) won't play in Wednesday's game against New Orleans."
    },
    {
     "player": "Taurean Prince",
@@ -446,13 +452,7 @@
     "player": "Austin Reaves",
     "team": "LAL",
     "status": "Out",
-    "note": "Reaves (heel) is out for Wednesday's game against the Jazz."
-   },
-   {
-    "player": "Jaxson Hayes",
-    "team": "UTAH",
-    "status": "Day-To-Day",
-    "note": "Hayes (knee) is questionable for Wednesday's game against the Lakers."
+    "note": "Head coach JJ Redick said Reaves' (heel) pregame workout went \"well,\" but he remains without an official timetable to return, Daniel Starkand of LakersNation.com reports."
    },
    {
     "player": "Lauri Markkanen",
