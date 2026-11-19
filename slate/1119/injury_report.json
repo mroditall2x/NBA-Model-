@@ -1,18 +1,18 @@
 {
- "checked": "2026-11-19T18:22:32.716538+00:00",
+ "checked": "2026-11-19T19:22:31.865869+00:00",
  "games": {
   "GS@MEM": [
    {
     "player": "Draymond Green",
     "team": "GS",
-    "status": "Day-To-Day",
-    "note": "Green (elbow) is available for Wednesday's game against the Mavericks."
+    "status": "Out",
+    "note": "Green (elbow) is out for Thursday's game against the Grizzlies."
    },
    {
-    "player": "Al Horford",
+    "player": "LJ Cryer",
     "team": "GS",
     "status": "Day-To-Day",
-    "note": "Horford (back) is out for Wednesday's game against the Mavericks, but will play Thursday against the Grizzlies, Nick Friedell of The Athletic reports."
+    "note": "Cryer (back) is questionable for Thursday's game against Memphis."
    },
    {
     "player": "Brandon Williams",
@@ -48,19 +48,25 @@
     "player": "Isaiah Stewart",
     "team": "MEM",
     "status": "Day-To-Day",
-    "note": "Stewart (illness) won't play Wednesday against the Cavs."
+    "note": "Stewart is questionable for Thursday's game against the Warriors due to an illness."
+   },
+   {
+    "player": "Zach Edey",
+    "team": "MEM",
+    "status": "Out",
+    "note": "Edey (hip) has been ruled out for Thursday's game against the Warriors."
+   },
+   {
+    "player": "Ty Jerome",
+    "team": "MEM",
+    "status": "Out",
+    "note": "Jerome (hip) has been ruled out for Thursday's game against the Warriors."
    },
    {
     "player": "GG Jackson",
     "team": "MEM",
     "status": "Out",
     "note": "Jackson underwent a procedure Wednesday to repair a broken fifth metatarsal in his left foot. He is expected to recover fully and will be re-evaluated in approximately three months."
-   },
-   {
-    "player": "Ty Jerome",
-    "team": "MEM",
-    "status": "Out",
-    "note": "Jerome (hip) has been ruled out for Wednesday's game in Cleveland."
    },
    {
     "player": "Scotty Pippen Jr.",
@@ -114,6 +120,12 @@
    }
   ],
   "POR@MIL": [
+   {
+    "player": "Myles Turner",
+    "team": "MIL",
+    "status": "Out",
+    "note": "Turner posted four points (2-5 FG, 0-2 3Pt), five rebounds, four assists and three blocks in 21 minutes during Wednesday's 137-130 loss to Miami."
+   },
    {
     "player": "Ryan Rollins",
     "team": "MIL",
@@ -170,12 +182,6 @@
    }
   ],
   "NY@MIN": [
-   {
-    "player": "Zyon Pullin",
-    "team": "MIN",
-    "status": "Day-To-Day",
-    "note": "Pullin (quadriceps) is listed as questionable for Thursday's game against the Knicks."
-   },
    {
     "player": "Jonathan Kuminga",
     "team": "MIN",

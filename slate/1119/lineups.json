@@ -27,16 +27,16 @@
   "starters": [
    "Brayden Burries",
    "Tyler Herro",
-   "Kyle Kuzma",
-   "Jericho Sims",
-   "Myles Turner"
+   "Jaime Jaquez",
+   "Nate Ament",
+   "Jericho Sims"
   ],
   "out": [
-   "Ousmane Dieng"
+   "Ousmane Dieng",
+   "Kyle Kuzma",
+   "Myles Turner"
   ],
-  "ques": [
-   "Ryan Rollins"
-  ],
+  "ques": [],
   "doubt": [],
   "prob": []
  },
@@ -69,8 +69,7 @@
    "Anthony Edwards"
   ],
   "ques": [
-   "Jonathan Kuminga",
-   "Zyon Pullin"
+   "Jonathan Kuminga"
   ],
   "doubt": [],
   "prob": []
@@ -123,33 +122,33 @@
   "out": [
    "Jimmy Butler",
    "Stephen Curry",
+   "Draymond Green",
    "Moses Moody",
    "Kristaps Porzingis",
    "Brandon Williams"
   ],
-  "ques": [],
-  "doubt": [
-   "Draymond Green"
+  "ques": [
+   "LJ Cryer"
   ],
-  "prob": [
-   "Al Horford"
-  ]
+  "doubt": [],
+  "prob": []
  },
  "MEM": {
   "status": "expected",
   "starters": [
-   "Ty Jerome",
+   "Cam Spencer",
    "Cedric Coward",
    "Jaylen Wells",
    "Cameron Boozer",
-   "Zach Edey"
+   "Isaiah Stewart"
   ],
   "out": [
+   "Zach Edey",
    "GG Jackson",
+   "Ty Jerome",
    "Scotty Pippen"
   ],
   "ques": [
-   "Ty Jerome",
    "Isaiah Stewart"
   ],
   "doubt": [],
