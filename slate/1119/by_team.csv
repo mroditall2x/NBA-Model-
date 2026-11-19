@@ -1,11 +1,11 @@
 game,team,player,stat,line,side,p,mean,min,grade,where
 LAC@SA,LAC,Rui Hachimura,AST,1.5,Less,0.618,1.13,29.1,lean,Kalshi / Underdog
-LAC@SA,LAC,Brook Lopez,REB,4.5,More,0.574,5.55,25.5,lean,PrizePicks / Underdog
+LAC@SA,LAC,Brook Lopez,3PM,1.5,Less,0.574,1.35,25.5,lean,PrizePicks / Underdog
 LAC@SA,LAC,Darius Garland,PTS,19.5,More,0.537,21.62,33.9,lean,PrizePicks / Underdog
 LAC@SA,LAC,Isaiah Jackson,PTS,6.5,More,0.526,7.7,18.5,lean,PrizePicks / Underdog
 GS@MEM,MEM,Cedric Coward,AST,3.5,Less,0.554,3.29,32.3,lean,PrizePicks / Underdog
-POR@MIL,MIL,Tyler Herro,AST,3.5,More,0.597,4.68,34.4,lean,Kalshi / Underdog
-POR@MIL,MIL,Kel'el Ware,REB,8.5,Less,0.539,8.21,23.6,lean,Kalshi / Underdog
+POR@MIL,MIL,Kel'el Ware,3PM,1.5,Less,0.659,0.9,23.5,card,Kalshi / Underdog
+POR@MIL,MIL,Tyler Herro,PRA,29.5,More,0.515,30.77,33.8,lean,PrizePicks / Underdog
 NY@MIN,MIN,Jonathan Kuminga,3PM,1.5,Less,0.589,1.26,27.1,lean,Kalshi / Underdog
 NY@MIN,MIN,LaMelo Ball,REB,4.5,Less,0.563,4.13,28.8,lean,Kalshi / Underdog
 NY@MIN,MIN,Rudy Gobert,REB,10.5,Less,0.555,9.9,29.6,lean,PrizePicks / Underdog
@@ -14,9 +14,9 @@ NY@MIN,NY,Josh Hart,3PM,1.5,Less,0.627,1.08,27.1,lean,Kalshi / Underdog
 NY@MIN,NY,Mikal Bridges,3PM,1.5,Less,0.597,1.23,28.5,lean,Kalshi / Underdog
 NY@MIN,NY,Jalen Brunson,AST,5.5,More,0.553,6.3,35.4,lean,Kalshi / Underdog
 NY@MIN,NY,Karl-Anthony Towns,PA,24.5,Less,0.539,23.71,33.6,lean,PrizePicks / Underdog
-POR@MIL,POR,Donovan Clingan,AST,2.5,Less,0.606,2.0,31.1,lean,Kalshi / Underdog
-POR@MIL,POR,Sidy Cissoko,3PM,1.5,Less,0.567,1.41,26.3,lean,Kalshi / Underdog
-POR@MIL,POR,Scoot Henderson,REB,2.5,Less,0.534,2.71,26.6,lean,Kalshi / Underdog
+POR@MIL,POR,Donovan Clingan,AST,2.5,Less,0.606,2.0,30.9,lean,Kalshi / Underdog
+POR@MIL,POR,Sidy Cissoko,3PM,1.5,Less,0.558,1.45,27.2,lean,Kalshi / Underdog
+POR@MIL,POR,Scoot Henderson,REB,2.5,Less,0.54,2.69,26.5,lean,Kalshi / Underdog
 LAC@SA,SA,Keldon Johnson,AST,1.5,More,0.555,2.11,26.8,lean,Kalshi / Underdog
 LAC@SA,SA,Victor Wembanyama,PRA,44.5,More,0.547,47.22,34.2,lean,PrizePicks / Underdog
 LAC@SA,SA,Stephon Castle,RA,12.5,More,0.54,13.42,34.3,lean,PrizePicks / Underdog
