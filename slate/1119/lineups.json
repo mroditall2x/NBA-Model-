@@ -1,0 +1,158 @@
+{
+ "POR": {
+  "status": "expected",
+  "starters": [
+   "Damian Lillard",
+   "Sidy Cissoko",
+   "Toumani Camara",
+   "Deni Avdija",
+   "Donovan Clingan"
+  ],
+  "out": [
+   "Vit Krejci",
+   "Ja Morant",
+   "Shaedon Sharpe",
+   "Robert Williams",
+   "Chris Youngblood"
+  ],
+  "ques": [
+   "Deni Avdija",
+   "Toumani Camara"
+  ],
+  "doubt": [],
+  "prob": []
+ },
+ "MIL": {
+  "status": "expected",
+  "starters": [
+   "Brayden Burries",
+   "Tyler Herro",
+   "Kyle Kuzma",
+   "Jericho Sims",
+   "Myles Turner"
+  ],
+  "out": [
+   "Ousmane Dieng"
+  ],
+  "ques": [
+   "Ryan Rollins"
+  ],
+  "doubt": [],
+  "prob": []
+ },
+ "NY": {
+  "status": "expected",
+  "starters": [
+   "Jalen Brunson",
+   "Mikal Bridges",
+   "Josh Hart",
+   "OG Anunoby",
+   "Karl-Anthony Towns"
+  ],
+  "out": [],
+  "ques": [],
+  "doubt": [],
+  "prob": []
+ },
+ "MIN": {
+  "status": "expected",
+  "starters": [
+   "LaMelo Ball",
+   "Ayo Dosunmu",
+   "Jonathan Kuminga",
+   "Jaden McDaniels",
+   "Rudy Gobert"
+  ],
+  "out": [
+   "Jaylen Clark",
+   "Donte DiVincenzo",
+   "Anthony Edwards"
+  ],
+  "ques": [
+   "Jonathan Kuminga",
+   "Zyon Pullin"
+  ],
+  "doubt": [],
+  "prob": []
+ },
+ "LAC": {
+  "status": "expected",
+  "starters": [
+   "Darius Garland",
+   "Kris Dunn",
+   "Derrick Jones",
+   "Rui Hachimura",
+   "Brook Lopez"
+  ],
+  "out": [
+   "Bradley Beal",
+   "Brandon Ingram",
+   "Jordan Miller"
+  ],
+  "ques": [],
+  "doubt": [],
+  "prob": []
+ },
+ "SA": {
+  "status": "expected",
+  "starters": [
+   "De'Aaron Fox",
+   "Stephon Castle",
+   "Julian Champagnie",
+   "Devin Vassell",
+   "Victor Wembanyama"
+  ],
+  "out": [
+   "Dylan Harper",
+   "Tobias Harris",
+   "Jayden Quaintance"
+  ],
+  "ques": [],
+  "doubt": [],
+  "prob": []
+ },
+ "GS": {
+  "status": "expected",
+  "starters": [
+   "LJ Cryer",
+   "Brandin Podziemski",
+   "Yaxel Lendeborg",
+   "Gui Santos",
+   "Al Horford"
+  ],
+  "out": [
+   "Jimmy Butler",
+   "Stephen Curry",
+   "Moses Moody",
+   "Kristaps Porzingis",
+   "Brandon Williams"
+  ],
+  "ques": [],
+  "doubt": [
+   "Draymond Green"
+  ],
+  "prob": [
+   "Al Horford"
+  ]
+ },
+ "MEM": {
+  "status": "expected",
+  "starters": [
+   "Ty Jerome",
+   "Cedric Coward",
+   "Jaylen Wells",
+   "Cameron Boozer",
+   "Zach Edey"
+  ],
+  "out": [
+   "GG Jackson",
+   "Scotty Pippen"
+  ],
+  "ques": [
+   "Ty Jerome",
+   "Isaiah Stewart"
+  ],
+  "doubt": [],
+  "prob": []
+ }
+}
