@@ -1,11 +1,12 @@
 game,team,player,stat,tier,line,side,p,price,ev,top,mean,lo,hi,min,gap,where,vol3
+MIL@MIA,MIA,Giannis Antetokounmpo,AST,standard,6.5,Less,0.5733,-146,-0.034,False,5.68,3,8,32.4,1.6,PrizePicks / Underdog,
+PHI@ORL,ORL,Franz Wagner,REB,standard,6.5,Less,0.559,-146,-0.058,False,6.04,4,8,32.9,2.0,PrizePicks / Underdog,
 PHX@SAC,PHX,Devin Booker,3PM,standard,1.5,More,0.6,-172,-0.051,True,2.16,1,4,34.6,0.1,Kalshi / Underdog,6.4
 DET@NO,DET,Cade Cunningham,3PM,standard,1.5,More,0.6,-172,-0.051,True,2.26,1,4,36.1,-3.8,Kalshi / Underdog,6.8
 UTAH@LAL,UTAH,Brice Sensabaugh,3PM,standard,2.5,Less,0.5865,-137,0.015,True,2.08,1,3,23.2,0.5,Kalshi / Underdog,5.8
 WSH@TOR,WSH,Tre Johnson,REB,standard,2.5,Less,0.5791,-150,-0.035,True,2.09,1,3,21.7,1.2,Kalshi / Underdog,
 UTAH@LAL,UTAH,Keyonte George,AST,standard,7.5,Less,0.5761,-150,-0.04,True,6.57,4,9,35.7,-0.4,PrizePicks / Underdog,
-MIL@MIA,MIA,Giannis Antetokounmpo,AST,standard,6.5,Less,0.5733,-146,-0.034,False,5.68,3,8,32.4,1.6,PrizePicks / Underdog,
 WSH@TOR,WSH,Tre Johnson,AST,standard,1.5,Less,0.5684,-149,-0.05,False,1.35,0,2,21.7,1.2,Kalshi / Underdog,
 BOS@DEN,BOS,Jayson Tatum,RA,standard,14.5,Less,0.5681,-133,-0.005,False,12.91,9,16,34.0,1.4,PrizePicks / Underdog,
-GS@DAL,DAL,Naji Marshall,REB,standard,3.5,Less,0.5617,-136,-0.025,False,3.17,1,5,22.4,1.4,Kalshi / Underdog,
-PHI@ORL,ORL,Franz Wagner,REB,standard,6.5,Less,0.559,-146,-0.058,False,6.04,4,8,32.9,2.0,PrizePicks / Underdog,
+GS@DAL,DAL,Naji Marshall,REB,standard,3.5,Less,0.5626,-136,-0.024,False,3.16,1,5,22.4,1.4,Kalshi / Underdog,
+WSH@TOR,WSH,Bilal Coulibaly,REB,standard,3.5,Less,0.5569,-144,-0.056,False,3.23,1,5,22.0,-3.7,Kalshi / Underdog,

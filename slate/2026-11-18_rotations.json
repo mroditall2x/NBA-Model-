@@ -95,15 +95,15 @@
  },
  "OKC": {
   "Shai Gilgeous-Alexander": 38.0,
-  "Isaiah Hartenstein": 29.6,
-  "Ajay Mitchell": 29.5,
-  "Jared McCain": 26.9,
-  "Aday Mara": 23.8,
-  "Kenrich Williams": 21.7,
-  "Alex Caruso": 20.2,
-  "Bennett Stirtz": 19.8,
-  "Nique Clifford": 15.7,
-  "Micah Peavy": 14.5
+  "Isaiah Hartenstein": 29.0,
+  "Ajay Mitchell": 28.9,
+  "Jared McCain": 26.7,
+  "Aday Mara": 24.0,
+  "Kenrich Williams": 21.4,
+  "Bennett Stirtz": 20.0,
+  "Alex Caruso": 19.9,
+  "Jaylin Williams": 16.3,
+  "Nique Clifford": 15.4
  },
  "ATL": {
   "Nickeil Alexander-Walker": 38.0,
@@ -130,16 +130,16 @@
   "Caleb Martin": 16.9
  },
  "GS": {
-  "Yaxel Lendeborg": 35.0,
-  "Brandin Podziemski": 33.1,
-  "Draymond Green": 29.0,
-  "De'Anthony Melton": 26.6,
-  "Georges Niang": 23.2,
-  "Will Richard": 21.8,
-  "Al Horford": 20.8,
-  "Gui Santos": 20.5,
-  "Gary Payton II": 15.4,
-  "Charles Bassey": 14.8
+  "Yaxel Lendeborg": 35.3,
+  "Brandin Podziemski": 34.2,
+  "Draymond Green": 30.1,
+  "De'Anthony Melton": 27.3,
+  "Georges Niang": 23.8,
+  "Will Richard": 22.4,
+  "Gui Santos": 21.1,
+  "Gary Payton II": 15.9,
+  "Charles Bassey": 15.3,
+  "LJ Cryer": 14.5
  },
  "BKN": {
   "Julius Randle": 35.4,
@@ -273,15 +273,14 @@
   "Jevon Carter": 13.1
  },
  "PHI": {
-  "Tyrese Maxey": 38.0,
   "VJ Edgecombe": 38.0,
-  "LeBron James": 34.8,
-  "Joel Embiid": 34.8,
-  "Anfernee Simons": 27.9,
-  "Kentavious Caldwell-Pope": 26.7,
-  "Jabari Walker": 13.5,
-  "Caleb Love": 9.7,
-  "Justin Edwards": 8.4,
-  "Rayan Rupert": 8.0
+  "Joel Embiid": 38.0,
+  "LeBron James": 38.0,
+  "Anfernee Simons": 35.7,
+  "Kentavious Caldwell-Pope": 34.2,
+  "Jabari Walker": 17.6,
+  "Caleb Love": 14.3,
+  "Justin Edwards": 12.2,
+  "Rayan Rupert": 11.7
  }
 }

@@ -1,6 +1,6 @@
 {
  "MEM": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Cam Spencer",
    "Cedric Coward",
@@ -19,7 +19,7 @@
   "prob": []
  },
  "CLE": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "James Harden",
    "Donovan Mitchell",
@@ -38,7 +38,7 @@
   "prob": []
  },
  "HOU": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Fred VanVleet",
    "Amen Thompson",
@@ -54,7 +54,7 @@
   "prob": []
  },
  "IND": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Quenton Jackson",
    "Kelly Oubre",
@@ -73,7 +73,7 @@
   "prob": []
  },
  "MIL": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Brayden Burries",
    "Tyler Herro",
@@ -90,7 +90,7 @@
   "prob": []
  },
  "MIA": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Davion Mitchell",
    "Klay Thompson",
@@ -106,9 +106,9 @@
   "prob": []
  },
  "PHI": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
-   "Tyrese Maxey",
+   "Anfernee Simons",
    "VJ Edgecombe",
    "Kentavious Caldwell-Pope",
    "LeBron James",
@@ -119,16 +119,15 @@
    "Dominick Barlow",
    "Adem Bona",
    "Jaylen Brown",
+   "Tyrese Maxey",
    "Dean Wade"
   ],
-  "ques": [
-   "Tyrese Maxey"
-  ],
+  "ques": [],
   "doubt": [],
   "prob": []
  },
  "ORL": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Jalen Suggs",
    "Anthony Black",
@@ -147,7 +146,7 @@
   "prob": []
  },
  "CHI": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Josh Giddey",
    "Norman Powell",
@@ -164,7 +163,7 @@
   "prob": []
  },
  "BKN": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Nolan Traore",
    "Egor Demin",
@@ -197,11 +196,11 @@
   "prob": []
  },
  "TOR": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Immanuel Quickley",
-   "Jamal Shead",
    "Ja'Kobe Walter",
+   "Jamison Battle",
    "Collin Murray-Boyles",
    "Jakob Poeltl"
   ],
@@ -264,19 +263,17 @@
    "Brandin Podziemski",
    "Yaxel Lendeborg",
    "Draymond Green",
-   "Al Horford"
+   "Charles Bassey"
   ],
   "out": [
    "Jimmy Butler",
    "Stephen Curry",
+   "Al Horford",
    "Moses Moody",
    "Kristaps Porzingis",
    "Brandon Williams"
   ],
-  "ques": [
-   "Draymond Green",
-   "Al Horford"
-  ],
+  "ques": [],
   "doubt": [],
   "prob": []
  },
@@ -292,18 +289,12 @@
   "out": [
    "Tarik Biberovic",
    "Sergio de Larrea",
+   "Tobi Lawal",
    "Dereck Lively"
   ],
-  "ques": [
-   "Max Christie"
-  ],
-  "doubt": [
-   "Tobi Lawal"
-  ],
-  "prob": [
-   "Santi Aldama",
-   "Walter Clayton"
-  ]
+  "ques": [],
+  "doubt": [],
+  "prob": []
  },
  "ATL": {
   "status": "expected",
@@ -341,9 +332,7 @@
    "Cason Wallace",
    "Jalen Williams"
   ],
-  "ques": [
-   "Jaylin Williams"
-  ],
+  "ques": [],
   "doubt": [],
   "prob": []
  },
