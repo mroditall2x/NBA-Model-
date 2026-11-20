@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-20T16:22:29.765951+00:00",
+ "checked": "2026-11-20T17:22:31.402004+00:00",
  "games": {
   "CHA@ATL": [
    {
@@ -305,6 +305,12 @@
     "team": "NO",
     "status": "Out",
     "note": "Murray (ankle) is out for Friday's game against Memphis."
+   },
+   {
+    "player": "Nikola Topic",
+    "team": "OKC",
+    "status": "Out",
+    "note": "Topic (hip) is out for Friday's game against New Orleans."
    },
    {
     "player": "Alex Caruso",

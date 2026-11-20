@@ -1,11 +1,11 @@
-game,team,player,stat,tier,line,side,p,price,ev,top,mean,lo,hi,min,gap,where,vol3,line_open,line_now,move,line_move,keep
-SAC@LAL,SAC,De'Andre Hunter,3PM,standard,1.5,More,0.6,-152,-0.005,True,1.68,0,3,28.1,2.5,Kalshi / Underdog,6.3,,,,,True
-TOR@DET,DET,Kevin Huerter,3PM,standard,1.5,More,0.6,-161,-0.027,True,2.04,1,3,32.2,1.4,Kalshi / Underdog,5.8,,,,,True
-WSH@CHI,CHI,Isaac Okoro,3PM,standard,1.5,Less,0.5778,-148,-0.032,True,1.25,0,2,28.7,1.2,Kalshi / Underdog,3.7,,,,,True
-NO@OKC,OKC,Kenrich Williams,RA,standard,6.5,Less,0.5743,-146,-0.032,True,5.63,3,8,21.9,1.6,PrizePicks / Underdog,,6.5,6.5,0.0,,True
-TOR@DET,DET,Kevin Huerter,AST,standard,3.5,Less,0.573,-145,-0.032,True,2.95,1,4,32.2,1.4,Kalshi / Underdog,,3.5,3.5,0.0,,True
-IND@CLE,CLE,James Harden,REB,standard,5.5,Less,0.572,-149,-0.044,False,4.8,3,7,34.1,-2.2,PrizePicks / Underdog,,5.5,5.5,0.0,,True
-CHA@ATL,ATL,Aaron Wiggins,RA,standard,6.5,Less,0.5665,-140,-0.029,False,5.74,3,8,26.3,-0.0,PrizePicks / Underdog,,6.5,6.5,0.0,,True
-ORL@BKN,ORL,Desmond Bane,REB,standard,4.5,Less,0.5664,-137,-0.02,False,3.84,2,6,31.5,1.4,PrizePicks / Underdog,,4.5,4.5,0.0,,True
-CHA@ATL,ATL,Aaron Wiggins,AST,standard,2.5,Less,0.5645,-143,-0.041,False,2.15,1,3,26.3,-0.0,Kalshi / Underdog,,2.5,2.5,0.0,,True
-HOU@DEN,HOU,Kevin Durant,RA,standard,9.5,Less,0.5635,-144,-0.045,False,8.64,6,11,33.1,0.8,Kalshi / Underdog,,9.5,9.5,0.0,,True
+game,team,player,stat,tier,line,side,p,price,ev,top,mean,lo,hi,min,gap,where,vol3
+SAC@LAL,SAC,De'Andre Hunter,3PM,standard,1.5,More,0.6,-152,-0.005,True,1.68,0,3,28.1,2.5,Kalshi / Underdog,6.3
+TOR@DET,DET,Kevin Huerter,3PM,standard,1.5,More,0.6,-161,-0.027,True,2.04,1,3,32.2,1.4,Kalshi / Underdog,5.8
+WSH@CHI,CHI,Isaac Okoro,3PM,standard,1.5,Less,0.5778,-148,-0.032,True,1.25,0,2,28.7,1.2,Kalshi / Underdog,3.7
+NO@OKC,OKC,Kenrich Williams,RA,standard,6.5,Less,0.5743,-146,-0.032,True,5.63,3,8,21.9,1.6,PrizePicks / Underdog,
+TOR@DET,DET,Kevin Huerter,AST,standard,3.5,Less,0.573,-145,-0.032,True,2.95,1,4,32.2,1.4,Kalshi / Underdog,
+IND@CLE,CLE,James Harden,REB,standard,5.5,Less,0.572,-149,-0.044,False,4.8,3,7,34.1,-2.2,PrizePicks / Underdog,
+CHA@ATL,ATL,Aaron Wiggins,RA,standard,6.5,Less,0.5665,-140,-0.029,False,5.74,3,8,26.3,-0.0,PrizePicks / Underdog,
+ORL@BKN,ORL,Desmond Bane,REB,standard,4.5,Less,0.5664,-137,-0.02,False,3.84,2,6,31.5,1.4,PrizePicks / Underdog,
+CHA@ATL,ATL,Aaron Wiggins,AST,standard,2.5,Less,0.5645,-143,-0.041,False,2.15,1,3,26.3,-0.0,Kalshi / Underdog,
+HOU@DEN,HOU,Kevin Durant,RA,standard,9.5,Less,0.5635,-144,-0.045,False,8.64,6,11,33.1,0.8,Kalshi / Underdog,
