@@ -1,0 +1,13 @@
+game,team,player,combo,chance,fair_odds,min,min_bump,why,avg,size,special
+CHA@ATL,ATL,Onyeka Okongwu,15+ pts & 10+ reb,0.17,+489,33.7,-1.8,CJ McCollum out,8.3 reb / 2.6 ast / 15.8 pts,25,True
+WSH@CHI,WSH,AJ Dybantsa,15+ pts & 7+ reb,0.165,+505,29.3,10.4,+10 min,5.6 reb / 1.9 ast / 15.1 pts,22,True
+WSH@CHI,CHI,Jalen Smith,15+ pts & 10+ reb,0.164,+510,27.5,4.6,Caleb Wilson out; +5 min,8.7 reb / 2.0 ast / 13.6 pts,25,True
+NO@OKC,OKC,Aday Mara,10+ pts & 9+ reb,0.163,+515,25.2,2.8,Jalen Williams out,7.1 reb / 2.0 ast / 10.3 pts,19,True
+NO@OKC,OKC,Isaiah Hartenstein,10+ pts & 13+ reb,0.151,+561,28.2,-1.5,Jalen Williams out,10.9 reb / 4.0 ast / 10.0 pts,23,True
+SAC@LAL,LAL,Walker Kessler,15+ pts & 13+ reb,0.141,+610,32.4,-1.1,Austin Reaves out,11.1 reb / 2.0 ast / 14.0 pts,28,True
+WSH@CHI,WSH,Anthony Davis,25+ pts & 11+ reb,0.134,+646,31.5,4.4,+4 min,9.5 reb / 2.3 ast / 22.1 pts,36,True
+HOU@DEN,HOU,Fred VanVleet,15+ pts & 5+ ast,0.131,+665,28.4,3.8,+4 min,2.8 reb / 4.4 ast / 11.8 pts,20,True
+NO@OKC,OKC,Jared McCain,20+ pts & 2+ ast,0.125,+698,28.4,4.0,Jalen Williams out; +4 min,3.2 reb / 1.9 ast / 14.8 pts,22,True
+TOR@DET,TOR,Jakob Poeltl,15+ pts & 10+ reb,0.122,+720,28.6,-1.7,"Kawhi Leonard, RJ Barrett out",8.5 reb / 1.8 ast / 12.0 pts,25,True
+NO@OKC,OKC,Ajay Mitchell,20+ pts & 5+ ast,0.121,+727,30.5,3.7,Jalen Williams out; +4 min,3.8 reb / 3.8 ast / 17.2 pts,25,True
+IND@CLE,IND,Andrew Nembhard,20+ pts & 9+ ast,0.112,+796,31.1,-0.8,Tyrese Haliburton out,2.6 reb / 8.0 ast / 14.9 pts,29,True
