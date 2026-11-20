@@ -1,13 +1,13 @@
 game,team,player,combo,chance,fair_odds,min,min_bump,why,avg,size,special
 LAC@SA,SA,Julian Champagnie,10+ pts & 7+ reb,0.165,+507,31.4,-1.0,Dylan Harper out,5.4 reb / 1.7 ast / 11.2 pts,17,True
+POR@MIL,POR,Scoot Henderson,20+ pts & 4+ ast,0.145,+589,30.4,-11.2,"Deni Avdija, Ja Morant out",3.0 reb / 3.5 ast / 16.7 pts,24,True
 NY@MIN,MIN,Rudy Gobert,10+ pts & 12+ reb,0.135,+638,29.6,-2.0,Anthony Edwards out,9.9 reb / 1.5 ast / 9.3 pts,22,True
-POR@MIL,POR,Donovan Clingan,15+ pts & 15+ reb,0.131,+664,31.0,0.5,Ja Morant out,13.1 reb / 2.0 ast / 13.0 pts,30,True
 LAC@SA,SA,Victor Wembanyama,35+ pts & 14+ reb,0.13,+669,34.2,-1.6,Dylan Harper out,12.3 reb / 3.8 ast / 31.1 pts,49,True
 NY@MIN,MIN,Ayo Dosunmu,20+ pts & 5+ reb,0.125,+701,33.5,4.3,Anthony Edwards out; +4 min,4.2 reb / 3.7 ast / 16.4 pts,25,True
-POR@MIL,POR,Sidy Cissoko,10+ pts & 5+ reb,0.118,+750,27.1,1.6,Ja Morant out,3.8 reb / 2.0 ast / 7.9 pts,15,True
 GS@MEM,GS,De'Anthony Melton,15+ pts & 6+ reb,0.113,+789,28.7,0.0,Stephen Curry out,4.5 reb / 3.6 ast / 13.1 pts,21,True
 GS@MEM,MEM,Cedric Coward,20+ pts & 10+ reb,0.112,+789,32.3,-2.6,Ty Jerome out,8.2 reb / 3.3 ast / 17.0 pts,30,True
-POR@MIL,POR,Sidy Cissoko,10+ pts & 3+ ast,0.112,+796,27.1,1.6,Ja Morant out,3.8 reb / 2.0 ast / 7.9 pts,13,True
+POR@MIL,POR,Donovan Clingan,20+ pts & 18+ reb,0.112,+792,36.7,-8.1,"Deni Avdija, Ja Morant out",15.4 reb / 2.6 ast / 17.0 pts,38,True
 LAC@SA,SA,Keldon Johnson,15+ pts & 7+ reb,0.111,+800,26.8,-2.0,Dylan Harper out,5.6 reb / 2.1 ast / 12.2 pts,22,True
 LAC@SA,SA,Keldon Johnson,15+ pts & 3+ ast,0.111,+797,26.8,-2.0,Dylan Harper out,5.6 reb / 2.1 ast / 12.2 pts,18,True
+GS@MEM,GS,Brandin Podziemski,20+ pts & 7+ reb,0.108,+823,34.6,-3.4,Stephen Curry out,5.5 reb / 4.9 ast / 16.9 pts,27,True
 GS@MEM,MEM,Jerami Grant,20+ pts & 2+ ast,0.108,+822,26.9,-9.3,Ty Jerome out,2.9 reb / 1.7 ast / 14.8 pts,22,True

@@ -3,22 +3,20 @@
   "status": "expected",
   "starters": [
    "Damian Lillard",
+   "Scoot Henderson",
    "Sidy Cissoko",
    "Toumani Camara",
-   "Deni Avdija",
    "Donovan Clingan"
   ],
   "out": [
+   "Deni Avdija",
    "Vit Krejci",
    "Ja Morant",
    "Shaedon Sharpe",
    "Robert Williams",
    "Chris Youngblood"
   ],
-  "ques": [
-   "Deni Avdija",
-   "Toumani Camara"
-  ],
+  "ques": [],
   "doubt": [],
   "prob": []
  },
@@ -68,9 +66,7 @@
    "Donte DiVincenzo",
    "Anthony Edwards"
   ],
-  "ques": [
-   "Jonathan Kuminga"
-  ],
+  "ques": [],
   "doubt": [],
   "prob": []
  },
@@ -127,9 +123,7 @@
    "Kristaps Porzingis",
    "Brandon Williams"
   ],
-  "ques": [
-   "LJ Cryer"
-  ],
+  "ques": [],
   "doubt": [],
   "prob": []
  },
@@ -148,9 +142,7 @@
    "Ty Jerome",
    "Scotty Pippen"
   ],
-  "ques": [
-   "Isaiah Stewart"
-  ],
+  "ques": [],
   "doubt": [],
   "prob": []
  }
