@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-20T00:22:27.902459+00:00",
+ "checked": "2026-11-20T01:22:34.000715+00:00",
  "games": {
   "GS@MEM": [
    {
@@ -37,12 +37,6 @@
     "team": "GS",
     "status": "Out",
     "note": "Butler (knee) could return sometime between January and February as he continues recovering from a torn right ACL, Anthony Slater of ESPN reports."
-   },
-   {
-    "player": "Isaiah Stewart",
-    "team": "MEM",
-    "status": "Day-To-Day",
-    "note": "Stewart is questionable for Thursday's game against the Warriors due to an illness."
    },
    {
     "player": "Zach Edey",
@@ -133,6 +127,12 @@
     "note": "Dieng will undergo a procedure to repair a fractured left finger Monday, Justin Garcia of the Milwaukee Bucks Radio Network reports."
    },
    {
+    "player": "Deni Avdija",
+    "team": "POR",
+    "status": "Out",
+    "note": "Avdija (foot) is listed as out for Thursday's game against the Bucks."
+   },
+   {
     "player": "Chris Youngblood",
     "team": "POR",
     "status": "Out",
@@ -143,18 +143,6 @@
     "team": "POR",
     "status": "Out",
     "note": "Williams (rest) is listed as out for Thursday's game versus the Bucks."
-   },
-   {
-    "player": "Deni Avdija",
-    "team": "POR",
-    "status": "Day-To-Day",
-    "note": "Avdija (foot) is listed as questionable ahead of Thursday's game against Milwaukee."
-   },
-   {
-    "player": "Toumani Camara",
-    "team": "POR",
-    "status": "Day-To-Day",
-    "note": "Camara is questionable to play Thursday against the Bucks due to general soreness."
    },
    {
     "player": "Vit Krejci",
@@ -176,12 +164,6 @@
    }
   ],
   "NY@MIN": [
-   {
-    "player": "Jonathan Kuminga",
-    "team": "MIN",
-    "status": "Day-To-Day",
-    "note": "Kuminga (shoulder) is questionable for Thursday's game against the Knicks, Charlie Walton of ZoneCoverage.com reports."
-   },
    {
     "player": "Jaylen Clark",
     "team": "MIN",
