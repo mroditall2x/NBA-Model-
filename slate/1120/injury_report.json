@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-20T17:22:31.402004+00:00",
+ "checked": "2026-11-20T18:22:40.034822+00:00",
  "games": {
   "CHA@ATL": [
    {
@@ -159,6 +159,12 @@
   ],
   "TOR@DET": [
    {
+    "player": "Ronald Holland II",
+    "team": "DET",
+    "status": "Day-To-Day",
+    "note": "Holland (knee) has been upgraded to doubtful for Friday's game against Toronto, Hunter Patterson of The Athletic reports."
+   },
+   {
     "player": "Taurean Prince",
     "team": "DET",
     "status": "Out",
@@ -169,12 +175,6 @@
     "team": "DET",
     "status": "Out",
     "note": "Okorie (oblique) has been ruled out for Friday's game against Toronto."
-   },
-   {
-    "player": "Ronald Holland II",
-    "team": "DET",
-    "status": "Out",
-    "note": "Holland (knee) won't play in Friday's game against the Raptors, Blake Murphy of Sportsnet.ca reports."
    },
    {
     "player": "Cade Cunningham",
@@ -226,6 +226,12 @@
    }
   ],
   "WSH@CHI": [
+   {
+    "player": "Jalen Smith",
+    "team": "CHI",
+    "status": "Day-To-Day",
+    "note": "Smith (illness) has been downgraded to questionable for Friday's game against the Wizards."
+   },
    {
     "player": "Noa Essengue",
     "team": "CHI",

@@ -112,13 +112,14 @@
   ],
   "out": [
    "Jalen Duren",
-   "Ronald Holland",
    "Ebuka Okorie",
    "Taurean Prince",
    "Duncan Robinson"
   ],
   "ques": [],
-  "doubt": [],
+  "doubt": [
+   "Ronald Holland"
+  ],
   "prob": [
    "Cade Cunningham"
   ]
@@ -191,7 +192,9 @@
   "out": [
    "Caleb Wilson"
   ],
-  "ques": [],
+  "ques": [
+   "Jalen Smith"
+  ],
   "doubt": [],
   "prob": [
    "Noa Essengue"
