@@ -1,18 +1,18 @@
 {
- "checked": "2026-11-20T21:22:29.681516+00:00",
+ "checked": "2026-11-20T22:22:30.693765+00:00",
  "games": {
   "CHA@ATL": [
+   {
+    "player": "Kingston Flemings",
+    "team": "ATL",
+    "status": "Out",
+    "note": "Flemings (back) is out for Friday's game against the Hornets, Brad Rowland of the Locked On Podcast Network reports."
+   },
    {
     "player": "Jock Landale",
     "team": "ATL",
     "status": "Out",
     "note": "Landale (hip) won't play in Friday's game against the Hornets, Brad Rowland of the Locked On Podcast Network reports."
-   },
-   {
-    "player": "Kingston Flemings",
-    "team": "ATL",
-    "status": "Day-To-Day",
-    "note": "Flemings (back) is questionable for Friday's game against the Hornets, Brad Rowland of the Locked On Podcast Network reports."
    },
    {
     "player": "Asa Newell",
@@ -411,8 +411,8 @@
    {
     "player": "Precious Achiuwa",
     "team": "SAC",
-    "status": "Day-To-Day",
-    "note": "Achiuwa is doubtful for Friday's game against the Lakers due to a left lower leg bruise."
+    "status": "Out",
+    "note": "Achiuwa (lower leg) has been ruled out for Friday's game against the Lakers."
    },
    {
     "player": "De'Andre Hunter",
