@@ -1,11 +1,13 @@
-game,team,player,stat,side,line,p,where,line_now,p_now,move,news,status,Index,tier,price,ev,top,mean,lo,hi,min,gap,actual,result,date
-DET@MIA,DET,John Collins,AST,Less,1.5,0.6566,Kalshi / Underdog,1.5,0.655,,False,Hold,,,,,,,,,,,0.0,Win,2026-11-14
-DEN@NO,DEN,Spencer Jones,REB,Less,2.5,0.6332,PrizePicks / Underdog,,,,,Hold (no current line),1.0,standard,,,True,1.79,0.0,3.0,11.8,0.0,2.0,Win,2026-11-14
-LAL@PHX,PHX,Devin Booker,3PM,More,1.5,0.6,Kalshi / Underdog,1.5,0.544,,False,Lean,,,,,,,,,,,0.0,Loss,2026-11-15
-ATL@MIL,ATL,Aaron Wiggins,3PM,More,1.5,0.6,Kalshi / Underdog,2.5,0.444,toward,False,Drop,,,,,,,,,,,1.0,Loss,2026-11-15
-POR@MIN,POR,Deni Avdija,3PM,More,1.5,0.6,Kalshi / Underdog,1.5,0.504,,False,Drop,,,,,,,,,,,3.0,Win,2026-11-16
-PHX@DEN,PHX,Devin Booker,3PM,More,1.5,0.6,Kalshi / Underdog,1.5,0.538,,True,Drop,,,,,,,,,,,1.0,Loss,2026-11-16
-NY@TOR,NY,Karl-Anthony Towns,3PM,More,1.5,0.6,PrizePicks / Underdog,1.5,0.451,,False,Drop,,,,,,,,,,,1.0,Loss,2026-11-17
-DET@SA,SA,Victor Wembanyama,3PM,More,1.5,0.6,Kalshi / Underdog,1.5,0.482,,False,Drop,,,,,,,,,,,1.0,Loss,2026-11-17
-GS@DAL,DAL,P.J. Washington,3PM,More,1.5,0.6,Kalshi / Underdog,1.5,0.481,,False,Drop,,,,,,,,,,,5.0,Win,2026-11-18
-PHX@SAC,PHX,Devin Booker,3PM,More,1.5,0.6,Kalshi / Underdog,1.5,0.555,,False,Lean,,,,,,,,,,,2.0,Win,2026-11-18
+game,team,player,stat,side,line,p,where,line_now,p_now,move,news,status,Index,tier,price,ev,top,mean,lo,hi,min,gap,actual,result,date,vol3
+DET@MIA,DET,John Collins,AST,Less,1.5,0.6566,Kalshi / Underdog,1.5,0.655,,False,Hold,,,,,,,,,,,0.0,Win,2026-11-14,
+DEN@NO,DEN,Spencer Jones,REB,Less,2.5,0.6332,PrizePicks / Underdog,,,,,Hold (no current line),1.0,standard,,,True,1.79,0.0,3.0,11.8,0.0,2.0,Win,2026-11-14,
+LAL@PHX,PHX,Devin Booker,3PM,More,1.5,0.6,Kalshi / Underdog,1.5,0.544,,False,Lean,,,,,,,,,,,0.0,Loss,2026-11-15,
+ATL@MIL,ATL,Aaron Wiggins,3PM,More,1.5,0.6,Kalshi / Underdog,2.5,0.444,toward,False,Drop,,,,,,,,,,,1.0,Loss,2026-11-15,
+POR@MIN,POR,Deni Avdija,3PM,More,1.5,0.6,Kalshi / Underdog,1.5,0.504,,False,Drop,,,,,,,,,,,3.0,Win,2026-11-16,
+PHX@DEN,PHX,Devin Booker,3PM,More,1.5,0.6,Kalshi / Underdog,1.5,0.538,,True,Drop,,,,,,,,,,,1.0,Loss,2026-11-16,
+NY@TOR,NY,Karl-Anthony Towns,3PM,More,1.5,0.6,PrizePicks / Underdog,1.5,0.451,,False,Drop,,,,,,,,,,,1.0,Loss,2026-11-17,
+DET@SA,SA,Victor Wembanyama,3PM,More,1.5,0.6,Kalshi / Underdog,1.5,0.482,,False,Drop,,,,,,,,,,,1.0,Loss,2026-11-17,
+GS@DAL,DAL,P.J. Washington,3PM,More,1.5,0.6,Kalshi / Underdog,1.5,0.481,,False,Drop,,,,,,,,,,,5.0,Win,2026-11-18,
+PHX@SAC,PHX,Devin Booker,3PM,More,1.5,0.6,Kalshi / Underdog,1.5,0.555,,False,Lean,,,,,,,,,,,2.0,Win,2026-11-18,
+POR@MIL,POR,Deni Avdija,3PM,More,1.5,0.6,Kalshi / Underdog,,,,,Hold (no current line),0.0,standard,-164.0,-0.034,True,2.17,1.0,4.0,35.5,-2.5,,DNP,2026-11-19,6.0
+POR@MIL,MIL,Kyle Kuzma,3PM,More,1.5,0.6,PrizePicks / Underdog,,,,,Hold (no current line),1.0,standard,-111.0,0.141,True,1.43,0.0,2.0,27.4,-0.5,,DNP,2026-11-19,5.6

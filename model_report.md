@@ -1,8 +1,8 @@
 # Model error report
 
-_Updated 2026-11-19 01:45 CT. 312 graded picks with a model probability (2026-10-21 to 2026-11-18). Report only: nothing here changes the model._
+_Updated 2026-11-20 01:00 CT. 319 graded picks with a model probability (2026-10-21 to 2026-11-19). Report only: nothing here changes the model._
 
-**Overall:** model said 67.2%, picks hit 59.3% (185-127). z = -3.0 -> LIKELY REAL (model too high).
+**Overall:** model said 67.0%, picks hit 58.3% (186-133). z = -3.4 -> LIKELY REAL (model too high).
 
 _How to read: `gap` = actual minus what the model said. `z` says whether the gap is bigger than luck would explain for that many picks. Only LIKELY REAL rows are worth acting on, and only after the out-of-sample check._
 
@@ -10,8 +10,8 @@ _How to read: `gap` = actual minus what the model said. `z` says whether the gap
 
 | model p | n | model_says | actual | gap | z | read |
 |---|---|---|---|---|---|---|
-| <55% | 4 | 53.2% | 50.0% | -3.2% | -0.1 | noise |
-| 55-60% | 80 | 58.2% | 56.2% | -1.9% | -0.4 | noise |
+| <55% | 7 | 53.8% | 28.6% | -25.2% | -1.3 | watch (running cold) |
+| 55-60% | 84 | 58.2% | 54.8% | -3.4% | -0.6 | noise |
 | 60-65% | 105 | 62.4% | 45.7% | -16.7% | -3.5 | LIKELY REAL (model too high) |
 | 65-70% | 40 | 67.0% | 50.0% | -17.0% | -2.3 | LIKELY REAL (model too high) |
 | 70-80% | 16 | 73.1% | 62.5% | -10.6% | -1.0 | noise |
@@ -21,31 +21,32 @@ _How to read: `gap` = actual minus what the model said. `z` says whether the gap
 
 | stat | n | model_says | actual | gap | z | read |
 |---|---|---|---|---|---|---|
-| REB | 54 | 66.3% | 48.1% | -18.1% | -2.9 | LIKELY REAL (model too high) |
-| 3PM | 58 | 63.7% | 48.3% | -15.5% | -2.5 | LIKELY REAL (model too high) |
+| REB | 55 | 66.1% | 47.3% | -18.8% | -3.0 | LIKELY REAL (model too high) |
+| 3PM | 62 | 63.3% | 46.8% | -16.6% | -2.7 | LIKELY REAL (model too high) |
 | PA | 10 | 71.4% | 50.0% | -21.4% | -1.6 | watch (running cold) |
-| AST | 92 | 65.2% | 60.9% | -4.3% | -0.9 | noise |
+| AST | 93 | 65.1% | 60.2% | -4.9% | -1.0 | watch (running cold) |
+| PTS | 8 | 73.5% | 62.5% | -11.0% | -0.7 | noise |
 | SB | 13 | 75.0% | 69.2% | -5.8% | -0.5 | noise |
-| PR | 18 | 77.0% | 77.8% | +0.8% | 0.1 | noise |
 | PRA | 10 | 78.5% | 80.0% | +1.5% | 0.1 | noise |
+| PR | 18 | 77.0% | 77.8% | +0.8% | 0.1 | noise |
 | RA | 40 | 64.8% | 67.5% | +2.7% | 0.4 | noise |
 
 ## 3. Over vs Under
 
 | side | n | model_says | actual | gap | z | read |
 |---|---|---|---|---|---|---|
-| Less | 207 | 62.6% | 49.3% | -13.3% | -4.0 | LIKELY REAL (model too high) |
-| More | 100 | 75.9% | 78.0% | +2.1% | 0.5 | noise |
+| Less | 212 | 62.4% | 48.1% | -14.3% | -4.3 | LIKELY REAL (model too high) |
+| More | 102 | 75.5% | 77.5% | +1.9% | 0.5 | noise |
 
 ## 4. Stat + side
 
 | stat_side | n | model_says | actual | gap | z | read |
 |---|---|---|---|---|---|---|
-| REB Less | 39 | 61.9% | 41.0% | -20.9% | -2.7 | LIKELY REAL (model too high) |
-| 3PM Less | 48 | 63.1% | 47.9% | -15.2% | -2.2 | LIKELY REAL (model too high) |
-| AST Less | 66 | 62.5% | 51.5% | -10.9% | -1.8 | watch (running cold) |
+| REB Less | 40 | 61.7% | 40.0% | -21.7% | -2.8 | LIKELY REAL (model too high) |
+| 3PM Less | 50 | 62.8% | 46.0% | -16.8% | -2.5 | LIKELY REAL (model too high) |
+| AST Less | 67 | 62.4% | 50.7% | -11.6% | -2.0 | watch (running cold) |
+| 3PM More | 12 | 65.6% | 50.0% | -15.6% | -1.2 | watch (running cold) |
 | REB More | 14 | 77.1% | 64.3% | -12.8% | -1.2 | watch (running cold) |
-| 3PM More | 10 | 66.7% | 50.0% | -16.7% | -1.1 | watch (running cold) |
 | PR More | 12 | 84.4% | 83.3% | -1.1% | -0.1 | noise |
 | RA More | 10 | 71.5% | 70.0% | -1.5% | -0.1 | noise |
 | PRA More | 8 | 82.5% | 87.5% | +5.0% | 0.4 | noise |
@@ -57,7 +58,7 @@ _How to read: `gap` = actual minus what the model said. `z` says whether the gap
 
 | tier | n | model_says | actual | gap | z | read |
 |---|---|---|---|---|---|---|
-| standard | 152 | 61.6% | 44.1% | -17.5% | -4.4 | LIKELY REAL (model too high) |
+| standard | 159 | 61.4% | 42.8% | -18.6% | -4.8 | LIKELY REAL (model too high) |
 | extra-line | 15 | 65.6% | 46.7% | -19.0% | -1.6 | watch (running cold) |
 | 62-65 | 14 | 63.4% | 50.0% | -13.4% | -1.0 | watch (running cold) |
 | 65-70 | 14 | 67.4% | 57.1% | -10.2% | -0.8 | noise |
@@ -71,10 +72,10 @@ _How to read: `gap` = actual minus what the model said. `z` says whether the gap
 
 | line_size | n | model_says | actual | gap | z | read |
 |---|---|---|---|---|---|---|
-| 3-6.5 | 99 | 65.8% | 55.6% | -10.3% | -2.2 | LIKELY REAL (model too high) |
+| 3-6.5 | 100 | 65.7% | 55.0% | -10.7% | -2.3 | LIKELY REAL (model too high) |
+| 0.5-2.5 | 138 | 66.9% | 59.4% | -7.5% | -1.9 | watch (running cold) |
 | 7-15.5 | 56 | 66.8% | 55.4% | -11.5% | -1.9 | watch (running cold) |
-| 0.5-2.5 | 133 | 67.2% | 60.9% | -6.3% | -1.6 | watch (running cold) |
-| 16+ | 24 | 73.5% | 75.0% | +1.5% | 0.2 | noise |
+| 16+ | 25 | 72.7% | 72.0% | -0.7% | -0.1 | noise |
 
 ## 7. Projection bias (projected mean vs what happened)
 
@@ -82,21 +83,21 @@ _Positive miss = players beat the projection (model too low). Only players the m
 
 | stat | n | avg_projection | avg_actual | miss | beat_projection | z | read |
 |---|---|---|---|---|---|---|---|
-| 3PM | 48 | 1.48 | 2.02 | +0.54 | 50% | 2.0 | LIKELY REAL (projects too low) |
-| AST | 68 | 3.19 | 4.24 | +1.05 | 54% | 2.9 | LIKELY REAL (projects too low) |
+| 3PM | 52 | 1.48 | 2.1 | +0.61 | 52% | 2.4 | LIKELY REAL (projects too low) |
+| AST | 69 | 3.17 | 4.22 | +1.04 | 55% | 3.0 | LIKELY REAL (projects too low) |
 | PA | 10 | 15.62 | 19.7 | +4.08 | 60% | 1.2 | watch (projects too low) |
 | PR | 16 | 18.42 | 19.75 | +1.33 | 50% | 0.6 | noise |
 | PRA | 10 | 21.8 | 24.3 | +2.50 | 60% | 1.2 | watch (projects too low) |
-| PTS | 12 | 12.21 | 12.58 | +0.38 | 42% | 0.2 | noise |
+| PTS | 13 | 12.44 | 12.92 | +0.48 | 46% | 0.3 | noise |
 | RA | 45 | 8.04 | 9.0 | +0.96 | 62% | 2.0 | LIKELY REAL (projects too low) |
-| REB | 42 | 5.12 | 6.0 | +0.88 | 67% | 2.1 | LIKELY REAL (projects too low) |
+| REB | 43 | 5.1 | 6.05 | +0.95 | 67% | 2.3 | LIKELY REAL (projects too low) |
 | STL | 8 | 0.65 | 0.88 | +0.23 | 62% | 0.8 | noise |
 
 ## 8. Price check (card picks with a real book price)
 
-- 123 priced picks: hit 42.3% vs average break-even 61.0% (average price -160).
-- Model's own EV was **negative at the posted price on 67 of 123** (those went 33-34, -15.31u). The card ranks by chance, not price, so heavy-juice Unders (e.g. 3PM Unders at -180 to -240) make the card even when the price eats the edge.
-- Picks the model rated +EV at the price went 19-37, -23.71u.
+- 130 priced picks: hit 40.8% vs average break-even 60.8% (average price -159).
+- Model's own EV was **negative at the posted price on 73 of 130** (those went 34-39, -19.68u). The card ranks by chance, not price, so heavy-juice Unders (e.g. 3PM Unders at -180 to -240) make the card even when the price eats the edge.
+- Picks the model rated +EV at the price went 19-38, -24.71u.
 
 ## 9. Players picked 4+ times
 
@@ -127,10 +128,10 @@ _Small samples: treat as a heads-up, not a rule._
 
 ## 10. Out-of-sample check (calibration)
 
-Fit on the oldest 218 picks (2026-10-21 to 2026-11-07), tested on the newest 94 (2026-11-08 to 2026-11-18) that the fit never saw.
+Fit on the oldest 223 picks (2026-10-21 to 2026-11-08), tested on the newest 96 (2026-11-08 to 2026-11-19) that the fit never saw.
 
 - Best extra shrink on the old picks: x0.95 (1.0 = keep the current probabilities).
-- Log loss on the new picks: current 0.7391, with x0.95: 0.7356 (lower is better).
+- Log loss on the new picks: current 0.7433, with x0.95: 0.7397 (lower is better).
 - **Does not pass: keep the current calibration.**
 
 ## Rules

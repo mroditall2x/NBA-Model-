@@ -1,0 +1,8 @@
+game,team,player,stat,tier,line,side,p,price,ev,top,mean,lo,hi,min,gap,where,vol3,actual,result,group
+NY@MIN,MIN,Bones Hyland,3PM,standard,1.5,More,0.6,-104,0.177,True,1.74,0,3,15.5,-1.5,PrizePicks / Underdog,5.5,1.0,Loss,other
+LAC@SA,LAC,Rui Hachimura,3PM,standard,1.5,More,0.6,-160,-0.025,True,1.65,0,3,29.1,1.6,Kalshi / Underdog,5.5,2.0,Win,other
+NY@MIN,MIN,Jonathan Kuminga,AST,standard,2.5,Less,0.5614,-146,-0.054,True,2.24,1,4,27.1,1.1,Kalshi / Underdog,,3.0,Loss,reb/ast
+NY@MIN,MIN,Jaden McDaniels,3PM,standard,1.5,Less,0.5553,-143,-0.056,True,1.43,0,2,35.1,1.0,Kalshi / Underdog,4.2,4.0,Loss,other
+NY@MIN,MIN,LaMelo Ball,REB,standard,4.5,Less,0.5495,-134,-0.04,True,4.13,2,6,28.8,-1.1,Kalshi / Underdog,,8.0,Loss,reb/ast
+LAC@SA,LAC,Brook Lopez,3PM,standard,1.5,Less,0.5484,-128,-0.023,False,1.35,0,2,25.5,-0.0,PrizePicks / Underdog,4.0,5.0,Loss,other
+NY@MIN,MIN,Jaden McDaniels,PTS,standard,16.5,Less,0.5394,-125,-0.029,False,15.25,9,21,35.1,1.0,PrizePicks / Underdog,,17.0,Loss,points

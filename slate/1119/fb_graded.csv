@@ -1,0 +1,17 @@
+date,game,team,player,p_first_fg,fair_odds,book,ev,first_scorer,hit,profit
+2026-11-19,LAC@SA,SA,Victor Wembanyama,0.1799,456,302,-0.2768020000000001,Darius Garland,False,-1.0
+2026-11-19,POR@MIL,POR,Damian Lillard,0.1785,460,500,0.07099999999999995,Damian Lillard,True,5.0
+2026-11-19,GS@MEM,GS,Yaxel Lendeborg,0.1622,517,509,-0.012201999999999935,Jaylen Wells,False,-1.0
+2026-11-19,NY@MIN,NY,Jalen Brunson,0.1476,578,490,-0.12915999999999994,Ayo Dosunmu,False,-1.0
+2026-11-19,NY@MIN,MIN,LaMelo Ball,0.146,585,490,-0.13860000000000006,Ayo Dosunmu,False,-1.0
+2026-11-19,LAC@SA,LAC,Darius Garland,0.1373,628,750,0.16705000000000014,Darius Garland,True,7.5
+2026-11-19,POR@MIL,MIL,Jaime Jaquez Jr,0.1284,679,875,0.2518999999999998,Damian Lillard,False,-1.0
+2026-11-19,LAC@SA,SA,De'Aaron Fox,0.1238,708,568,-0.17301600000000006,Darius Garland,False,-1.0
+2026-11-19,GS@MEM,MEM,Cameron Boozer,0.1236,709,592,-0.14468800000000004,Jaylen Wells,False,-1.0
+2026-11-19,NY@MIN,MIN,Jonathan Kuminga,0.119,740,800,0.07099999999999995,Ayo Dosunmu,False,-1.0
+2026-11-19,LAC@SA,LAC,Brook Lopez,0.1166,758,1000,0.28259999999999996,Darius Garland,False,-1.0
+2026-11-19,GS@MEM,GS,Brandin Podziemski,0.1165,759,675,-0.0971249999999999,Jaylen Wells,False,-1.0
+2026-11-19,POR@MIL,MIL,Tyler Herro,0.1161,761,650,-0.1292500000000001,Damian Lillard,False,-1.0
+2026-11-19,NY@MIN,NY,Karl-Anthony Towns,0.1122,791,682,-0.12259600000000004,Ayo Dosunmu,False,-1.0
+2026-11-19,POR@MIL,POR,Donovan Clingan,0.1103,806,500,-0.33820000000000006,Damian Lillard,False,-1.0
+2026-11-19,GS@MEM,MEM,Cedric Coward,0.1035,866,800,-0.0685,Jaylen Wells,False,-1.0
