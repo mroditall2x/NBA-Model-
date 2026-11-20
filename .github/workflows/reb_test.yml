@@ -1,0 +1,16 @@
+name: reb-chances-test
+# One-off check (11/20): can GitHub's servers reach NBA.com stats? Runs on pushes to the test branch only.
+on:
+  push:
+    branches: [reb-chances]
+  workflow_dispatch:
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    env: {TZ: America/Chicago}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install pandas
+      - run: python3 reb_chances.py $(date +%F)

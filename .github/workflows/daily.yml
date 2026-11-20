@@ -50,6 +50,9 @@ jobs:
       - name: manual fetch
         if: github.event_name == 'workflow_dispatch' && github.event.inputs.job == '' && github.event.inputs.fetch == 'true' && github.event.inputs.test != 'true' && github.event.inputs.grade_only != 'true'
         run: python3 fetch_lines.py ${{ steps.job.outputs.date }} ${{ github.event.inputs.props_all == 'true' && '--props-all' || '' }} $( [ -f slate/${{ steps.job.outputs.mmdd }}/lines.json.open ] || echo --snap )
+      - name: rebound chances (NBA.com, report only - nothing uses it yet)
+        if: (github.event.schedule == '47 22 * * *' || github.event.inputs.job == 'pretip' || github.event.inputs.job == 'pretip_lines') || (github.event.schedule == '7 17 * * *' || github.event.inputs.job == 'open')
+        run: timeout 200 python3 reb_chances.py ${{ steps.job.outputs.date }} || true
       - name: build card
         if: (github.event.schedule == '47 22 * * *' || github.event.inputs.job == 'pretip' || github.event.inputs.job == 'pretip_lines') || (github.event.schedule == '7 17 * * *' || github.event.inputs.job == 'open') || github.event_name == 'push' || (github.event_name == 'workflow_dispatch' && github.event.inputs.grade_only != 'true' && github.event.inputs.job != 'grade' && github.event.inputs.job != 'watch')
         run: python3 run_day.py ${{ steps.job.outputs.date }}
