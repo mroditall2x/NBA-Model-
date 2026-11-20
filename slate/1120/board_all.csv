@@ -286,195 +286,187 @@ TOR@DET,DET,John Collins,AST,0.86,0,2,28.8,-3.3,lineup: starter (expected),book 
 TOR@DET,TOR,Jamal Shead,REB,2.19,1,3,26.5,-7.9,minutes unclear (-8),book line,1.5,More,0.61,0.597,0.013,0.61,-176,132,,Kalshi / Underdog
 TOR@DET,DET,Javonte Green,PRA,10.8,5,16,19.6,-1.6,,PP standard,10.5,Less,0.549,0.833,-0.284,0.451,-12,-115,,PrizePicks / Underdog
 TOR@DET,DET,Javonte Green,RA,3.71,2,6,19.6,-1.6,,book line,4.5,Less,0.678,0.577,0.102,0.322,137,-135,,Kalshi / Underdog
-WSH@CHI,WSH,Kyshawn George,AST,4.06,2,6,32.0,2.3,lineup: starter (expected),PP standard,4.5,Less,0.619,0.51,0.109,0.381,-109,-119,,PrizePicks / Underdog
-WSH@CHI,CHI,Jalen Smith,AST,1.99,1,3,27.5,4.6,minutes unclear (+5); lineup: starter (expected),book line,2.5,Less,0.681,0.611,0.071,0.319,140,-189,,Kalshi / Underdog
-WSH@CHI,CHI,Josh Giddey,AST,9.6,7,12,32.0,-4.4,minutes unclear (-4); lineup: starter (expected),PP standard,8.5,More,0.608,0.545,0.064,0.608,-140,105,,PrizePicks / Underdog
-WSH@CHI,WSH,Trae Young,AST,8.78,6,11,31.0,0.9,lineup: starter (expected),PP standard,9.5,Less,0.609,0.449,0.16,0.391,-144,108,,PrizePicks / Underdog
-WSH@CHI,WSH,AJ Dybantsa,AST,1.89,1,3,29.3,10.4,minutes unclear (+10); small sample; lineup: starter (expected),PP standard,2.5,Less,0.704,0.52,0.184,0.296,-105,-125,,PrizePicks / Underdog
-WSH@CHI,WSH,Anthony Davis,AST,2.32,1,4,31.5,4.4,minutes unclear (+4); lineup: starter (expected),book line,2.5,Less,0.596,0.587,0.009,0.404,126,-170,,Kalshi / Underdog
-WSH@CHI,CHI,Norman Powell,AST,2.52,1,4,31.0,0.0,lineup: starter (expected),PP standard,2.5,Less,0.552,0.514,0.038,0.448,-108,-122,,PrizePicks / Underdog
-WSH@CHI,CHI,Tre Jones,PTS,13.16,7,19,23.4,-4.2,minutes unclear (-4),PP standard,11.5,More,0.547,0.494,0.052,0.547,-114,-120,,PrizePicks / Underdog
-WSH@CHI,CHI,Norman Powell,PTS,22.84,15,30,31.0,0.0,lineup: starter (expected),PP standard,23.5,Less,0.559,0.517,0.042,0.441,-107,-124,,PrizePicks / Underdog
-WSH@CHI,WSH,Kyshawn George,PTS,15.29,9,21,32.0,2.3,lineup: starter (expected),PP standard,16.5,Less,0.601,0.52,0.082,0.399,-108,-128,,PrizePicks / Underdog
-WSH@CHI,CHI,Jalen Smith,PTS,13.6,7,19,27.5,4.6,minutes unclear (+5); lineup: starter (expected),PP standard,14.5,Less,0.589,0.486,0.103,0.411,-122,-108,,PrizePicks / Underdog
-WSH@CHI,CHI,Josh Giddey,PTS,14.93,9,21,32.0,-4.4,minutes unclear (-4); lineup: starter (expected),PP standard,13.5,More,0.542,0.485,0.057,0.542,-108,-123,,PrizePicks / Underdog
-WSH@CHI,WSH,AJ Dybantsa,PTS,15.08,9,21,29.3,10.4,minutes unclear (+10); small sample; lineup: starter (expected),PP standard,18.5,Less,0.708,0.491,0.217,0.292,-119,-110,,PrizePicks / Underdog
-WSH@CHI,WSH,Trae Young,PTS,17.88,11,24,31.0,0.9,lineup: starter (expected),PP standard,18.5,Less,0.568,0.52,0.048,0.432,-105,-125,,PrizePicks / Underdog
-WSH@CHI,CHI,Nic Claxton,PTS,8.58,4,13,18.7,2.5,,PP standard,9.5,Less,0.615,0.508,0.107,0.385,-112,-120,,PrizePicks / Underdog
-WSH@CHI,CHI,Isaac Okoro,PTS,9.77,5,14,28.7,1.2,lineup: starter (expected),PP standard,9.5,Less,0.534,0.481,0.054,0.466,-125,-106,,PrizePicks / Underdog
-WSH@CHI,WSH,Alex Sarr,PTS,12.11,6,17,25.1,-1.0,lineup: starter (expected),PP standard,11.5,Less,0.514,0.49,0.024,0.486,-120,-110,,PrizePicks / Underdog
-WSH@CHI,WSH,Bilal Coulibaly,PTS,8.11,4,12,22.3,-3.4,,book line,7.5,Less,0.513,0.539,-0.027,0.487,102,-138,,Kalshi / Underdog
-WSH@CHI,CHI,Matas Buzelis,PTS,17.27,11,24,31.0,-2.0,lineup: starter (expected),PP standard,16.5,More,0.506,0.516,-0.01,0.506,-124,-108,,PrizePicks / Underdog
-WSH@CHI,WSH,Anthony Davis,PTS,22.13,15,29,31.5,4.4,minutes unclear (+4); lineup: starter (expected),PP standard,24.5,Less,0.637,0.514,0.123,0.363,-108,-122,,PrizePicks / Underdog
-WSH@CHI,WSH,Kyshawn George,PA,19.35,12,26,32.0,2.3,lineup: starter (expected),PP standard,20.5,Less,0.591,0.48,0.112,0.409,-125,-105,,PrizePicks / Underdog
-WSH@CHI,WSH,Alex Sarr,PA,13.95,8,20,25.1,-1.0,lineup: starter (expected),PP standard,13.5,Less,0.523,0.502,0.021,0.477,-114,-116,,PrizePicks / Underdog
-WSH@CHI,WSH,AJ Dybantsa,PA,16.98,11,23,29.3,10.4,minutes unclear (+10); small sample; lineup: starter (expected),PP standard,21.5,Less,0.747,0.51,0.237,0.253,-110,-120,,PrizePicks / Underdog
-WSH@CHI,CHI,Jalen Smith,PA,15.59,9,22,27.5,4.6,minutes unclear (+5); lineup: starter (expected),PP standard,17.5,Less,0.633,0.511,0.122,0.367,-110,-121,,PrizePicks / Underdog
-WSH@CHI,CHI,Josh Giddey,PA,24.53,17,31,32.0,-4.4,minutes unclear (-4); lineup: starter (expected),PP standard,22.5,More,0.567,0.51,0.057,0.567,-120,-110,,PrizePicks / Underdog
-WSH@CHI,WSH,Anthony Davis,PA,24.45,17,31,31.5,4.4,minutes unclear (+4); lineup: starter (expected),PP standard,26.5,Less,0.619,0.499,0.12,0.381,-115,-114,,PrizePicks / Underdog
-WSH@CHI,CHI,Isaac Okoro,PA,11.74,6,17,28.7,1.2,lineup: starter (expected),PP standard,11.5,Less,0.536,0.475,0.061,0.464,-130,-105,,PrizePicks / Underdog
-WSH@CHI,WSH,Trae Young,PA,26.66,19,34,31.0,0.9,lineup: starter (expected),PP standard,27.5,Less,0.568,0.501,0.067,0.432,-110,-111,,PrizePicks / Underdog
-WSH@CHI,CHI,Nic Claxton,PA,10.66,6,15,18.7,2.5,,PP standard,11.5,Less,0.604,0.52,0.084,0.396,-105,-125,,PrizePicks / Underdog
-WSH@CHI,CHI,Matas Buzelis,PA,19.41,13,26,31.0,-2.0,lineup: starter (expected),PP standard,19.5,Less,0.536,0.514,0.022,0.464,-110,-124,,PrizePicks / Underdog
-WSH@CHI,CHI,Norman Powell,PA,25.36,18,33,31.0,0.0,lineup: starter (expected),PP standard,25.5,Less,0.532,0.489,0.044,0.468,-120,-109,,PrizePicks / Underdog
-WSH@CHI,WSH,Kyshawn George,PR,19.84,13,26,32.0,2.3,lineup: starter (expected),PP standard,20.5,Less,0.567,0.49,0.077,0.433,-120,-110,,PrizePicks / Underdog
-WSH@CHI,WSH,AJ Dybantsa,PR,20.73,14,27,29.3,10.4,minutes unclear (+10); small sample; lineup: starter (expected),PP standard,25.5,Less,0.746,0.514,0.232,0.254,-109,-123,,PrizePicks / Underdog
-WSH@CHI,CHI,Josh Giddey,PR,22.26,15,29,32.0,-4.4,minutes unclear (-4); lineup: starter (expected),PP standard,20.5,More,0.558,0.507,0.051,0.558,-118,-111,,PrizePicks / Underdog
-WSH@CHI,WSH,Trae Young,PR,20.35,14,27,31.0,0.9,lineup: starter (expected),PP standard,20.5,Less,0.542,0.933,-0.391,0.458,-4,-114,,PrizePicks / Underdog
-WSH@CHI,CHI,Jalen Smith,PR,22.27,15,29,27.5,4.6,minutes unclear (+5); lineup: starter (expected),PP standard,24.5,Less,0.631,0.51,0.121,0.369,-111,-121,,PrizePicks / Underdog
-WSH@CHI,CHI,Isaac Okoro,PR,13.18,7,18,28.7,1.2,lineup: starter (expected),PP standard,12.5,Less,0.506,0.479,0.027,0.494,-126,-105,,PrizePicks / Underdog
-WSH@CHI,WSH,Alex Sarr,PR,18.48,12,25,25.1,-1.0,lineup: starter (expected),PP standard,18.5,Less,0.541,0.49,0.051,0.459,-120,-110,,PrizePicks / Underdog
-WSH@CHI,CHI,Matas Buzelis,PR,23.12,16,30,31.0,-2.0,lineup: starter (expected),PP standard,22.5,More,0.501,0.506,-0.005,0.501,-118,-112,,PrizePicks / Underdog
-WSH@CHI,CHI,Nic Claxton,PR,13.5,8,19,18.7,2.5,,PP standard,14.5,Less,0.607,0.49,0.118,0.392,-120,-110,,PrizePicks / Underdog
-WSH@CHI,WSH,Bilal Coulibaly,PR,11.72,7,16,22.3,-3.4,,PP standard,11.5,Less,0.538,0.521,0.018,0.462,-107,-128,,PrizePicks / Underdog
-WSH@CHI,WSH,Anthony Davis,PR,31.66,24,39,31.5,4.4,minutes unclear (+4); lineup: starter (expected),PP standard,34.5,Less,0.639,0.484,0.155,0.361,-124,-108,,PrizePicks / Underdog
-WSH@CHI,CHI,Norman Powell,PR,26.12,18,33,31.0,0.0,lineup: starter (expected),PP standard,26.5,Less,0.545,0.516,0.029,0.455,-107,-123,,PrizePicks / Underdog
-WSH@CHI,CHI,Tre Jones,PR,15.97,10,22,23.4,-4.2,minutes unclear (-4),PP standard,14.5,More,0.529,0.488,0.041,0.529,-110,-122,,PrizePicks / Underdog
-WSH@CHI,CHI,Norman Powell,PRA,28.64,21,36,31.0,0.0,lineup: starter (expected),PP standard,28.5,Less,0.52,0.481,0.039,0.48,-125,-106,,PrizePicks / Underdog
-WSH@CHI,WSH,Kyshawn George,PRA,23.9,16,31,32.0,2.3,lineup: starter (expected),PP standard,25.5,Less,0.604,0.494,0.11,0.396,-118,-112,,PrizePicks / Underdog
-WSH@CHI,WSH,Alex Sarr,PRA,20.31,13,27,25.1,-1.0,lineup: starter (expected),PP standard,20.5,Less,0.548,0.508,0.04,0.452,-112,-120,,PrizePicks / Underdog
-WSH@CHI,WSH,Trae Young,PRA,29.13,21,36,31.0,0.9,lineup: starter (expected),PP standard,30.5,Less,0.587,0.5,0.087,0.413,-115,-115,,PrizePicks / Underdog
-WSH@CHI,CHI,Jalen Smith,PRA,24.26,17,32,27.5,4.6,minutes unclear (+5); lineup: starter (expected),PP standard,26.5,Less,0.624,0.496,0.128,0.376,-117,-113,,PrizePicks / Underdog
-WSH@CHI,CHI,Josh Giddey,PRA,31.86,24,39,32.0,-4.4,minutes unclear (-4); lineup: starter (expected),PP standard,29.5,More,0.579,0.513,0.066,0.579,-124,-111,,PrizePicks / Underdog
-WSH@CHI,WSH,AJ Dybantsa,PRA,22.62,16,29,29.3,10.4,minutes unclear (+10); small sample; lineup: starter (expected),PP standard,27.5,Less,0.742,0.486,0.256,0.258,-122,-108,,PrizePicks / Underdog
-WSH@CHI,CHI,Nic Claxton,PRA,15.58,10,21,18.7,2.5,,PP standard,16.5,Less,0.599,0.491,0.108,0.401,-120,-111,,PrizePicks / Underdog
-WSH@CHI,CHI,Isaac Okoro,PRA,15.14,9,21,28.7,1.2,lineup: starter (expected),PP standard,15.5,Less,0.563,0.523,0.039,0.437,-106,-130,,PrizePicks / Underdog
-WSH@CHI,CHI,Matas Buzelis,PRA,25.27,18,32,31.0,-2.0,lineup: starter (expected),PP standard,24.5,More,0.508,0.508,-0.001,0.508,-116,-108,,PrizePicks / Underdog
-WSH@CHI,WSH,Anthony Davis,PRA,33.97,26,42,31.5,4.4,minutes unclear (+4); lineup: starter (expected),PP standard,37.5,Less,0.662,0.511,0.15,0.338,-109,-120,,PrizePicks / Underdog
-WSH@CHI,WSH,Kyshawn George,REB,4.55,2,6,32.0,2.3,lineup: starter (expected),PP standard,4.5,Less,0.538,0.498,0.04,0.462,-116,-114,,PrizePicks / Underdog
-WSH@CHI,CHI,Jalen Smith,REB,8.67,6,12,27.5,4.6,minutes unclear (+5); lineup: starter (expected),book line,8.5,Less,0.514,0.451,0.063,0.486,-141,108,,Kalshi / Underdog
-WSH@CHI,CHI,Josh Giddey,REB,7.33,5,10,32.0,-4.4,minutes unclear (-4); lineup: starter (expected),PP standard,6.5,More,0.577,0.552,0.025,0.577,-147,107,,PrizePicks / Underdog
-WSH@CHI,WSH,Trae Young,REB,2.48,1,4,31.0,0.9,lineup: starter (expected),PP standard,2.5,Less,0.561,0.487,0.074,0.439,-123,-110,,PrizePicks / Underdog
-WSH@CHI,CHI,Isaac Okoro,REB,3.4,2,5,28.7,1.2,lineup: starter (expected),book line,2.5,More,0.62,0.584,0.036,0.62,-168,124,,Kalshi / Underdog
-WSH@CHI,WSH,Alex Sarr,REB,6.37,4,9,25.1,-1.0,lineup: starter (expected),book line,6.5,Less,0.554,0.462,0.092,0.446,-135,103,,Kalshi / Underdog
-WSH@CHI,CHI,Matas Buzelis,REB,5.85,4,8,31.0,-2.0,lineup: starter (expected),PP standard,5.5,More,0.517,0.497,0.02,0.517,-113,-116,,PrizePicks / Underdog
-WSH@CHI,WSH,Bilal Coulibaly,REB,3.61,2,5,22.3,-3.4,role up (last 8: 5.0),book line,3.5,Less,0.531,0.454,0.077,0.469,-140,106,,Kalshi / Underdog
-WSH@CHI,WSH,Anthony Davis,REB,9.53,6,12,31.5,4.4,minutes unclear (+4); lineup: starter (expected),PP standard,10.5,Less,0.63,0.512,0.118,0.37,-110,-122,,PrizePicks / Underdog
-WSH@CHI,CHI,Norman Powell,REB,3.28,2,5,31.0,0.0,lineup: starter (expected),book line,2.5,More,0.608,0.568,0.04,0.608,-157,115,,Kalshi / Underdog
-WSH@CHI,WSH,AJ Dybantsa,REB,5.64,3,8,29.3,10.4,minutes unclear (+10); small sample; lineup: starter (expected); role up (last 8: 7.4),book line,6.5,Less,0.656,0.538,0.118,0.344,102,-136,,Kalshi / Underdog
-WSH@CHI,WSH,Anthony Davis,RA,11.85,8,15,31.5,4.4,minutes unclear (+4); lineup: starter (expected),PP standard,12.5,Less,0.587,0.482,0.105,0.413,-125,-107,,PrizePicks / Underdog
-WSH@CHI,WSH,Kyshawn George,RA,8.61,6,11,32.0,2.3,lineup: starter (expected),PP standard,9.5,Less,0.629,0.537,0.092,0.371,102,-135,,PrizePicks / Underdog
-WSH@CHI,WSH,Alex Sarr,RA,8.2,5,11,25.1,-1.0,lineup: starter (expected),PP standard,8.5,Less,0.568,0.504,0.064,0.432,-114,-118,,PrizePicks / Underdog
-WSH@CHI,CHI,Jalen Smith,RA,10.66,7,14,27.5,4.6,minutes unclear (+5); lineup: starter (expected),PP standard,11.5,Less,0.608,0.524,0.084,0.392,-104,-128,,PrizePicks / Underdog
-WSH@CHI,CHI,Josh Giddey,RA,16.93,13,21,32.0,-4.4,minutes unclear (-4); lineup: starter (expected),PP standard,16.5,More,0.516,0.48,0.036,0.516,-105,-125,,PrizePicks / Underdog
-WSH@CHI,WSH,Trae Young,RA,11.26,8,14,31.0,0.9,lineup: starter (expected),PP standard,12.5,Less,0.646,0.493,0.153,0.354,-122,-115,,PrizePicks / Underdog
-WSH@CHI,CHI,Nic Claxton,RA,7.01,4,10,18.7,2.5,,PP standard,7.5,Less,0.599,0.951,-0.352,0.401,-3,-132,,PrizePicks / Underdog
-WSH@CHI,CHI,Matas Buzelis,RA,8.0,5,11,31.0,-2.0,lineup: starter (expected),PP standard,7.5,More,0.53,0.522,0.008,0.53,-127,-105,,PrizePicks / Underdog
-WSH@CHI,WSH,AJ Dybantsa,RA,7.54,5,10,29.3,10.4,minutes unclear (+10); small sample; lineup: starter (expected); role up (last 8: 9.8),book line,8.5,Less,0.644,0.457,0.187,0.356,-138,105,,Kalshi / Underdog
-WSH@CHI,WSH,AJ Dybantsa,3PM,1.12,0,2,29.3,10.4,minutes unclear (+10); small sample; lineup: starter (expected),book line,1.5,Less,0.696,0.609,0.087,0.304,140,-185,4.0,Kalshi / Underdog
-WSH@CHI,WSH,Kyshawn George,3PM,2.17,1,4,32.0,2.3,lineup: starter (expected),book line,2.5,Less,0.634,0.586,0.048,0.366,125,-169,6.3,Kalshi / Underdog
-WSH@CHI,WSH,Trae Young,3PM,2.16,1,3,31.0,0.9,lineup: starter (expected),book line,2.5,Less,0.634,0.633,0.002,0.366,155,-208,6.2,Kalshi / Underdog
-WSH@CHI,CHI,Josh Giddey,3PM,1.64,0,3,32.0,-4.4,minutes unclear (-4); lineup: starter (expected),book line,1.5,Less,0.541,0.58,-0.039,0.459,124,-161,4.7,Kalshi / Underdog
-WSH@CHI,WSH,Alex Sarr,3PM,1.13,0,2,25.1,-1.0,lineup: starter (expected),book line,1.5,Less,0.691,0.597,0.094,0.309,131,-178,4.2,Kalshi / Underdog
-WSH@CHI,CHI,Matas Buzelis,3PM,2.36,1,4,31.0,-2.0,lineup: starter (expected),book line,2.5,Less,0.585,0.598,-0.013,0.415,133,-176,6.7,Kalshi / Underdog
-WSH@CHI,CHI,Norman Powell,3PM,2.59,1,4,31.0,0.0,lineup: starter (expected),PP standard,2.5,Less,0.537,0.492,0.046,0.463,-118,-110,7.2,PrizePicks / Underdog
-WSH@CHI,WSH,Alex Sarr,AST,1.84,1,3,25.1,-1.0,lineup: starter (expected),PP standard,1.5,More,0.519,0.504,0.015,0.519,-118,-114,,PrizePicks / Underdog
-WSH@CHI,CHI,Matas Buzelis,AST,2.14,1,3,31.0,-2.0,lineup: starter (expected),book line,2.5,Less,0.639,0.601,0.037,0.361,134,-181,,Kalshi / Underdog
-WSH@CHI,CHI,Tre Jones,AST,4.56,2,7,23.4,-4.2,minutes unclear (-4),PP standard,4.5,Less,0.538,0.566,-0.028,0.462,115,-154,,PrizePicks / Underdog
-WSH@CHI,CHI,Nic Claxton,AST,2.09,1,3,18.7,2.5,,book line,1.5,More,0.581,0.579,0.001,0.581,-167,120,,Kalshi / Underdog
-WSH@CHI,CHI,Isaac Okoro,AST,1.96,1,3,28.7,1.2,lineup: starter (expected),book line,1.5,More,0.545,0.6,-0.055,0.545,-179,134,,Kalshi / Underdog
-WSH@CHI,CHI,Tre Jones,PRA,20.52,13,27,23.4,-4.2,minutes unclear (-4),PP standard,18.5,More,0.553,0.505,0.048,0.553,-120,-115,,PrizePicks / Underdog
-WSH@CHI,CHI,Tre Jones,REB,2.81,1,4,23.4,-4.2,minutes unclear (-4); role down (last 8: 1.6),book line,2.5,More,0.501,0.477,0.024,0.501,-108,-132,,Kalshi / Underdog
-WSH@CHI,CHI,Nic Claxton,REB,4.92,3,7,18.7,2.5,,book line,5.5,Less,0.626,0.538,0.088,0.374,102,-136,,Kalshi / Underdog
-WSH@CHI,WSH,Bilal Coulibaly,3PM,0.87,0,2,22.3,-3.4,,PP standard,0.5,More,0.521,0.524,-0.003,0.521,-129,-105,2.6,PrizePicks / Underdog
-WSH@CHI,CHI,Isaac Okoro,3PM,1.25,0,2,28.7,1.2,lineup: starter (expected),book line,1.5,Less,0.661,0.559,0.103,0.339,112,-148,3.7,Kalshi / Underdog
-WSH@CHI,CHI,Jalen Smith,3PM,1.91,0,3,27.5,4.6,minutes unclear (+5); lineup: starter (expected),book line,1.5,More,0.529,0.571,-0.042,0.529,-157,118,5.4,Kalshi / Underdog
-WSH@CHI,WSH,Anthony Davis,3PM,0.72,0,1,31.5,4.4,minutes unclear (+4); lineup: starter (expected),book line,0.5,Less,0.539,0.455,0.083,0.461,-140,105,2.1,Kalshi / Underdog
-WSH@CHI,CHI,Tre Jones,3PM,0.6,0,1,23.4,-4.2,minutes unclear (-4),book line,0.5,Less,0.601,0.573,0.028,0.399,120,-156,1.8,Kalshi / Underdog
-WSH@CHI,CHI,Buddy Hield,PTS,8.01,3,12,17.1,3.5,,PP standard,8.5,Less,0.594,0.499,0.095,0.406,100,101,,PrizePicks / Underdog
-WSH@CHI,CHI,Tre Jones,PA,17.72,11,24,23.4,-4.2,minutes unclear (-4),PP standard,15.5,More,0.567,0.53,0.037,0.567,-135,-104,,PrizePicks / Underdog
-WSH@CHI,CHI,Buddy Hield,PRA,12.19,6,18,17.1,3.5,,PP standard,13.5,Less,0.627,0.513,0.114,0.373,106,-105,,PrizePicks / Underdog
-WSH@CHI,WSH,Bilal Coulibaly,PRA,13.18,8,18,22.3,-3.4,,PP standard,12.5,Less,0.507,0.531,-0.024,0.493,114,-112,,PrizePicks / Underdog
-WSH@CHI,CHI,Buddy Hield,REB,2.46,1,4,17.1,3.5,,PP standard,2.5,Less,0.575,0.5,0.075,0.425,-119,-119,,PrizePicks / Underdog
-WSH@CHI,CHI,Tre Jones,RA,7.36,4,10,23.4,-4.2,minutes unclear (-4),PP standard,6.5,More,0.558,0.983,-0.425,0.558,-130,-1,,PrizePicks / Underdog
-WSH@CHI,CHI,Norman Powell,RA,5.8,3,8,31.0,0.0,lineup: starter (expected),PP standard,5.5,More,0.505,0.502,0.003,0.505,-118,-116,,PrizePicks / Underdog
-WSH@CHI,CHI,Isaac Okoro,RA,5.37,3,8,28.7,1.2,lineup: starter (expected),PP standard,5.5,Less,0.563,0.574,-0.011,0.437,120,-158,,PrizePicks / Underdog
-WSH@CHI,CHI,Buddy Hield,3PM,1.64,0,3,17.1,3.5,,PP standard,1.5,Less,0.551,0.484,0.067,0.449,-106,107,4.5,PrizePicks / Underdog
-WSH@CHI,CHI,Buddy Hield,PA,9.73,4,15,17.1,3.5,,book line,10.5,Less,0.607,0.496,0.111,0.393,-101,102,,Kalshi / Underdog
-WSH@CHI,CHI,Buddy Hield,PR,10.48,5,15,17.1,3.5,,book line,11.5,Less,0.618,0.516,0.102,0.382,107,-106,,Kalshi / Underdog
-WSH@CHI,CHI,Buddy Hield,RA,4.18,2,6,17.1,3.5,,book line,4.5,Less,0.605,0.504,0.101,0.395,102,-101,,Kalshi / Underdog
-NO@OKC,OKC,Isaiah Hartenstein,AST,3.93,2,6,28.2,-1.4,lineup: starter (expected); role up (last 8: 5.2),PP standard,4.5,Less,0.644,0.557,0.086,0.356,111,-148,,PrizePicks / Underdog
-NO@OKC,OKC,Shai Gilgeous-Alexander,AST,5.43,3,7,35.3,-3.8,lineup: starter (expected),PP standard,5.5,Less,0.544,0.56,-0.016,0.456,113,-149,,PrizePicks / Underdog
-NO@OKC,NO,Saddiq Bey,AST,2.78,1,4,33.5,-3.5,lineup: starter (expected),book line,2.5,More,0.506,0.402,0.104,0.506,132,-178,,Kalshi / Underdog
-NO@OKC,NO,Jeremiah Fears,AST,5.64,3,8,32.7,0.2,lineup: starter (expected),PP standard,5.5,Less,0.515,0.461,0.054,0.485,-136,103,,PrizePicks / Underdog
-NO@OKC,OKC,Ajay Mitchell,AST,3.82,2,6,30.6,3.9,lineup: starter (expected),PP standard,3.5,More,0.519,0.582,-0.064,0.519,-167,123,,PrizePicks / Underdog
-NO@OKC,NO,Zion Williamson,AST,3.14,1,5,34.2,-1.4,lineup: starter (expected),book line,2.5,More,0.591,0.535,0.056,0.591,-132,102,,Kalshi / Underdog
-NO@OKC,OKC,Aday Mara,PTS,10.25,5,15,25.2,2.8,small sample; lineup: starter (expected),PP standard,10.5,Less,0.569,0.507,0.062,0.431,-113,-120,,PrizePicks / Underdog
-NO@OKC,OKC,Jared McCain,PTS,14.55,8,20,28.4,4.1,minutes unclear (+4); lineup: starter (expected),PP standard,15.5,Less,0.589,0.494,0.095,0.411,-120,-114,,PrizePicks / Underdog
-NO@OKC,OKC,Shai Gilgeous-Alexander,PTS,33.86,26,42,35.3,-3.8,lineup: starter (expected),PP standard,32.5,More,0.536,0.493,0.043,0.536,-111,-118,,PrizePicks / Underdog
-NO@OKC,OKC,Ajay Mitchell,PTS,17.12,11,23,30.6,3.9,lineup: starter (expected),PP standard,18.5,Less,0.603,0.5,0.103,0.397,-115,-115,,PrizePicks / Underdog
-NO@OKC,NO,Saddiq Bey,PTS,18.22,11,25,33.5,-3.5,lineup: starter (expected),PP standard,16.5,More,0.548,0.498,0.05,0.548,-114,-116,,PrizePicks / Underdog
-NO@OKC,NO,Jeremiah Fears,PTS,17.26,11,24,32.7,0.2,lineup: starter (expected),PP standard,16.5,More,0.504,0.484,0.021,0.504,-108,-124,,PrizePicks / Underdog
-NO@OKC,OKC,Kenrich Williams,PTS,8.21,3,13,21.8,1.6,,PP standard,8.5,Less,0.585,0.52,0.065,0.415,-105,-125,,PrizePicks / Underdog
-NO@OKC,NO,Zion Williamson,PTS,20.44,14,27,34.2,-1.4,lineup: starter (expected),PP standard,19.5,More,0.521,0.515,0.006,0.521,-125,-110,,PrizePicks / Underdog
-NO@OKC,OKC,Jaylin Williams,PTS,5.71,1,9,17.4,2.1,listed out (RotoWire) - minutes unclear,PP standard,5.5,Less,0.551,0.476,0.075,0.449,-128,-104,,PrizePicks / Underdog
-NO@OKC,NO,Yves Missi,PTS,5.05,2,8,18.4,10.3,minutes unclear (+10); projected starter (expected) - minutes unclear (model 18),PP standard,6.5,Less,0.699,0.525,0.174,0.301,-103,-128,,PrizePicks / Underdog
-NO@OKC,OKC,Isaiah Hartenstein,PTS,9.93,5,14,28.2,-1.4,lineup: starter (expected),PP standard,9.5,Less,0.511,0.516,-0.005,0.489,-108,-124,,PrizePicks / Underdog
-NO@OKC,OKC,Aday Mara,PA,12.26,7,17,25.2,2.8,small sample; lineup: starter (expected),PP standard,12.5,Less,0.564,0.483,0.081,0.436,-124,-107,,PrizePicks / Underdog
-NO@OKC,OKC,Shai Gilgeous-Alexander,PA,39.28,31,48,35.3,-3.8,lineup: starter (expected),PP standard,37.5,More,0.551,0.506,0.045,0.551,-118,-112,,PrizePicks / Underdog
-NO@OKC,OKC,Jared McCain,PA,16.43,10,22,28.4,4.1,minutes unclear (+4); lineup: starter (expected),PP standard,17.5,Less,0.594,0.48,0.115,0.406,-125,-105,,PrizePicks / Underdog
-NO@OKC,OKC,Ajay Mitchell,PA,20.94,14,27,30.6,3.9,lineup: starter (expected),PP standard,22.5,Less,0.605,0.496,0.109,0.395,-118,-114,,PrizePicks / Underdog
-NO@OKC,NO,Saddiq Bey,PA,21.0,13,28,33.5,-3.5,lineup: starter (expected),PP standard,18.5,More,0.581,0.517,0.065,0.581,-120,-104,,PrizePicks / Underdog
-NO@OKC,NO,Jeremiah Fears,PA,22.9,15,30,32.7,0.2,lineup: starter (expected),PP standard,22.5,Less,0.513,0.512,0.001,0.487,-109,-121,,PrizePicks / Underdog
-NO@OKC,OKC,Kenrich Williams,PA,9.89,4,15,21.8,1.6,,PP standard,10.5,Less,0.599,0.532,0.067,0.401,100,-132,,PrizePicks / Underdog
-NO@OKC,NO,Zion Williamson,PA,23.58,17,30,34.2,-1.4,lineup: starter (expected),PP standard,22.5,More,0.527,0.51,0.016,0.527,-120,-110,,PrizePicks / Underdog
-NO@OKC,OKC,Isaiah Hartenstein,PA,13.86,9,19,28.2,-1.4,lineup: starter (expected),PP standard,13.5,Less,0.517,0.502,0.015,0.483,-114,-116,,PrizePicks / Underdog
-NO@OKC,OKC,Isaiah Hartenstein,PR,20.77,15,26,28.2,-1.4,lineup: starter (expected),PP standard,20.5,Less,0.517,0.509,0.008,0.483,-111,-120,,PrizePicks / Underdog
-NO@OKC,OKC,Aday Mara,PR,17.35,11,23,25.2,2.8,small sample; lineup: starter (expected),PP standard,18.5,Less,0.602,0.522,0.079,0.398,-104,-126,,PrizePicks / Underdog
-NO@OKC,OKC,Jared McCain,PR,17.81,11,24,28.4,4.1,minutes unclear (+4); lineup: starter (expected),PP standard,19.5,Less,0.615,0.966,-0.351,0.385,-2,-126,,PrizePicks / Underdog
-NO@OKC,OKC,Shai Gilgeous-Alexander,PR,38.04,30,46,35.3,-3.8,lineup: starter (expected),PP standard,36.5,More,0.543,0.491,0.052,0.543,-110,-119,,PrizePicks / Underdog
-NO@OKC,OKC,Ajay Mitchell,PR,20.93,14,27,30.6,3.9,lineup: starter (expected),PP standard,22.5,Less,0.607,0.519,0.088,0.393,-106,-125,,PrizePicks / Underdog
-NO@OKC,NO,Saddiq Bey,PR,22.91,15,30,33.5,-3.5,lineup: starter (expected),PP standard,21.5,More,0.527,0.917,-0.39,0.527,-112,-5,,PrizePicks / Underdog
-NO@OKC,NO,Jeremiah Fears,PR,21.67,15,28,32.7,0.2,lineup: starter (expected),PP standard,21.5,Less,0.521,0.506,0.015,0.479,-112,-118,,PrizePicks / Underdog
-NO@OKC,OKC,Kenrich Williams,PR,12.1,6,17,21.8,1.6,,PP standard,13.5,Less,0.632,0.523,0.109,0.368,-108,-132,,PrizePicks / Underdog
-NO@OKC,NO,Zion Williamson,PR,25.79,19,33,34.2,-1.4,lineup: starter (expected),PP standard,25.5,Less,0.51,0.49,0.02,0.49,-120,-110,,PrizePicks / Underdog
-NO@OKC,NO,Yves Missi,PR,10.02,5,14,18.4,10.3,minutes unclear (+10); projected starter (expected) - minutes unclear (model 18); role up (last 8: 14.8),PP standard,13.5,Less,0.759,0.472,0.287,0.241,-130,-102,,PrizePicks / Underdog
-NO@OKC,OKC,Jaylin Williams,PR,9.88,5,14,17.4,2.1,listed out (RotoWire) - minutes unclear,PP standard,10.5,Less,0.601,0.508,0.093,0.399,-111,-119,,PrizePicks / Underdog
-NO@OKC,OKC,Shai Gilgeous-Alexander,PRA,43.47,35,52,35.3,-3.8,lineup: starter (expected),PP standard,41.5,More,0.557,0.51,0.047,0.557,-120,-110,,PrizePicks / Underdog
-NO@OKC,OKC,Jared McCain,PRA,19.69,13,26,28.4,4.1,minutes unclear (+4); lineup: starter (expected),PP standard,21.5,Less,0.619,0.514,0.105,0.381,-108,-122,,PrizePicks / Underdog
-NO@OKC,OKC,Ajay Mitchell,PRA,24.75,18,32,30.6,3.9,lineup: starter (expected),PP standard,26.5,Less,0.608,0.509,0.099,0.392,-111,-120,,PrizePicks / Underdog
-NO@OKC,OKC,Aday Mara,PRA,19.35,13,26,25.2,2.8,small sample; lineup: starter (expected),PP standard,20.5,Less,0.598,0.51,0.088,0.402,-110,-120,,PrizePicks / Underdog
-NO@OKC,NO,Saddiq Bey,PRA,25.69,18,33,33.5,-3.5,lineup: starter (expected),PP standard,24.5,More,0.517,0.49,0.027,0.517,-109,-119,,PrizePicks / Underdog
-NO@OKC,NO,Jeremiah Fears,PRA,27.31,19,35,32.7,0.2,lineup: starter (expected),PP standard,27.5,Less,0.535,0.509,0.027,0.465,-112,-121,,PrizePicks / Underdog
-NO@OKC,OKC,Kenrich Williams,PRA,13.78,8,19,21.8,1.6,,PP standard,14.5,Less,0.591,0.498,0.093,0.409,-115,-113,,PrizePicks / Underdog
-NO@OKC,OKC,Jaylin Williams,PRA,11.63,6,17,17.4,2.1,listed out (RotoWire) - minutes unclear,PP standard,12.5,Less,0.609,0.52,0.089,0.391,-105,-125,,PrizePicks / Underdog
-NO@OKC,NO,Zion Williamson,PRA,28.93,21,36,34.2,-1.4,lineup: starter (expected),PP standard,28.5,Less,0.504,0.495,0.009,0.496,-116,-111,,PrizePicks / Underdog
-NO@OKC,OKC,Isaiah Hartenstein,PRA,24.7,18,31,28.2,-1.4,lineup: starter (expected),PP standard,24.5,Less,0.517,0.498,0.019,0.483,-115,-113,,PrizePicks / Underdog
-NO@OKC,OKC,Jared McCain,REB,3.26,1,5,28.4,4.1,minutes unclear (+4); lineup: starter (expected),book line,3.5,Less,0.595,0.575,0.02,0.405,120,-160,,Kalshi / Underdog
-NO@OKC,OKC,Aday Mara,REB,7.09,4,10,25.2,2.8,small sample; lineup: starter (expected),book line,7.5,Less,0.588,0.531,0.057,0.412,100,-130,,Kalshi / Underdog
-NO@OKC,OKC,Ajay Mitchell,REB,3.81,2,6,30.6,3.9,lineup: starter (expected),PP standard,3.5,More,0.506,0.507,-0.001,0.506,-120,-113,,PrizePicks / Underdog
-NO@OKC,NO,Jeremiah Fears,REB,4.41,2,6,32.7,0.2,lineup: starter (expected),PP standard,4.5,Less,0.561,0.48,0.081,0.439,-125,-105,,PrizePicks / Underdog
-NO@OKC,OKC,Shai Gilgeous-Alexander,REB,4.18,2,6,35.3,-3.8,lineup: starter (expected),PP standard,3.5,More,0.573,0.566,0.007,0.573,-154,115,,PrizePicks / Underdog
-NO@OKC,OKC,Kenrich Williams,REB,3.9,2,6,21.8,1.6,,PP standard,4.5,Less,0.643,0.529,0.114,0.357,-101,-130,,PrizePicks / Underdog
-NO@OKC,NO,Yves Missi,REB,4.97,2,7,18.4,10.3,minutes unclear (+10); projected starter (expected) - minutes unclear (model 18); role up (last 8: 8.4),book line,7.5,Less,0.823,0.537,0.286,0.177,102,-135,,Kalshi / Underdog
-NO@OKC,NO,Zion Williamson,REB,5.35,3,7,34.2,-1.4,lineup: starter (expected),PP standard,5.5,Less,0.563,0.476,0.087,0.437,-127,-103,,PrizePicks / Underdog
-NO@OKC,OKC,Jaylin Williams,REB,4.18,2,6,17.4,2.1,listed out (RotoWire) - minutes unclear,PP standard,4.5,Less,0.601,0.518,0.083,0.399,-107,-125,,PrizePicks / Underdog
-NO@OKC,OKC,Isaiah Hartenstein,REB,10.84,8,14,28.2,-1.4,lineup: starter (expected),PP standard,11.5,Less,0.589,0.558,0.031,0.411,114,-144,,PrizePicks / Underdog
-NO@OKC,OKC,Aday Mara,RA,9.1,6,12,25.2,2.8,small sample; lineup: starter (expected),PP standard,9.5,Less,0.578,0.502,0.076,0.422,-114,-116,,PrizePicks / Underdog
-NO@OKC,OKC,Shai Gilgeous-Alexander,RA,9.61,7,12,35.3,-3.8,lineup: starter (expected),PP standard,9.5,Less,0.517,0.541,-0.024,0.483,105,-135,,PrizePicks / Underdog
-NO@OKC,OKC,Ajay Mitchell,RA,7.63,5,10,30.6,3.9,lineup: starter (expected),PP standard,7.5,Less,0.511,0.034,0.478,0.489,-128,-2,,PrizePicks / Underdog
-NO@OKC,NO,Saddiq Bey,RA,7.47,5,10,33.5,-3.5,lineup: starter (expected),book line,7.5,Less,0.538,0.363,0.175,0.462,0,-132,,Kalshi / Underdog
-NO@OKC,NO,Jeremiah Fears,RA,10.04,7,13,32.7,0.2,lineup: starter (expected),PP standard,10.5,Less,0.574,0.486,0.088,0.426,-122,-108,,PrizePicks / Underdog
-NO@OKC,OKC,Kenrich Williams,RA,5.58,3,8,21.8,1.6,,PP standard,6.5,Less,0.661,0.555,0.107,0.339,110,-146,,PrizePicks / Underdog
-NO@OKC,NO,Zion Williamson,RA,8.49,6,11,34.2,-1.4,lineup: starter (expected),PP standard,8.5,Less,0.53,0.495,0.035,0.47,-118,-113,,PrizePicks / Underdog
-NO@OKC,OKC,Jaylin Williams,RA,5.92,3,8,17.4,2.1,listed out (RotoWire) - minutes unclear,PP standard,6.5,Less,0.616,0.542,0.074,0.384,104,-138,,PrizePicks / Underdog
-NO@OKC,OKC,Isaiah Hartenstein,RA,14.78,11,18,28.2,-1.4,lineup: starter (expected),PP standard,15.5,Less,0.583,0.51,0.073,0.417,-110,-120,,PrizePicks / Underdog
-NO@OKC,OKC,Jared McCain,3PM,2.62,1,4,28.4,4.1,minutes unclear (+4); lineup: starter (expected),PP standard,2.5,Less,0.53,0.488,0.041,0.47,-122,-110,7.3,PrizePicks / Underdog
-NO@OKC,OKC,Ajay Mitchell,3PM,1.25,0,2,30.6,3.9,lineup: starter (expected),book line,1.5,Less,0.655,0.653,0.002,0.345,170,-230,3.7,Kalshi / Underdog
-NO@OKC,OKC,Shai Gilgeous-Alexander,3PM,2.18,1,4,35.3,-3.8,lineup: starter (expected),book line,1.5,More,0.599,0.615,-0.016,0.599,-194,142,6.1,Kalshi / Underdog
-NO@OKC,NO,Saddiq Bey,3PM,2.88,1,4,33.5,-3.5,lineup: starter (expected),book line,2.5,More,0.522,0.399,0.123,0.522,134,-180,7.8,Kalshi / Underdog
-NO@OKC,NO,Jeremiah Fears,3PM,1.96,1,3,32.7,0.2,lineup: starter (expected),book line,1.5,More,0.542,0.441,0.101,0.542,113,-147,5.8,Kalshi / Underdog
-NO@OKC,OKC,Kenrich Williams,3PM,1.28,0,2,21.8,1.6,,book line,1.5,Less,0.646,0.623,0.023,0.354,149,-197,3.6,Kalshi / Underdog
-NO@OKC,OKC,Jaylin Williams,3PM,1.2,0,2,17.4,2.1,listed out (RotoWire) - minutes unclear,book line,1.5,Less,0.673,0.649,0.024,0.327,166,-228,3.4,Kalshi / Underdog
-NO@OKC,OKC,Jared McCain,AST,1.88,1,3,28.4,4.1,minutes unclear (+4); lineup: starter (expected),book line,2.5,Less,0.704,0.601,0.103,0.296,130,-190,,Kalshi / Underdog
-NO@OKC,OKC,Aday Mara,AST,2.01,1,3,25.2,2.8,small sample; lineup: starter (expected),book line,1.5,More,0.56,0.61,-0.05,0.56,-188,140,,Kalshi / Underdog
-NO@OKC,OKC,Jaylin Williams,AST,1.74,0,3,17.4,2.1,listed out (RotoWire) - minutes unclear,PP standard,1.5,Less,0.514,0.484,0.03,0.486,-125,-109,,PrizePicks / Underdog
-NO@OKC,OKC,Kenrich Williams,AST,1.68,0,3,21.8,1.6,,PP standard,1.5,Less,0.53,0.477,0.052,0.47,-128,-105,,PrizePicks / Underdog
-NO@OKC,NO,Saddiq Bey,REB,4.69,3,7,33.5,-3.5,lineup: starter (expected),PP standard,4.5,Less,0.516,0.435,0.08,0.484,-152,115,,PrizePicks / Underdog
-NO@OKC,OKC,Jaylin Williams,PA,7.45,3,11,17.4,2.1,listed out (RotoWire) - minutes unclear,PP standard,7.5,Less,0.573,0.493,0.08,0.427,-120,-113,,PrizePicks / Underdog
-NO@OKC,NO,Yves Missi,PRA,11.25,6,16,18.4,10.3,minutes unclear (+10); projected starter (expected) - minutes unclear (model 18); role up (last 8: 16.6),PP standard,14.5,Less,0.738,0.509,0.23,0.262,104,-103,,PrizePicks / Underdog
-NO@OKC,NO,Yves Missi,RA,6.2,3,9,18.4,10.3,minutes unclear (+10); projected starter (expected) - minutes unclear (model 18); role up (last 8: 10.2),PP standard,8.5,Less,0.774,0.523,0.252,0.226,110,-109,,PrizePicks / Underdog
-NO@OKC,OKC,Jared McCain,RA,5.13,3,7,28.4,4.1,minutes unclear (+4); lineup: starter (expected),PP standard,5.5,Less,0.592,0.51,0.081,0.408,-110,-120,,PrizePicks / Underdog
+WSH@CHI,WSH,Kyshawn George,AST,4.06,2,6,32.0,2.3,lineup: starter (expected),PP standard,4.5,Less,0.617,0.51,0.107,0.383,-109,-119,,PrizePicks / Underdog
+WSH@CHI,CHI,Josh Giddey,AST,10.0,7,13,33.6,-6.4,minutes unclear (-6); lineup: starter (expected),PP standard,8.5,More,0.652,0.545,0.108,0.652,-140,105,,PrizePicks / Underdog
+WSH@CHI,WSH,Trae Young,AST,8.78,6,11,30.9,0.8,lineup: starter (expected),PP standard,9.5,Less,0.609,0.449,0.16,0.391,-144,108,,PrizePicks / Underdog
+WSH@CHI,WSH,AJ Dybantsa,AST,1.88,1,3,29.4,10.6,minutes unclear (+11); small sample; lineup: starter (expected),PP standard,2.5,Less,0.703,0.52,0.182,0.297,-105,-125,,PrizePicks / Underdog
+WSH@CHI,WSH,Anthony Davis,AST,2.34,1,4,31.6,4.5,minutes unclear (+4); lineup: starter (expected),book line,2.5,Less,0.593,0.587,0.005,0.407,126,-170,,Kalshi / Underdog
+WSH@CHI,CHI,Norman Powell,AST,2.61,1,4,32.5,-1.4,lineup: starter (expected),PP standard,2.5,Less,0.531,0.514,0.017,0.469,-108,-122,,PrizePicks / Underdog
+WSH@CHI,CHI,Tre Jones,PTS,13.88,8,19,24.7,-5.7,minutes unclear (-6),PP standard,11.5,More,0.598,0.494,0.104,0.598,-114,-120,,PrizePicks / Underdog
+WSH@CHI,CHI,Norman Powell,PTS,23.94,16,31,32.5,-1.4,lineup: starter (expected),PP standard,23.5,Less,0.507,0.517,-0.01,0.493,-107,-124,,PrizePicks / Underdog
+WSH@CHI,WSH,Kyshawn George,PTS,15.32,9,21,32.0,2.3,lineup: starter (expected),PP standard,16.5,Less,0.601,0.52,0.081,0.399,-108,-128,,PrizePicks / Underdog
+WSH@CHI,CHI,Josh Giddey,PTS,15.82,10,22,33.6,-6.4,minutes unclear (-6); lineup: starter (expected),PP standard,13.5,More,0.591,0.485,0.106,0.591,-108,-123,,PrizePicks / Underdog
+WSH@CHI,WSH,AJ Dybantsa,PTS,15.22,9,21,29.4,10.6,minutes unclear (+11); small sample; lineup: starter (expected),PP standard,18.5,Less,0.704,0.491,0.213,0.296,-119,-110,,PrizePicks / Underdog
+WSH@CHI,WSH,Trae Young,PTS,17.88,11,24,30.9,0.8,lineup: starter (expected),PP standard,18.5,Less,0.566,0.52,0.045,0.434,-105,-125,,PrizePicks / Underdog
+WSH@CHI,CHI,Nic Claxton,PTS,9.05,4,13,19.6,0.9,projected starter (expected) - minutes unclear (model 20),PP standard,9.5,Less,0.581,0.508,0.073,0.419,-112,-120,,PrizePicks / Underdog
+WSH@CHI,CHI,Isaac Okoro,PTS,10.39,5,15,30.2,-0.6,lineup: starter (expected),PP standard,9.5,More,0.507,0.519,-0.012,0.507,-125,-106,,PrizePicks / Underdog
+WSH@CHI,WSH,Alex Sarr,PTS,12.15,6,17,25.1,-1.1,lineup: starter (expected),PP standard,11.5,Less,0.508,0.49,0.019,0.492,-120,-110,,PrizePicks / Underdog
+WSH@CHI,WSH,Bilal Coulibaly,PTS,8.05,3,12,22.2,-3.5,,book line,7.5,Less,0.517,0.539,-0.022,0.483,102,-138,,Kalshi / Underdog
+WSH@CHI,CHI,Matas Buzelis,PTS,18.41,12,25,32.8,-4.2,minutes unclear (-4); lineup: starter (expected),PP standard,16.5,More,0.565,0.516,0.049,0.565,-124,-108,,PrizePicks / Underdog
+WSH@CHI,WSH,Anthony Davis,PTS,21.97,15,29,31.6,4.5,minutes unclear (+4); lineup: starter (expected),PP standard,24.5,Less,0.643,0.514,0.129,0.357,-108,-122,,PrizePicks / Underdog
+WSH@CHI,WSH,Kyshawn George,PA,19.37,13,26,32.0,2.3,lineup: starter (expected),PP standard,20.5,Less,0.591,0.48,0.112,0.409,-125,-105,,PrizePicks / Underdog
+WSH@CHI,WSH,Alex Sarr,PA,14.0,8,20,25.1,-1.1,lineup: starter (expected),PP standard,13.5,Less,0.516,0.502,0.014,0.484,-114,-116,,PrizePicks / Underdog
+WSH@CHI,WSH,AJ Dybantsa,PA,17.1,11,23,29.4,10.6,minutes unclear (+11); small sample; lineup: starter (expected),PP standard,21.5,Less,0.744,0.51,0.234,0.256,-110,-120,,PrizePicks / Underdog
+WSH@CHI,CHI,Josh Giddey,PA,25.83,18,33,33.6,-6.4,minutes unclear (-6); lineup: starter (expected),PP standard,22.5,More,0.627,0.51,0.117,0.627,-120,-110,,PrizePicks / Underdog
+WSH@CHI,WSH,Anthony Davis,PA,24.3,17,31,31.6,4.5,minutes unclear (+4); lineup: starter (expected),PP standard,26.5,Less,0.624,0.499,0.125,0.376,-115,-114,,PrizePicks / Underdog
+WSH@CHI,CHI,Isaac Okoro,PA,12.43,7,18,30.2,-0.6,lineup: starter (expected),PP standard,11.5,More,0.512,0.525,-0.012,0.512,-130,-105,,PrizePicks / Underdog
+WSH@CHI,WSH,Trae Young,PA,26.67,19,34,30.9,0.8,lineup: starter (expected),PP standard,27.5,Less,0.565,0.501,0.064,0.435,-110,-111,,PrizePicks / Underdog
+WSH@CHI,CHI,Nic Claxton,PA,11.2,6,16,19.6,0.9,projected starter (expected) - minutes unclear (model 20),PP standard,11.5,Less,0.57,0.52,0.05,0.43,-105,-125,,PrizePicks / Underdog
+WSH@CHI,CHI,Matas Buzelis,PA,20.66,14,27,32.8,-4.2,minutes unclear (-4); lineup: starter (expected),PP standard,19.5,More,0.522,0.486,0.036,0.522,-110,-124,,PrizePicks / Underdog
+WSH@CHI,CHI,Norman Powell,PA,26.55,19,34,32.5,-1.4,lineup: starter (expected),PP standard,25.5,More,0.517,0.511,0.006,0.517,-120,-109,,PrizePicks / Underdog
+WSH@CHI,WSH,Kyshawn George,PR,19.86,13,26,32.0,2.3,lineup: starter (expected),PP standard,20.5,Less,0.567,0.49,0.077,0.433,-120,-110,,PrizePicks / Underdog
+WSH@CHI,WSH,AJ Dybantsa,PR,20.89,14,27,29.4,10.6,minutes unclear (+11); small sample; lineup: starter (expected),PP standard,25.5,Less,0.742,0.514,0.228,0.258,-109,-123,,PrizePicks / Underdog
+WSH@CHI,CHI,Josh Giddey,PR,24.1,17,31,33.6,-6.4,minutes unclear (-6); lineup: starter (expected),PP standard,20.5,More,0.646,0.507,0.139,0.646,-118,-111,,PrizePicks / Underdog
+WSH@CHI,WSH,Trae Young,PR,20.35,13,27,30.9,0.8,lineup: starter (expected),PP standard,20.5,Less,0.541,0.933,-0.392,0.459,-4,-114,,PrizePicks / Underdog
+WSH@CHI,CHI,Isaac Okoro,PR,14.28,8,20,30.2,-0.6,lineup: starter (expected),PP standard,12.5,More,0.558,0.521,0.037,0.558,-126,-105,,PrizePicks / Underdog
+WSH@CHI,WSH,Alex Sarr,PR,18.54,12,25,25.1,-1.1,lineup: starter (expected),PP standard,18.5,Less,0.537,0.49,0.048,0.463,-120,-110,,PrizePicks / Underdog
+WSH@CHI,CHI,Matas Buzelis,PR,25.08,18,32,32.8,-4.2,minutes unclear (-4); lineup: starter (expected),PP standard,22.5,More,0.593,0.506,0.087,0.593,-118,-112,,PrizePicks / Underdog
+WSH@CHI,CHI,Nic Claxton,PR,14.59,9,20,19.6,0.9,projected starter (expected) - minutes unclear (model 20),PP standard,14.5,Less,0.541,0.49,0.051,0.459,-120,-110,,PrizePicks / Underdog
+WSH@CHI,WSH,Bilal Coulibaly,PR,11.61,7,16,22.2,-3.5,,PP standard,11.5,Less,0.542,0.521,0.021,0.458,-107,-128,,PrizePicks / Underdog
+WSH@CHI,WSH,Anthony Davis,PR,31.52,24,39,31.6,4.5,minutes unclear (+4); lineup: starter (expected),PP standard,34.5,Less,0.645,0.484,0.161,0.355,-124,-108,,PrizePicks / Underdog
+WSH@CHI,CHI,Norman Powell,PR,27.64,20,35,32.5,-1.4,lineup: starter (expected),PP standard,26.5,More,0.523,0.484,0.04,0.523,-107,-123,,PrizePicks / Underdog
+WSH@CHI,CHI,Tre Jones,PR,17.07,11,23,24.7,-5.7,minutes unclear (-6); role down (last 8: 12.5),PP standard,14.5,More,0.601,0.488,0.113,0.601,-110,-122,,PrizePicks / Underdog
+WSH@CHI,CHI,Norman Powell,PRA,30.25,22,38,32.5,-1.4,lineup: starter (expected),PP standard,28.5,More,0.545,0.519,0.026,0.545,-125,-106,,PrizePicks / Underdog
+WSH@CHI,WSH,Kyshawn George,PRA,23.92,17,31,32.0,2.3,lineup: starter (expected),PP standard,25.5,Less,0.605,0.494,0.111,0.395,-118,-112,,PrizePicks / Underdog
+WSH@CHI,WSH,Alex Sarr,PRA,20.4,13,27,25.1,-1.1,lineup: starter (expected),PP standard,20.5,Less,0.544,0.508,0.036,0.456,-112,-120,,PrizePicks / Underdog
+WSH@CHI,WSH,Trae Young,PRA,29.14,21,37,30.9,0.8,lineup: starter (expected),PP standard,30.5,Less,0.585,0.5,0.085,0.415,-115,-115,,PrizePicks / Underdog
+WSH@CHI,CHI,Josh Giddey,PRA,34.1,26,42,33.6,-6.4,minutes unclear (-6); lineup: starter (expected),PP standard,29.5,More,0.67,0.513,0.157,0.67,-124,-111,,PrizePicks / Underdog
+WSH@CHI,WSH,AJ Dybantsa,PRA,22.77,16,29,29.4,10.6,minutes unclear (+11); small sample; lineup: starter (expected),PP standard,27.5,Less,0.739,0.486,0.254,0.261,-122,-108,,PrizePicks / Underdog
+WSH@CHI,CHI,Nic Claxton,PRA,16.74,11,22,19.6,0.9,projected starter (expected) - minutes unclear (model 20),PP standard,16.5,Less,0.53,0.491,0.039,0.47,-120,-111,,PrizePicks / Underdog
+WSH@CHI,CHI,Isaac Okoro,PRA,16.32,10,22,30.2,-0.6,lineup: starter (expected),PP standard,15.5,More,0.503,0.477,0.027,0.503,-106,-130,,PrizePicks / Underdog
+WSH@CHI,CHI,Matas Buzelis,PRA,27.34,20,35,32.8,-4.2,minutes unclear (-4); lineup: starter (expected),PP standard,24.5,More,0.602,0.508,0.093,0.602,-116,-108,,PrizePicks / Underdog
+WSH@CHI,WSH,Anthony Davis,PRA,33.86,26,42,31.6,4.5,minutes unclear (+4); lineup: starter (expected),PP standard,37.5,Less,0.663,0.511,0.152,0.337,-109,-120,,PrizePicks / Underdog
+WSH@CHI,WSH,Kyshawn George,REB,4.54,2,6,32.0,2.3,lineup: starter (expected),PP standard,4.5,Less,0.536,0.498,0.038,0.464,-116,-114,,PrizePicks / Underdog
+WSH@CHI,CHI,Josh Giddey,REB,8.28,5,11,33.6,-6.4,minutes unclear (-6); lineup: starter (expected),PP standard,6.5,More,0.689,0.552,0.137,0.689,-147,107,,PrizePicks / Underdog
+WSH@CHI,WSH,Trae Young,REB,2.47,1,4,30.9,0.8,lineup: starter (expected),PP standard,2.5,Less,0.562,0.487,0.074,0.438,-123,-110,,PrizePicks / Underdog
+WSH@CHI,CHI,Isaac Okoro,REB,3.89,2,6,30.2,-0.6,lineup: starter (expected),book line,2.5,More,0.698,0.584,0.114,0.698,-168,124,,Kalshi / Underdog
+WSH@CHI,WSH,Alex Sarr,REB,6.4,4,9,25.1,-1.1,lineup: starter (expected),book line,6.5,Less,0.55,0.462,0.088,0.45,-135,103,,Kalshi / Underdog
+WSH@CHI,CHI,Matas Buzelis,REB,6.68,4,9,32.8,-4.2,minutes unclear (-4); lineup: starter (expected); role down (last 8: 4.9),PP standard,5.5,More,0.633,0.497,0.136,0.633,-113,-116,,PrizePicks / Underdog
+WSH@CHI,WSH,Bilal Coulibaly,REB,3.56,2,5,22.2,-3.5,role up (last 8: 5.0),book line,3.5,Less,0.539,0.454,0.085,0.461,-140,106,,Kalshi / Underdog
+WSH@CHI,WSH,Anthony Davis,REB,9.56,7,12,31.6,4.5,minutes unclear (+4); lineup: starter (expected),PP standard,10.5,Less,0.628,0.512,0.116,0.372,-110,-122,,PrizePicks / Underdog
+WSH@CHI,CHI,Norman Powell,REB,3.7,2,5,32.5,-1.4,lineup: starter (expected),book line,2.5,More,0.686,0.568,0.118,0.686,-157,115,,Kalshi / Underdog
+WSH@CHI,WSH,AJ Dybantsa,REB,5.67,3,8,29.4,10.6,minutes unclear (+11); small sample; lineup: starter (expected); role up (last 8: 7.4),book line,6.5,Less,0.651,0.538,0.113,0.349,102,-136,,Kalshi / Underdog
+WSH@CHI,WSH,Anthony Davis,RA,11.89,9,15,31.6,4.5,minutes unclear (+4); lineup: starter (expected),PP standard,12.5,Less,0.584,0.482,0.102,0.416,-125,-107,,PrizePicks / Underdog
+WSH@CHI,WSH,Kyshawn George,RA,8.6,6,11,32.0,2.3,lineup: starter (expected),PP standard,9.5,Less,0.631,0.537,0.094,0.369,102,-135,,PrizePicks / Underdog
+WSH@CHI,WSH,Alex Sarr,RA,8.25,5,11,25.1,-1.1,lineup: starter (expected),PP standard,8.5,Less,0.562,0.504,0.059,0.438,-114,-118,,PrizePicks / Underdog
+WSH@CHI,CHI,Josh Giddey,RA,18.28,14,22,33.6,-6.4,minutes unclear (-6); lineup: starter (expected),PP standard,16.5,More,0.625,0.48,0.145,0.625,-105,-125,,PrizePicks / Underdog
+WSH@CHI,WSH,Trae Young,RA,11.25,8,14,30.9,0.8,lineup: starter (expected),PP standard,12.5,Less,0.647,0.493,0.154,0.353,-122,-115,,PrizePicks / Underdog
+WSH@CHI,CHI,Nic Claxton,RA,7.69,5,10,19.6,0.9,projected starter (expected) - minutes unclear (model 20),PP standard,7.5,Less,0.51,0.951,-0.441,0.49,-3,-132,,PrizePicks / Underdog
+WSH@CHI,CHI,Matas Buzelis,RA,8.93,6,12,32.8,-4.2,minutes unclear (-4); lineup: starter (expected),PP standard,7.5,More,0.642,0.522,0.12,0.642,-127,-105,,PrizePicks / Underdog
+WSH@CHI,WSH,AJ Dybantsa,RA,7.55,5,10,29.4,10.6,minutes unclear (+11); small sample; lineup: starter (expected); role up (last 8: 9.8),book line,8.5,Less,0.645,0.457,0.188,0.355,-138,105,,Kalshi / Underdog
+WSH@CHI,WSH,AJ Dybantsa,3PM,1.13,0,2,29.4,10.6,minutes unclear (+11); small sample; lineup: starter (expected),book line,1.5,Less,0.691,0.609,0.082,0.309,140,-185,4.0,Kalshi / Underdog
+WSH@CHI,WSH,Kyshawn George,3PM,2.18,1,3,32.0,2.3,lineup: starter (expected),book line,2.5,Less,0.627,0.586,0.041,0.373,125,-169,6.3,Kalshi / Underdog
+WSH@CHI,WSH,Trae Young,3PM,2.17,1,4,30.9,0.8,lineup: starter (expected),book line,2.5,Less,0.634,0.633,0.001,0.366,155,-208,6.2,Kalshi / Underdog
+WSH@CHI,CHI,Josh Giddey,3PM,1.79,0,3,33.6,-6.4,minutes unclear (-6); lineup: starter (expected),book line,1.5,More,0.502,0.42,0.082,0.502,124,-161,5.1,Kalshi / Underdog
+WSH@CHI,WSH,Alex Sarr,3PM,1.12,0,2,25.1,-1.1,lineup: starter (expected),book line,1.5,Less,0.697,0.597,0.1,0.303,131,-178,4.2,Kalshi / Underdog
+WSH@CHI,CHI,Matas Buzelis,3PM,2.59,1,4,32.8,-4.2,minutes unclear (-4); lineup: starter (expected),book line,2.5,Less,0.535,0.598,-0.062,0.465,133,-176,7.2,Kalshi / Underdog
+WSH@CHI,CHI,Norman Powell,3PM,2.8,1,4,32.5,-1.4,lineup: starter (expected),PP standard,2.5,More,0.507,0.508,-0.001,0.507,-118,-110,7.7,PrizePicks / Underdog
+WSH@CHI,WSH,Alex Sarr,AST,1.86,1,3,25.1,-1.1,lineup: starter (expected),PP standard,1.5,More,0.525,0.504,0.021,0.525,-118,-114,,PrizePicks / Underdog
+WSH@CHI,CHI,Matas Buzelis,AST,2.26,1,4,32.8,-4.2,minutes unclear (-4); lineup: starter (expected),book line,2.5,Less,0.614,0.601,0.013,0.386,134,-181,,Kalshi / Underdog
+WSH@CHI,CHI,Tre Jones,AST,4.75,3,7,24.7,-5.7,minutes unclear (-6),PP standard,4.5,Less,0.503,0.566,-0.063,0.497,115,-154,,PrizePicks / Underdog
+WSH@CHI,CHI,Nic Claxton,AST,2.15,1,3,19.6,0.9,projected starter (expected) - minutes unclear (model 20),book line,1.5,More,0.597,0.579,0.018,0.597,-167,120,,Kalshi / Underdog
+WSH@CHI,CHI,Isaac Okoro,AST,2.04,1,3,30.2,-0.6,lineup: starter (expected),book line,1.5,More,0.57,0.6,-0.03,0.57,-179,134,,Kalshi / Underdog
+WSH@CHI,CHI,Tre Jones,PRA,21.82,15,28,24.7,-5.7,minutes unclear (-6); role down (last 8: 16.2),PP standard,18.5,More,0.623,0.505,0.118,0.623,-120,-115,,PrizePicks / Underdog
+WSH@CHI,CHI,Tre Jones,REB,3.19,1,5,24.7,-5.7,minutes unclear (-6); role down (last 8: 1.6),book line,2.5,More,0.586,0.477,0.109,0.586,-108,-132,,Kalshi / Underdog
+WSH@CHI,CHI,Nic Claxton,REB,5.54,3,8,19.6,0.9,projected starter (expected) - minutes unclear (model 20),book line,5.5,Less,0.535,0.538,-0.003,0.465,102,-136,,Kalshi / Underdog
+WSH@CHI,WSH,Bilal Coulibaly,3PM,0.86,0,2,22.2,-3.5,,PP standard,0.5,More,0.514,0.524,-0.01,0.514,-129,-105,2.6,PrizePicks / Underdog
+WSH@CHI,CHI,Isaac Okoro,3PM,1.37,0,2,30.2,-0.6,lineup: starter (expected),book line,1.5,Less,0.622,0.559,0.064,0.378,112,-148,4.0,Kalshi / Underdog
+WSH@CHI,WSH,Anthony Davis,3PM,0.71,0,1,31.6,4.5,minutes unclear (+4); lineup: starter (expected),book line,0.5,Less,0.548,0.455,0.093,0.452,-140,105,2.1,Kalshi / Underdog
+WSH@CHI,CHI,Tre Jones,3PM,0.64,0,1,24.7,-5.7,minutes unclear (-6),book line,0.5,Less,0.579,0.573,0.006,0.421,120,-156,1.9,Kalshi / Underdog
+WSH@CHI,CHI,Buddy Hield,PTS,8.77,3,13,18.4,1.8,,PP standard,8.5,Less,0.539,0.499,0.04,0.461,100,101,,PrizePicks / Underdog
+WSH@CHI,CHI,Tre Jones,PA,18.63,12,25,24.7,-5.7,minutes unclear (-6),PP standard,15.5,More,0.622,0.53,0.092,0.622,-135,-104,,PrizePicks / Underdog
+WSH@CHI,CHI,Buddy Hield,PRA,13.44,7,19,18.4,1.8,,PP standard,13.5,Less,0.556,0.513,0.042,0.444,106,-105,,PrizePicks / Underdog
+WSH@CHI,WSH,Bilal Coulibaly,PRA,13.05,8,18,22.2,-3.5,,PP standard,12.5,Less,0.51,0.531,-0.021,0.49,114,-112,,PrizePicks / Underdog
+WSH@CHI,CHI,Buddy Hield,REB,2.85,1,4,18.4,1.8,,PP standard,2.5,More,0.511,0.5,0.011,0.511,-119,-119,,PrizePicks / Underdog
+WSH@CHI,CHI,Tre Jones,RA,7.94,5,11,24.7,-5.7,minutes unclear (-6); role down (last 8: 5.4),PP standard,6.5,More,0.635,0.983,-0.348,0.635,-130,-1,,PrizePicks / Underdog
+WSH@CHI,CHI,Norman Powell,RA,6.31,4,9,32.5,-1.4,lineup: starter (expected),PP standard,5.5,More,0.579,0.502,0.077,0.579,-118,-116,,PrizePicks / Underdog
+WSH@CHI,CHI,Isaac Okoro,RA,5.94,3,8,30.2,-0.6,lineup: starter (expected),PP standard,5.5,More,0.524,0.426,0.098,0.524,120,-158,,PrizePicks / Underdog
+WSH@CHI,CHI,Buddy Hield,3PM,1.79,0,3,18.4,1.8,,PP standard,1.5,Less,0.51,0.484,0.026,0.49,-106,107,4.9,PrizePicks / Underdog
+WSH@CHI,CHI,Buddy Hield,PA,10.59,5,16,18.4,1.8,,book line,10.5,Less,0.552,0.496,0.056,0.448,-101,102,,Kalshi / Underdog
+WSH@CHI,CHI,Buddy Hield,PR,11.62,6,17,18.4,1.8,,book line,11.5,Less,0.545,0.516,0.029,0.455,107,-106,,Kalshi / Underdog
+WSH@CHI,CHI,Buddy Hield,RA,4.67,2,7,18.4,1.8,,book line,4.5,Less,0.525,0.504,0.021,0.475,102,-101,,Kalshi / Underdog
+NO@OKC,OKC,Isaiah Hartenstein,AST,4.24,2,6,28.9,-2.4,lineup: starter (expected),PP standard,4.5,Less,0.584,0.557,0.027,0.416,111,-148,,PrizePicks / Underdog
+NO@OKC,OKC,Shai Gilgeous-Alexander,AST,5.67,3,8,35.3,-3.7,lineup: starter (expected),PP standard,5.5,Less,0.504,0.56,-0.056,0.496,113,-149,,PrizePicks / Underdog
+NO@OKC,NO,Saddiq Bey,AST,2.79,1,4,33.6,-3.5,lineup: starter (expected),book line,2.5,More,0.51,0.402,0.108,0.51,132,-178,,Kalshi / Underdog
+NO@OKC,NO,Jeremiah Fears,AST,5.6,3,8,32.7,0.2,lineup: starter (expected),PP standard,5.5,Less,0.517,0.461,0.056,0.483,-136,103,,PrizePicks / Underdog
+NO@OKC,OKC,Ajay Mitchell,AST,4.11,2,6,31.4,2.1,lineup: starter (expected),PP standard,3.5,More,0.571,0.582,-0.011,0.571,-167,123,,PrizePicks / Underdog
+NO@OKC,NO,Zion Williamson,AST,3.15,1,5,34.2,-1.5,lineup: starter (expected),book line,2.5,More,0.59,0.535,0.055,0.59,-132,102,,Kalshi / Underdog
+NO@OKC,OKC,Aday Mara,PTS,10.21,5,15,25.2,3.0,small sample; lineup: starter (expected),PP standard,10.5,Less,0.574,0.507,0.067,0.426,-113,-120,,PrizePicks / Underdog
+NO@OKC,OKC,Jared McCain,PTS,15.16,9,21,29.1,2.8,lineup: starter (expected),PP standard,15.5,Less,0.556,0.494,0.062,0.444,-120,-114,,PrizePicks / Underdog
+NO@OKC,OKC,Shai Gilgeous-Alexander,PTS,33.99,26,42,35.3,-3.7,lineup: starter (expected),PP standard,32.5,More,0.541,0.493,0.048,0.541,-111,-118,,PrizePicks / Underdog
+NO@OKC,OKC,Ajay Mitchell,PTS,17.63,11,24,31.4,2.1,lineup: starter (expected),PP standard,18.5,Less,0.579,0.5,0.079,0.421,-115,-115,,PrizePicks / Underdog
+NO@OKC,NO,Saddiq Bey,PTS,18.27,11,25,33.6,-3.5,lineup: starter (expected),PP standard,16.5,More,0.55,0.498,0.052,0.55,-114,-116,,PrizePicks / Underdog
+NO@OKC,NO,Jeremiah Fears,PTS,17.41,11,24,32.7,0.2,lineup: starter (expected),PP standard,16.5,More,0.509,0.484,0.025,0.509,-108,-124,,PrizePicks / Underdog
+NO@OKC,OKC,Kenrich Williams,PTS,8.45,3,13,22.3,0.8,,PP standard,8.5,Less,0.568,0.52,0.048,0.432,-105,-125,,PrizePicks / Underdog
+NO@OKC,NO,Zion Williamson,PTS,20.43,14,27,34.2,-1.5,lineup: starter (expected),PP standard,19.5,More,0.521,0.515,0.006,0.521,-125,-110,,PrizePicks / Underdog
+NO@OKC,OKC,Jaylin Williams,PTS,6.05,2,10,18.1,0.6,listed out (RotoWire) - minutes unclear,PP standard,5.5,Less,0.523,0.476,0.047,0.477,-128,-104,,PrizePicks / Underdog
+NO@OKC,NO,Yves Missi,PTS,5.06,2,8,18.4,10.2,minutes unclear (+10); projected starter (expected) - minutes unclear (model 18),PP standard,6.5,Less,0.7,0.525,0.175,0.3,-103,-128,,PrizePicks / Underdog
+NO@OKC,OKC,Isaiah Hartenstein,PTS,10.09,5,15,28.9,-2.4,lineup: starter (expected),PP standard,9.5,Less,0.502,0.516,-0.014,0.498,-108,-124,,PrizePicks / Underdog
+NO@OKC,OKC,Aday Mara,PA,12.33,7,17,25.2,3.0,small sample; lineup: starter (expected),PP standard,12.5,Less,0.562,0.483,0.079,0.438,-124,-107,,PrizePicks / Underdog
+NO@OKC,OKC,Shai Gilgeous-Alexander,PA,39.66,31,48,35.3,-3.7,lineup: starter (expected),PP standard,37.5,More,0.567,0.506,0.061,0.567,-118,-112,,PrizePicks / Underdog
+NO@OKC,OKC,Jared McCain,PA,17.18,11,23,29.1,2.8,lineup: starter (expected),PP standard,17.5,Less,0.55,0.48,0.07,0.45,-125,-105,,PrizePicks / Underdog
+NO@OKC,OKC,Ajay Mitchell,PA,21.74,15,28,31.4,2.1,lineup: starter (expected),PP standard,22.5,Less,0.568,0.496,0.072,0.432,-118,-114,,PrizePicks / Underdog
+NO@OKC,NO,Saddiq Bey,PA,21.06,14,28,33.6,-3.5,lineup: starter (expected),PP standard,18.5,More,0.585,0.517,0.068,0.585,-120,-104,,PrizePicks / Underdog
+NO@OKC,NO,Jeremiah Fears,PA,23.01,16,30,32.7,0.2,lineup: starter (expected),PP standard,22.5,Less,0.51,0.512,-0.002,0.49,-109,-121,,PrizePicks / Underdog
+NO@OKC,OKC,Kenrich Williams,PA,10.25,5,15,22.3,0.8,,PP standard,10.5,Less,0.578,0.532,0.046,0.422,100,-132,,PrizePicks / Underdog
+NO@OKC,NO,Zion Williamson,PA,23.58,17,30,34.2,-1.5,lineup: starter (expected),PP standard,22.5,More,0.526,0.51,0.016,0.526,-120,-110,,PrizePicks / Underdog
+NO@OKC,OKC,Isaiah Hartenstein,PA,14.33,9,19,28.9,-2.4,lineup: starter (expected),PP standard,13.5,More,0.513,0.498,0.015,0.513,-114,-116,,PrizePicks / Underdog
+NO@OKC,OKC,Isaiah Hartenstein,PR,21.21,15,27,28.9,-2.4,lineup: starter (expected),PP standard,20.5,More,0.512,0.491,0.021,0.512,-111,-120,,PrizePicks / Underdog
+NO@OKC,OKC,Aday Mara,PR,17.27,11,23,25.2,3.0,small sample; lineup: starter (expected),PP standard,18.5,Less,0.606,0.522,0.084,0.394,-104,-126,,PrizePicks / Underdog
+NO@OKC,OKC,Jared McCain,PR,18.52,12,25,29.1,2.8,lineup: starter (expected),PP standard,19.5,Less,0.583,0.966,-0.383,0.417,-2,-126,,PrizePicks / Underdog
+NO@OKC,OKC,Shai Gilgeous-Alexander,PR,38.17,30,46,35.3,-3.7,lineup: starter (expected),PP standard,36.5,More,0.549,0.491,0.058,0.549,-110,-119,,PrizePicks / Underdog
+NO@OKC,OKC,Ajay Mitchell,PR,21.52,15,28,31.4,2.1,lineup: starter (expected),PP standard,22.5,Less,0.58,0.519,0.061,0.42,-106,-125,,PrizePicks / Underdog
+NO@OKC,NO,Saddiq Bey,PR,23.0,15,30,33.6,-3.5,lineup: starter (expected),PP standard,21.5,More,0.535,0.917,-0.383,0.535,-112,-5,,PrizePicks / Underdog
+NO@OKC,NO,Jeremiah Fears,PR,21.8,15,29,32.7,0.2,lineup: starter (expected),PP standard,21.5,Less,0.516,0.506,0.01,0.484,-112,-118,,PrizePicks / Underdog
+NO@OKC,OKC,Kenrich Williams,PR,12.48,6,18,22.3,0.8,,PP standard,13.5,Less,0.613,0.523,0.09,0.387,-108,-132,,PrizePicks / Underdog
+NO@OKC,NO,Zion Williamson,PR,25.77,18,33,34.2,-1.5,lineup: starter (expected),PP standard,25.5,Less,0.508,0.49,0.018,0.492,-120,-110,,PrizePicks / Underdog
+NO@OKC,NO,Yves Missi,PR,10.06,5,14,18.4,10.2,minutes unclear (+10); projected starter (expected) - minutes unclear (model 18); role up (last 8: 14.8),PP standard,13.5,Less,0.759,0.472,0.287,0.241,-130,-102,,PrizePicks / Underdog
+NO@OKC,OKC,Jaylin Williams,PR,10.47,5,15,18.1,0.6,listed out (RotoWire) - minutes unclear,PP standard,10.5,Less,0.564,0.508,0.056,0.436,-111,-119,,PrizePicks / Underdog
+NO@OKC,OKC,Shai Gilgeous-Alexander,PRA,43.84,35,53,35.3,-3.7,lineup: starter (expected),PP standard,41.5,More,0.572,0.51,0.062,0.572,-120,-110,,PrizePicks / Underdog
+NO@OKC,OKC,Jared McCain,PRA,20.54,14,27,29.1,2.8,lineup: starter (expected),PP standard,21.5,Less,0.577,0.514,0.062,0.423,-108,-122,,PrizePicks / Underdog
+NO@OKC,OKC,Ajay Mitchell,PRA,25.63,18,32,31.4,2.1,lineup: starter (expected),PP standard,26.5,Less,0.568,0.509,0.059,0.432,-111,-120,,PrizePicks / Underdog
+NO@OKC,OKC,Aday Mara,PRA,19.4,12,26,25.2,3.0,small sample; lineup: starter (expected),PP standard,20.5,Less,0.596,0.51,0.086,0.404,-110,-120,,PrizePicks / Underdog
+NO@OKC,NO,Saddiq Bey,PRA,25.79,18,34,33.6,-3.5,lineup: starter (expected),PP standard,24.5,More,0.525,0.49,0.035,0.525,-109,-119,,PrizePicks / Underdog
+NO@OKC,NO,Jeremiah Fears,PRA,27.41,19,35,32.7,0.2,lineup: starter (expected),PP standard,27.5,Less,0.531,0.509,0.022,0.469,-112,-121,,PrizePicks / Underdog
+NO@OKC,OKC,Kenrich Williams,PRA,14.28,8,20,22.3,0.8,,PP standard,14.5,Less,0.566,0.498,0.068,0.434,-115,-113,,PrizePicks / Underdog
+NO@OKC,OKC,Jaylin Williams,PRA,12.36,7,17,18.1,0.6,listed out (RotoWire) - minutes unclear,PP standard,12.5,Less,0.564,0.52,0.044,0.436,-105,-125,,PrizePicks / Underdog
+NO@OKC,NO,Zion Williamson,PRA,28.92,21,36,34.2,-1.5,lineup: starter (expected),PP standard,28.5,Less,0.503,0.495,0.008,0.497,-116,-111,,PrizePicks / Underdog
+NO@OKC,OKC,Isaiah Hartenstein,PRA,25.45,19,32,28.9,-2.4,lineup: starter (expected),PP standard,24.5,More,0.524,0.502,0.022,0.524,-115,-113,,PrizePicks / Underdog
+NO@OKC,OKC,Jared McCain,REB,3.36,2,5,29.1,2.8,lineup: starter (expected),book line,3.5,Less,0.574,0.575,-0.001,0.426,120,-160,,Kalshi / Underdog
+NO@OKC,OKC,Aday Mara,REB,7.06,4,10,25.2,3.0,small sample; lineup: starter (expected),book line,7.5,Less,0.594,0.531,0.064,0.406,100,-130,,Kalshi / Underdog
+NO@OKC,OKC,Ajay Mitchell,REB,3.89,2,6,31.4,2.1,lineup: starter (expected),PP standard,3.5,More,0.522,0.507,0.016,0.522,-120,-113,,PrizePicks / Underdog
+NO@OKC,NO,Jeremiah Fears,REB,4.39,2,6,32.7,0.2,lineup: starter (expected),PP standard,4.5,Less,0.561,0.48,0.081,0.439,-125,-105,,PrizePicks / Underdog
+NO@OKC,OKC,Shai Gilgeous-Alexander,REB,4.18,2,6,35.3,-3.7,lineup: starter (expected),PP standard,3.5,More,0.579,0.566,0.013,0.579,-154,115,,PrizePicks / Underdog
+NO@OKC,OKC,Kenrich Williams,REB,4.03,2,6,22.3,0.8,,PP standard,4.5,Less,0.626,0.529,0.097,0.374,-101,-130,,PrizePicks / Underdog
+NO@OKC,NO,Yves Missi,REB,5.01,3,7,18.4,10.2,minutes unclear (+10); projected starter (expected) - minutes unclear (model 18); role up (last 8: 8.4),book line,7.5,Less,0.816,0.537,0.279,0.184,102,-135,,Kalshi / Underdog
+NO@OKC,NO,Zion Williamson,REB,5.35,3,8,34.2,-1.5,lineup: starter (expected),PP standard,5.5,Less,0.561,0.476,0.086,0.439,-127,-103,,PrizePicks / Underdog
+NO@OKC,OKC,Jaylin Williams,REB,4.42,2,7,18.1,0.6,listed out (RotoWire) - minutes unclear,PP standard,4.5,Less,0.562,0.518,0.044,0.438,-107,-125,,PrizePicks / Underdog
+NO@OKC,OKC,Isaiah Hartenstein,REB,11.12,8,14,28.9,-2.4,lineup: starter (expected),PP standard,11.5,Less,0.565,0.558,0.007,0.435,114,-144,,PrizePicks / Underdog
+NO@OKC,OKC,Aday Mara,RA,9.19,6,12,25.2,3.0,small sample; lineup: starter (expected),PP standard,9.5,Less,0.576,0.502,0.074,0.424,-114,-116,,PrizePicks / Underdog
+NO@OKC,OKC,Shai Gilgeous-Alexander,RA,9.85,7,13,35.3,-3.7,lineup: starter (expected),PP standard,9.5,More,0.515,0.459,0.056,0.515,105,-135,,PrizePicks / Underdog
+NO@OKC,OKC,Ajay Mitchell,RA,8.0,5,11,31.4,2.1,lineup: starter (expected),PP standard,7.5,More,0.532,0.966,-0.434,0.532,-128,-2,,PrizePicks / Underdog
+NO@OKC,NO,Saddiq Bey,RA,7.52,5,10,33.6,-3.5,lineup: starter (expected),book line,7.5,Less,0.531,0.363,0.168,0.469,0,-132,,Kalshi / Underdog
+NO@OKC,NO,Jeremiah Fears,RA,10.0,7,13,32.7,0.2,lineup: starter (expected),PP standard,10.5,Less,0.579,0.486,0.093,0.421,-122,-108,,PrizePicks / Underdog
+NO@OKC,OKC,Kenrich Williams,RA,5.83,3,8,22.3,0.8,,PP standard,6.5,Less,0.629,0.555,0.074,0.371,110,-146,,PrizePicks / Underdog
+NO@OKC,NO,Zion Williamson,RA,8.5,6,11,34.2,-1.5,lineup: starter (expected),PP standard,8.5,Less,0.532,0.495,0.037,0.468,-118,-113,,PrizePicks / Underdog
+NO@OKC,OKC,Jaylin Williams,RA,6.31,3,9,18.1,0.6,listed out (RotoWire) - minutes unclear,PP standard,6.5,Less,0.569,0.542,0.027,0.431,104,-138,,PrizePicks / Underdog
+NO@OKC,OKC,Isaiah Hartenstein,RA,15.36,11,19,28.9,-2.4,lineup: starter (expected),PP standard,15.5,Less,0.533,0.51,0.023,0.467,-110,-120,,PrizePicks / Underdog
+NO@OKC,OKC,Jared McCain,3PM,2.75,1,4,29.1,2.8,lineup: starter (expected),PP standard,2.5,Less,0.501,0.488,0.013,0.499,-122,-110,7.6,PrizePicks / Underdog
+NO@OKC,OKC,Ajay Mitchell,3PM,1.31,0,2,31.4,2.1,lineup: starter (expected),book line,1.5,Less,0.632,0.653,-0.021,0.368,170,-230,3.9,Kalshi / Underdog
+NO@OKC,OKC,Shai Gilgeous-Alexander,3PM,2.2,1,4,35.3,-3.7,lineup: starter (expected),book line,1.5,More,0.603,0.615,-0.012,0.603,-194,142,6.1,Kalshi / Underdog
+NO@OKC,NO,Saddiq Bey,3PM,2.88,1,4,33.6,-3.5,lineup: starter (expected),book line,2.5,More,0.52,0.399,0.121,0.52,134,-180,7.8,Kalshi / Underdog
+NO@OKC,NO,Jeremiah Fears,3PM,1.98,1,3,32.7,0.2,lineup: starter (expected),book line,1.5,More,0.548,0.441,0.107,0.548,113,-147,5.8,Kalshi / Underdog
+NO@OKC,OKC,Kenrich Williams,3PM,1.34,0,2,22.3,0.8,,book line,1.5,Less,0.631,0.623,0.008,0.369,149,-197,3.6,Kalshi / Underdog
+NO@OKC,OKC,Jaylin Williams,3PM,1.28,0,2,18.1,0.6,listed out (RotoWire) - minutes unclear,book line,1.5,Less,0.647,0.649,-0.002,0.353,166,-228,3.6,Kalshi / Underdog
+NO@OKC,OKC,Jared McCain,AST,2.02,1,3,29.1,2.8,lineup: starter (expected),book line,2.5,Less,0.673,0.601,0.072,0.327,130,-190,,Kalshi / Underdog
+NO@OKC,OKC,Aday Mara,AST,2.12,1,3,25.2,3.0,small sample; lineup: starter (expected),book line,1.5,More,0.586,0.61,-0.024,0.586,-188,140,,Kalshi / Underdog
+NO@OKC,OKC,Jaylin Williams,AST,1.89,0,3,18.1,0.6,listed out (RotoWire) - minutes unclear,PP standard,1.5,More,0.526,0.516,0.01,0.526,-125,-109,,PrizePicks / Underdog
+NO@OKC,OKC,Kenrich Williams,AST,1.8,0,3,22.3,0.8,,PP standard,1.5,More,0.505,0.523,-0.018,0.505,-128,-105,,PrizePicks / Underdog
+NO@OKC,NO,Saddiq Bey,REB,4.73,3,7,33.6,-3.5,lineup: starter (expected),PP standard,4.5,Less,0.507,0.435,0.071,0.493,-152,115,,PrizePicks / Underdog
+NO@OKC,OKC,Jaylin Williams,PA,7.94,3,12,18.1,0.6,listed out (RotoWire) - minutes unclear,PP standard,7.5,Less,0.536,0.493,0.043,0.464,-120,-113,,PrizePicks / Underdog
+NO@OKC,NO,Yves Missi,PRA,11.3,6,16,18.4,10.2,minutes unclear (+10); projected starter (expected) - minutes unclear (model 18); role up (last 8: 16.6),PP standard,14.5,Less,0.734,0.509,0.225,0.266,104,-103,,PrizePicks / Underdog
+NO@OKC,NO,Yves Missi,RA,6.24,3,9,18.4,10.2,minutes unclear (+10); projected starter (expected) - minutes unclear (model 18); role up (last 8: 10.2),PP standard,8.5,Less,0.771,0.523,0.248,0.229,110,-109,,PrizePicks / Underdog
+NO@OKC,OKC,Jared McCain,RA,5.38,3,8,29.1,2.8,lineup: starter (expected),PP standard,5.5,Less,0.557,0.51,0.047,0.443,-110,-120,,PrizePicks / Underdog
 PHX@UTAH,PHX,Jalen Green,AST,3.01,1,5,26.6,-1.1,lineup: starter (expected),PP standard,3.5,Less,0.644,0.589,0.055,0.356,128,-170,,PrizePicks / Underdog
 PHX@UTAH,PHX,Collin Gillespie,AST,3.82,2,6,25.5,-1.9,,PP standard,3.5,More,0.512,0.483,0.029,0.512,-108,-125,,PrizePicks / Underdog
 PHX@UTAH,PHX,Oso Ighodaro,AST,2.62,1,4,22.7,3.9,projected starter (expected) - minutes unclear (model 23),book line,2.5,Less,0.53,0.448,0.082,0.47,-143,109,,Kalshi / Underdog

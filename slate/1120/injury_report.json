@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-20T22:22:30.693765+00:00",
+ "checked": "2026-11-20T23:22:31.074944+00:00",
  "games": {
   "CHA@ATL": [
    {
@@ -133,18 +133,6 @@
     "note": "McConnell (hamstring) is listed as probable for Friday's game in Cleveland."
    },
    {
-    "player": "Andrew Nembhard",
-    "team": "IND",
-    "status": "Day-To-Day",
-    "note": "Nembhard (hip) is questionable for Friday's game in Cleveland."
-   },
-   {
-    "player": "Braden Smith",
-    "team": "IND",
-    "status": "Day-To-Day",
-    "note": "Smith (ankle) is listed as questionable for Friday's game against Cleveland."
-   },
-   {
     "player": "Johnny Furphy",
     "team": "IND",
     "status": "Out",
@@ -159,16 +147,16 @@
   ],
   "TOR@DET": [
    {
+    "player": "Taurean Prince",
+    "team": "DET",
+    "status": "Out",
+    "note": "Prince (knee) underwent surgery to address lingering issues and has no timeline for a return, Hunter Patterson of The Athletic reports."
+   },
+   {
     "player": "Ronald Holland II",
     "team": "DET",
     "status": "Day-To-Day",
     "note": "Holland (knee) has been upgraded to doubtful for Friday's game against Toronto, Hunter Patterson of The Athletic reports."
-   },
-   {
-    "player": "Taurean Prince",
-    "team": "DET",
-    "status": "Out",
-    "note": "Prince underwent right knee surgery and is listed as out for Friday's game against the Raptors."
    },
    {
     "player": "Ebuka Okorie",
@@ -360,7 +348,7 @@
     "player": "Jusuf Nurkic",
     "team": "UTAH",
     "status": "Out",
-    "note": "Nurkic (toe) is listed as out for Friday's game against Phoenix."
+    "note": "Nurkic (foot) has been cleared for on-court work and will be re-evaluated in one week."
    },
    {
     "player": "Lauri Markkanen",
