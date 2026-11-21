@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-21T18:22:29.573786+00:00",
+ "checked": "2026-11-21T19:22:30.301228+00:00",
  "games": {
   "MIL@PHI": [
    {
@@ -159,12 +159,6 @@
     "note": "Boozer is out for Saturday's game against Minnesota due to a right ankle sprain."
    },
    {
-    "player": "Ty Jerome",
-    "team": "MEM",
-    "status": "Out",
-    "note": "Jerome (hip) is probable for Saturday's game in Minnesota."
-   },
-   {
     "player": "GG Jackson",
     "team": "MEM",
     "status": "Out",
@@ -203,16 +197,22 @@
   ],
   "NO@SA": [
    {
-    "player": "Bryce McGowens",
+    "player": "Trey Murphy III",
     "team": "NO",
     "status": "Out",
-    "note": "McGowens (elbow) has been ruled out for Friday's game against the Thunder."
+    "note": "Murphy (knee) has been ruled out for Saturday's game against the Spurs."
    },
    {
     "player": "Trendon Watford",
     "team": "NO",
     "status": "Out",
-    "note": "Watford (ankle) has been ruled out for Friday's game against Oklahoma City."
+    "note": "Watford (ankle) is out for Saturday's game against the Spurs."
+   },
+   {
+    "player": "Bryce McGowens",
+    "team": "NO",
+    "status": "Out",
+    "note": "McGowens (elbow) has been ruled out for Friday's game against the Thunder."
    },
    {
     "player": "Bennedict Mathurin",

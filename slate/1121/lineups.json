@@ -1,11 +1,11 @@
 {
  "MIL": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
-   "Brayden Burries",
+   "Ryan Rollins",
    "Tyler Herro",
+   "Jaime Jaquez",
    "Kyle Kuzma",
-   "Jericho Sims",
    "Myles Turner"
   ],
   "out": [
@@ -16,7 +16,7 @@
   "prob": []
  },
  "PHI": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Tyrese Maxey",
    "VJ Edgecombe",
@@ -30,13 +30,9 @@
    "Jaylen Brown",
    "Dean Wade"
   ],
-  "ques": [
-   "Tyrese Maxey"
-  ],
+  "ques": [],
   "doubt": [],
-  "prob": [
-   "Dominick Barlow"
-  ]
+  "prob": []
  },
  "POR": {
   "status": "expected",
@@ -64,17 +60,19 @@
   "starters": [
    "Jalen Brunson",
    "Mikal Bridges",
+   "Landry Shamet",
    "Josh Hart",
-   "OG Anunoby",
    "Karl-Anthony Towns"
   ],
   "out": [
    "Jordan Clarkson"
   ],
   "ques": [
+   "Karl-Anthony Towns"
+  ],
+  "doubt": [
    "OG Anunoby"
   ],
-  "doubt": [],
   "prob": []
  },
  "LAC": {
@@ -101,7 +99,7 @@
    "Kyrie Irving",
    "Caleb Martin",
    "Cooper Flagg",
-   "P.J. Washington",
+   "Naji Marshall",
    "Daniel Gafford"
   ],
   "out": [
@@ -111,10 +109,11 @@
    "Dereck Lively"
   ],
   "ques": [
-   "Walter Clayton",
+   "Walter Clayton"
+  ],
+  "doubt": [
    "P.J. Washington"
   ],
-  "doubt": [],
   "prob": []
  },
  "MEM": {
@@ -135,9 +134,7 @@
   ],
   "ques": [],
   "doubt": [],
-  "prob": [
-   "Ty Jerome"
-  ]
+  "prob": []
  },
  "MIN": {
   "status": "expected",
@@ -153,7 +150,9 @@
    "Donte DiVincenzo",
    "Anthony Edwards"
   ],
-  "ques": [],
+  "ques": [
+   "Isaiah Evans"
+  ],
   "doubt": [],
   "prob": []
  },
@@ -169,6 +168,7 @@
   "out": [
    "Bennedict Mathurin",
    "Bryce McGowens",
+   "Trey Murphy",
    "Dejounte Murray",
    "Trendon Watford"
   ],
