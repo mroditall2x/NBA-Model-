@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-21T00:22:31.310809+00:00",
+ "checked": "2026-11-21T01:22:33.583196+00:00",
  "games": {
   "CHA@ATL": [
    {
@@ -37,6 +37,12 @@
     "team": "ATL",
     "status": "Out",
     "note": "Veesaar was diagnosed with a torn right ACL and is expected to miss the 2026-27 season, the Hawks announced Monday."
+   },
+   {
+    "player": "Brandon Miller",
+    "team": "CHA",
+    "status": "Day-To-Day",
+    "note": "Miller amassed 28 points (10-19 FG, 5-12 3Pt, 3-3 FT), two rebounds, four assists and one block in 32 minutes during Tuesday's 118-114 overtime loss to the Lakers."
    },
    {
     "player": "Grant Williams",
@@ -135,28 +141,22 @@
   ],
   "TOR@DET": [
    {
+    "player": "Ronald Holland II",
+    "team": "DET",
+    "status": "Out",
+    "note": "Holland (knee) is listed as out for Friday's game against Toronto."
+   },
+   {
     "player": "Taurean Prince",
     "team": "DET",
     "status": "Out",
     "note": "Prince (knee) underwent surgery to address lingering issues and has no timeline for a return, Hunter Patterson of The Athletic reports."
    },
    {
-    "player": "Ronald Holland II",
-    "team": "DET",
-    "status": "Day-To-Day",
-    "note": "Holland (knee) has been upgraded to doubtful for Friday's game against Toronto, Hunter Patterson of The Athletic reports."
-   },
-   {
     "player": "Ebuka Okorie",
     "team": "DET",
     "status": "Out",
     "note": "Okorie (oblique) has been ruled out for Friday's game against Toronto."
-   },
-   {
-    "player": "Cade Cunningham",
-    "team": "DET",
-    "status": "Day-To-Day",
-    "note": "Cunningham (knee) is expected to play in Friday's game against the Raptors, Blake Murphy of Sportsnet.ca reports."
    },
    {
     "player": "Ugonna Onyenso",
@@ -223,7 +223,7 @@
    {
     "player": "Felix Okpara",
     "team": "WSH",
-    "status": "Day-To-Day",
+    "status": "Out",
     "note": "Okpara (illness) is available for Friday's game against Toronto."
    },
    {
