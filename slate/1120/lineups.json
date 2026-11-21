@@ -1,6 +1,6 @@
 {
  "CHA": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Coby White",
    "Brandon Miller",
@@ -19,7 +19,7 @@
   "prob": []
  },
  "ATL": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Nickeil Alexander-Walker",
    "Dyson Daniels",
@@ -40,7 +40,7 @@
   "prob": []
  },
  "IND": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Andrew Nembhard",
    "Kelly Oubre",
@@ -55,12 +55,10 @@
   ],
   "ques": [],
   "doubt": [],
-  "prob": [
-   "T.J. McConnell"
-  ]
+  "prob": []
  },
  "CLE": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "James Harden",
    "Donovan Mitchell",
@@ -73,18 +71,16 @@
    "Nae'Qwan Tomlin",
    "Jaylon Tyson"
   ],
-  "ques": [
-   "Peyton Watson"
-  ],
+  "ques": [],
   "doubt": [],
   "prob": []
  },
  "TOR": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Immanuel Quickley",
    "Ja'Kobe Walter",
-   "Jamison Battle",
+   "Allen Graves",
    "Scottie Barnes",
    "Jakob Poeltl"
   ],
@@ -98,7 +94,7 @@
   "prob": []
  },
  "DET": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Cade Cunningham",
    "Daniss Jenkins",
@@ -116,12 +112,10 @@
   "doubt": [
    "Ronald Holland"
   ],
-  "prob": [
-   "Cade Cunningham"
-  ]
+  "prob": []
  },
  "ORL": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Jalen Suggs",
    "Anthony Black",
@@ -140,10 +134,10 @@
   "prob": []
  },
  "BKN": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Nolan Traore",
-   "Egor Demin",
+   "Danny Wolf",
    "Michael Porter",
    "Julius Randle",
    "Day'Ron Sharpe"
@@ -191,9 +185,7 @@
   ],
   "ques": [],
   "doubt": [],
-  "prob": [
-   "Noa Essengue"
-  ]
+  "prob": []
  },
  "NO": {
   "status": "expected",
@@ -210,9 +202,7 @@
    "Dejounte Murray",
    "Trendon Watford"
   ],
-  "ques": [
-   "Trey Murphy"
-  ],
+  "ques": [],
   "doubt": [],
   "prob": []
  },

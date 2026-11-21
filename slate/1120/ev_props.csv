@@ -1,9 +1,9 @@
 game,team,player,stat,line,side,p,price,ev,mean,where
-WSH@CHI,WSH,Trae Young,AST,9.5,Less,0.565,108,0.176,8.78,Kalshi / Novig / books
-HOU@DEN,DEN,Spencer Jones,3PM,0.5,Less,0.601,-108,0.158,0.48,PrizePicks / Underdog
-HOU@DEN,HOU,Kevin Durant,AST,3.5,Less,0.507,124,0.135,3.68,Kalshi / Novig / books
-WSH@CHI,CHI,Isaac Okoro,RA,5.5,More,0.514,120,0.132,5.94,Kalshi / Novig / books
-NO@OKC,NO,Jeremiah Fears,3PM,1.5,More,0.529,113,0.126,1.98,Kalshi / Novig / books
-SAC@LAL,SAC,Malik Monk,AST,3.5,Less,0.544,107,0.126,3.41,Kalshi / Novig / books
+HOU@DEN,DEN,Spencer Jones,3PM,0.5,Less,0.599,-108,0.154,0.48,PrizePicks / Underdog
+NO@OKC,NO,Jordan Poole,3PM,2.5,Less,0.622,-120,0.14,1.85,Kalshi / Underdog
+WSH@CHI,CHI,Isaac Okoro,REB,3.5,More,0.514,120,0.132,3.93,Kalshi / Novig / books
+HOU@DEN,HOU,Kevin Durant,AST,3.5,Less,0.504,124,0.128,3.7,Kalshi / Novig / books
+SAC@LAL,SAC,Malik Monk,AST,3.5,Less,0.542,107,0.122,3.4,Kalshi / Novig / books
 PHX@UTAH,UTAH,Brice Sensabaugh,AST,1.5,Less,0.514,118,0.121,1.69,Kalshi / Novig / books
 ORL@BKN,ORL,Wendell Carter Jr,3PM,0.5,Less,0.511,119,0.12,0.77,Kalshi / Novig / books
+PHX@UTAH,UTAH,Svi Mykhailiuk,PTS,7.5,Less,0.553,100,0.107,7.12,Kalshi / Novig / books

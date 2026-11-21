@@ -7,9 +7,9 @@ ORL@BKN,BKN,Day'Ron Sharpe,REB,7.5,Less,0.541,7.23,25.3,lean,PrizePicks / Underd
 CHA@ATL,CHA,Moussa Diabate,AST,1.5,More,0.612,2.53,31.6,lean,Kalshi / Underdog
 CHA@ATL,CHA,Sion James,3PM,1.5,Less,0.564,1.42,29.6,lean,Kalshi / Underdog
 CHA@ATL,CHA,Naz Reid,PTS,18.5,More,0.528,20.17,34.8,lean,PrizePicks / Underdog
-WSH@CHI,CHI,Isaac Okoro,3PM,1.5,Less,0.597,1.25,28.7,lean,Kalshi / Underdog
-WSH@CHI,CHI,Matas Buzelis,AST,2.5,Less,0.583,2.14,31.0,lean,Kalshi / Underdog
-WSH@CHI,CHI,Norman Powell,REB,2.5,More,0.565,3.28,31.0,lean,Kalshi / Underdog
+WSH@CHI,CHI,Isaac Okoro,REB,2.5,More,0.619,3.89,30.2,lean,Kalshi / Underdog
+WSH@CHI,CHI,Norman Powell,REB,2.5,More,0.612,3.7,32.5,lean,Kalshi / Underdog
+WSH@CHI,CHI,Buddy Hield,PRA,13.5,Less,0.534,13.44,18.4,lean,PrizePicks / Underdog
 IND@CLE,CLE,James Harden,REB,5.5,Less,0.591,4.78,34.1,lean,PrizePicks / Underdog
 IND@CLE,CLE,Donovan Mitchell,AST,4.5,More,0.583,5.57,35.1,lean,PrizePicks / Underdog
 IND@CLE,CLE,Peyton Watson,3PM,1.5,Less,0.58,1.33,28.7,lean,Kalshi / Underdog
@@ -24,7 +24,7 @@ TOR@DET,DET,Ausar Thompson,PR,19.5,Less,0.546,18.7,30.2,lean,PrizePicks / Underd
 HOU@DEN,HOU,Marcus Smart,3PM,1.5,Less,0.61,1.16,18.3,card,Kalshi / Underdog
 HOU@DEN,HOU,Tari Eason,AST,1.5,Less,0.601,1.22,22.9,card,Kalshi / Underdog
 HOU@DEN,HOU,Kevin Durant,RA,9.5,Less,0.576,8.63,33.2,lean,Kalshi / Underdog
-HOU@DEN,HOU,Jabari Smith Jr,PRA,23.5,Less,0.553,22.36,33.2,lean,PrizePicks / Underdog
+HOU@DEN,HOU,Amen Thompson,PA,19.5,Less,0.553,18.5,32.4,lean,PrizePicks / Underdog
 IND@CLE,IND,Pascal Siakam,REB,6.5,Less,0.568,5.92,32.9,lean,PrizePicks / Underdog
 IND@CLE,IND,Kelly Oubre Jr.,PR,16.5,Less,0.55,15.69,26.7,lean,PrizePicks / Underdog
 IND@CLE,IND,Ivica Zubac,AST,1.5,More,0.537,1.99,24.5,lean,PrizePicks / Underdog
@@ -32,11 +32,11 @@ SAC@LAL,LAL,Collin Sexton,3PM,1.5,Less,0.573,1.38,21.5,lean,Kalshi / Underdog
 SAC@LAL,LAL,Jake LaRavia,REB,4.5,Less,0.567,4.08,26.4,lean,PrizePicks / Underdog
 SAC@LAL,LAL,Sandro Mamukelashvili,REB,4.5,Less,0.527,4.52,23.8,lean,PrizePicks / Underdog
 SAC@LAL,LAL,Luka Doncic,PA,44.5,More,0.525,46.13,36.8,lean,PrizePicks / Underdog
-NO@OKC,NO,Zion Williamson,AST,2.5,More,0.555,3.14,34.2,lean,Kalshi / Underdog
-NO@OKC,NO,Jeremiah Fears,RA,10.5,Less,0.544,10.04,32.7,lean,PrizePicks / Underdog
-NO@OKC,NO,Saddiq Bey,RA,7.5,Less,0.523,7.47,33.5,lean,Kalshi / Underdog
-NO@OKC,OKC,Kenrich Williams,RA,6.5,Less,0.597,5.58,21.8,card,PrizePicks / Underdog
-NO@OKC,OKC,Isaiah Hartenstein,REB,11.5,Less,0.553,10.84,28.2,lean,PrizePicks / Underdog
+NO@OKC,NO,Zion Williamson,AST,2.5,More,0.554,3.15,34.2,lean,Kalshi / Underdog
+NO@OKC,NO,Jeremiah Fears,RA,10.5,Less,0.547,10.0,32.7,lean,PrizePicks / Underdog
+NO@OKC,NO,Saddiq Bey,RA,7.5,Less,0.519,7.52,33.6,lean,Kalshi / Underdog
+NO@OKC,OKC,Kenrich Williams,RA,6.5,Less,0.577,5.83,22.3,lean,PrizePicks / Underdog
+NO@OKC,OKC,Isaiah Hartenstein,AST,4.5,Less,0.55,4.24,28.9,lean,PrizePicks / Underdog
 ORL@BKN,ORL,Desmond Bane,REB,4.5,Less,0.597,3.82,31.4,lean,PrizePicks / Underdog
 ORL@BKN,ORL,Franz Wagner,REB,6.5,Less,0.586,5.72,32.5,lean,PrizePicks / Underdog
 ORL@BKN,ORL,Wendell Carter Jr,PR,20.5,Less,0.577,18.77,28.8,lean,PrizePicks / Underdog
@@ -53,5 +53,6 @@ TOR@DET,TOR,Ja'Kobe Walter,PA,14.5,Less,0.505,15.04,34.5,lean,PrizePicks / Under
 PHX@UTAH,UTAH,Ace Bailey,AST,2.5,Less,0.59,2.12,31.0,lean,Kalshi / Underdog
 PHX@UTAH,UTAH,Svi Mykhailiuk,PA,9.5,Less,0.555,8.98,21.0,lean,Kalshi / Underdog
 PHX@UTAH,UTAH,Brice Sensabaugh,PA,14.5,Less,0.552,13.66,20.4,lean,Kalshi / Underdog
-WSH@CHI,WSH,Alex Sarr,3PM,1.5,Less,0.615,1.13,25.1,lean,Kalshi / Underdog
-WSH@CHI,WSH,Trae Young,RA,12.5,Less,0.588,11.26,31.0,lean,PrizePicks / Underdog
+WSH@CHI,WSH,Alex Sarr,3PM,1.5,Less,0.618,1.12,25.1,lean,Kalshi / Underdog
+WSH@CHI,WSH,Trae Young,RA,12.5,Less,0.588,11.25,30.9,lean,PrizePicks / Underdog
+WSH@CHI,WSH,Bilal Coulibaly,PR,11.5,Less,0.525,11.61,22.2,lean,PrizePicks / Underdog
