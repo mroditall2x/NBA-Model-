@@ -1,44 +1,12 @@
 {
- "checked": "2026-11-21T21:22:34.994828+00:00",
+ "checked": "2026-11-21T22:22:29.187036+00:00",
  "games": {
-  "MIL@PHI": [
-   {
-    "player": "Ousmane Dieng",
-    "team": "MIL",
-    "status": "Out",
-    "note": "Dieng will undergo a procedure to repair a fractured left finger Monday, Justin Garcia of the Milwaukee Bucks Radio Network reports."
-   },
-   {
-    "player": "Dean Wade",
-    "team": "PHI",
-    "status": "Out",
-    "note": "Wade (hamstring) won't play Saturday against the Bucks."
-   },
-   {
-    "player": "Adem Bona",
-    "team": "PHI",
-    "status": "Out",
-    "note": "Bona (back) participated in Friday's practice, though he still needs to go through a full practice with contact before being cleared to return to game action, Adam Aaronson of PhillyVoice.com reports."
-   },
-   {
-    "player": "Jaylen Brown",
-    "team": "PHI",
-    "status": "Out",
-    "note": "Brown (hamstring) went through individual work during Friday's practice, Tony Jones of The Athletic reports."
-   },
-   {
-    "player": "Ariel Hukporti",
-    "team": "PHI",
-    "status": "Out",
-    "note": "Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania of ESPN."
-   }
-  ],
   "POR@NY": [
    {
     "player": "OG Anunoby",
     "team": "NY",
-    "status": "Day-To-Day",
-    "note": "Anunoby (calf) has been downgraded to doubtful for Saturday's game against the Trail Bllazers."
+    "status": "Out",
+    "note": "Anunoby (calf) has been ruled out for Saturday's game against the Trail Blazers."
    },
    {
     "player": "Karl-Anthony Towns",
@@ -268,7 +236,7 @@
     "player": "Precious Achiuwa",
     "team": "SAC",
     "status": "Day-To-Day",
-    "note": "Achiuwa (lower leg) has been ruled out for Friday's game against the Lakers."
+    "note": "Achiuwa (lower leg) is questionable for Saturday's game against the Celtics."
    },
    {
     "player": "Maxime Raynaud",
@@ -281,6 +249,38 @@
     "team": "SAC",
     "status": "Out",
     "note": "Simmons underwent successful surgery Tuesday to repair a torn right Achilles tendon, James Ham of ESPN 1320 Sacramento reports."
+   }
+  ],
+  "MIL@PHI": [
+   {
+    "player": "Ousmane Dieng",
+    "team": "MIL",
+    "status": "Out",
+    "note": "Dieng will undergo a procedure to repair a fractured left finger Monday, Justin Garcia of the Milwaukee Bucks Radio Network reports."
+   },
+   {
+    "player": "Dean Wade",
+    "team": "PHI",
+    "status": "Out",
+    "note": "Wade (hamstring) won't play Saturday against the Bucks."
+   },
+   {
+    "player": "Adem Bona",
+    "team": "PHI",
+    "status": "Out",
+    "note": "Bona (back) participated in Friday's practice, though he still needs to go through a full practice with contact before being cleared to return to game action, Adam Aaronson of PhillyVoice.com reports."
+   },
+   {
+    "player": "Jaylen Brown",
+    "team": "PHI",
+    "status": "Out",
+    "note": "Brown (hamstring) went through individual work during Friday's practice, Tony Jones of The Athletic reports."
+   },
+   {
+    "player": "Ariel Hukporti",
+    "team": "PHI",
+    "status": "Out",
+    "note": "Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania of ESPN."
    }
   ]
  }

@@ -5,13 +5,13 @@
    "home": "NY",
    "id": "232f705eea406644ff14ad17bcf9aea6",
    "commence": "2026-11-22T00:40:00Z",
-   "home_spread": -3.0,
+   "home_spread": -1.0,
    "spread_odds": [
-    -110,
-    -110
+    -105,
+    -115
    ],
-   "ml_home": -150,
-   "ml_away": 130,
+   "ml_home": -111,
+   "ml_away": -106,
    "total": 215.5,
    "total_odds": [
     -110,
@@ -28,8 +28,8 @@
     -110,
     -110
    ],
-   "ml_home": -196,
-   "ml_away": 164,
+   "ml_home": -195,
+   "ml_away": 165,
    "total": 230.5,
    "total_odds": [
     -110,
@@ -46,7 +46,7 @@
     -110,
     -110
    ],
-   "ml_home": -225,
+   "ml_home": -224,
    "ml_away": 185,
    "total": 229.5,
    "total_odds": [
@@ -82,9 +82,9 @@
     -110,
     -110
    ],
-   "ml_home": 448,
+   "ml_home": 444,
    "ml_away": -600,
-   "total": 216.25,
+   "total": 216.0,
    "total_odds": [
     -110,
     -110
