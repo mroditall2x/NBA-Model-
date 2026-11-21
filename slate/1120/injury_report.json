@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-21T02:22:30.671092+00:00",
+ "checked": "2026-11-21T03:22:31.761928+00:00",
  "games": {
   "CHA@ATL": [
    {
@@ -39,12 +39,6 @@
     "note": "Veesaar was diagnosed with a torn right ACL and is expected to miss the 2026-27 season, the Hawks announced Monday."
    },
    {
-    "player": "Brandon Miller",
-    "team": "CHA",
-    "status": "Day-To-Day",
-    "note": "Miller amassed 28 points (10-19 FG, 5-12 3Pt, 3-3 FT), two rebounds, four assists and one block in 32 minutes during Tuesday's 118-114 overtime loss to the Lakers."
-   },
-   {
     "player": "Grant Williams",
     "team": "CHA",
     "status": "Out",
@@ -70,6 +64,12 @@
    }
   ],
   "ORL@BKN": [
+   {
+    "player": "Nolan Traore",
+    "team": "BKN",
+    "status": "Out",
+    "note": "Traore (hamstring) won't return to Friday's game against Orlando, Meghan Triplett of YES Network reports. He finished with four points (2-6 FG, 0-2 3Pt) and two assists over 18 minutes."
+   },
    {
     "player": "Grant Nelson",
     "team": "BKN",
