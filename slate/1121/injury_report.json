@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-21T20:22:34.116391+00:00",
+ "checked": "2026-11-21T21:22:34.994828+00:00",
  "games": {
   "MIL@PHI": [
    {
@@ -247,16 +247,22 @@
   ],
   "BOS@SAC": [
    {
-    "player": "Jayson Tatum",
+    "player": "Mitchell Robinson",
     "team": "BOS",
-    "status": "Day-To-Day",
-    "note": "Tatum (rest) is listed as questionable for Saturday's game against Sacramento."
+    "status": "Out",
+    "note": "Robinson (illness) has been ruled out for Saturday's game against the Kings, Keith Smith of Spotrac.com reports."
    },
    {
     "player": "Derrick White",
     "team": "BOS",
-    "status": "Day-To-Day",
-    "note": "White (shoulder) is questionable to play in Saturday's game against Sacramento."
+    "status": "Out",
+    "note": "White (shoulder) has been ruled out for Saturday's game against Sacramento."
+   },
+   {
+    "player": "Jayson Tatum",
+    "team": "BOS",
+    "status": "Out",
+    "note": "Tatum (rest) has been ruled out for Saturday's game against the Kings."
    },
    {
     "player": "Precious Achiuwa",

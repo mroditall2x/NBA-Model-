@@ -1,9 +1,9 @@
 game,team,player,stat,line,side,p,price,ev,mean,where
 MIL@PHI,MIL,Jericho Sims,REB,3.5,Less,0.616,127,0.399,2.64,Kalshi / Novig / books
 MIL@PHI,MIL,Jericho Sims,RA,4.5,Less,0.609,120,0.34,3.52,Kalshi / Novig / books
-MEM@MIN,MEM,Isaiah Stewart,3PM,0.5,Less,0.564,126,0.274,0.59,Kalshi / Novig / books
+MEM@MIN,MEM,Isaiah Stewart,3PM,0.5,Less,0.563,126,0.272,0.58,Kalshi / Novig / books
 LAC@DAL,DAL,Naji Marshall,3PM,0.5,Less,0.421,200,0.263,0.98,Kalshi / Novig / books
-BOS@SAC,SAC,De'Andre Hunter,PRA,18.5,Less,0.547,120,0.203,17.71,Kalshi / Novig / books
-BOS@SAC,BOS,Jayson Tatum,AST,6.5,Less,0.573,107,0.187,5.88,Kalshi / Novig / books
+BOS@SAC,SAC,De'Andre Hunter,PRA,18.5,Less,0.545,120,0.199,17.73,Kalshi / Novig / books
+BOS@SAC,SAC,De'Andre Hunter,RA,5.5,Less,0.52,130,0.197,5.56,Kalshi / Novig / books
 MIL@PHI,PHI,Joel Embiid,REB,8.5,More,0.577,103,0.171,9.88,Kalshi / Novig / books
-BOS@SAC,SAC,De'Andre Hunter,PTS,12.5,Less,0.54,113,0.151,12.15,Kalshi / Novig / books
+POR@NY,NY,Andre Drummond,RA,7.5,Less,0.521,119,0.141,7.6,Kalshi / Novig / books

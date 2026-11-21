@@ -197,17 +197,18 @@
  "BOS": {
   "status": "expected",
   "starters": [
-   "Derrick White",
+   "Payton Pritchard",
    "Jordan Walsh",
-   "Jayson Tatum",
+   "Baylor Scheierman",
    "Paul George",
    "Neemias Queta"
   ],
-  "out": [],
-  "ques": [
+  "out": [
+   "Mitchell Robinson",
    "Jayson Tatum",
    "Derrick White"
   ],
+  "ques": [],
   "doubt": [],
   "prob": []
  },
