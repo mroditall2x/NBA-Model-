@@ -104,14 +104,13 @@
   ],
   "out": [
    "Jalen Duren",
+   "Ronald Holland",
    "Ebuka Okorie",
    "Taurean Prince",
    "Duncan Robinson"
   ],
   "ques": [],
-  "doubt": [
-   "Ronald Holland"
-  ],
+  "doubt": [],
   "prob": []
  },
  "ORL": {
@@ -145,12 +144,14 @@
   "out": [
    "Grant Nelson"
   ],
-  "ques": [],
+  "ques": [
+   "Nolan Traore"
+  ],
   "doubt": [],
   "prob": []
  },
  "WSH": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Trae Young",
    "Kyshawn George",
@@ -161,17 +162,16 @@
   "out": [
    "Reece Beekman",
    "Justin Champagnie",
+   "Felix Okpara",
    "Tristan Vukcevic",
    "Jamir Watkins"
   ],
-  "ques": [
-   "Felix Okpara"
-  ],
+  "ques": [],
   "doubt": [],
   "prob": []
  },
  "CHI": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Josh Giddey",
    "Norman Powell",
@@ -188,11 +188,11 @@
   "prob": []
  },
  "NO": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Jeremiah Fears",
-   "Trey Murphy",
    "Saddiq Bey",
+   "Herbert Jones",
    "Zion Williamson",
    "Yves Missi"
   ],
@@ -207,7 +207,7 @@
   "prob": []
  },
  "OKC": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Shai Gilgeous-Alexander",
    "Jared McCain",
@@ -228,7 +228,7 @@
   "prob": []
  },
  "PHX": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Devin Booker",
    "Jalen Green",
@@ -244,7 +244,7 @@
   "prob": []
  },
  "UTAH": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Keyonte George",
    "Darryn Peterson",
@@ -273,10 +273,7 @@
   "out": [
    "Clint Capela"
   ],
-  "ques": [
-   "Steven Adams",
-   "Alperen Sengun"
-  ],
+  "ques": [],
   "doubt": [],
   "prob": []
  },
@@ -310,9 +307,7 @@
    "Precious Achiuwa",
    "Maxime Raynaud"
   ],
-  "ques": [
-   "De'Andre Hunter"
-  ],
+  "ques": [],
   "doubt": [],
   "prob": []
  },
