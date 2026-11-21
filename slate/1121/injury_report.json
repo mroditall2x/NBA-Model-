@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-21T16:22:34.107096+00:00",
+ "checked": "2026-11-21T17:22:30.761059+00:00",
  "games": {
   "MIL@PHI": [
    {
@@ -7,6 +7,12 @@
     "team": "MIL",
     "status": "Out",
     "note": "Dieng will undergo a procedure to repair a fractured left finger Monday, Justin Garcia of the Milwaukee Bucks Radio Network reports."
+   },
+   {
+    "player": "Tyrese Maxey",
+    "team": "PHI",
+    "status": "Day-To-Day",
+    "note": "Maxey (foot) will be a true game-time decision for Saturday's game against the Bucks, head coach Nick Nurse told Ky Carlin of USA Today."
    },
    {
     "player": "Dominick Barlow",
@@ -19,12 +25,6 @@
     "team": "PHI",
     "status": "Out",
     "note": "Wade (hamstring) won't play Saturday against the Bucks."
-   },
-   {
-    "player": "Tyrese Maxey",
-    "team": "PHI",
-    "status": "Day-To-Day",
-    "note": "Maxey (foot) is questionable for Saturday's game against the Bucks."
    },
    {
     "player": "Adem Bona",
@@ -47,6 +47,12 @@
   ],
   "POR@NY": [
    {
+    "player": "OG Anunoby",
+    "team": "NY",
+    "status": "Day-To-Day",
+    "note": "Anunoby (calf) has been downgraded to doubtful for Saturday's game against the Trail Bllazers."
+   },
+   {
     "player": "Karl-Anthony Towns",
     "team": "NY",
     "status": "Day-To-Day",
@@ -57,12 +63,6 @@
     "team": "NY",
     "status": "Out",
     "note": "Clarkson (foot) won't play in Saturday's game against Portland."
-   },
-   {
-    "player": "OG Anunoby",
-    "team": "NY",
-    "status": "Day-To-Day",
-    "note": "Anunoby (calf) is questionable for Saturday's game against Portland."
    },
    {
     "player": "Chris Youngblood",
