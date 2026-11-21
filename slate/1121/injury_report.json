@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-21T19:22:30.301228+00:00",
+ "checked": "2026-11-21T20:22:34.116391+00:00",
  "games": {
   "MIL@PHI": [
    {
@@ -85,16 +85,16 @@
   ],
   "LAC@DAL": [
    {
+    "player": "P.J. Washington",
+    "team": "DAL",
+    "status": "Day-To-Day",
+    "note": "Washington (illness/shoulder) has been downgraded from questionable to doubtful ahead of Saturday's game against the Clippers."
+   },
+   {
     "player": "Tobi Lawal",
     "team": "DAL",
     "status": "Out",
     "note": "Lawal (groin) is out for Saturday's game against the Clippers."
-   },
-   {
-    "player": "P.J. Washington",
-    "team": "DAL",
-    "status": "Day-To-Day",
-    "note": "Washington (shoulder) is listed as questionable for Saturday's game versus the Clippers."
    },
    {
     "player": "Walter Clayton Jr.",
