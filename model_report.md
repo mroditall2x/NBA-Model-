@@ -1,8 +1,8 @@
 # Model error report
 
-_Updated 2026-11-21 01:45 CT. 330 graded picks with a model probability (2026-10-21 to 2026-11-20). Report only: nothing here changes the model._
+_Updated 2026-11-21 23:39 CT. 342 graded picks with a model probability (2026-10-21 to 2026-11-21). Report only: nothing here changes the model._
 
-**Overall:** model said 66.6%, picks hit 59.1% (195-135). z = -3.0 -> LIKELY REAL (model too high).
+**Overall:** model said 66.3%, picks hit 58.5% (200-142). z = -3.1 -> LIKELY REAL (model too high).
 
 _How to read: `gap` = actual minus what the model said. `z` says whether the gap is bigger than luck would explain for that many picks. Only LIKELY REAL rows are worth acting on, and only after the out-of-sample check._
 
@@ -10,8 +10,8 @@ _How to read: `gap` = actual minus what the model said. `z` says whether the gap
 
 | model p | n | model_says | actual | gap | z | read |
 |---|---|---|---|---|---|---|
-| <55% | 7 | 53.8% | 28.6% | -25.2% | -1.3 | watch (running cold) |
-| 55-60% | 95 | 58.1% | 57.9% | -0.2% | -0.0 | noise |
+| <55% | 13 | 54.0% | 30.8% | -23.2% | -1.7 | watch (running cold) |
+| 55-60% | 101 | 58.0% | 57.4% | -0.6% | -0.1 | noise |
 | 60-65% | 105 | 62.4% | 45.7% | -16.7% | -3.5 | LIKELY REAL (model too high) |
 | 65-70% | 40 | 67.0% | 50.0% | -17.0% | -2.3 | LIKELY REAL (model too high) |
 | 70-80% | 16 | 73.1% | 62.5% | -10.6% | -1.0 | noise |
@@ -21,36 +21,36 @@ _How to read: `gap` = actual minus what the model said. `z` says whether the gap
 
 | stat | n | model_says | actual | gap | z | read |
 |---|---|---|---|---|---|---|
-| REB | 60 | 65.3% | 48.3% | -17.0% | -2.8 | LIKELY REAL (model too high) |
-| 3PM | 65 | 63.1% | 49.2% | -13.9% | -2.3 | LIKELY REAL (model too high) |
+| REB | 62 | 65.0% | 46.8% | -18.2% | -3.1 | LIKELY REAL (model too high) |
+| 3PM | 67 | 63.0% | 49.3% | -13.8% | -2.4 | LIKELY REAL (model too high) |
 | PA | 10 | 71.4% | 50.0% | -21.4% | -1.6 | watch (running cold) |
-| AST | 93 | 65.1% | 60.2% | -4.9% | -1.0 | watch (running cold) |
+| AST | 94 | 65.0% | 60.6% | -4.4% | -0.9 | noise |
+| PTS | 12 | 67.3% | 58.3% | -8.9% | -0.7 | noise |
 | SB | 13 | 75.0% | 69.2% | -5.8% | -0.5 | noise |
-| PTS | 9 | 71.5% | 66.7% | -4.9% | -0.3 | noise |
+| PR | 20 | 74.6% | 75.0% | +0.4% | 0.0 | noise |
 | PRA | 10 | 78.5% | 80.0% | +1.5% | 0.1 | noise |
-| PR | 18 | 77.0% | 77.8% | +0.8% | 0.1 | noise |
-| RA | 42 | 64.5% | 69.0% | +4.6% | 0.6 | noise |
+| RA | 44 | 64.0% | 68.2% | +4.2% | 0.6 | noise |
 
 ## 3. Over vs Under
 
 | side | n | model_says | actual | gap | z | read |
 |---|---|---|---|---|---|---|
-| Less | 221 | 62.2% | 49.3% | -12.8% | -4.0 | LIKELY REAL (model too high) |
-| More | 104 | 75.2% | 77.9% | +2.6% | 0.6 | noise |
+| Less | 231 | 61.8% | 48.9% | -12.9% | -4.1 | LIKELY REAL (model too high) |
+| More | 106 | 75.0% | 77.4% | +2.4% | 0.6 | noise |
 
 ## 4. Stat + side
 
 | stat_side | n | model_says | actual | gap | z | read |
 |---|---|---|---|---|---|---|
-| REB Less | 45 | 61.2% | 42.2% | -19.0% | -2.6 | LIKELY REAL (model too high) |
+| REB Less | 47 | 61.0% | 40.4% | -20.5% | -2.9 | LIKELY REAL (model too high) |
 | 3PM Less | 51 | 62.7% | 47.1% | -15.6% | -2.3 | LIKELY REAL (model too high) |
-| AST Less | 67 | 62.4% | 50.7% | -11.6% | -2.0 | watch (running cold) |
+| AST Less | 68 | 62.3% | 51.5% | -10.8% | -1.8 | watch (running cold) |
 | REB More | 14 | 77.1% | 64.3% | -12.8% | -1.2 | watch (running cold) |
-| 3PM More | 14 | 64.8% | 57.1% | -7.6% | -0.6 | noise |
+| 3PM More | 16 | 64.2% | 56.2% | -7.9% | -0.7 | noise |
 | PR More | 12 | 84.4% | 83.3% | -1.1% | -0.1 | noise |
 | RA More | 10 | 71.5% | 70.0% | -1.5% | -0.1 | noise |
 | PRA More | 8 | 82.5% | 87.5% | +5.0% | 0.4 | noise |
-| RA Less | 30 | 60.6% | 66.7% | +6.0% | 0.7 | noise |
+| RA Less | 32 | 60.3% | 65.6% | +5.4% | 0.6 | noise |
 | AST More | 25 | 71.7% | 84.0% | +12.3% | 1.4 | watch (running hot) |
 | SB More | 8 | 79.0% | 100.0% | +21.0% | 1.5 | watch (running hot) |
 
@@ -58,7 +58,7 @@ _How to read: `gap` = actual minus what the model said. `z` says whether the gap
 
 | tier | n | model_says | actual | gap | z | read |
 |---|---|---|---|---|---|---|
-| standard | 170 | 61.1% | 45.3% | -15.8% | -4.2 | LIKELY REAL (model too high) |
+| standard | 182 | 60.8% | 45.1% | -15.7% | -4.3 | LIKELY REAL (model too high) |
 | extra-line | 15 | 65.6% | 46.7% | -19.0% | -1.6 | watch (running cold) |
 | 62-65 | 14 | 63.4% | 50.0% | -13.4% | -1.0 | watch (running cold) |
 | 65-70 | 14 | 67.4% | 57.1% | -10.2% | -0.8 | noise |
@@ -72,10 +72,10 @@ _How to read: `gap` = actual minus what the model said. `z` says whether the gap
 
 | line_size | n | model_says | actual | gap | z | read |
 |---|---|---|---|---|---|---|
-| 3-6.5 | 105 | 65.3% | 56.2% | -9.1% | -2.0 | LIKELY REAL (model too high) |
-| 7-15.5 | 59 | 66.3% | 55.9% | -10.4% | -1.7 | watch (running cold) |
-| 0.5-2.5 | 141 | 66.7% | 60.3% | -6.4% | -1.6 | watch (running cold) |
-| 16+ | 25 | 72.7% | 72.0% | -0.7% | -0.1 | noise |
+| 3-6.5 | 108 | 65.0% | 55.6% | -9.5% | -2.1 | LIKELY REAL (model too high) |
+| 7-15.5 | 63 | 65.6% | 54.0% | -11.6% | -2.0 | watch (running cold) |
+| 0.5-2.5 | 143 | 66.6% | 60.1% | -6.5% | -1.7 | watch (running cold) |
+| 16+ | 28 | 70.7% | 71.4% | +0.8% | 0.1 | noise |
 
 ## 7. Projection bias (projected mean vs what happened)
 
@@ -83,21 +83,21 @@ _Positive miss = players beat the projection (model too low). Only players the m
 
 | stat | n | avg_projection | avg_actual | miss | beat_projection | z | read |
 |---|---|---|---|---|---|---|---|
-| 3PM | 55 | 1.51 | 2.15 | +0.64 | 53% | 2.6 | LIKELY REAL (projects too low) |
-| AST | 69 | 3.17 | 4.22 | +1.04 | 55% | 3.0 | LIKELY REAL (projects too low) |
+| 3PM | 57 | 1.52 | 2.12 | +0.60 | 53% | 2.5 | LIKELY REAL (projects too low) |
+| AST | 70 | 3.21 | 4.23 | +1.02 | 54% | 2.9 | LIKELY REAL (projects too low) |
 | PA | 10 | 15.62 | 19.7 | +4.08 | 60% | 1.2 | watch (projects too low) |
-| PR | 16 | 18.42 | 19.75 | +1.33 | 50% | 0.6 | noise |
+| PR | 18 | 18.39 | 19.89 | +1.50 | 50% | 0.8 | noise |
 | PRA | 10 | 21.8 | 24.3 | +2.50 | 60% | 1.2 | watch (projects too low) |
-| PTS | 14 | 12.24 | 12.14 | -0.10 | 43% | -0.1 | noise |
-| RA | 47 | 7.96 | 8.81 | +0.85 | 60% | 1.8 | watch (projects too low) |
-| REB | 48 | 5.09 | 5.96 | +0.87 | 65% | 2.2 | LIKELY REAL (projects too low) |
+| PTS | 17 | 12.43 | 12.76 | +0.34 | 47% | 0.2 | noise |
+| RA | 49 | 8.09 | 8.92 | +0.83 | 59% | 1.9 | watch (projects too low) |
+| REB | 50 | 5.03 | 5.98 | +0.95 | 66% | 2.4 | LIKELY REAL (projects too low) |
 | STL | 8 | 0.65 | 0.88 | +0.23 | 62% | 0.8 | noise |
 
 ## 8. Price check (card picks with a real book price)
 
-- 141 priced picks: hit 44.0% vs average break-even 60.6% (average price -157).
-- Model's own EV was **negative at the posted price on 82 of 141** (those went 41-41, -16.84u). The card ranks by chance, not price, so heavy-juice Unders (e.g. 3PM Unders at -180 to -240) make the card even when the price eats the edge.
-- Picks the model rated +EV at the price went 21-38, -23.13u.
+- 153 priced picks: hit 43.8% vs average break-even 60.3% (average price -156).
+- Model's own EV was **negative at the posted price on 93 of 153** (those went 46-47, -19.21u). The card ranks by chance, not price, so heavy-juice Unders (e.g. 3PM Unders at -180 to -240) make the card even when the price eats the edge.
+- Picks the model rated +EV at the price went 21-39, -24.13u.
 
 ## 9. Players picked 4+ times
 
@@ -113,27 +113,30 @@ _Small samples: treat as a heads-up, not a rule._
 | Myles Turner | 6 | 68.3% | 50.0% | -18.3% | -1.0 | noise |
 | Devin Booker | 7 | 70.6% | 57.1% | -13.4% | -0.8 | noise |
 | P.J. Washington | 4 | 65.1% | 50.0% | -15.1% | -0.7 | noise |
-| Naji Marshall | 4 | 60.7% | 50.0% | -10.7% | -0.4 | noise |
-| Kyle Kuzma | 5 | 67.5% | 60.0% | -7.5% | -0.4 | noise |
+| De'Andre Hunter | 6 | 59.3% | 50.0% | -9.3% | -0.5 | noise |
 | Tre Johnson | 4 | 59.2% | 50.0% | -9.2% | -0.4 | noise |
+| Kyle Kuzma | 5 | 67.5% | 60.0% | -7.5% | -0.4 | noise |
+| Naji Marshall | 4 | 60.7% | 50.0% | -10.7% | -0.4 | noise |
+| Zach LaVine | 4 | 60.5% | 50.0% | -10.5% | -0.4 | noise |
+| Jordan Poole | 4 | 58.2% | 50.0% | -8.2% | -0.3 | noise |
 | Kevin Durant | 4 | 57.7% | 50.0% | -7.7% | -0.3 | noise |
 | Karl-Anthony Towns | 6 | 71.4% | 66.7% | -4.7% | -0.3 | noise |
-| Jordan Poole | 4 | 58.2% | 50.0% | -8.2% | -0.3 | noise |
 | Isaiah Jackson | 8 | 62.1% | 62.5% | +0.4% | 0.0 | noise |
+| Jalen Brunson | 4 | 72.1% | 75.0% | +2.9% | 0.1 | noise |
 | Ace Bailey | 4 | 72.2% | 75.0% | +2.8% | 0.1 | noise |
 | Brandin Podziemski | 4 | 60.6% | 75.0% | +14.4% | 0.6 | noise |
-| Jamal Murray | 4 | 78.4% | 100.0% | +21.6% | 1.1 | watch (running hot) |
 | Dyson Daniels | 4 | 76.5% | 100.0% | +23.5% | 1.1 | watch (running hot) |
 | Jayson Tatum | 4 | 78.4% | 100.0% | +21.6% | 1.1 | watch (running hot) |
+| Jamal Murray | 4 | 78.4% | 100.0% | +21.6% | 1.1 | watch (running hot) |
 | Stephon Castle | 4 | 70.9% | 100.0% | +29.1% | 1.3 | watch (running hot) |
 | Dillon Brooks | 8 | 68.3% | 100.0% | +31.7% | 2.0 | watch (running hot) |
 
 ## 10. Out-of-sample check (calibration)
 
-Fit on the oldest 230 picks (2026-10-21 to 2026-11-09), tested on the newest 100 (2026-11-09 to 2026-11-20) that the fit never saw.
+Fit on the oldest 239 picks (2026-10-21 to 2026-11-09), tested on the newest 103 (2026-11-10 to 2026-11-21) that the fit never saw.
 
 - Best extra shrink on the old picks: x0.9 (1.0 = keep the current probabilities).
-- Log loss on the new picks: current 0.7158, with x0.9: 0.7117 (lower is better).
+- Log loss on the new picks: current 0.7199, with x0.9: 0.7156 (lower is better).
 - **Does not pass: keep the current calibration.**
 
 ## Rules
