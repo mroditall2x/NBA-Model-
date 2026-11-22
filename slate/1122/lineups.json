@@ -41,14 +41,15 @@
  "OKC": {
   "status": "expected",
   "starters": [
-   "Shai Gilgeous-Alexander",
-   "Jared McCain",
    "Ajay Mitchell",
+   "Jared McCain",
+   "Kenrich Williams",
    "Aday Mara",
    "Isaiah Hartenstein"
   ],
   "out": [
    "Alex Caruso",
+   "Shai Gilgeous-Alexander",
    "Chet Holmgren",
    "Thomas Sorber",
    "Nikola Topic",
@@ -56,9 +57,7 @@
    "Jalen Williams",
    "Jaylin Williams"
   ],
-  "ques": [
-   "Shai Gilgeous-Alexander"
-  ],
+  "ques": [],
   "doubt": [],
   "prob": []
  },
@@ -68,13 +67,13 @@
    "Davion Mitchell",
    "Klay Thompson",
    "Pelle Larsson",
-   "Giannis Antetokounmpo",
+   "Andrew Wiggins",
    "Bam Adebayo"
   ],
-  "out": [],
-  "ques": [
+  "out": [
    "Giannis Antetokounmpo"
   ],
+  "ques": [],
   "doubt": [],
   "prob": []
  },
@@ -110,10 +109,7 @@
   ],
   "ques": [],
   "doubt": [],
-  "prob": [
-   "Jalen Smith",
-   "Patrick Williams"
-  ]
+  "prob": []
  },
  "DAL": {
   "status": "expected",

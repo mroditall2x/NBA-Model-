@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-22T21:22:34.990227+00:00",
+ "checked": "2026-11-22T22:22:32.074749+00:00",
  "games": {
   "DET@ATL": [
    {
@@ -61,14 +61,14 @@
    {
     "player": "Giannis Antetokounmpo",
     "team": "MIA",
-    "status": "Day-To-Day",
-    "note": "Antetokounmpo (groin) is listed as questionable for Sunday's game against Oklahoma City, Ira Winderman of the South Florida Sun Sentinel reports."
+    "status": "Out",
+    "note": "Antetokounmpo (groin) won't play in Sunday's game against Oklahoma City, Clemente Almanza of USA Today reports."
    },
    {
     "player": "Shai Gilgeous-Alexander",
     "team": "OKC",
-    "status": "Day-To-Day",
-    "note": "Gilgeous-Alexander (back/neck) is listed as questionable for Sunday's game versus Miami."
+    "status": "Out",
+    "note": "Gilgeous-Alexander (back/neck) is listed as out for Sunday's game against the Heat."
    },
    {
     "player": "Nikola Topic",
@@ -121,22 +121,10 @@
     "note": "Claxton (illness) won't play in Sunday's game against the Nuggets."
    },
    {
-    "player": "Jalen Smith",
-    "team": "CHI",
-    "status": "Day-To-Day",
-    "note": "Smith (illness) has been upgraded to probable for Sunday's game against the Nuggets."
-   },
-   {
     "player": "Norman Powell",
     "team": "CHI",
     "status": "Out",
     "note": "Powell has been diagnosed with a mild right hamstring strain and will be re-evaluated later this week."
-   },
-   {
-    "player": "Patrick Williams",
-    "team": "CHI",
-    "status": "Day-To-Day",
-    "note": "Williams is probable for Sunday's game against the Nuggets due to a left thumb sprain."
    },
    {
     "player": "Caleb Wilson",
