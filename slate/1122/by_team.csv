@@ -1,6 +1,7 @@
 game,team,player,stat,line,side,p,mean,min,grade,where
-DET@ATL,ATL,Aaron Wiggins,AST,1.5,More,0.602,2.43,29.4,card,Kalshi / Underdog
-DET@ATL,ATL,Jalen Johnson,PTS,20.5,More,0.554,22.77,36.8,lean,PrizePicks / Underdog
+DET@ATL,ATL,Jalen Johnson,RA,16.5,Less,0.557,15.59,34.3,lean,PrizePicks / Underdog
+DET@ATL,ATL,Onyeka Okongwu,REB,7.5,More,0.55,8.39,33.5,lean,PrizePicks / Underdog
+DET@ATL,ATL,Dyson Daniels,AST,5.5,Less,0.517,5.54,33.7,lean,Kalshi / Underdog
 BOS@GS,BOS,Payton Pritchard,REB,2.5,More,0.592,3.55,30.7,card,Kalshi / Underdog
 BOS@GS,BOS,Sam Hauser,3PM,2.5,Less,0.585,2.15,22.3,card,Kalshi / Underdog
 BOS@GS,BOS,Derrick White,AST,5.5,Less,0.58,4.88,32.2,lean,PrizePicks / Underdog
@@ -9,11 +10,10 @@ DEN@CHI,CHI,Isaac Okoro,RA,4.5,More,0.544,5.29,30.8,lean,Kalshi / Underdog
 DEN@CHI,CHI,Jalen Smith,3PM,1.5,More,0.535,2.05,26.7,lean,PrizePicks / Underdog
 DAL@UTAH,DAL,Cooper Flagg,AST,6.5,Less,0.59,5.69,33.7,lean,PrizePicks / Underdog
 DAL@UTAH,DAL,Naji Marshall,RA,7.5,Less,0.588,6.6,24.2,card,PrizePicks / Underdog
-DAL@UTAH,DAL,P.J. Washington,PA,14.5,Less,0.536,14.21,29.0,lean,Kalshi / Underdog
 DEN@CHI,DEN,Aaron Gordon,3PM,1.5,Less,0.561,1.42,29.1,lean,Kalshi / Underdog
 DEN@CHI,DEN,Christian Braun,PR,18.5,Less,0.542,17.88,33.4,lean,PrizePicks / Underdog
-DET@ATL,DET,Kevin Huerter,AST,3.5,Less,0.58,3.06,32.1,lean,Kalshi / Underdog
-DET@ATL,DET,Daniss Jenkins,REB,3.5,More,0.564,4.4,33.7,lean,PrizePicks / Underdog
+DET@ATL,DET,John Collins,3PM,1.5,Less,0.614,1.14,28.0,lean,Kalshi / Underdog
+DET@ATL,DET,Ausar Thompson,PA,16.5,Less,0.553,15.62,29.4,lean,PrizePicks / Underdog
 BOS@GS,GS,Gui Santos,AST,2.5,Less,0.61,1.98,21.0,card,Kalshi / Underdog
 BOS@GS,GS,Brandin Podziemski,AST,4.5,Less,0.603,3.75,33.7,lean,PrizePicks / Underdog
 BOS@GS,GS,Will Richard,PR,10.5,Less,0.564,9.73,23.1,lean,PrizePicks / Underdog
@@ -30,7 +30,7 @@ ORL@WSH,ORL,Goga Bitadze,PRA,11.5,Less,0.575,10.5,13.9,lean,PrizePicks / Underdo
 ORL@WSH,ORL,Wendell Carter Jr,RA,10.5,Less,0.559,9.89,31.5,lean,PrizePicks / Underdog
 ORL@WSH,ORL,Tristan da Silva,RA,5.5,Less,0.54,5.31,26.3,lean,Kalshi / Underdog
 DAL@UTAH,UTAH,Keyonte George,REB,3.5,More,0.58,4.52,35.6,lean,PrizePicks / Underdog
-DAL@UTAH,UTAH,Brice Sensabaugh,PRA,18.5,Less,0.514,18.92,21.7,lean,PrizePicks / Underdog
+DAL@UTAH,UTAH,Brice Sensabaugh,PA,14.5,Less,0.514,14.95,21.7,lean,Kalshi / Underdog
 DAL@UTAH,UTAH,Ace Bailey,PA,16.5,Less,0.513,16.84,30.2,lean,PrizePicks / Underdog
 ORL@WSH,WSH,Alex Sarr,3PM,1.5,Less,0.636,1.02,24.2,lean,Kalshi / Underdog
 ORL@WSH,WSH,Trae Young,3PM,2.5,Less,0.589,2.11,31.2,lean,Kalshi / Underdog

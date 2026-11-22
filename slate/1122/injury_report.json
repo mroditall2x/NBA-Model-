@@ -1,13 +1,7 @@
 {
- "checked": "2026-11-22T18:22:31.451567+00:00",
+ "checked": "2026-11-22T19:22:30.919399+00:00",
  "games": {
   "DET@ATL": [
-   {
-    "player": "Kingston Flemings",
-    "team": "ATL",
-    "status": "Out",
-    "note": "Flemings (back) is questionable to play Sunday against the Pistons."
-   },
    {
     "player": "Jock Landale",
     "team": "ATL",
@@ -37,12 +31,6 @@
     "team": "ATL",
     "status": "Out",
     "note": "Veesaar was diagnosed with a torn right ACL and is expected to miss the 2026-27 season, the Hawks announced Monday."
-   },
-   {
-    "player": "Ronald Holland II",
-    "team": "DET",
-    "status": "Out",
-    "note": "Holland (knee) is listed as questionable for Sunday's game against Atlanta."
    },
    {
     "player": "Ebuka Okorie",
@@ -180,13 +168,19 @@
     "player": "P.J. Washington",
     "team": "DAL",
     "status": "Day-To-Day",
-    "note": "Washington (illness/shoulder) is listed as out for Saturday's game against the Clippers."
+    "note": "Washington (illness) is doubtful to play Sunday's game against the Jazz."
+   },
+   {
+    "player": "Walter Clayton Jr.",
+    "team": "DAL",
+    "status": "Day-To-Day",
+    "note": "Clayton (knee) is listed as questionable for Sunday's game against the Jazz."
    },
    {
     "player": "Tobi Lawal",
     "team": "DAL",
-    "status": "Day-To-Day",
-    "note": "Lawal (groin) is out for Saturday's game against the Clippers."
+    "status": "Out",
+    "note": "Lawal (groin) has been ruled out for Sunday's game against the Jazz."
    },
    {
     "player": "Dereck Lively II",
@@ -251,6 +245,12 @@
     "note": "Banchero is expected to be sidelined for the next four-to-six weeks due to a right high-ankle sprain, Shams Charania of ESPN reports."
    },
    {
+    "player": "Bub Carrington",
+    "team": "WSH",
+    "status": "Day-To-Day",
+    "note": "Carrington (illness) has been downgraded to questionable for Sunday's game against the Magic."
+   },
+   {
     "player": "Deandre Ayton",
     "team": "WSH",
     "status": "Day-To-Day",
@@ -313,16 +313,16 @@
     "note": "Head coach Rick Carlise confirmed Sheppard will miss \"months\" after undergoing surgery to repair a torn meniscus in his left knee, Tony East of Forbes.com reports."
    },
    {
+    "player": "OG Anunoby",
+    "team": "NY",
+    "status": "Out",
+    "note": "Anunoby (calf) won't play Sunday against the Pacers."
+   },
+   {
     "player": "Karl-Anthony Towns",
     "team": "NY",
     "status": "Day-To-Day",
     "note": "Towns (illness) is questionable to play in Sunday's game against the Pacers."
-   },
-   {
-    "player": "OG Anunoby",
-    "team": "NY",
-    "status": "Out",
-    "note": "Anunoby (calf) has been ruled out for Saturday's game against the Trail Blazers."
    },
    {
     "player": "Jordan Clarkson",
