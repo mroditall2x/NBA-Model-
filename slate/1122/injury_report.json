@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-22T22:22:32.074749+00:00",
+ "checked": "2026-11-22T23:22:27.009606+00:00",
  "games": {
   "DET@ATL": [
    {
@@ -35,7 +35,7 @@
    {
     "player": "Ebuka Okorie",
     "team": "DET",
-    "status": "Out",
+    "status": "Day-To-Day",
     "note": "Okorie (oblique) is out for Sunday's game in Atlanta."
    },
    {
@@ -63,6 +63,12 @@
     "team": "MIA",
     "status": "Out",
     "note": "Antetokounmpo (groin) won't play in Sunday's game against Oklahoma City, Clemente Almanza of USA Today reports."
+   },
+   {
+    "player": "Aday Mara",
+    "team": "OKC",
+    "status": "Out",
+    "note": "Mara (shin) is listed as out for Sunday's game versus Miami."
    },
    {
     "player": "Shai Gilgeous-Alexander",
@@ -143,14 +149,8 @@
    {
     "player": "P.J. Washington",
     "team": "DAL",
-    "status": "Day-To-Day",
-    "note": "Washington (illness) is doubtful to play Sunday's game against the Jazz."
-   },
-   {
-    "player": "Walter Clayton Jr.",
-    "team": "DAL",
-    "status": "Day-To-Day",
-    "note": "Clayton (knee) is listed as questionable for Sunday's game against the Jazz."
+    "status": "Out",
+    "note": "Washington (illness) has been ruled out for Sunday's game against the Jazz."
    },
    {
     "player": "Tobi Lawal",
@@ -219,18 +219,6 @@
     "team": "ORL",
     "status": "Out",
     "note": "Banchero is expected to be sidelined for the next four-to-six weeks due to a right high-ankle sprain, Shams Charania of ESPN reports."
-   },
-   {
-    "player": "Bub Carrington",
-    "team": "WSH",
-    "status": "Day-To-Day",
-    "note": "Carrington (illness) has been downgraded to questionable for Sunday's game against the Magic."
-   },
-   {
-    "player": "Deandre Ayton",
-    "team": "WSH",
-    "status": "Day-To-Day",
-    "note": "Ayton (illness) is questionable to play in Sunday's game against Orlando."
    },
    {
     "player": "Tristan Vukcevic",
