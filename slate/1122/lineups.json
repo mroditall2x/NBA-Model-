@@ -39,18 +39,19 @@
   "prob": []
  },
  "OKC": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Ajay Mitchell",
    "Jared McCain",
+   "Micah Peavy",
    "Kenrich Williams",
-   "Aday Mara",
    "Isaiah Hartenstein"
   ],
   "out": [
    "Alex Caruso",
    "Shai Gilgeous-Alexander",
    "Chet Holmgren",
+   "Aday Mara",
    "Thomas Sorber",
    "Nikola Topic",
    "Cason Wallace",
@@ -62,12 +63,12 @@
   "prob": []
  },
  "MIA": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Davion Mitchell",
    "Klay Thompson",
    "Pelle Larsson",
-   "Andrew Wiggins",
+   "Bobby Portis",
    "Bam Adebayo"
   ],
   "out": [
@@ -124,14 +125,11 @@
    "Tarik Biberovic",
    "Sergio de Larrea",
    "Tobi Lawal",
-   "Dereck Lively"
-  ],
-  "ques": [
-   "Walter Clayton"
-  ],
-  "doubt": [
+   "Dereck Lively",
    "P.J. Washington"
   ],
+  "ques": [],
+  "doubt": [],
   "prob": []
  },
  "UTAH": {
