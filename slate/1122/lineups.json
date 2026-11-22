@@ -197,7 +197,10 @@
    "Tristan Vukcevic",
    "Jamir Watkins"
   ],
-  "ques": [],
+  "ques": [
+   "Deandre Ayton",
+   "Bub Carrington"
+  ],
   "doubt": [],
   "prob": []
  },
@@ -226,15 +229,16 @@
   "status": "expected",
   "starters": [
    "Jalen Brunson",
+   "Landry Shamet",
    "Mikal Bridges",
    "Josh Hart",
-   "OG Anunoby",
    "Karl-Anthony Towns"
   ],
-  "out": [],
-  "ques": [
+  "out": [
    "OG Anunoby",
-   "Jordan Clarkson",
+   "Jordan Clarkson"
+  ],
+  "ques": [
    "Karl-Anthony Towns"
   ],
   "doubt": [],
