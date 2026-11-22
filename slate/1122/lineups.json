@@ -1,6 +1,6 @@
 {
  "DET": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Cade Cunningham",
    "Daniss Jenkins",
@@ -16,12 +16,10 @@
   ],
   "ques": [],
   "doubt": [],
-  "prob": [
-   "Cade Cunningham"
-  ]
+  "prob": []
  },
  "ATL": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Kingston Flemings",
    "Nickeil Alexander-Walker",
@@ -108,12 +106,11 @@
    "Jalen Smith"
   ],
   "out": [
+   "Nic Claxton",
    "Norman Powell",
    "Caleb Wilson"
   ],
-  "ques": [
-   "Nic Claxton"
-  ],
+  "ques": [],
   "doubt": [],
   "prob": [
    "Jalen Smith",
