@@ -1,0 +1,13 @@
+game,team,player,combo,chance,fair_odds,min,min_bump,why,avg,size,special
+ORL@WSH,WSH,Anthony Davis,20+ pts & 11+ reb,0.176,+470,32.4,6.0,+6 min,9.2 reb / 2.1 ast / 20.8 pts,31,True
+OKC@MIA,OKC,Aday Mara,10+ pts & 10+ reb,0.164,+510,26.2,5.1,Jalen Williams out; +5 min,8.1 reb / 2.1 ast / 10.3 pts,20,True
+DEN@CHI,CHI,Jalen Smith,15+ pts & 9+ reb,0.158,+531,26.7,0.8,"Caleb Wilson, Norman Powell out",7.5 reb / 1.8 ast / 13.6 pts,24,True
+OKC@MIA,MIA,Davion Mitchell,15+ pts & 9+ ast,0.157,+538,35.5,5.0,+5 min,3.0 reb / 8.1 ast / 13.0 pts,24,True
+IND@NY,IND,Andrew Nembhard,15+ pts & 8+ ast,0.154,+549,29.5,1.7,Tyrese Haliburton out,2.4 reb / 7.0 ast / 12.8 pts,23,True
+OKC@MIA,OKC,Isaiah Hartenstein,10+ pts & 14+ reb,0.141,+609,29.6,-3.1,Jalen Williams out,11.7 reb / 4.2 ast / 9.4 pts,24,True
+BOS@GS,GS,De'Anthony Melton,15+ pts & 3+ ast,0.135,+639,25.0,-3.6,Stephen Curry out,3.5 reb / 2.6 ast / 11.5 pts,18,True
+IND@NY,IND,Aaron Nesmith,15+ pts & 4+ reb,0.129,+678,28.8,3.5,Tyrese Haliburton out; +4 min,3.5 reb / 2.1 ast / 11.5 pts,19,True
+DEN@CHI,CHI,Tre Jones,20+ pts & 6+ ast,0.128,+682,28.2,0.0,"Caleb Wilson, Norman Powell out",2.9 reb / 5.2 ast / 16.0 pts,26,True
+IND@NY,NY,Josh Hart,10+ pts & 5+ ast,0.125,+698,29.0,6.3,+6 min,6.5 reb / 3.8 ast / 8.5 pts,15,True
+BOS@GS,GS,De'Anthony Melton,15+ pts & 4+ reb,0.124,+704,25.0,-3.6,Stephen Curry out,3.5 reb / 2.6 ast / 11.5 pts,19,True
+DET@ATL,ATL,Dyson Daniels,15+ pts & 9+ reb,0.122,+719,35.9,-5.1,CJ McCollum out,7.8 reb / 6.1 ast / 12.4 pts,24,True
