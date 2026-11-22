@@ -76,9 +76,7 @@
    "Giannis Antetokounmpo"
   ],
   "doubt": [],
-  "prob": [
-   "Myron Gardner"
-  ]
+  "prob": []
  },
  "DEN": {
   "status": "expected",
@@ -245,18 +243,16 @@
    "Derrick White",
    "Jordan Walsh",
    "Jayson Tatum",
-   "Paul George",
+   "Sam Hauser",
    "Neemias Queta"
   ],
-  "out": [],
-  "ques": [
-   "Mitchell Robinson",
-   "Derrick White"
+  "out": [
+   "Paul George",
+   "Mitchell Robinson"
   ],
+  "ques": [],
   "doubt": [],
-  "prob": [
-   "Jayson Tatum"
-  ]
+  "prob": []
  },
  "GS": {
   "status": "expected",

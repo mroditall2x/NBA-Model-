@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-22T20:22:33.161084+00:00",
+ "checked": "2026-11-22T21:22:34.990227+00:00",
  "games": {
   "DET@ATL": [
    {
@@ -59,12 +59,6 @@
   ],
   "OKC@MIA": [
    {
-    "player": "Myron Gardner",
-    "team": "MIA",
-    "status": "Day-To-Day",
-    "note": "Gardner (hamstring) is probable for Sunday's game against the Thunder."
-   },
-   {
     "player": "Giannis Antetokounmpo",
     "team": "MIA",
     "status": "Day-To-Day",
@@ -123,8 +117,8 @@
    {
     "player": "Nic Claxton",
     "team": "CHI",
-    "status": "Day-To-Day",
-    "note": "Claxton (illness) is questionable to play in Sunday's game against the Nuggets."
+    "status": "Out",
+    "note": "Claxton (illness) won't play in Sunday's game against the Nuggets."
    },
    {
     "player": "Jalen Smith",
@@ -327,22 +321,16 @@
   ],
   "BOS@GS": [
    {
-    "player": "Derrick White",
-    "team": "BOS",
-    "status": "Day-To-Day",
-    "note": "White (shoulder) has been ruled out for Saturday's game against Sacramento."
-   },
-   {
     "player": "Mitchell Robinson",
     "team": "BOS",
-    "status": "Day-To-Day",
-    "note": "Robinson (illness) has been ruled out for Saturday's game against the Kings, Keith Smith of Spotrac.com reports."
+    "status": "Out",
+    "note": "Robinson (illness) has been ruled out for Sunday's game against Golden State, Justin Turpin of WEEI.com reports."
    },
    {
-    "player": "Jayson Tatum",
+    "player": "Paul George",
     "team": "BOS",
-    "status": "Day-To-Day",
-    "note": "Tatum (rest) has been ruled out for Saturday's game against the Kings."
+    "status": "Out",
+    "note": "George (rest) has been ruled out for Sunday's game against Golden State, Justin Turpin of WEEI.com reports."
    },
    {
     "player": "Brandon Williams",
