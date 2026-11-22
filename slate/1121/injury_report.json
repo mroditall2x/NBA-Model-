@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-22T00:22:32.132607+00:00",
+ "checked": "2026-11-22T01:22:34.155206+00:00",
  "games": {
   "POR@NY": [
    {
@@ -152,6 +152,12 @@
    }
   ],
   "NO@SA": [
+   {
+    "player": "Zion Williamson",
+    "team": "NO",
+    "status": "Out",
+    "note": "Williamson is out for Saturday's game against the Spurs due to a left thigh contusion."
+   },
    {
     "player": "Trey Murphy III",
     "team": "NO",
