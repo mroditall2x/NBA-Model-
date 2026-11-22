@@ -1,200 +1,192 @@
 game,team,player,stat,mean,lo,hi,min,gap,flags,type,line,side,model,market,edge,p_over,o,u,vol3,where
-LAC@DAL,LAC,Keaton Wagler,AST,2.83,1,4,20.8,-8.2,minutes unclear (-8); small sample,PP standard,2.5,More,0.52,0.034,0.486,0.52,-2,-129,,PrizePicks / Underdog
-LAC@DAL,LAC,Darius Garland,AST,7.44,5,10,33.7,-1.7,lineup: starter (expected),PP standard,7.5,Less,0.534,0.552,-0.018,0.466,108,-145,,PrizePicks / Underdog
-LAC@DAL,DAL,Cooper Flagg,AST,6.12,4,8,33.7,1.7,lineup: starter (expected),PP standard,6.5,Less,0.586,0.56,0.026,0.414,112,-150,,PrizePicks / Underdog
-LAC@DAL,DAL,Kyrie Irving,AST,4.55,2,6,31.1,3.9,lineup: starter (expected),PP standard,4.5,Less,0.535,0.485,0.05,0.465,-124,-109,,PrizePicks / Underdog
-LAC@DAL,DAL,Caleb Martin,AST,1.99,1,3,19.7,6.5,minutes unclear (+6); projected starter (expected) - minutes unclear (model 20); role up (last 8: 3.1),PP standard,2.5,Less,0.677,0.528,0.149,0.323,-102,-130,,PrizePicks / Underdog
-LAC@DAL,DAL,Naji Marshall,AST,3.52,2,5,24.8,1.3,lineup: starter (expected),PP standard,3.5,Less,0.543,0.477,0.066,0.457,-129,-106,,PrizePicks / Underdog
-LAC@DAL,DAL,Kyrie Irving,PTS,21.57,14,29,31.1,3.9,lineup: starter (expected),PP standard,23.5,Less,0.612,0.511,0.101,0.388,-109,-120,,PrizePicks / Underdog
-LAC@DAL,DAL,Cooper Flagg,PTS,24.1,17,31,33.7,1.7,lineup: starter (expected),PP standard,24.5,Less,0.546,0.502,0.044,0.454,-114,-116,,PrizePicks / Underdog
-LAC@DAL,DAL,P.J. Washington,PTS,13.67,8,19,29.6,-3.8,listed doubt (RotoWire) - minutes unclear,PP standard,12.5,More,0.528,0.501,0.027,0.528,-116,-115,,PrizePicks / Underdog
-LAC@DAL,LAC,Kris Dunn,PTS,6.81,3,11,25.1,-7.8,minutes unclear (-8),book line,5.5,More,0.551,0.472,0.079,0.551,-102,-130,,Kalshi / Underdog
-LAC@DAL,DAL,Daniel Gafford,PTS,9.19,4,13,22.4,1.4,projected starter (expected) - minutes unclear (model 22),PP standard,8.5,More,0.502,0.513,-0.012,0.502,-120,-107,,PrizePicks / Underdog
-LAC@DAL,LAC,Rui Hachimura,PTS,13.91,8,20,29.8,2.3,lineup: starter (expected),PP standard,13.5,Less,0.522,0.49,0.032,0.478,-119,-109,,PrizePicks / Underdog
-LAC@DAL,LAC,Keaton Wagler,PTS,12.65,7,18,20.8,-8.2,minutes unclear (-8); small sample,PP standard,9.5,More,0.662,0.497,0.165,0.662,-113,-116,,PrizePicks / Underdog
-LAC@DAL,LAC,Brook Lopez,PTS,13.42,8,19,25.8,0.5,lineup: starter (expected),PP standard,12.5,More,0.517,0.519,-0.002,0.517,-125,-106,,PrizePicks / Underdog
-LAC@DAL,DAL,Caleb Martin,PTS,5.31,2,9,19.7,6.5,minutes unclear (+6); projected starter (expected) - minutes unclear (model 20),PP standard,5.5,Less,0.587,0.473,0.114,0.413,-130,-103,,PrizePicks / Underdog
-LAC@DAL,LAC,Darius Garland,PTS,23.16,16,30,33.7,-1.7,lineup: starter (expected),PP standard,21.5,More,0.547,0.499,0.048,0.547,-114,-115,,PrizePicks / Underdog
-LAC@DAL,DAL,Naji Marshall,PTS,12.52,7,18,24.8,1.3,lineup: starter (expected),PP standard,12.5,Less,0.539,0.527,0.012,0.461,-102,-129,,PrizePicks / Underdog
-LAC@DAL,DAL,Kyrie Irving,PA,26.12,18,34,31.1,3.9,lineup: starter (expected),PP standard,27.5,Less,0.584,0.49,0.094,0.416,-120,-110,,PrizePicks / Underdog
-LAC@DAL,DAL,Daniel Gafford,PA,10.86,6,15,22.4,1.4,projected starter (expected) - minutes unclear (model 22),PP standard,10.5,Less,0.52,0.51,0.01,0.48,-110,-120,,PrizePicks / Underdog
-LAC@DAL,DAL,P.J. Washington,PA,15.22,9,21,29.6,-3.8,listed doubt (RotoWire) - minutes unclear,PP standard,14.5,Less,0.501,0.511,-0.01,0.499,-109,-120,,PrizePicks / Underdog
-LAC@DAL,LAC,Rui Hachimura,PA,15.19,9,21,29.8,2.3,lineup: starter (expected),PP standard,15.5,Less,0.558,0.51,0.048,0.442,-110,-120,,PrizePicks / Underdog
-LAC@DAL,LAC,Darius Garland,PA,30.6,22,39,33.7,-1.7,lineup: starter (expected),PP standard,28.5,More,0.561,0.519,0.042,0.561,-125,-106,,PrizePicks / Underdog
-LAC@DAL,LAC,Brook Lopez,PA,15.26,9,21,25.8,0.5,lineup: starter (expected); role up (last 8: 20.1),PP standard,15.5,Less,0.551,0.522,0.029,0.449,-107,-130,,PrizePicks / Underdog
-LAC@DAL,DAL,Cooper Flagg,PA,30.22,22,38,33.7,1.7,lineup: starter (expected),PP standard,30.5,Less,0.536,0.081,0.455,0.464,-119,-5,,PrizePicks / Underdog
-LAC@DAL,LAC,Keaton Wagler,PA,15.49,10,21,20.8,-8.2,minutes unclear (-8); small sample,PP standard,12.5,More,0.644,0.471,0.174,0.644,-101,-130,,PrizePicks / Underdog
-LAC@DAL,DAL,Naji Marshall,PA,16.03,10,22,24.8,1.3,lineup: starter (expected),PP standard,16.5,Less,0.562,0.519,0.043,0.438,-106,-125,,PrizePicks / Underdog
-LAC@DAL,DAL,Caleb Martin,PA,7.29,3,11,19.7,6.5,minutes unclear (+6); projected starter (expected) - minutes unclear (model 20),PP standard,8.5,Less,0.656,0.498,0.158,0.344,-117,-115,,PrizePicks / Underdog
-LAC@DAL,LAC,Keaton Wagler,PR,15.93,10,21,20.8,-8.2,minutes unclear (-8); small sample,PP standard,12.5,More,0.669,0.484,0.186,0.669,-107,-123,,PrizePicks / Underdog
-LAC@DAL,DAL,Cooper Flagg,PR,30.61,22,38,33.7,1.7,lineup: starter (expected),PP standard,31.5,Less,0.559,0.5,0.059,0.441,-114,-114,,PrizePicks / Underdog
-LAC@DAL,LAC,Kris Dunn,PR,10.47,6,15,25.1,-7.8,minutes unclear (-8),book line,7.5,More,0.682,0.529,0.153,0.682,-130,-101,,Kalshi / Underdog
-LAC@DAL,LAC,Brook Lopez,PR,19.06,13,25,25.8,0.5,lineup: starter (expected),PP standard,18.5,Less,0.506,0.512,-0.006,0.494,-109,-121,,PrizePicks / Underdog
-LAC@DAL,DAL,Daniel Gafford,PR,15.06,10,20,22.4,1.4,projected starter (expected) - minutes unclear (model 22); role down (last 8: 10.6),PP standard,15.5,Less,0.566,0.5,0.066,0.434,-115,-115,,PrizePicks / Underdog
-LAC@DAL,LAC,Rui Hachimura,PR,19.2,12,25,29.8,2.3,lineup: starter (expected),PP standard,18.5,Less,0.504,0.484,0.019,0.496,-114,100,,PrizePicks / Underdog
-LAC@DAL,DAL,P.J. Washington,PR,19.94,13,26,29.6,-3.8,listed doubt (RotoWire) - minutes unclear,PP standard,18.5,More,0.536,0.52,0.015,0.536,-125,-105,,PrizePicks / Underdog
-LAC@DAL,DAL,Kyrie Irving,PR,25.48,17,33,31.1,3.9,lineup: starter (expected),PP standard,27.5,Less,0.609,0.51,0.099,0.391,-110,-120,,PrizePicks / Underdog
-LAC@DAL,LAC,Darius Garland,PR,26.04,18,34,33.7,-1.7,lineup: starter (expected),PP standard,24.5,More,0.544,0.492,0.052,0.544,-111,-119,,PrizePicks / Underdog
-LAC@DAL,DAL,Naji Marshall,PR,16.02,10,22,24.8,1.3,lineup: starter (expected),PP standard,15.5,Less,0.508,0.482,0.026,0.492,-126,-108,,PrizePicks / Underdog
-LAC@DAL,DAL,Caleb Martin,PR,8.4,4,12,19.7,6.5,minutes unclear (+6); projected starter (expected) - minutes unclear (model 20),PP standard,9.5,Less,0.637,0.484,0.153,0.363,-124,-108,,PrizePicks / Underdog
-LAC@DAL,LAC,Keaton Wagler,PRA,18.76,13,24,20.8,-8.2,minutes unclear (-8); small sample,PP standard,14.5,More,0.706,0.521,0.184,0.706,-125,-104,,PrizePicks / Underdog
-LAC@DAL,DAL,Cooper Flagg,PRA,36.73,28,45,33.7,1.7,lineup: starter (expected),PP standard,38.5,Less,0.587,0.496,0.091,0.413,-116,-112,,PrizePicks / Underdog
-LAC@DAL,LAC,Darius Garland,PRA,33.48,25,42,33.7,-1.7,lineup: starter (expected),PP standard,31.5,More,0.558,0.51,0.048,0.558,-120,-110,,PrizePicks / Underdog
-LAC@DAL,DAL,Daniel Gafford,PRA,16.74,11,22,22.4,1.4,projected starter (expected) - minutes unclear (model 22),PP standard,17.5,Less,0.584,0.524,0.059,0.416,-104,-128,,PrizePicks / Underdog
-LAC@DAL,LAC,Brook Lopez,PRA,20.9,14,27,25.8,0.5,lineup: starter (expected),PP standard,20.5,Less,0.513,0.511,0.002,0.487,-109,-120,,PrizePicks / Underdog
-LAC@DAL,DAL,P.J. Washington,PRA,21.5,15,28,29.6,-3.8,listed doubt (RotoWire) - minutes unclear,PP standard,20.5,More,0.513,0.495,0.019,0.513,-111,-116,,PrizePicks / Underdog
-LAC@DAL,LAC,Rui Hachimura,PRA,20.48,14,27,29.8,2.3,lineup: starter (expected),PP standard,20.5,Less,0.538,0.495,0.043,0.462,-117,-112,,PrizePicks / Underdog
-LAC@DAL,DAL,Kyrie Irving,PRA,30.02,21,38,31.1,3.9,lineup: starter (expected),PP standard,32.5,Less,0.618,0.51,0.108,0.382,-111,-121,,PrizePicks / Underdog
-LAC@DAL,DAL,Naji Marshall,PRA,19.54,13,26,24.8,1.3,lineup: starter (expected),PP standard,20.5,Less,0.587,0.522,0.064,0.413,-104,-126,,PrizePicks / Underdog
-LAC@DAL,DAL,Caleb Martin,PRA,10.39,6,15,19.7,6.5,minutes unclear (+6); projected starter (expected) - minutes unclear (model 20),PP standard,12.5,Less,0.69,0.513,0.177,0.31,-108,-121,,PrizePicks / Underdog
-LAC@DAL,LAC,Brook Lopez,REB,5.64,3,8,25.8,0.5,lineup: starter (expected),PP standard,5.5,Less,0.512,0.573,-0.061,0.488,118,-160,,PrizePicks / Underdog
-LAC@DAL,DAL,Daniel Gafford,REB,5.88,3,8,22.4,1.4,projected starter (expected) - minutes unclear (model 22); role down (last 8: 3.5),PP standard,6.5,Less,0.624,0.52,0.104,0.376,-105,-125,,PrizePicks / Underdog
-LAC@DAL,DAL,Kyrie Irving,REB,3.91,2,6,31.1,3.9,lineup: starter (expected),PP standard,3.5,More,0.524,0.582,-0.057,0.524,-168,122,,PrizePicks / Underdog
-LAC@DAL,DAL,P.J. Washington,REB,6.27,4,9,29.6,-3.8,listed doubt (RotoWire) - minutes unclear,PP standard,6.5,Less,0.567,0.545,0.022,0.433,105,-140,,PrizePicks / Underdog
-LAC@DAL,DAL,Cooper Flagg,REB,6.51,4,9,33.7,1.7,lineup: starter (expected),PP standard,6.5,Less,0.535,0.451,0.083,0.465,-144,106,,PrizePicks / Underdog
-LAC@DAL,DAL,Caleb Martin,REB,3.1,1,5,19.7,6.5,minutes unclear (+6); projected starter (expected) - minutes unclear (model 20),PP standard,3.5,Less,0.628,0.499,0.129,0.372,-115,-114,,PrizePicks / Underdog
-LAC@DAL,LAC,Rui Hachimura,REB,5.29,3,7,29.8,2.3,lineup: starter (expected),PP standard,4.5,More,0.588,0.559,0.029,0.588,-148,112,,PrizePicks / Underdog
-LAC@DAL,DAL,Naji Marshall,REB,3.51,2,5,24.8,1.3,lineup: starter (expected),book line,3.5,Less,0.55,0.463,0.087,0.45,-135,102,,Kalshi / Underdog
-LAC@DAL,LAC,Keaton Wagler,RA,6.11,4,8,20.8,-8.2,minutes unclear (-8); small sample,PP standard,5.5,More,0.55,0.451,0.099,0.55,106,-144,,PrizePicks / Underdog
-LAC@DAL,DAL,Naji Marshall,RA,7.02,4,10,24.8,1.3,lineup: starter (expected),PP standard,7.5,Less,0.595,0.497,0.099,0.404,-117,-114,,PrizePicks / Underdog
-LAC@DAL,LAC,Rui Hachimura,RA,6.57,4,9,29.8,2.3,lineup: starter (expected),PP standard,6.5,Less,0.52,0.51,0.01,0.48,-110,-120,,PrizePicks / Underdog
-LAC@DAL,DAL,Kyrie Irving,RA,8.46,5,11,31.1,3.9,lineup: starter (expected),PP standard,8.5,Less,0.536,0.478,0.058,0.464,-126,-104,,PrizePicks / Underdog
-LAC@DAL,DAL,P.J. Washington,RA,7.83,5,11,29.6,-3.8,listed doubt (RotoWire) - minutes unclear,PP standard,7.5,More,0.503,0.514,-0.011,0.503,-122,-108,,PrizePicks / Underdog
-LAC@DAL,DAL,Cooper Flagg,RA,12.63,9,16,33.7,1.7,lineup: starter (expected),PP standard,13.5,Less,0.602,0.529,0.073,0.398,-105,-136,,PrizePicks / Underdog
-LAC@DAL,DAL,Caleb Martin,RA,5.08,3,7,19.7,6.5,minutes unclear (+6); projected starter (expected) - minutes unclear (model 20),PP standard,6.5,Less,0.721,0.555,0.166,0.279,110,-146,,PrizePicks / Underdog
-LAC@DAL,LAC,Darius Garland,RA,10.33,7,13,33.7,-1.7,lineup: starter (expected),book line,9.5,More,0.564,0.545,0.019,0.564,-141,105,,Kalshi / Underdog
-LAC@DAL,DAL,Daniel Gafford,RA,7.55,5,10,22.4,1.4,projected starter (expected) - minutes unclear (model 22); role down (last 8: 5.1),book line,7.5,Less,0.531,0.457,0.074,0.469,-138,105,,Kalshi / Underdog
-LAC@DAL,LAC,Brook Lopez,RA,7.48,5,10,25.8,0.5,lineup: starter (expected),book line,7.5,Less,0.534,0.532,0.001,0.466,100,-132,,Kalshi / Underdog
-LAC@DAL,DAL,Kyrie Irving,3PM,2.99,1,5,31.1,3.9,lineup: starter (expected),PP standard,3.5,Less,0.642,0.581,0.06,0.358,122,-167,9.0,PrizePicks / Underdog
-LAC@DAL,LAC,Rui Hachimura,3PM,1.73,0,3,29.8,2.3,lineup: starter (expected),book line,1.5,Less,0.519,0.425,0.094,0.481,-158,121,5.3,Kalshi / Underdog
-LAC@DAL,DAL,Cooper Flagg,3PM,1.47,0,3,33.7,1.7,lineup: starter (expected),book line,1.5,Less,0.589,0.544,0.045,0.411,105,-139,4.5,Kalshi / Underdog
-LAC@DAL,LAC,Brook Lopez,3PM,1.5,0,3,25.8,0.5,lineup: starter (expected),PP standard,1.5,Less,0.58,0.502,0.078,0.42,-116,-118,4.5,PrizePicks / Underdog
-LAC@DAL,DAL,P.J. Washington,3PM,1.85,0,3,29.6,-3.8,listed doubt (RotoWire) - minutes unclear,book line,1.5,More,0.515,0.572,-0.056,0.515,-160,117,6.3,Kalshi / Underdog
-LAC@DAL,LAC,Keaton Wagler,3PM,1.47,0,3,20.8,-8.2,minutes unclear (-8); small sample,book line,1.5,Less,0.591,0.64,-0.049,0.409,158,-222,4.2,Kalshi / Underdog
-LAC@DAL,LAC,Darius Garland,3PM,2.73,1,4,33.7,-1.7,lineup: starter (expected),PP standard,2.5,Less,0.513,0.506,0.007,0.487,-114,-120,7.5,PrizePicks / Underdog
-LAC@DAL,DAL,P.J. Washington,AST,1.55,0,3,29.6,-3.8,listed doubt (RotoWire) - minutes unclear,book line,1.5,Less,0.558,0.582,-0.024,0.442,124,-165,,Kalshi / Underdog
-LAC@DAL,DAL,Daniel Gafford,AST,1.68,0,3,22.4,1.4,projected starter (expected) - minutes unclear (model 22),book line,1.5,Less,0.525,0.548,-0.023,0.475,105,-145,,Kalshi / Underdog
-LAC@DAL,LAC,Kris Dunn,AST,3.67,2,5,25.1,-7.8,minutes unclear (-8),book line,2.5,More,0.683,0.582,0.101,0.683,-164,124,,Kalshi / Underdog
-LAC@DAL,LAC,Rui Hachimura,AST,1.28,0,2,29.8,2.3,lineup: starter (expected),book line,1.5,Less,0.642,0.553,0.089,0.358,110,-144,,Kalshi / Underdog
-LAC@DAL,LAC,Brook Lopez,AST,1.84,1,3,25.8,0.5,lineup: starter (expected),book line,2.5,Less,0.716,0.612,0.104,0.284,141,-190,,Kalshi / Underdog
-LAC@DAL,LAC,Kris Dunn,PRA,14.14,9,19,25.1,-7.8,minutes unclear (-8),PP standard,11.5,More,0.639,0.477,0.162,0.639,-103,-125,,PrizePicks / Underdog
-LAC@DAL,LAC,Kris Dunn,REB,3.65,2,5,25.1,-7.8,minutes unclear (-8),PP standard,2.5,More,0.673,0.523,0.15,0.673,-128,-105,,PrizePicks / Underdog
-LAC@DAL,LAC,Keaton Wagler,REB,3.28,2,5,20.8,-8.2,minutes unclear (-8); small sample,PP standard,2.5,More,0.607,0.514,0.093,0.607,-123,-109,,PrizePicks / Underdog
-LAC@DAL,LAC,Darius Garland,REB,2.88,1,4,33.7,-1.7,lineup: starter (expected),PP standard,2.5,More,0.525,0.519,0.006,0.525,-125,-106,,PrizePicks / Underdog
-LAC@DAL,LAC,Kris Dunn,PA,10.48,6,15,25.1,-7.8,minutes unclear (-8),PP standard,8.5,More,0.604,0.487,0.117,0.604,-112,-126,,PrizePicks / Underdog
-LAC@DAL,LAC,Kris Dunn,RA,7.33,5,10,25.1,-7.8,minutes unclear (-8),book line,5.5,More,0.702,0.531,0.171,0.702,-130,100,,Kalshi / Underdog
-LAC@DAL,LAC,Kris Dunn,3PM,0.77,0,1,25.1,-7.8,minutes unclear (-8),PP standard,0.5,Less,0.523,0.5,0.023,0.477,-128,-128,2.3,PrizePicks / Underdog
-LAC@DAL,DAL,Caleb Martin,3PM,0.67,0,1,19.7,6.5,minutes unclear (+6); projected starter (expected) - minutes unclear (model 20),book line,0.5,Less,0.571,0.359,0.212,0.429,-220,160,2.0,Kalshi / Underdog
-LAC@DAL,DAL,Naji Marshall,3PM,0.98,0,2,24.8,1.3,lineup: starter (expected),book line,0.5,More,0.557,0.665,-0.108,0.557,-196,200,3.0,Kalshi / Underdog
-MEM@MIN,MIN,Jonathan Kuminga,AST,2.53,1,4,27.8,0.9,lineup: starter (expected),book line,2.5,Less,0.551,0.565,-0.014,0.449,115,-152,,Kalshi / Underdog
-MEM@MIN,MIN,Jaden McDaniels,AST,3.26,2,5,35.3,-0.7,lineup: starter (expected),book line,3.5,Less,0.591,0.588,0.002,0.409,126,-172,,Kalshi / Underdog
+LAC@DAL,LAC,Keaton Wagler,AST,2.81,1,4,20.8,-8.2,minutes unclear (-8); small sample,PP standard,2.5,More,0.512,0.034,0.478,0.512,-2,-129,,PrizePicks / Underdog
+LAC@DAL,LAC,Darius Garland,AST,7.46,5,10,33.7,-1.7,lineup: starter (confirmed),PP standard,7.5,Less,0.536,0.552,-0.016,0.464,108,-145,,PrizePicks / Underdog
+LAC@DAL,DAL,Cooper Flagg,AST,6.07,4,8,35.5,-0.6,lineup: starter (confirmed),PP standard,6.5,Less,0.594,0.56,0.034,0.406,112,-150,,PrizePicks / Underdog
+LAC@DAL,DAL,Kyrie Irving,AST,4.47,2,6,32.8,2.0,lineup: starter (confirmed),PP standard,4.5,Less,0.545,0.485,0.06,0.455,-124,-109,,PrizePicks / Underdog
+LAC@DAL,DAL,Caleb Martin,AST,1.93,1,3,20.3,6.9,minutes unclear (+7); projected starter (confirmed) - minutes unclear (model 20); role up (last 8: 3.1),PP standard,2.5,Less,0.691,0.528,0.163,0.309,-102,-130,,PrizePicks / Underdog
+LAC@DAL,DAL,Naji Marshall,AST,3.54,2,5,26.5,-0.2,,PP standard,3.5,Less,0.537,0.477,0.059,0.463,-129,-106,,PrizePicks / Underdog
+LAC@DAL,DAL,Kyrie Irving,PTS,22.69,15,30,32.8,2.0,lineup: starter (confirmed),PP standard,23.5,Less,0.564,0.511,0.052,0.436,-109,-120,,PrizePicks / Underdog
+LAC@DAL,DAL,Cooper Flagg,PTS,25.23,18,32,35.5,-0.6,lineup: starter (confirmed),PP standard,24.5,More,0.507,0.498,0.009,0.507,-114,-116,,PrizePicks / Underdog
+LAC@DAL,LAC,Kris Dunn,PTS,6.76,3,10,25.0,-7.8,minutes unclear (-8),book line,5.5,More,0.55,0.472,0.078,0.55,-102,-130,,Kalshi / Underdog
+LAC@DAL,DAL,Daniel Gafford,PTS,9.6,5,14,23.6,-0.2,projected starter (confirmed) - minutes unclear (model 24),PP standard,8.5,More,0.526,0.513,0.013,0.526,-120,-107,,PrizePicks / Underdog
+LAC@DAL,LAC,Rui Hachimura,PTS,13.74,8,19,29.7,2.4,lineup: starter (confirmed),PP standard,13.5,Less,0.526,0.49,0.037,0.474,-119,-109,,PrizePicks / Underdog
+LAC@DAL,LAC,Keaton Wagler,PTS,12.67,7,18,20.8,-8.2,minutes unclear (-8); small sample,PP standard,9.5,More,0.664,0.497,0.167,0.664,-113,-116,,PrizePicks / Underdog
+LAC@DAL,LAC,Brook Lopez,PTS,13.56,8,19,25.9,0.6,lineup: starter (confirmed),PP standard,12.5,More,0.52,0.519,0.001,0.52,-125,-106,,PrizePicks / Underdog
+LAC@DAL,DAL,Caleb Martin,PTS,5.43,2,9,20.3,6.9,minutes unclear (+7); projected starter (confirmed) - minutes unclear (model 20),PP standard,5.5,Less,0.577,0.473,0.104,0.423,-130,-103,,PrizePicks / Underdog
+LAC@DAL,LAC,Darius Garland,PTS,23.19,16,30,33.7,-1.7,lineup: starter (confirmed),PP standard,21.5,More,0.549,0.499,0.05,0.549,-114,-115,,PrizePicks / Underdog
+LAC@DAL,DAL,Naji Marshall,PTS,13.19,7,19,26.5,-0.2,,PP standard,12.5,More,0.501,0.473,0.028,0.501,-102,-129,,PrizePicks / Underdog
+LAC@DAL,DAL,Kyrie Irving,PA,27.15,19,35,32.8,2.0,lineup: starter (confirmed),PP standard,27.5,Less,0.541,0.49,0.051,0.459,-120,-110,,PrizePicks / Underdog
+LAC@DAL,DAL,Daniel Gafford,PA,11.27,6,16,23.6,-0.2,projected starter (confirmed) - minutes unclear (model 24),PP standard,10.5,More,0.504,0.49,0.015,0.504,-110,-120,,PrizePicks / Underdog
+LAC@DAL,LAC,Rui Hachimura,PA,15.0,9,21,29.7,2.4,lineup: starter (confirmed),PP standard,15.5,Less,0.564,0.51,0.054,0.436,-110,-120,,PrizePicks / Underdog
+LAC@DAL,LAC,Darius Garland,PA,30.65,22,39,33.7,-1.7,lineup: starter (confirmed),PP standard,28.5,More,0.566,0.519,0.047,0.566,-125,-106,,PrizePicks / Underdog
+LAC@DAL,LAC,Brook Lopez,PA,15.42,9,21,25.9,0.6,lineup: starter (confirmed); role up (last 8: 20.1),PP standard,15.5,Less,0.545,0.522,0.022,0.455,-107,-130,,PrizePicks / Underdog
+LAC@DAL,DAL,Cooper Flagg,PA,31.3,23,39,35.5,-0.6,lineup: starter (confirmed),PP standard,30.5,More,0.512,0.919,-0.407,0.512,-119,-5,,PrizePicks / Underdog
+LAC@DAL,LAC,Keaton Wagler,PA,15.49,10,21,20.8,-8.2,minutes unclear (-8); small sample,PP standard,12.5,More,0.643,0.471,0.172,0.643,-101,-130,,PrizePicks / Underdog
+LAC@DAL,DAL,Naji Marshall,PA,16.74,11,22,26.5,-0.2,,PP standard,16.5,Less,0.524,0.519,0.005,0.476,-106,-125,,PrizePicks / Underdog
+LAC@DAL,DAL,Caleb Martin,PA,7.36,3,11,20.3,6.9,minutes unclear (+7); projected starter (confirmed) - minutes unclear (model 20),PP standard,8.5,Less,0.653,0.498,0.154,0.348,-117,-115,,PrizePicks / Underdog
+LAC@DAL,LAC,Keaton Wagler,PR,15.94,10,21,20.8,-8.2,minutes unclear (-8); small sample,PP standard,12.5,More,0.671,0.484,0.188,0.671,-107,-123,,PrizePicks / Underdog
+LAC@DAL,DAL,Cooper Flagg,PR,32.16,24,40,35.5,-0.6,lineup: starter (confirmed),PP standard,31.5,More,0.505,0.5,0.005,0.505,-114,-114,,PrizePicks / Underdog
+LAC@DAL,LAC,Kris Dunn,PR,10.39,6,15,25.0,-7.8,minutes unclear (-8),book line,7.5,More,0.678,0.529,0.148,0.678,-130,-101,,Kalshi / Underdog
+LAC@DAL,LAC,Brook Lopez,PR,19.23,13,25,25.9,0.6,lineup: starter (confirmed),PP standard,18.5,More,0.507,0.488,0.019,0.507,-109,-121,,PrizePicks / Underdog
+LAC@DAL,DAL,Daniel Gafford,PR,15.8,10,21,23.6,-0.2,projected starter (confirmed) - minutes unclear (model 24); role down (last 8: 10.6),PP standard,15.5,Less,0.521,0.5,0.021,0.479,-115,-115,,PrizePicks / Underdog
+LAC@DAL,LAC,Rui Hachimura,PR,19.02,12,25,29.7,2.4,lineup: starter (confirmed),PP standard,18.5,Less,0.508,0.484,0.024,0.492,-114,100,,PrizePicks / Underdog
+LAC@DAL,DAL,Kyrie Irving,PR,26.84,19,35,32.8,2.0,lineup: starter (confirmed),PP standard,27.5,Less,0.554,0.51,0.044,0.446,-110,-120,,PrizePicks / Underdog
+LAC@DAL,LAC,Darius Garland,PR,26.08,18,34,33.7,-1.7,lineup: starter (confirmed),PP standard,24.5,More,0.541,0.492,0.049,0.541,-111,-119,,PrizePicks / Underdog
+LAC@DAL,DAL,Naji Marshall,PR,16.97,11,23,26.5,-0.2,,PP standard,15.5,More,0.546,0.518,0.028,0.546,-126,-108,,PrizePicks / Underdog
+LAC@DAL,DAL,Caleb Martin,PR,8.65,4,13,20.3,6.9,minutes unclear (+7); projected starter (confirmed) - minutes unclear (model 20),PP standard,9.5,Less,0.622,0.484,0.138,0.378,-124,-108,,PrizePicks / Underdog
+LAC@DAL,LAC,Keaton Wagler,PRA,18.75,13,24,20.8,-8.2,minutes unclear (-8); small sample,PP standard,14.5,More,0.702,0.521,0.181,0.702,-125,-104,,PrizePicks / Underdog
+LAC@DAL,DAL,Cooper Flagg,PRA,38.23,29,47,35.5,-0.6,lineup: starter (confirmed),PP standard,38.5,Less,0.53,0.496,0.034,0.47,-116,-112,,PrizePicks / Underdog
+LAC@DAL,LAC,Darius Garland,PRA,33.54,25,42,33.7,-1.7,lineup: starter (confirmed),PP standard,31.5,More,0.557,0.51,0.047,0.557,-120,-110,,PrizePicks / Underdog
+LAC@DAL,DAL,Daniel Gafford,PRA,17.47,12,23,23.6,-0.2,projected starter (confirmed) - minutes unclear (model 24); role down (last 8: 12.2),PP standard,17.5,Less,0.54,0.524,0.016,0.46,-104,-128,,PrizePicks / Underdog
+LAC@DAL,LAC,Brook Lopez,PRA,21.09,14,27,25.9,0.6,lineup: starter (confirmed),PP standard,20.5,Less,0.503,0.511,-0.008,0.497,-109,-120,,PrizePicks / Underdog
+LAC@DAL,LAC,Rui Hachimura,PRA,20.29,13,27,29.7,2.4,lineup: starter (confirmed),PP standard,20.5,Less,0.545,0.495,0.05,0.455,-117,-112,,PrizePicks / Underdog
+LAC@DAL,DAL,Kyrie Irving,PRA,31.3,23,40,32.8,2.0,lineup: starter (confirmed),PP standard,32.5,Less,0.569,0.51,0.059,0.431,-111,-121,,PrizePicks / Underdog
+LAC@DAL,DAL,Naji Marshall,PRA,20.52,14,27,26.5,-0.2,,PP standard,20.5,Less,0.531,0.522,0.009,0.469,-104,-126,,PrizePicks / Underdog
+LAC@DAL,DAL,Caleb Martin,PRA,10.57,6,15,20.3,6.9,minutes unclear (+7); projected starter (confirmed) - minutes unclear (model 20),PP standard,12.5,Less,0.678,0.513,0.165,0.322,-108,-121,,PrizePicks / Underdog
+LAC@DAL,LAC,Brook Lopez,REB,5.67,3,8,25.9,0.6,lineup: starter (confirmed),PP standard,5.5,Less,0.506,0.573,-0.067,0.494,118,-160,,PrizePicks / Underdog
+LAC@DAL,DAL,Daniel Gafford,REB,6.2,4,8,23.6,-0.2,projected starter (confirmed) - minutes unclear (model 24); role down (last 8: 3.5),PP standard,6.5,Less,0.578,0.52,0.058,0.422,-105,-125,,PrizePicks / Underdog
+LAC@DAL,DAL,Kyrie Irving,REB,4.15,2,6,32.8,2.0,lineup: starter (confirmed),PP standard,3.5,More,0.566,0.582,-0.016,0.566,-168,122,,PrizePicks / Underdog
+LAC@DAL,DAL,Cooper Flagg,REB,6.93,4,9,35.5,-0.6,lineup: starter (confirmed),PP standard,6.5,More,0.528,0.549,-0.021,0.528,-144,106,,PrizePicks / Underdog
+LAC@DAL,DAL,Caleb Martin,REB,3.22,1,5,20.3,6.9,minutes unclear (+7); projected starter (confirmed) - minutes unclear (model 20),PP standard,3.5,Less,0.603,0.499,0.104,0.397,-115,-114,,PrizePicks / Underdog
+LAC@DAL,LAC,Rui Hachimura,REB,5.28,3,7,29.7,2.4,lineup: starter (confirmed),PP standard,4.5,More,0.584,0.559,0.025,0.584,-148,112,,PrizePicks / Underdog
+LAC@DAL,DAL,Naji Marshall,REB,3.78,2,6,26.5,-0.2,,book line,3.5,More,0.502,0.537,-0.035,0.502,-135,102,,Kalshi / Underdog
+LAC@DAL,LAC,Keaton Wagler,RA,6.08,4,8,20.8,-8.2,minutes unclear (-8); small sample,PP standard,5.5,More,0.546,0.451,0.094,0.546,106,-144,,PrizePicks / Underdog
+LAC@DAL,DAL,Naji Marshall,RA,7.33,5,10,26.5,-0.2,,PP standard,7.5,Less,0.555,0.497,0.058,0.445,-117,-114,,PrizePicks / Underdog
+LAC@DAL,LAC,Rui Hachimura,RA,6.55,4,9,29.7,2.4,lineup: starter (confirmed),PP standard,6.5,Less,0.526,0.51,0.015,0.474,-110,-120,,PrizePicks / Underdog
+LAC@DAL,DAL,Kyrie Irving,RA,8.61,6,11,32.8,2.0,lineup: starter (confirmed),PP standard,8.5,Less,0.52,0.478,0.042,0.48,-126,-104,,PrizePicks / Underdog
+LAC@DAL,DAL,Cooper Flagg,RA,13.0,9,17,35.5,-0.6,lineup: starter (confirmed),PP standard,13.5,Less,0.568,0.529,0.039,0.432,-105,-136,,PrizePicks / Underdog
+LAC@DAL,DAL,Caleb Martin,RA,5.15,3,7,20.3,6.9,minutes unclear (+7); projected starter (confirmed) - minutes unclear (model 20),PP standard,6.5,Less,0.714,0.555,0.159,0.286,110,-146,,PrizePicks / Underdog
+LAC@DAL,LAC,Darius Garland,RA,10.35,7,13,33.7,-1.7,lineup: starter (confirmed),book line,9.5,More,0.565,0.545,0.019,0.565,-141,105,,Kalshi / Underdog
+LAC@DAL,DAL,Daniel Gafford,RA,7.87,5,11,23.6,-0.2,projected starter (confirmed) - minutes unclear (model 24); role down (last 8: 5.1),book line,7.5,More,0.512,0.543,-0.031,0.512,-138,105,,Kalshi / Underdog
+LAC@DAL,LAC,Brook Lopez,RA,7.53,5,10,25.9,0.6,lineup: starter (confirmed),book line,7.5,Less,0.531,0.532,-0.001,0.469,100,-132,,Kalshi / Underdog
+LAC@DAL,DAL,Kyrie Irving,3PM,3.15,1,5,32.8,2.0,lineup: starter (confirmed),PP standard,3.5,Less,0.613,0.581,0.032,0.387,122,-167,9.0,PrizePicks / Underdog
+LAC@DAL,LAC,Rui Hachimura,3PM,1.72,0,3,29.7,2.4,lineup: starter (confirmed),book line,1.5,Less,0.524,0.425,0.099,0.476,-158,121,5.3,Kalshi / Underdog
+LAC@DAL,DAL,Cooper Flagg,3PM,1.55,0,3,35.5,-0.6,lineup: starter (confirmed),book line,1.5,Less,0.566,0.544,0.022,0.434,105,-139,4.5,Kalshi / Underdog
+LAC@DAL,LAC,Brook Lopez,3PM,1.52,0,3,25.9,0.6,lineup: starter (confirmed),PP standard,1.5,Less,0.571,0.502,0.069,0.429,-116,-118,4.5,PrizePicks / Underdog
+LAC@DAL,LAC,Keaton Wagler,3PM,1.47,0,3,20.8,-8.2,minutes unclear (-8); small sample,book line,1.5,Less,0.588,0.64,-0.052,0.412,158,-222,4.3,Kalshi / Underdog
+LAC@DAL,LAC,Darius Garland,3PM,2.72,1,4,33.7,-1.7,lineup: starter (confirmed),PP standard,2.5,Less,0.512,0.506,0.006,0.488,-114,-120,7.6,PrizePicks / Underdog
+LAC@DAL,DAL,Daniel Gafford,AST,1.67,0,3,23.6,-0.2,projected starter (confirmed) - minutes unclear (model 24),book line,1.5,Less,0.525,0.548,-0.023,0.475,105,-145,,Kalshi / Underdog
+LAC@DAL,LAC,Kris Dunn,AST,3.67,2,5,25.0,-7.8,minutes unclear (-8),book line,2.5,More,0.679,0.582,0.097,0.679,-164,124,,Kalshi / Underdog
+LAC@DAL,LAC,Rui Hachimura,AST,1.27,0,2,29.7,2.4,lineup: starter (confirmed),book line,1.5,Less,0.646,0.553,0.093,0.354,110,-144,,Kalshi / Underdog
+LAC@DAL,LAC,Brook Lopez,AST,1.86,1,3,25.9,0.6,lineup: starter (confirmed),book line,2.5,Less,0.712,0.612,0.1,0.288,141,-190,,Kalshi / Underdog
+LAC@DAL,LAC,Kris Dunn,PRA,14.07,9,19,25.0,-7.8,minutes unclear (-8),PP standard,11.5,More,0.639,0.477,0.161,0.639,-103,-125,,PrizePicks / Underdog
+LAC@DAL,LAC,Kris Dunn,REB,3.63,2,5,25.0,-7.8,minutes unclear (-8),PP standard,2.5,More,0.673,0.523,0.15,0.673,-128,-105,,PrizePicks / Underdog
+LAC@DAL,LAC,Keaton Wagler,REB,3.27,2,5,20.8,-8.2,minutes unclear (-8); small sample,PP standard,2.5,More,0.6,0.514,0.086,0.6,-123,-109,,PrizePicks / Underdog
+LAC@DAL,LAC,Darius Garland,REB,2.89,1,4,33.7,-1.7,lineup: starter (confirmed),PP standard,2.5,More,0.526,0.519,0.007,0.526,-125,-106,,PrizePicks / Underdog
+LAC@DAL,LAC,Kris Dunn,PA,10.43,6,15,25.0,-7.8,minutes unclear (-8),PP standard,8.5,More,0.601,0.487,0.114,0.601,-112,-126,,PrizePicks / Underdog
+LAC@DAL,LAC,Kris Dunn,RA,7.31,5,10,25.0,-7.8,minutes unclear (-8),book line,5.5,More,0.699,0.531,0.169,0.699,-130,100,,Kalshi / Underdog
+LAC@DAL,LAC,Kris Dunn,3PM,0.76,0,1,25.0,-7.8,minutes unclear (-8),PP standard,0.5,Less,0.522,0.5,0.022,0.478,-128,-128,2.2,PrizePicks / Underdog
+LAC@DAL,DAL,Caleb Martin,3PM,0.67,0,1,20.3,6.9,minutes unclear (+7); projected starter (confirmed) - minutes unclear (model 20),book line,0.5,Less,0.573,0.359,0.215,0.427,-220,160,2.0,Kalshi / Underdog
+LAC@DAL,DAL,Naji Marshall,3PM,1.03,0,2,26.5,-0.2,,book line,0.5,More,0.576,0.665,-0.089,0.576,-196,200,3.0,Kalshi / Underdog
+MEM@MIN,MIN,Jonathan Kuminga,AST,2.53,1,4,27.8,0.9,lineup: starter (confirmed),book line,2.5,Less,0.551,0.565,-0.014,0.449,115,-152,,Kalshi / Underdog
+MEM@MIN,MIN,Jaden McDaniels,AST,3.26,2,5,35.3,-0.7,lineup: starter (confirmed),book line,3.5,Less,0.591,0.588,0.002,0.409,126,-172,,Kalshi / Underdog
 MEM@MIN,MIN,Terrence Shannon Jr.,AST,2.38,1,4,20.3,6.4,minutes unclear (+6),PP standard,2.5,Less,0.596,0.513,0.083,0.404,-110,-123,,PrizePicks / Underdog
-MEM@MIN,MEM,Ty Jerome,AST,6.02,4,8,31.8,-1.5,lineup: starter (expected); returning (missed 4) - minutes unclear,PP standard,5.5,More,0.543,0.516,0.027,0.543,-124,-108,,PrizePicks / Underdog
-MEM@MIN,MEM,Cedric Coward,AST,4.1,2,6,34.9,-0.6,lineup: starter (expected),PP standard,3.5,More,0.569,0.527,0.042,0.569,-130,-103,,PrizePicks / Underdog
+MEM@MIN,MEM,Ty Jerome,AST,6.02,4,8,31.8,-1.5,lineup: starter (confirmed); returning (missed 4) - minutes unclear,PP standard,5.5,More,0.543,0.516,0.027,0.543,-124,-108,,PrizePicks / Underdog
+MEM@MIN,MEM,Cedric Coward,AST,4.1,2,6,34.9,-0.6,lineup: starter (confirmed),PP standard,3.5,More,0.569,0.527,0.042,0.569,-130,-103,,PrizePicks / Underdog
 MEM@MIN,MIN,Bones Hyland,AST,2.91,1,5,16.5,-0.1,,book line,2.5,More,0.515,0.555,-0.04,0.515,-145,111,,Kalshi / Underdog
-MEM@MIN,MIN,Ayo Dosunmu,AST,4.0,2,6,33.0,1.7,lineup: starter (expected); role down (last 8: 2.9),book line,3.5,More,0.548,0.541,0.007,0.548,-135,105,,Kalshi / Underdog
+MEM@MIN,MIN,Ayo Dosunmu,AST,4.0,2,6,33.0,1.7,lineup: starter (confirmed); role down (last 8: 2.9),book line,3.5,More,0.548,0.541,0.007,0.548,-135,105,,Kalshi / Underdog
 MEM@MIN,MEM,Cam Spencer,AST,7.2,5,10,27.5,-6.0,minutes unclear (-6),PP standard,5.5,More,0.697,0.449,0.248,0.697,108,-144,,PrizePicks / Underdog
-MEM@MIN,MIN,LaMelo Ball,AST,6.69,4,9,29.6,-1.3,lineup: starter (expected),PP standard,5.5,More,0.644,0.56,0.084,0.644,-148,113,,PrizePicks / Underdog
+MEM@MIN,MIN,LaMelo Ball,AST,6.69,4,9,29.6,-1.3,lineup: starter (confirmed),PP standard,5.5,More,0.644,0.56,0.084,0.644,-148,113,,PrizePicks / Underdog
 MEM@MIN,MIN,Bones Hyland,PTS,9.86,4,15,16.5,-0.1,,PP standard,9.5,Less,0.54,0.497,0.043,0.46,-117,-114,,PrizePicks / Underdog
-MEM@MIN,MIN,Rudy Gobert,PTS,10.57,6,15,29.8,-3.3,lineup: starter (expected),PP standard,9.5,More,0.536,0.485,0.052,0.536,-107,-122,,PrizePicks / Underdog
-MEM@MIN,MEM,Taylor Hendricks,PTS,9.32,4,14,21.0,6.6,minutes unclear (+7); projected starter (expected) - minutes unclear (model 21); teammate back (Ty Jerome; last 8: 11.2),PP standard,9.5,Less,0.568,0.476,0.092,0.432,-126,-103,,PrizePicks / Underdog
-MEM@MIN,MIN,Jonathan Kuminga,PTS,14.16,8,20,27.8,0.9,lineup: starter (expected),PP standard,14.5,Less,0.56,0.497,0.063,0.44,-117,-114,,PrizePicks / Underdog
+MEM@MIN,MIN,Rudy Gobert,PTS,10.57,6,15,29.8,-3.3,lineup: starter (confirmed),PP standard,9.5,More,0.536,0.485,0.052,0.536,-107,-122,,PrizePicks / Underdog
+MEM@MIN,MEM,Taylor Hendricks,PTS,9.32,4,14,21.0,6.6,minutes unclear (+7); teammate back (Ty Jerome; last 8: 11.2),PP standard,9.5,Less,0.568,0.476,0.092,0.432,-126,-103,,PrizePicks / Underdog
+MEM@MIN,MIN,Jonathan Kuminga,PTS,14.16,8,20,27.8,0.9,lineup: starter (confirmed),PP standard,14.5,Less,0.56,0.497,0.063,0.44,-117,-114,,PrizePicks / Underdog
 MEM@MIN,MIN,Terrence Shannon Jr.,PTS,10.88,5,16,20.3,6.4,minutes unclear (+6),PP standard,12.5,Less,0.654,0.517,0.137,0.346,-108,-125,,PrizePicks / Underdog
-MEM@MIN,MEM,Ty Jerome,PTS,23.72,16,31,31.8,-1.5,lineup: starter (expected); returning (missed 4) - minutes unclear,PP standard,22.5,More,0.527,0.5,0.027,0.527,-114,-114,,PrizePicks / Underdog
+MEM@MIN,MEM,Ty Jerome,PTS,23.72,16,31,31.8,-1.5,lineup: starter (confirmed); returning (missed 4) - minutes unclear,PP standard,22.5,More,0.527,0.5,0.027,0.527,-114,-114,,PrizePicks / Underdog
 MEM@MIN,MEM,Isaiah Stewart,PTS,9.5,5,14,21.3,0.0,teammate back (Ty Jerome; last 8: 12.0),PP standard,9.5,Less,0.549,0.483,0.066,0.451,-123,-106,,PrizePicks / Underdog
-MEM@MIN,MEM,Cedric Coward,PTS,17.39,11,24,34.9,-0.6,lineup: starter (expected),PP standard,16.5,More,0.51,0.502,0.008,0.51,-116,-114,,PrizePicks / Underdog
-MEM@MIN,MIN,Jaden McDaniels,PTS,16.9,10,23,35.3,-0.7,lineup: starter (expected),PP standard,17.5,Less,0.567,0.511,0.056,0.433,-111,-122,,PrizePicks / Underdog
-MEM@MIN,MEM,Zach Edey,PTS,11.22,6,16,25.5,-2.3,lineup: starter (expected),PP standard,9.5,More,0.578,0.486,0.092,0.578,-109,-123,,PrizePicks / Underdog
+MEM@MIN,MEM,Cedric Coward,PTS,17.39,11,24,34.9,-0.6,lineup: starter (confirmed),PP standard,16.5,More,0.51,0.502,0.008,0.51,-116,-114,,PrizePicks / Underdog
+MEM@MIN,MIN,Jaden McDaniels,PTS,16.9,10,23,35.3,-0.7,lineup: starter (confirmed),PP standard,17.5,Less,0.567,0.511,0.056,0.433,-111,-122,,PrizePicks / Underdog
+MEM@MIN,MEM,Zach Edey,PTS,11.22,6,16,25.5,-2.3,lineup: starter (confirmed),PP standard,9.5,More,0.578,0.486,0.092,0.578,-109,-123,,PrizePicks / Underdog
 MEM@MIN,MEM,Cam Spencer,PTS,11.27,6,16,27.5,-6.0,minutes unclear (-6); teammate back (Ty Jerome; last 8: 13.4),PP standard,10.5,Less,0.502,0.526,-0.025,0.498,-105,-132,,PrizePicks / Underdog
-MEM@MIN,MIN,Ayo Dosunmu,PTS,17.31,11,24,33.0,1.7,lineup: starter (expected),PP standard,18.5,Less,0.597,0.502,0.095,0.403,-116,-118,,PrizePicks / Underdog
-MEM@MIN,MIN,LaMelo Ball,PTS,20.88,14,28,29.6,-1.3,lineup: starter (expected),PP standard,20.5,Less,0.507,0.527,-0.02,0.493,-103,-130,,PrizePicks / Underdog
-MEM@MIN,MEM,Jaylen Wells,PTS,13.03,7,18,31.4,-8.3,minutes unclear (-8); lineup: starter (expected),PP standard,10.5,More,0.61,0.499,0.111,0.61,-114,-115,,PrizePicks / Underdog
+MEM@MIN,MIN,Ayo Dosunmu,PTS,17.31,11,24,33.0,1.7,lineup: starter (confirmed),PP standard,18.5,Less,0.597,0.502,0.095,0.403,-116,-118,,PrizePicks / Underdog
+MEM@MIN,MIN,LaMelo Ball,PTS,20.88,14,28,29.6,-1.3,lineup: starter (confirmed),PP standard,20.5,Less,0.507,0.527,-0.02,0.493,-103,-130,,PrizePicks / Underdog
+MEM@MIN,MEM,Jaylen Wells,PTS,13.03,7,18,31.4,-8.3,minutes unclear (-8); lineup: starter (confirmed),PP standard,10.5,More,0.61,0.499,0.111,0.61,-114,-115,,PrizePicks / Underdog
 MEM@MIN,MIN,Bones Hyland,PA,12.77,6,19,16.5,-0.1,,PP standard,12.5,Less,0.547,0.493,0.054,0.453,-118,-111,,PrizePicks / Underdog
-MEM@MIN,MIN,Rudy Gobert,PA,12.15,7,17,29.8,-3.3,lineup: starter (expected),book line,11.5,More,0.503,0.466,0.037,0.503,100,-134,,Kalshi / Underdog
-MEM@MIN,MIN,Jonathan Kuminga,PA,16.69,10,23,27.8,0.9,lineup: starter (expected),PP standard,17.5,Less,0.582,0.514,0.068,0.418,-108,-122,,PrizePicks / Underdog
+MEM@MIN,MIN,Rudy Gobert,PA,12.15,7,17,29.8,-3.3,lineup: starter (confirmed),book line,11.5,More,0.503,0.466,0.037,0.503,100,-134,,Kalshi / Underdog
+MEM@MIN,MIN,Jonathan Kuminga,PA,16.69,10,23,27.8,0.9,lineup: starter (confirmed),PP standard,17.5,Less,0.582,0.514,0.068,0.418,-108,-122,,PrizePicks / Underdog
 MEM@MIN,MIN,Terrence Shannon Jr.,PA,13.27,7,19,20.3,6.4,minutes unclear (+6),PP standard,14.5,Less,0.626,0.017,0.609,0.374,-128,-1,,PrizePicks / Underdog
-MEM@MIN,MEM,Ty Jerome,PA,29.74,21,38,31.8,-1.5,lineup: starter (expected); returning (missed 4) - minutes unclear,PP standard,28.5,More,0.525,0.499,0.026,0.525,-114,-115,,PrizePicks / Underdog
-MEM@MIN,MEM,Cedric Coward,PA,21.49,14,28,34.9,-0.6,lineup: starter (expected),PP standard,20.5,More,0.516,0.5,0.016,0.516,-115,-115,,PrizePicks / Underdog
+MEM@MIN,MEM,Ty Jerome,PA,29.74,21,38,31.8,-1.5,lineup: starter (confirmed); returning (missed 4) - minutes unclear,PP standard,28.5,More,0.525,0.499,0.026,0.525,-114,-115,,PrizePicks / Underdog
+MEM@MIN,MEM,Cedric Coward,PA,21.49,14,28,34.9,-0.6,lineup: starter (confirmed),PP standard,20.5,More,0.516,0.5,0.016,0.516,-115,-115,,PrizePicks / Underdog
 MEM@MIN,MEM,Cam Spencer,PA,18.47,12,25,27.5,-6.0,minutes unclear (-6),PP standard,15.5,More,0.62,0.51,0.11,0.62,-120,-110,,PrizePicks / Underdog
-MEM@MIN,MIN,Ayo Dosunmu,PA,21.3,14,28,33.0,1.7,lineup: starter (expected),PP standard,22.5,Less,0.589,0.506,0.082,0.411,-112,-118,,PrizePicks / Underdog
-MEM@MIN,MIN,Jaden McDaniels,PA,20.16,13,27,35.3,-0.7,lineup: starter (expected),PP standard,20.5,Less,0.552,0.5,0.051,0.448,-115,-115,,PrizePicks / Underdog
-MEM@MIN,MIN,LaMelo Ball,PA,27.56,20,35,29.6,-1.3,lineup: starter (expected),PP standard,26.5,More,0.523,0.496,0.027,0.523,-113,-117,,PrizePicks / Underdog
-MEM@MIN,MEM,Jaylen Wells,PA,14.78,9,20,31.4,-8.3,minutes unclear (-8); lineup: starter (expected),PP standard,12.5,More,0.592,0.48,0.112,0.592,-105,-125,,PrizePicks / Underdog
-MEM@MIN,MIN,Ayo Dosunmu,PR,21.71,15,28,33.0,1.7,lineup: starter (expected),PP standard,22.5,Less,0.57,0.494,0.076,0.43,-118,-112,,PrizePicks / Underdog
-MEM@MIN,MEM,Jaylen Wells,PR,16.66,10,23,31.4,-8.3,minutes unclear (-8); lineup: starter (expected),PP standard,13.5,More,0.64,0.518,0.122,0.64,-124,-106,,PrizePicks / Underdog
-MEM@MIN,MIN,Rudy Gobert,PR,21.09,15,27,29.8,-3.3,lineup: starter (expected),PP standard,19.5,More,0.562,0.495,0.067,0.562,-113,-118,,PrizePicks / Underdog
+MEM@MIN,MIN,Ayo Dosunmu,PA,21.3,14,28,33.0,1.7,lineup: starter (confirmed),PP standard,22.5,Less,0.589,0.506,0.082,0.411,-112,-118,,PrizePicks / Underdog
+MEM@MIN,MIN,Jaden McDaniels,PA,20.16,13,27,35.3,-0.7,lineup: starter (confirmed),PP standard,20.5,Less,0.552,0.5,0.051,0.448,-115,-115,,PrizePicks / Underdog
+MEM@MIN,MIN,LaMelo Ball,PA,27.56,20,35,29.6,-1.3,lineup: starter (confirmed),PP standard,26.5,More,0.523,0.496,0.027,0.523,-113,-117,,PrizePicks / Underdog
+MEM@MIN,MEM,Jaylen Wells,PA,14.78,9,20,31.4,-8.3,minutes unclear (-8); lineup: starter (confirmed),PP standard,12.5,More,0.592,0.48,0.112,0.592,-105,-125,,PrizePicks / Underdog
+MEM@MIN,MIN,Ayo Dosunmu,PR,21.71,15,28,33.0,1.7,lineup: starter (confirmed),PP standard,22.5,Less,0.57,0.494,0.076,0.43,-118,-112,,PrizePicks / Underdog
+MEM@MIN,MEM,Jaylen Wells,PR,16.66,10,23,31.4,-8.3,minutes unclear (-8); lineup: starter (confirmed),PP standard,13.5,More,0.64,0.518,0.122,0.64,-124,-106,,PrizePicks / Underdog
+MEM@MIN,MIN,Rudy Gobert,PR,21.09,15,27,29.8,-3.3,lineup: starter (confirmed),PP standard,19.5,More,0.562,0.495,0.067,0.562,-113,-118,,PrizePicks / Underdog
 MEM@MIN,MEM,Isaiah Stewart,PR,13.71,8,19,21.3,0.0,,PP standard,13.5,Less,0.534,0.477,0.057,0.466,-127,-104,,PrizePicks / Underdog
-MEM@MIN,MIN,Jonathan Kuminga,PR,19.47,13,26,27.8,0.9,lineup: starter (expected),PP standard,19.5,Less,0.536,0.034,0.502,0.464,-124,-2,,PrizePicks / Underdog
+MEM@MIN,MIN,Jonathan Kuminga,PR,19.47,13,26,27.8,0.9,lineup: starter (confirmed),PP standard,19.5,Less,0.536,0.034,0.502,0.464,-124,-2,,PrizePicks / Underdog
 MEM@MIN,MIN,Terrence Shannon Jr.,PR,13.47,7,19,20.3,6.4,minutes unclear (+6),PP standard,15.5,Less,0.66,0.5,0.16,0.34,-116,-116,,PrizePicks / Underdog
-MEM@MIN,MIN,Jaden McDaniels,PR,22.45,15,29,35.3,-0.7,lineup: starter (expected),PP standard,22.5,Less,0.533,0.491,0.043,0.467,-119,-110,,PrizePicks / Underdog
-MEM@MIN,MEM,Taylor Hendricks,PR,13.29,7,19,21.0,6.6,minutes unclear (+7); projected starter (expected) - minutes unclear (model 21); teammate back (Ty Jerome; last 8: 15.5),PP standard,14.5,Less,0.613,0.472,0.141,0.387,-130,-102,,PrizePicks / Underdog
-MEM@MIN,MEM,Ty Jerome,PR,27.09,19,35,31.8,-1.5,lineup: starter (expected); returning (missed 4) - minutes unclear,PP standard,25.5,More,0.543,0.519,0.024,0.543,-125,-106,,PrizePicks / Underdog
-MEM@MIN,MEM,Cedric Coward,PR,25.37,18,32,34.9,-0.6,lineup: starter (expected),PP standard,24.5,More,0.515,0.486,0.029,0.515,-108,-122,,PrizePicks / Underdog
-MEM@MIN,MEM,Zach Edey,PR,19.82,14,25,25.5,-2.3,lineup: starter (expected),PP standard,17.5,More,0.598,0.482,0.115,0.598,-105,-122,,PrizePicks / Underdog
+MEM@MIN,MIN,Jaden McDaniels,PR,22.45,15,29,35.3,-0.7,lineup: starter (confirmed),PP standard,22.5,Less,0.533,0.491,0.043,0.467,-119,-110,,PrizePicks / Underdog
+MEM@MIN,MEM,Taylor Hendricks,PR,13.29,7,19,21.0,6.6,minutes unclear (+7); teammate back (Ty Jerome; last 8: 15.5),PP standard,14.5,Less,0.613,0.472,0.141,0.387,-130,-102,,PrizePicks / Underdog
+MEM@MIN,MEM,Ty Jerome,PR,27.09,19,35,31.8,-1.5,lineup: starter (confirmed); returning (missed 4) - minutes unclear,PP standard,25.5,More,0.543,0.519,0.024,0.543,-125,-106,,PrizePicks / Underdog
+MEM@MIN,MEM,Cedric Coward,PR,25.37,18,32,34.9,-0.6,lineup: starter (confirmed),PP standard,24.5,More,0.515,0.486,0.029,0.515,-108,-122,,PrizePicks / Underdog
+MEM@MIN,MEM,Zach Edey,PR,19.82,14,25,25.5,-2.3,lineup: starter (confirmed),PP standard,17.5,More,0.598,0.482,0.115,0.598,-105,-122,,PrizePicks / Underdog
 MEM@MIN,MEM,Cam Spencer,PR,14.27,8,20,27.5,-6.0,minutes unclear (-6),PP standard,13.5,Less,0.502,0.515,-0.013,0.498,-110,-125,,PrizePicks / Underdog
-MEM@MIN,MIN,LaMelo Ball,PR,25.46,18,33,29.6,-1.3,lineup: starter (expected),PP standard,25.5,Less,0.526,0.506,0.02,0.474,-112,-118,,PrizePicks / Underdog
-MEM@MIN,MIN,Ayo Dosunmu,PRA,25.7,18,33,33.0,1.7,lineup: starter (expected),PP standard,26.5,Less,0.564,0.497,0.067,0.436,-117,-114,,PrizePicks / Underdog
-MEM@MIN,MIN,Jaden McDaniels,PRA,25.71,18,33,35.3,-0.7,lineup: starter (expected),PP standard,25.5,Less,0.522,0.486,0.036,0.478,-118,-105,,PrizePicks / Underdog
-MEM@MIN,MIN,Rudy Gobert,PRA,22.67,17,29,29.8,-3.3,lineup: starter (expected),PP standard,21.5,More,0.534,0.477,0.057,0.534,-105,-128,,PrizePicks / Underdog
-MEM@MIN,MIN,Jonathan Kuminga,PRA,22.0,15,28,27.8,0.9,lineup: starter (expected),PP standard,22.5,Less,0.556,0.509,0.047,0.444,-110,-119,,PrizePicks / Underdog
+MEM@MIN,MIN,LaMelo Ball,PR,25.46,18,33,29.6,-1.3,lineup: starter (confirmed),PP standard,25.5,Less,0.526,0.506,0.02,0.474,-112,-118,,PrizePicks / Underdog
+MEM@MIN,MIN,Ayo Dosunmu,PRA,25.7,18,33,33.0,1.7,lineup: starter (confirmed),PP standard,26.5,Less,0.564,0.497,0.067,0.436,-117,-114,,PrizePicks / Underdog
+MEM@MIN,MIN,Jaden McDaniels,PRA,25.71,18,33,35.3,-0.7,lineup: starter (confirmed),PP standard,25.5,Less,0.522,0.486,0.036,0.478,-118,-105,,PrizePicks / Underdog
+MEM@MIN,MIN,Rudy Gobert,PRA,22.67,17,29,29.8,-3.3,lineup: starter (confirmed),PP standard,21.5,More,0.534,0.477,0.057,0.534,-105,-128,,PrizePicks / Underdog
+MEM@MIN,MIN,Jonathan Kuminga,PRA,22.0,15,28,27.8,0.9,lineup: starter (confirmed),PP standard,22.5,Less,0.556,0.509,0.047,0.444,-110,-119,,PrizePicks / Underdog
 MEM@MIN,MIN,Terrence Shannon Jr.,PRA,15.85,9,22,20.3,6.4,minutes unclear (+6),PP standard,18.5,Less,0.68,0.514,0.166,0.32,-108,-122,,PrizePicks / Underdog
-MEM@MIN,MEM,Ty Jerome,PRA,33.11,24,41,31.8,-1.5,lineup: starter (expected); returning (missed 4) - minutes unclear,PP standard,31.5,More,0.54,0.51,0.03,0.54,-120,-110,,PrizePicks / Underdog
-MEM@MIN,MEM,Cedric Coward,PRA,29.48,22,37,34.9,-0.6,lineup: starter (expected),PP standard,28.5,More,0.518,0.499,0.019,0.518,-114,-115,,PrizePicks / Underdog
+MEM@MIN,MEM,Ty Jerome,PRA,33.11,24,41,31.8,-1.5,lineup: starter (confirmed); returning (missed 4) - minutes unclear,PP standard,31.5,More,0.54,0.51,0.03,0.54,-120,-110,,PrizePicks / Underdog
+MEM@MIN,MEM,Cedric Coward,PRA,29.48,22,37,34.9,-0.6,lineup: starter (confirmed),PP standard,28.5,More,0.518,0.499,0.019,0.518,-114,-115,,PrizePicks / Underdog
 MEM@MIN,MEM,Cam Spencer,PRA,21.46,15,28,27.5,-6.0,minutes unclear (-6),PP standard,18.5,More,0.612,0.514,0.098,0.612,-122,-108,,PrizePicks / Underdog
-MEM@MIN,MEM,Jaylen Wells,PRA,18.41,12,24,31.4,-8.3,minutes unclear (-8); lineup: starter (expected),PP standard,15.5,More,0.624,0.503,0.121,0.624,-116,-113,,PrizePicks / Underdog
-MEM@MIN,MIN,LaMelo Ball,PRA,32.15,24,40,29.6,-1.3,lineup: starter (expected),PP standard,31.5,More,0.505,0.5,0.005,0.505,-114,-114,,PrizePicks / Underdog
-MEM@MIN,MIN,Ayo Dosunmu,REB,4.4,2,6,33.0,1.7,lineup: starter (expected); role down (last 8: 3.2),PP standard,3.5,More,0.613,0.569,0.043,0.613,-154,118,,PrizePicks / Underdog
-MEM@MIN,MIN,Rudy Gobert,REB,10.52,7,14,29.8,-3.3,lineup: starter (expected),book line,9.5,More,0.582,0.545,0.037,0.582,-140,105,,Kalshi / Underdog
-MEM@MIN,MIN,Jonathan Kuminga,REB,5.3,3,7,27.8,0.9,lineup: starter (expected),PP standard,5.5,Less,0.567,0.567,0.0,0.433,117,-152,,PrizePicks / Underdog
-MEM@MIN,MEM,Ty Jerome,REB,3.37,2,5,31.8,-1.5,lineup: starter (expected); returning (missed 4) - minutes unclear,book line,3.5,Less,0.573,0.573,-0.0,0.427,119,-159,,Kalshi / Underdog
-MEM@MIN,MEM,Taylor Hendricks,REB,3.97,2,6,21.0,6.6,minutes unclear (+7); projected starter (expected) - minutes unclear (model 21),PP standard,4.5,Less,0.632,0.445,0.187,0.368,-145,111,,PrizePicks / Underdog
-MEM@MIN,MEM,Cedric Coward,REB,7.99,5,11,34.9,-0.6,lineup: starter (expected),PP standard,7.5,More,0.528,0.512,0.016,0.528,-120,-108,,PrizePicks / Underdog
-MEM@MIN,MEM,Zach Edey,REB,8.59,6,11,25.5,-2.3,lineup: starter (expected),PP standard,7.5,More,0.601,0.543,0.058,0.601,-138,105,,PrizePicks / Underdog
-MEM@MIN,MIN,LaMelo Ball,REB,4.58,3,7,29.6,-1.3,lineup: starter (expected),PP standard,5.5,Less,0.682,0.577,0.105,0.318,122,-160,,PrizePicks / Underdog
-MEM@MIN,MIN,Jaden McDaniels,REB,5.55,3,8,35.3,-0.7,lineup: starter (expected),book line,5.5,Less,0.531,0.532,-0.001,0.469,100,-132,,Kalshi / Underdog
-MEM@MIN,MEM,Jaylen Wells,REB,3.63,2,5,31.4,-8.3,minutes unclear (-8); lineup: starter (expected),book line,3.5,Less,0.522,0.58,-0.059,0.478,123,-163,,Kalshi / Underdog
-MEM@MIN,MIN,Jaden McDaniels,RA,8.81,6,12,35.3,-0.7,lineup: starter (expected),PP standard,8.5,More,0.504,0.498,0.006,0.504,-116,-118,,PrizePicks / Underdog
-MEM@MIN,MIN,Rudy Gobert,RA,12.1,9,15,29.8,-3.3,lineup: starter (expected),PP standard,11.5,More,0.533,0.518,0.015,0.533,-124,-106,,PrizePicks / Underdog
-MEM@MIN,MIN,Jonathan Kuminga,RA,7.83,5,10,27.8,0.9,lineup: starter (expected),PP standard,7.5,More,0.508,0.506,0.002,0.508,-118,-112,,PrizePicks / Underdog
-MEM@MIN,MEM,Ty Jerome,RA,9.39,6,12,31.8,-1.5,lineup: starter (expected); returning (missed 4) - minutes unclear,PP standard,8.5,More,0.573,0.549,0.024,0.573,-144,106,,PrizePicks / Underdog
-MEM@MIN,MIN,Ayo Dosunmu,RA,8.4,6,11,33.0,1.7,lineup: starter (expected); role down (last 8: 6.1),PP standard,7.5,More,0.581,0.52,0.061,0.581,-125,-105,,PrizePicks / Underdog
-MEM@MIN,MEM,Cedric Coward,RA,12.09,9,15,34.9,-0.6,lineup: starter (expected),PP standard,11.5,More,0.537,0.502,0.035,0.537,-116,-114,,PrizePicks / Underdog
+MEM@MIN,MEM,Jaylen Wells,PRA,18.41,12,24,31.4,-8.3,minutes unclear (-8); lineup: starter (confirmed),PP standard,15.5,More,0.624,0.503,0.121,0.624,-116,-113,,PrizePicks / Underdog
+MEM@MIN,MIN,LaMelo Ball,PRA,32.15,24,40,29.6,-1.3,lineup: starter (confirmed),PP standard,31.5,More,0.505,0.5,0.005,0.505,-114,-114,,PrizePicks / Underdog
+MEM@MIN,MIN,Ayo Dosunmu,REB,4.4,2,6,33.0,1.7,lineup: starter (confirmed); role down (last 8: 3.2),PP standard,3.5,More,0.613,0.569,0.043,0.613,-154,118,,PrizePicks / Underdog
+MEM@MIN,MIN,Rudy Gobert,REB,10.52,7,14,29.8,-3.3,lineup: starter (confirmed),book line,9.5,More,0.582,0.545,0.037,0.582,-140,105,,Kalshi / Underdog
+MEM@MIN,MIN,Jonathan Kuminga,REB,5.3,3,7,27.8,0.9,lineup: starter (confirmed),PP standard,5.5,Less,0.567,0.567,0.0,0.433,117,-152,,PrizePicks / Underdog
+MEM@MIN,MEM,Ty Jerome,REB,3.37,2,5,31.8,-1.5,lineup: starter (confirmed); returning (missed 4) - minutes unclear,book line,3.5,Less,0.573,0.573,-0.0,0.427,119,-159,,Kalshi / Underdog
+MEM@MIN,MEM,Taylor Hendricks,REB,3.97,2,6,21.0,6.6,minutes unclear (+7),PP standard,4.5,Less,0.632,0.445,0.187,0.368,-145,111,,PrizePicks / Underdog
+MEM@MIN,MEM,Cedric Coward,REB,7.99,5,11,34.9,-0.6,lineup: starter (confirmed),PP standard,7.5,More,0.528,0.512,0.016,0.528,-120,-108,,PrizePicks / Underdog
+MEM@MIN,MEM,Zach Edey,REB,8.59,6,11,25.5,-2.3,lineup: starter (confirmed),PP standard,7.5,More,0.601,0.543,0.058,0.601,-138,105,,PrizePicks / Underdog
+MEM@MIN,MIN,LaMelo Ball,REB,4.58,3,7,29.6,-1.3,lineup: starter (confirmed),PP standard,5.5,Less,0.682,0.577,0.105,0.318,122,-160,,PrizePicks / Underdog
+MEM@MIN,MIN,Jaden McDaniels,REB,5.55,3,8,35.3,-0.7,lineup: starter (confirmed),book line,5.5,Less,0.531,0.532,-0.001,0.469,100,-132,,Kalshi / Underdog
+MEM@MIN,MEM,Jaylen Wells,REB,3.63,2,5,31.4,-8.3,minutes unclear (-8); lineup: starter (confirmed),book line,3.5,Less,0.522,0.58,-0.059,0.478,123,-163,,Kalshi / Underdog
+MEM@MIN,MIN,Jaden McDaniels,RA,8.81,6,12,35.3,-0.7,lineup: starter (confirmed),PP standard,8.5,More,0.504,0.498,0.006,0.504,-116,-118,,PrizePicks / Underdog
+MEM@MIN,MIN,Rudy Gobert,RA,12.1,9,15,29.8,-3.3,lineup: starter (confirmed),PP standard,11.5,More,0.533,0.518,0.015,0.533,-124,-106,,PrizePicks / Underdog
+MEM@MIN,MIN,Jonathan Kuminga,RA,7.83,5,10,27.8,0.9,lineup: starter (confirmed),PP standard,7.5,More,0.508,0.506,0.002,0.508,-118,-112,,PrizePicks / Underdog
+MEM@MIN,MEM,Ty Jerome,RA,9.39,6,12,31.8,-1.5,lineup: starter (confirmed); returning (missed 4) - minutes unclear,PP standard,8.5,More,0.573,0.549,0.024,0.573,-144,106,,PrizePicks / Underdog
+MEM@MIN,MIN,Ayo Dosunmu,RA,8.4,6,11,33.0,1.7,lineup: starter (confirmed); role down (last 8: 6.1),PP standard,7.5,More,0.581,0.52,0.061,0.581,-125,-105,,PrizePicks / Underdog
+MEM@MIN,MEM,Cedric Coward,RA,12.09,9,15,34.9,-0.6,lineup: starter (confirmed),PP standard,11.5,More,0.537,0.502,0.035,0.537,-116,-114,,PrizePicks / Underdog
 MEM@MIN,MIN,Terrence Shannon Jr.,RA,4.97,2,7,20.3,6.4,minutes unclear (+6),PP standard,5.5,Less,0.629,0.49,0.14,0.371,-120,-110,,PrizePicks / Underdog
 MEM@MIN,MEM,Cam Spencer,RA,10.19,7,13,27.5,-6.0,minutes unclear (-6),PP standard,8.5,More,0.655,0.471,0.184,0.655,-101,-130,,PrizePicks / Underdog
-MEM@MIN,MIN,LaMelo Ball,RA,11.27,8,14,29.6,-1.3,lineup: starter (expected),book line,11.5,Less,0.552,0.533,0.018,0.448,100,-133,,Kalshi / Underdog
-MEM@MIN,MEM,Jaylen Wells,RA,5.38,3,7,31.4,-8.3,minutes unclear (-8); lineup: starter (expected),PP standard,4.5,More,0.595,0.545,0.051,0.595,-140,105,,PrizePicks / Underdog
+MEM@MIN,MIN,LaMelo Ball,RA,11.27,8,14,29.6,-1.3,lineup: starter (confirmed),book line,11.5,Less,0.552,0.533,0.018,0.448,100,-133,,Kalshi / Underdog
+MEM@MIN,MEM,Jaylen Wells,RA,5.38,3,7,31.4,-8.3,minutes unclear (-8); lineup: starter (confirmed),PP standard,4.5,More,0.595,0.545,0.051,0.595,-140,105,,PrizePicks / Underdog
 MEM@MIN,MIN,Bones Hyland,3PM,1.84,0,3,16.5,-0.1,,book line,1.5,Less,0.504,0.455,0.049,0.496,-141,105,5.0,Kalshi / Underdog
-MEM@MIN,MEM,Jaylen Wells,3PM,2.17,1,3,31.4,-8.3,minutes unclear (-8); lineup: starter (expected); teammate back (Ty Jerome; last 8: 2.5),book line,1.5,More,0.596,0.581,0.015,0.596,-162,124,6.1,Kalshi / Underdog
-MEM@MIN,MEM,Taylor Hendricks,3PM,1.07,0,2,21.0,6.6,minutes unclear (+7); projected starter (expected) - minutes unclear (model 21),book line,1.5,Less,0.713,0.617,0.096,0.287,144,-194,3.2,Kalshi / Underdog
-MEM@MIN,MIN,Ayo Dosunmu,3PM,1.9,0,3,33.0,1.7,lineup: starter (expected),book line,1.5,More,0.53,0.612,-0.082,0.53,-191,140,5.4,Kalshi / Underdog
-MEM@MIN,MIN,Jonathan Kuminga,3PM,1.25,0,2,27.8,0.9,lineup: starter (expected),book line,1.5,Less,0.651,0.576,0.076,0.349,120,-161,3.9,Kalshi / Underdog
-MEM@MIN,MEM,Ty Jerome,3PM,2.62,1,4,31.8,-1.5,lineup: starter (expected); returning (missed 4) - minutes unclear,PP standard,2.5,Less,0.533,0.5,0.033,0.467,-116,-116,7.3,PrizePicks / Underdog
-MEM@MIN,MIN,Jaden McDaniels,3PM,1.46,0,3,35.3,-0.7,lineup: starter (expected),PP standard,1.5,Less,0.59,0.5,0.09,0.41,-116,-116,4.4,PrizePicks / Underdog
-MEM@MIN,MEM,Cedric Coward,3PM,2.32,1,4,34.9,-0.6,lineup: starter (expected),book line,1.5,More,0.629,0.604,0.025,0.629,-185,135,6.4,Kalshi / Underdog
-MEM@MIN,MIN,LaMelo Ball,3PM,3.97,2,6,29.6,-1.3,lineup: starter (expected),PP standard,3.5,More,0.546,0.507,0.039,0.546,-119,-112,10.9,PrizePicks / Underdog
-MEM@MIN,MIN,Rudy Gobert,AST,1.58,0,3,29.8,-3.3,lineup: starter (expected),PP standard,1.5,Less,0.55,0.508,0.042,0.45,-112,-120,,PrizePicks / Underdog
-MEM@MIN,MEM,Jaylen Wells,AST,1.75,0,3,31.4,-8.3,minutes unclear (-8); lineup: starter (expected),PP standard,1.5,Less,0.5,0.5,0.0,0.5,-120,-120,,PrizePicks / Underdog
-MEM@MIN,MEM,Taylor Hendricks,AST,1.21,0,2,21.0,6.6,minutes unclear (+7); projected starter (expected) - minutes unclear (model 21),book line,1.5,Less,0.668,0.653,0.015,0.332,171,-227,,Kalshi / Underdog
+MEM@MIN,MEM,Jaylen Wells,3PM,2.17,1,3,31.4,-8.3,minutes unclear (-8); lineup: starter (confirmed); teammate back (Ty Jerome; last 8: 2.5),book line,1.5,More,0.596,0.581,0.015,0.596,-162,124,6.1,Kalshi / Underdog
+MEM@MIN,MEM,Taylor Hendricks,3PM,1.07,0,2,21.0,6.6,minutes unclear (+7),book line,1.5,Less,0.713,0.617,0.096,0.287,144,-194,3.2,Kalshi / Underdog
+MEM@MIN,MIN,Ayo Dosunmu,3PM,1.9,0,3,33.0,1.7,lineup: starter (confirmed),book line,1.5,More,0.53,0.612,-0.082,0.53,-191,140,5.4,Kalshi / Underdog
+MEM@MIN,MIN,Jonathan Kuminga,3PM,1.25,0,2,27.8,0.9,lineup: starter (confirmed),book line,1.5,Less,0.651,0.576,0.076,0.349,120,-161,3.9,Kalshi / Underdog
+MEM@MIN,MEM,Ty Jerome,3PM,2.62,1,4,31.8,-1.5,lineup: starter (confirmed); returning (missed 4) - minutes unclear,PP standard,2.5,Less,0.533,0.5,0.033,0.467,-116,-116,7.3,PrizePicks / Underdog
+MEM@MIN,MIN,Jaden McDaniels,3PM,1.46,0,3,35.3,-0.7,lineup: starter (confirmed),PP standard,1.5,Less,0.59,0.5,0.09,0.41,-116,-116,4.4,PrizePicks / Underdog
+MEM@MIN,MEM,Cedric Coward,3PM,2.32,1,4,34.9,-0.6,lineup: starter (confirmed),book line,1.5,More,0.629,0.604,0.025,0.629,-185,135,6.4,Kalshi / Underdog
+MEM@MIN,MIN,LaMelo Ball,3PM,3.97,2,6,29.6,-1.3,lineup: starter (confirmed),PP standard,3.5,More,0.546,0.507,0.039,0.546,-119,-112,10.9,PrizePicks / Underdog
+MEM@MIN,MIN,Rudy Gobert,AST,1.58,0,3,29.8,-3.3,lineup: starter (confirmed),PP standard,1.5,Less,0.55,0.508,0.042,0.45,-112,-120,,PrizePicks / Underdog
+MEM@MIN,MEM,Jaylen Wells,AST,1.75,0,3,31.4,-8.3,minutes unclear (-8); lineup: starter (confirmed),PP standard,1.5,Less,0.5,0.5,0.0,0.5,-120,-120,,PrizePicks / Underdog
+MEM@MIN,MEM,Taylor Hendricks,AST,1.21,0,2,21.0,6.6,minutes unclear (+7),book line,1.5,Less,0.668,0.653,0.015,0.332,171,-227,,Kalshi / Underdog
 MEM@MIN,MIN,Bones Hyland,PRA,14.48,8,21,16.5,-0.1,,PP standard,14.5,Less,0.561,0.503,0.058,0.439,-113,-116,,PrizePicks / Underdog
-MEM@MIN,MEM,Taylor Hendricks,PRA,14.51,8,20,21.0,6.6,minutes unclear (+7); projected starter (expected) - minutes unclear (model 21); teammate back (Ty Jerome; last 8: 16.8),PP standard,16.5,Less,0.65,0.517,0.133,0.35,-106,-123,,PrizePicks / Underdog
+MEM@MIN,MEM,Taylor Hendricks,PRA,14.51,8,20,21.0,6.6,minutes unclear (+7); teammate back (Ty Jerome; last 8: 16.8),PP standard,16.5,Less,0.65,0.517,0.133,0.35,-106,-123,,PrizePicks / Underdog
 MEM@MIN,MIN,Terrence Shannon Jr.,REB,2.59,1,4,20.3,6.4,minutes unclear (+6),book line,2.5,Less,0.552,0.411,0.141,0.448,-170,128,,Kalshi / Underdog
 MEM@MIN,MEM,Cam Spencer,REB,2.99,1,5,27.5,-6.0,minutes unclear (-6),book line,2.5,More,0.546,0.584,-0.038,0.546,-166,125,,Kalshi / Underdog
 MEM@MIN,MEM,Isaiah Stewart,REB,4.21,2,6,21.3,0.0,,PP standard,4.5,Less,0.595,0.584,0.011,0.405,124,-168,,PrizePicks / Underdog
 MEM@MIN,MEM,Cam Spencer,3PM,1.86,0,3,27.5,-6.0,minutes unclear (-6); teammate back (Ty Jerome; last 8: 2.2),PP standard,1.5,More,0.516,0.487,0.029,0.516,-112,-125,4.7,PrizePicks / Underdog
 MEM@MIN,MEM,Isaiah Stewart,3PM,0.58,0,1,21.3,0.0,teammate back (Ty Jerome; last 8: 0.9),book line,0.5,Less,0.605,0.416,0.189,0.395,-164,126,2.3,Kalshi / Underdog
 MEM@MIN,MIN,Terrence Shannon Jr.,3PM,1.08,0,2,20.3,6.4,minutes unclear (+6),book line,1.5,Less,0.711,0.651,0.06,0.289,178,-204,3.1,Kalshi / Underdog
-MEM@MIN,MEM,Taylor Hendricks,PA,10.54,5,16,21.0,6.6,minutes unclear (+7); projected starter (expected) - minutes unclear (model 21); teammate back (Ty Jerome; last 8: 12.5),PP standard,11.5,Less,0.614,0.983,-0.369,0.386,-1,-130,,PrizePicks / Underdog
-MEM@MIN,MEM,Taylor Hendricks,RA,5.18,3,7,21.0,6.6,minutes unclear (+7); projected starter (expected) - minutes unclear (model 21),book line,6.5,Less,0.711,0.555,0.156,0.289,110,-146,,Kalshi / Underdog
+MEM@MIN,MEM,Taylor Hendricks,PA,10.54,5,16,21.0,6.6,minutes unclear (+7); teammate back (Ty Jerome; last 8: 12.5),PP standard,11.5,Less,0.614,0.983,-0.369,0.386,-1,-130,,PrizePicks / Underdog
+MEM@MIN,MEM,Taylor Hendricks,RA,5.18,3,7,21.0,6.6,minutes unclear (+7),book line,6.5,Less,0.711,0.555,0.156,0.289,110,-146,,Kalshi / Underdog
 MEM@MIN,MIN,Trey Lyles,PTS,6.6,2,10,19.5,-1.2,,PP standard,5.5,More,0.516,0.872,-0.355,0.516,-128,-9,,PrizePicks / Underdog
 MEM@MIN,MIN,Joan Beringer,PTS,6.44,2,10,17.1,-0.4,small sample,PP standard,5.5,More,0.511,0.937,-0.425,0.511,-132,-4,,PrizePicks / Underdog
-MEM@MIN,MEM,Zach Edey,PRA,21.02,15,27,25.5,-2.3,lineup: starter (expected),PP standard,19.5,More,0.55,0.144,0.406,0.55,-10,-117,,PrizePicks / Underdog
+MEM@MIN,MEM,Zach Edey,PRA,21.02,15,27,25.5,-2.3,lineup: starter (confirmed),PP standard,19.5,More,0.55,0.144,0.406,0.55,-10,-117,,PrizePicks / Underdog
 MEM@MIN,MEM,Isaiah Stewart,PRA,14.9,9,20,21.3,0.0,,PP standard,14.5,Less,0.519,0.5,0.019,0.481,-14,-14,,PrizePicks / Underdog
 MEM@MIN,MIN,Joan Beringer,PRA,12.5,7,18,17.1,-0.4,small sample,PP standard,12.5,Less,0.558,0.499,0.059,0.442,100,101,,PrizePicks / Underdog
 MEM@MIN,MIN,Trey Lyles,PRA,11.93,6,17,19.5,-1.2,,PP standard,11.5,Less,0.539,0.488,0.051,0.461,-104,106,,PrizePicks / Underdog
 MEM@MIN,MIN,Joan Beringer,REB,5.47,3,8,17.1,-0.4,small sample,PP standard,5.5,Less,0.558,0.446,0.112,0.442,-123,125,,PrizePicks / Underdog
 MEM@MIN,MIN,Trey Lyles,REB,4.1,2,6,19.5,-1.2,,PP standard,4.5,Less,0.616,0.509,0.107,0.384,104,-103,,PrizePicks / Underdog
-MEM@MIN,MEM,Zach Edey,RA,9.79,7,13,25.5,-2.3,lineup: starter (expected),PP standard,8.5,More,0.611,0.527,0.084,0.611,-111,112,,PrizePicks / Underdog
-MEM@MIN,MEM,Zach Edey,PA,12.42,7,17,25.5,-2.3,lineup: starter (expected),book line,11.5,More,0.521,0.49,0.031,0.521,105,-103,,Kalshi / Underdog
+MEM@MIN,MEM,Zach Edey,RA,9.79,7,13,25.5,-2.3,lineup: starter (confirmed),PP standard,8.5,More,0.611,0.527,0.084,0.611,-111,112,,PrizePicks / Underdog
+MEM@MIN,MEM,Zach Edey,PA,12.42,7,17,25.5,-2.3,lineup: starter (confirmed),book line,11.5,More,0.521,0.49,0.031,0.521,105,-103,,Kalshi / Underdog
 MEM@MIN,MEM,Isaiah Stewart,PA,10.69,6,15,21.3,0.0,teammate back (Ty Jerome; last 8: 13.0),book line,10.5,Less,0.536,0.523,0.014,0.464,110,-109,,Kalshi / Underdog
 MEM@MIN,MIN,Trey Lyles,PR,10.7,5,15,19.5,-1.2,,book line,10.5,Less,0.551,0.49,0.061,0.449,-103,105,,Kalshi / Underdog
 MEM@MIN,MIN,Bones Hyland,RA,4.62,2,7,16.5,-0.1,,book line,4.5,Less,0.541,0.539,0.002,0.459,118,-116,,Kalshi / Underdog
@@ -202,88 +194,81 @@ MEM@MIN,MIN,Trey Lyles,RA,5.33,3,8,19.5,-1.2,,book line,5.5,Less,0.576,0.499,0.0
 MEM@MIN,MIN,Joan Beringer,RA,6.06,3,9,17.1,-0.4,small sample,book line,6.5,Less,0.601,0.512,0.089,0.399,106,-104,,Kalshi / Underdog
 MEM@MIN,MEM,Isaiah Stewart,RA,5.4,3,8,21.3,0.0,,book line,5.5,Less,0.558,0.512,0.046,0.442,106,-104,,Kalshi / Underdog
 MEM@MIN,MIN,Trey Lyles,3PM,1.12,0,2,19.5,-1.2,,book line,1.5,Less,0.696,0.677,0.019,0.304,211,-208,3.4,Kalshi / Underdog
-NO@SA,SA,Victor Wembanyama,AST,3.77,2,5,33.7,-2.2,lineup: starter (expected),book line,3.5,More,0.505,0.427,0.078,0.505,118,-160,,Kalshi / Underdog
-NO@SA,NO,Saddiq Bey,AST,2.82,1,4,34.4,-2.0,lineup: starter (expected),book line,2.5,More,0.514,0.433,0.081,0.514,116,-154,,Kalshi / Underdog
-NO@SA,NO,Zion Williamson,AST,3.21,1,5,33.6,-2.7,lineup: starter (expected),PP standard,2.5,More,0.593,0.482,0.111,0.593,-106,-124,,PrizePicks / Underdog
-NO@SA,NO,Jeremiah Fears,AST,5.43,3,8,32.6,-0.3,lineup: starter (expected),PP standard,5.5,Less,0.545,0.528,0.018,0.455,-106,-135,,PrizePicks / Underdog
-NO@SA,SA,Devin Vassell,AST,3.14,1,5,32.4,-1.7,lineup: starter (expected),book line,2.5,More,0.578,0.565,0.013,0.578,-152,115,,Kalshi / Underdog
-NO@SA,SA,De'Aaron Fox,AST,6.42,4,9,31.8,-3.8,lineup: starter (expected); role down (last 8: 4.6),PP standard,6.5,Less,0.538,0.559,-0.021,0.462,110,-152,,PrizePicks / Underdog
-NO@SA,SA,Stephon Castle,AST,7.97,5,10,33.8,-2.2,lineup: starter (expected),PP standard,6.5,More,0.668,0.558,0.11,0.668,-149,111,,PrizePicks / Underdog
-NO@SA,NO,Yves Missi,PTS,5.29,2,8,19.1,10.2,minutes unclear (+10); projected starter (expected) - minutes unclear (model 19),PP standard,5.5,Less,0.586,0.5,0.086,0.414,-114,-114,,PrizePicks / Underdog
-NO@SA,SA,Stephon Castle,PTS,19.3,13,26,33.8,-2.2,lineup: starter (expected),PP standard,17.5,More,0.563,0.512,0.051,0.563,-120,-108,,PrizePicks / Underdog
-NO@SA,SA,De'Aaron Fox,PTS,16.58,10,22,31.8,-3.8,lineup: starter (expected); role down (last 8: 10.2),PP standard,14.5,More,0.583,0.498,0.085,0.583,-114,-116,,PrizePicks / Underdog
-NO@SA,NO,Saddiq Bey,PTS,17.74,11,24,34.4,-2.0,lineup: starter (expected),PP standard,16.5,More,0.514,0.521,-0.006,0.514,-124,-104,,PrizePicks / Underdog
-NO@SA,NO,Zion Williamson,PTS,20.13,13,26,33.6,-2.7,lineup: starter (expected),PP standard,19.5,More,0.502,0.491,0.011,0.502,-112,-121,,PrizePicks / Underdog
-NO@SA,NO,Jeremiah Fears,PTS,16.75,10,23,32.6,-0.3,lineup: starter (expected),PP standard,16.5,Less,0.527,0.514,0.013,0.473,-108,-122,,PrizePicks / Underdog
-NO@SA,SA,Keldon Johnson,PTS,12.38,7,17,26.5,-2.4,,PP standard,11.5,More,0.512,0.477,0.035,0.512,-104,-127,,PrizePicks / Underdog
-NO@SA,SA,Julian Champagnie,PTS,11.99,6,17,31.8,-0.0,lineup: starter (expected),PP standard,11.5,Less,0.512,0.51,0.002,0.488,-112,-122,,PrizePicks / Underdog
-NO@SA,SA,Victor Wembanyama,PTS,31.95,24,40,33.7,-2.2,lineup: starter (expected),PP standard,29.5,More,0.581,0.494,0.087,0.581,-112,-118,,PrizePicks / Underdog
-NO@SA,SA,Devin Vassell,PTS,13.6,8,19,32.4,-1.7,lineup: starter (expected),PP standard,12.5,More,0.523,0.487,0.036,0.523,-109,-122,,PrizePicks / Underdog
-NO@SA,SA,Julian Champagnie,PA,13.77,8,19,31.8,-0.0,lineup: starter (expected),PP standard,12.5,More,0.532,0.514,0.017,0.532,-115,-102,,PrizePicks / Underdog
-NO@SA,NO,Saddiq Bey,PA,20.55,13,28,34.4,-2.0,lineup: starter (expected),PP standard,19.5,More,0.505,0.5,0.005,0.505,-115,-115,,PrizePicks / Underdog
-NO@SA,NO,Jeremiah Fears,PA,22.18,15,29,32.6,-0.3,lineup: starter (expected),PP standard,21.5,Less,0.504,0.49,0.014,0.496,-120,-110,,PrizePicks / Underdog
-NO@SA,NO,Zion Williamson,PA,23.34,16,30,33.6,-2.7,lineup: starter (expected),PP standard,21.5,More,0.561,0.503,0.058,0.561,-116,-113,,PrizePicks / Underdog
-NO@SA,SA,Stephon Castle,PA,27.26,20,34,33.8,-2.2,lineup: starter (expected),PP standard,24.5,More,0.607,0.521,0.085,0.607,-125,-104,,PrizePicks / Underdog
-NO@SA,SA,De'Aaron Fox,PA,23.0,16,30,31.8,-3.8,lineup: starter (expected); role down (last 8: 14.9),PP standard,20.5,More,0.593,0.518,0.075,0.593,-124,-106,,PrizePicks / Underdog
-NO@SA,SA,Victor Wembanyama,PA,35.73,27,44,33.7,-2.2,lineup: starter (expected),PP standard,32.5,More,0.606,0.506,0.1,0.606,-118,-112,,PrizePicks / Underdog
-NO@SA,SA,Devin Vassell,PA,16.73,11,23,32.4,-1.7,lineup: starter (expected),PP standard,15.5,More,0.527,0.491,0.036,0.527,-111,-120,,PrizePicks / Underdog
-NO@SA,NO,Yves Missi,PR,10.23,5,15,19.1,10.2,minutes unclear (+10); projected starter (expected) - minutes unclear (model 19),PP standard,12.5,Less,0.695,0.494,0.201,0.305,-118,-112,,PrizePicks / Underdog
-NO@SA,SA,Victor Wembanyama,PR,44.27,35,53,33.7,-2.2,lineup: starter (expected),PP standard,40.5,More,0.624,0.507,0.116,0.624,-118,-111,,PrizePicks / Underdog
-NO@SA,NO,Saddiq Bey,PR,22.35,15,30,34.4,-2.0,lineup: starter (expected),book line,22.5,Less,0.548,0.518,0.03,0.452,-106,-124,,Kalshi / Underdog
-NO@SA,NO,Jeremiah Fears,PR,21.01,14,28,32.6,-0.3,lineup: starter (expected),PP standard,21.5,Less,0.557,0.511,0.046,0.443,-110,-121,,PrizePicks / Underdog
-NO@SA,SA,Devin Vassell,PR,17.75,12,24,32.4,-1.7,lineup: starter (expected),PP standard,16.5,More,0.533,0.498,0.035,0.533,-114,-116,,PrizePicks / Underdog
-NO@SA,NO,Zion Williamson,PR,25.17,18,32,33.6,-2.7,lineup: starter (expected),PP standard,24.5,More,0.503,0.509,-0.006,0.503,-120,-111,,PrizePicks / Underdog
-NO@SA,SA,De'Aaron Fox,PR,20.61,14,27,31.8,-3.8,lineup: starter (expected); role down (last 8: 14.0),PP standard,18.5,More,0.58,0.49,0.09,0.58,-110,-120,,PrizePicks / Underdog
-NO@SA,SA,Stephon Castle,PR,24.99,18,32,33.8,-2.2,lineup: starter (expected),PP standard,22.5,More,0.596,0.519,0.077,0.596,-125,-106,,PrizePicks / Underdog
-NO@SA,SA,Keldon Johnson,PR,18.02,12,24,26.5,-2.4,,PP standard,16.5,More,0.55,0.51,0.04,0.55,-120,-110,,PrizePicks / Underdog
-NO@SA,SA,Julian Champagnie,PR,17.56,11,23,31.8,-0.0,lineup: starter (expected),PP standard,16.5,More,0.525,0.5,0.025,0.525,-114,-114,,PrizePicks / Underdog
-NO@SA,SA,De'Aaron Fox,PRA,27.03,20,34,31.8,-3.8,lineup: starter (expected); role down (last 8: 18.6),PP standard,24.5,More,0.59,0.505,0.085,0.59,-117,-112,,PrizePicks / Underdog
-NO@SA,SA,Stephon Castle,PRA,32.95,25,40,33.8,-2.2,lineup: starter (expected),PP standard,30.5,More,0.584,0.481,0.103,0.584,-106,-125,,PrizePicks / Underdog
-NO@SA,NO,Saddiq Bey,PRA,25.17,17,33,34.4,-2.0,lineup: starter (expected),PP standard,24.5,Less,0.51,0.499,0.011,0.49,-114,-113,,PrizePicks / Underdog
-NO@SA,SA,Julian Champagnie,PRA,19.34,13,25,31.8,-0.0,lineup: starter (expected),PP standard,18.5,More,0.514,0.483,0.031,0.514,-106,-123,,PrizePicks / Underdog
-NO@SA,SA,Devin Vassell,PRA,20.89,14,27,32.4,-1.7,lineup: starter (expected),PP standard,19.5,More,0.536,0.502,0.034,0.536,-115,-113,,PrizePicks / Underdog
-NO@SA,NO,Jeremiah Fears,PRA,26.44,18,34,32.6,-0.3,lineup: starter (expected),PP standard,26.5,Less,0.535,0.492,0.043,0.465,-120,-112,,PrizePicks / Underdog
-NO@SA,NO,Zion Williamson,PRA,28.37,21,36,33.6,-2.7,lineup: starter (expected),PP standard,27.5,More,0.511,0.488,0.023,0.511,-108,-120,,PrizePicks / Underdog
-NO@SA,SA,Victor Wembanyama,PRA,48.04,38,57,33.7,-2.2,lineup: starter (expected),PP standard,44.5,More,0.61,0.486,0.124,0.61,-108,-122,,PrizePicks / Underdog
-NO@SA,NO,Yves Missi,REB,4.95,3,7,19.1,10.2,minutes unclear (+10); projected starter (expected) - minutes unclear (model 19); role up (last 8: 8.2),book line,6.5,Less,0.736,0.467,0.269,0.264,-130,102,,Kalshi / Underdog
-NO@SA,SA,Julian Champagnie,REB,5.58,3,8,31.8,-0.0,lineup: starter (expected),PP standard,5.5,Less,0.528,0.571,-0.043,0.472,118,-157,,PrizePicks / Underdog
-NO@SA,SA,Victor Wembanyama,REB,12.32,9,16,33.7,-2.2,lineup: starter (expected),PP standard,11.5,More,0.558,0.473,0.085,0.558,-103,-130,,PrizePicks / Underdog
-NO@SA,SA,Stephon Castle,REB,5.69,3,8,33.8,-2.2,lineup: starter (expected),PP standard,5.5,Less,0.507,0.572,-0.065,0.493,118,-158,,PrizePicks / Underdog
-NO@SA,NO,Saddiq Bey,REB,4.61,2,7,34.4,-2.0,lineup: starter (expected),book line,4.5,Less,0.527,0.439,0.088,0.473,-150,113,,Kalshi / Underdog
-NO@SA,SA,Devin Vassell,REB,4.16,2,6,32.4,-1.7,lineup: starter (expected),PP standard,4.5,Less,0.599,0.582,0.018,0.401,122,-168,,PrizePicks / Underdog
-NO@SA,NO,Jeremiah Fears,REB,4.26,2,6,32.6,-0.3,lineup: starter (expected); role up (last 8: 5.5),PP standard,4.5,Less,0.582,0.502,0.08,0.418,-114,-116,,PrizePicks / Underdog
-NO@SA,NO,Zion Williamson,REB,5.04,3,7,33.6,-2.7,lineup: starter (expected),PP standard,5.5,Less,0.613,0.361,0.252,0.386,0,-130,,PrizePicks / Underdog
-NO@SA,SA,Keldon Johnson,REB,5.64,3,8,26.5,-2.4,,PP standard,5.5,Less,0.518,0.548,-0.03,0.482,106,-143,,PrizePicks / Underdog
-NO@SA,SA,De'Aaron Fox,REB,4.03,2,6,31.8,-3.8,lineup: starter (expected),PP standard,3.5,More,0.546,0.509,0.037,0.546,-120,-111,,PrizePicks / Underdog
-NO@SA,SA,Devin Vassell,RA,7.3,5,10,32.4,-1.7,lineup: starter (expected),PP standard,6.5,More,0.575,0.565,0.01,0.575,-154,114,,PrizePicks / Underdog
-NO@SA,SA,Stephon Castle,RA,13.66,10,17,33.8,-2.2,lineup: starter (expected),PP standard,12.5,More,0.595,0.468,0.127,0.595,100,-132,,PrizePicks / Underdog
-NO@SA,NO,Saddiq Bey,RA,7.43,5,10,34.4,-2.0,lineup: starter (expected),book line,7.5,Less,0.543,0.524,0.019,0.457,-104,-128,,Kalshi / Underdog
-NO@SA,NO,Zion Williamson,RA,8.24,5,11,33.6,-2.7,lineup: starter (expected),book line,7.5,More,0.549,0.539,0.01,0.549,-136,103,,Kalshi / Underdog
-NO@SA,SA,Julian Champagnie,RA,7.36,5,10,31.8,-0.0,lineup: starter (expected),PP standard,6.5,More,0.58,0.51,0.07,0.58,-120,-110,,PrizePicks / Underdog
-NO@SA,NO,Jeremiah Fears,RA,9.7,6,13,32.6,-0.3,lineup: starter (expected),book line,10.5,Less,0.611,0.538,0.073,0.389,102,-136,,Kalshi / Underdog
-NO@SA,SA,De'Aaron Fox,RA,10.45,7,13,31.8,-3.8,lineup: starter (expected),book line,9.5,More,0.579,0.535,0.043,0.579,-136,100,,Kalshi / Underdog
-NO@SA,SA,Victor Wembanyama,RA,16.09,12,20,33.7,-2.2,lineup: starter (expected),PP standard,14.5,More,0.616,0.506,0.11,0.616,-122,-116,,PrizePicks / Underdog
-NO@SA,SA,Devin Vassell,3PM,2.04,1,3,32.4,-1.7,lineup: starter (expected),book line,1.5,More,0.561,0.548,0.013,0.561,-142,107,5.6,Kalshi / Underdog
-NO@SA,SA,Julian Champagnie,3PM,2.82,1,4,31.8,-0.0,lineup: starter (expected),PP standard,2.5,More,0.512,0.503,0.009,0.512,-119,-116,7.2,PrizePicks / Underdog
-NO@SA,NO,Saddiq Bey,3PM,2.61,1,4,34.4,-2.0,lineup: starter (expected),book line,2.5,Less,0.535,0.569,-0.034,0.465,117,-156,7.2,Kalshi / Underdog
-NO@SA,NO,Jeremiah Fears,3PM,1.71,0,3,32.6,-0.3,lineup: starter (expected),book line,1.5,Less,0.517,0.557,-0.04,0.483,111,-148,5.1,Kalshi / Underdog
-NO@SA,SA,Victor Wembanyama,3PM,2.37,1,4,33.7,-2.2,lineup: starter (expected),book line,1.5,More,0.641,0.604,0.037,0.641,-188,134,6.8,Kalshi / Underdog
-NO@SA,SA,Stephon Castle,3PM,1.9,0,3,33.8,-2.2,lineup: starter (expected),book line,1.5,More,0.533,0.538,-0.005,0.533,-136,102,5.2,Kalshi / Underdog
-NO@SA,SA,De'Aaron Fox,3PM,1.48,0,3,31.8,-3.8,lineup: starter (expected),book line,1.5,Less,0.59,0.621,-0.031,0.41,146,-200,4.3,Kalshi / Underdog
-NO@SA,SA,Julian Champagnie,AST,1.78,0,3,31.8,-0.0,lineup: starter (expected),book line,1.5,More,0.51,0.455,0.055,0.51,105,-140,,Kalshi / Underdog
-NO@SA,SA,Harrison Barnes,PTS,7.47,1,13,19.2,-3.7,,PP standard,6.5,Less,0.539,0.499,0.04,0.461,100,101,,PrizePicks / Underdog
-NO@SA,SA,Keldon Johnson,PRA,20.16,14,26,26.5,-2.4,,PP standard,18.5,More,0.556,0.167,0.389,0.556,-12,-115,,PrizePicks / Underdog
-NO@SA,SA,Luke Kornet,PRA,12.4,4,20,18.9,-3.9,,PP standard,10.5,More,0.516,0.536,-0.02,0.516,-115,116,,PrizePicks / Underdog
-NO@SA,SA,Harrison Barnes,PRA,10.85,3,18,19.2,-3.7,,PP standard,9.5,Less,0.518,0.5,0.018,0.482,-119,-119,,PrizePicks / Underdog
-NO@SA,SA,Luke Kornet,REB,5.1,2,8,18.9,-3.9,role down (last 8: 3.6),PP standard,4.5,Less,0.501,0.499,0.002,0.499,100,101,,PrizePicks / Underdog
-NO@SA,SA,Keldon Johnson,3PM,0.91,0,2,26.5,-2.4,,PP standard,0.5,More,0.534,0.491,0.042,0.534,104,-103,2.7,PrizePicks / Underdog
-NO@SA,SA,Keldon Johnson,PA,14.52,9,20,26.5,-2.4,,book line,13.5,More,0.522,0.477,0.045,0.522,110,-109,,Kalshi / Underdog
-NO@SA,SA,Luke Kornet,PR,10.71,4,17,18.9,-3.9,,book line,9.5,Less,0.508,0.494,0.015,0.492,-102,103,,Kalshi / Underdog
-NO@SA,NO,Yves Missi,PRA,11.44,6,16,19.1,10.2,minutes unclear (+10); projected starter (expected) - minutes unclear (model 19),PP standard,14.5,Less,0.725,0.501,0.224,0.275,101,100,,PrizePicks / Underdog
-NO@SA,NO,Yves Missi,RA,6.15,3,9,19.1,10.2,minutes unclear (+10); projected starter (expected) - minutes unclear (model 19); role up (last 8: 9.7),book line,8.5,Less,0.78,0.529,0.251,0.22,113,-112,,Kalshi / Underdog
-NO@SA,SA,Keldon Johnson,RA,7.79,5,10,26.5,-2.4,,book line,6.5,More,0.627,0.554,0.073,0.627,-123,125,,Kalshi / Underdog
-NO@SA,SA,Luke Kornet,RA,6.8,3,11,18.9,-3.9,,book line,5.5,More,0.54,0.548,-0.007,0.54,-120,122,,Kalshi / Underdog
-NO@SA,SA,Harrison Barnes,3PM,1.34,0,2,19.2,-3.7,,book line,1.5,Less,0.647,0.638,0.009,0.353,177,-175,3.4,Kalshi / Underdog
+NO@SA,SA,Victor Wembanyama,AST,3.79,2,5,33.6,-2.3,lineup: starter (confirmed),book line,3.5,More,0.509,0.427,0.082,0.509,118,-160,,Kalshi / Underdog
+NO@SA,NO,Saddiq Bey,AST,2.89,1,4,35.7,-5.2,minutes unclear (-5); lineup: starter (confirmed),book line,2.5,More,0.531,0.433,0.098,0.531,116,-154,,Kalshi / Underdog
+NO@SA,NO,Jeremiah Fears,AST,5.84,4,8,35.2,-6.4,minutes unclear (-6); lineup: starter (confirmed),PP standard,5.5,More,0.518,0.472,0.045,0.518,-106,-135,,PrizePicks / Underdog
+NO@SA,SA,Devin Vassell,AST,3.09,1,5,32.4,-1.7,lineup: starter (confirmed),book line,2.5,More,0.576,0.565,0.012,0.576,-152,115,,Kalshi / Underdog
+NO@SA,SA,De'Aaron Fox,AST,6.42,4,9,31.9,-3.9,lineup: starter (confirmed); role down (last 8: 4.6),PP standard,6.5,Less,0.547,0.559,-0.012,0.453,110,-152,,PrizePicks / Underdog
+NO@SA,SA,Stephon Castle,AST,7.97,5,10,33.7,-2.2,lineup: starter (confirmed),PP standard,6.5,More,0.673,0.558,0.115,0.673,-149,111,,PrizePicks / Underdog
+NO@SA,NO,Yves Missi,PTS,6.29,2,10,20.7,6.0,minutes unclear (+6); projected starter (confirmed) - minutes unclear (model 21),PP standard,5.5,More,0.509,0.5,0.009,0.509,-114,-114,,PrizePicks / Underdog
+NO@SA,SA,Stephon Castle,PTS,19.23,13,25,33.7,-2.2,lineup: starter (confirmed),PP standard,17.5,More,0.561,0.512,0.048,0.561,-120,-108,,PrizePicks / Underdog
+NO@SA,SA,De'Aaron Fox,PTS,16.68,10,23,31.9,-3.9,lineup: starter (confirmed); role down (last 8: 10.2),PP standard,14.5,More,0.584,0.498,0.086,0.584,-114,-116,,PrizePicks / Underdog
+NO@SA,NO,Saddiq Bey,PTS,19.35,12,26,35.7,-5.2,minutes unclear (-5); lineup: starter (confirmed),PP standard,16.5,More,0.598,0.521,0.078,0.598,-124,-104,,PrizePicks / Underdog
+NO@SA,NO,Jeremiah Fears,PTS,19.36,12,26,35.2,-6.4,minutes unclear (-6); lineup: starter (confirmed),PP standard,16.5,More,0.601,0.486,0.115,0.601,-108,-122,,PrizePicks / Underdog
+NO@SA,SA,Keldon Johnson,PTS,12.36,7,17,26.5,-2.4,,PP standard,11.5,More,0.515,0.477,0.038,0.515,-104,-127,,PrizePicks / Underdog
+NO@SA,SA,Julian Champagnie,PTS,12.0,6,17,31.7,-0.4,lineup: starter (confirmed),PP standard,11.5,Less,0.511,0.51,0.001,0.489,-112,-122,,PrizePicks / Underdog
+NO@SA,SA,Victor Wembanyama,PTS,31.91,24,40,33.6,-2.3,lineup: starter (confirmed),PP standard,29.5,More,0.581,0.494,0.087,0.581,-112,-118,,PrizePicks / Underdog
+NO@SA,SA,Devin Vassell,PTS,13.46,8,19,32.4,-1.7,lineup: starter (confirmed),PP standard,12.5,More,0.518,0.487,0.031,0.518,-109,-122,,PrizePicks / Underdog
+NO@SA,SA,Julian Champagnie,PA,13.79,8,19,31.7,-0.4,lineup: starter (confirmed),PP standard,12.5,More,0.537,0.514,0.023,0.537,-115,-102,,PrizePicks / Underdog
+NO@SA,NO,Saddiq Bey,PA,22.24,14,30,35.7,-5.2,minutes unclear (-5); lineup: starter (confirmed),PP standard,19.5,More,0.589,0.5,0.089,0.589,-115,-115,,PrizePicks / Underdog
+NO@SA,NO,Jeremiah Fears,PA,25.2,17,33,35.2,-6.4,minutes unclear (-6); lineup: starter (confirmed),PP standard,21.5,More,0.627,0.51,0.117,0.627,-120,-110,,PrizePicks / Underdog
+NO@SA,SA,Stephon Castle,PA,27.2,20,34,33.7,-2.2,lineup: starter (confirmed),PP standard,24.5,More,0.601,0.521,0.079,0.601,-125,-104,,PrizePicks / Underdog
+NO@SA,SA,De'Aaron Fox,PA,23.11,16,30,31.9,-3.9,lineup: starter (confirmed); role down (last 8: 14.9),PP standard,20.5,More,0.598,0.518,0.08,0.598,-124,-106,,PrizePicks / Underdog
+NO@SA,SA,Victor Wembanyama,PA,35.69,27,44,33.6,-2.3,lineup: starter (confirmed),PP standard,32.5,More,0.607,0.506,0.101,0.607,-118,-112,,PrizePicks / Underdog
+NO@SA,SA,Devin Vassell,PA,16.55,10,22,32.4,-1.7,lineup: starter (confirmed),PP standard,15.5,More,0.522,0.491,0.031,0.522,-111,-120,,PrizePicks / Underdog
+NO@SA,NO,Yves Missi,PR,11.66,7,16,20.7,6.0,minutes unclear (+6); projected starter (confirmed) - minutes unclear (model 21),PP standard,12.5,Less,0.605,0.494,0.111,0.395,-118,-112,,PrizePicks / Underdog
+NO@SA,SA,Victor Wembanyama,PR,44.31,35,53,33.6,-2.3,lineup: starter (confirmed),PP standard,40.5,More,0.625,0.507,0.118,0.625,-118,-111,,PrizePicks / Underdog
+NO@SA,NO,Saddiq Bey,PR,24.06,16,32,35.7,-5.2,minutes unclear (-5); lineup: starter (confirmed),book line,22.5,More,0.533,0.482,0.052,0.533,-106,-124,,Kalshi / Underdog
+NO@SA,NO,Jeremiah Fears,PR,23.88,16,31,35.2,-6.4,minutes unclear (-6); lineup: starter (confirmed),PP standard,21.5,More,0.57,0.489,0.081,0.57,-110,-121,,PrizePicks / Underdog
+NO@SA,SA,Devin Vassell,PR,17.69,11,24,32.4,-1.7,lineup: starter (confirmed),PP standard,16.5,More,0.532,0.498,0.034,0.532,-114,-116,,PrizePicks / Underdog
+NO@SA,SA,De'Aaron Fox,PR,20.78,14,27,31.9,-3.9,lineup: starter (confirmed); role down (last 8: 14.0),PP standard,18.5,More,0.582,0.49,0.092,0.582,-110,-120,,PrizePicks / Underdog
+NO@SA,SA,Stephon Castle,PR,25.0,18,32,33.7,-2.2,lineup: starter (confirmed),PP standard,22.5,More,0.593,0.519,0.074,0.593,-125,-106,,PrizePicks / Underdog
+NO@SA,SA,Keldon Johnson,PR,18.1,12,24,26.5,-2.4,,PP standard,16.5,More,0.561,0.51,0.051,0.561,-120,-110,,PrizePicks / Underdog
+NO@SA,SA,Julian Champagnie,PR,17.63,12,23,31.7,-0.4,lineup: starter (confirmed),PP standard,16.5,More,0.529,0.5,0.029,0.529,-114,-114,,PrizePicks / Underdog
+NO@SA,SA,De'Aaron Fox,PRA,27.2,20,34,31.9,-3.9,lineup: starter (confirmed); role down (last 8: 18.6),PP standard,24.5,More,0.595,0.505,0.09,0.595,-117,-112,,PrizePicks / Underdog
+NO@SA,SA,Stephon Castle,PRA,32.97,25,40,33.7,-2.2,lineup: starter (confirmed),PP standard,30.5,More,0.583,0.481,0.102,0.583,-106,-125,,PrizePicks / Underdog
+NO@SA,NO,Saddiq Bey,PRA,26.95,18,35,35.7,-5.2,minutes unclear (-5); lineup: starter (confirmed),PP standard,24.5,More,0.569,0.501,0.068,0.569,-114,-113,,PrizePicks / Underdog
+NO@SA,SA,Julian Champagnie,PRA,19.43,13,25,31.7,-0.4,lineup: starter (confirmed),PP standard,18.5,More,0.518,0.483,0.035,0.518,-106,-123,,PrizePicks / Underdog
+NO@SA,SA,Devin Vassell,PRA,20.77,14,27,32.4,-1.7,lineup: starter (confirmed),PP standard,19.5,More,0.536,0.502,0.034,0.536,-115,-113,,PrizePicks / Underdog
+NO@SA,NO,Jeremiah Fears,PRA,29.73,21,38,35.2,-6.4,minutes unclear (-6); lineup: starter (confirmed),PP standard,26.5,More,0.594,0.508,0.086,0.594,-120,-112,,PrizePicks / Underdog
+NO@SA,SA,Victor Wembanyama,PRA,48.1,39,57,33.6,-2.3,lineup: starter (confirmed),PP standard,44.5,More,0.611,0.486,0.125,0.611,-108,-122,,PrizePicks / Underdog
+NO@SA,NO,Yves Missi,REB,5.37,3,8,20.7,6.0,minutes unclear (+6); projected starter (confirmed) - minutes unclear (model 21); role up (last 8: 8.2),book line,6.5,Less,0.689,0.467,0.222,0.311,-130,102,,Kalshi / Underdog
+NO@SA,SA,Julian Champagnie,REB,5.64,3,8,31.7,-0.4,lineup: starter (confirmed),PP standard,5.5,Less,0.517,0.571,-0.054,0.483,118,-157,,PrizePicks / Underdog
+NO@SA,SA,Victor Wembanyama,REB,12.4,9,16,33.6,-2.3,lineup: starter (confirmed),PP standard,11.5,More,0.573,0.473,0.1,0.573,-103,-130,,PrizePicks / Underdog
+NO@SA,SA,Stephon Castle,REB,5.77,3,8,33.7,-2.2,lineup: starter (confirmed),PP standard,5.5,More,0.503,0.428,0.074,0.503,118,-158,,PrizePicks / Underdog
+NO@SA,NO,Saddiq Bey,REB,4.71,2,7,35.7,-5.2,minutes unclear (-5); lineup: starter (confirmed),book line,4.5,Less,0.515,0.439,0.076,0.485,-150,113,,Kalshi / Underdog
+NO@SA,SA,Devin Vassell,REB,4.23,2,6,32.4,-1.7,lineup: starter (confirmed),PP standard,4.5,Less,0.589,0.582,0.007,0.411,122,-168,,PrizePicks / Underdog
+NO@SA,NO,Jeremiah Fears,REB,4.53,2,7,35.2,-6.4,minutes unclear (-6); lineup: starter (confirmed),PP standard,4.5,Less,0.542,0.502,0.04,0.458,-114,-116,,PrizePicks / Underdog
+NO@SA,SA,Keldon Johnson,REB,5.74,3,8,26.5,-2.4,,PP standard,5.5,Less,0.502,0.548,-0.046,0.498,106,-143,,PrizePicks / Underdog
+NO@SA,SA,De'Aaron Fox,REB,4.09,2,6,31.9,-3.9,lineup: starter (confirmed),PP standard,3.5,More,0.559,0.509,0.05,0.559,-120,-111,,PrizePicks / Underdog
+NO@SA,SA,Devin Vassell,RA,7.32,5,10,32.4,-1.7,lineup: starter (confirmed),PP standard,6.5,More,0.571,0.565,0.006,0.571,-154,114,,PrizePicks / Underdog
+NO@SA,SA,Stephon Castle,RA,13.74,10,17,33.7,-2.2,lineup: starter (confirmed),PP standard,12.5,More,0.6,0.468,0.132,0.6,100,-132,,PrizePicks / Underdog
+NO@SA,NO,Saddiq Bey,RA,7.6,5,10,35.7,-5.2,minutes unclear (-5); lineup: starter (confirmed),book line,7.5,Less,0.526,0.524,0.002,0.474,-104,-128,,Kalshi / Underdog
+NO@SA,SA,Julian Champagnie,RA,7.43,5,10,31.7,-0.4,lineup: starter (confirmed),PP standard,6.5,More,0.587,0.51,0.077,0.587,-120,-110,,PrizePicks / Underdog
+NO@SA,NO,Jeremiah Fears,RA,10.37,7,14,35.2,-6.4,minutes unclear (-6); lineup: starter (confirmed),book line,10.5,Less,0.545,0.538,0.007,0.455,102,-136,,Kalshi / Underdog
+NO@SA,SA,De'Aaron Fox,RA,10.52,7,14,31.9,-3.9,lineup: starter (confirmed),book line,9.5,More,0.583,0.535,0.047,0.583,-136,100,,Kalshi / Underdog
+NO@SA,SA,Victor Wembanyama,RA,16.19,12,20,33.6,-2.3,lineup: starter (confirmed),PP standard,14.5,More,0.632,0.506,0.127,0.632,-122,-116,,PrizePicks / Underdog
+NO@SA,SA,Devin Vassell,3PM,2.03,1,3,32.4,-1.7,lineup: starter (confirmed),book line,1.5,More,0.564,0.548,0.016,0.564,-142,107,5.5,Kalshi / Underdog
+NO@SA,SA,Julian Champagnie,3PM,2.83,1,4,31.7,-0.4,lineup: starter (confirmed),PP standard,2.5,More,0.512,0.503,0.009,0.512,-119,-116,7.2,PrizePicks / Underdog
+NO@SA,NO,Saddiq Bey,3PM,2.59,1,4,35.7,-5.2,minutes unclear (-5); lineup: starter (confirmed),book line,2.5,Less,0.542,0.569,-0.028,0.458,117,-156,7.1,Kalshi / Underdog
+NO@SA,NO,Jeremiah Fears,3PM,1.77,0,3,35.2,-6.4,minutes unclear (-6); lineup: starter (confirmed),book line,1.5,Less,0.506,0.557,-0.051,0.494,111,-148,5.3,Kalshi / Underdog
+NO@SA,SA,Victor Wembanyama,3PM,2.35,1,4,33.6,-2.3,lineup: starter (confirmed),book line,1.5,More,0.636,0.604,0.032,0.636,-188,134,6.8,Kalshi / Underdog
+NO@SA,SA,Stephon Castle,3PM,1.89,0,3,33.7,-2.2,lineup: starter (confirmed),book line,1.5,More,0.532,0.538,-0.005,0.532,-136,102,5.2,Kalshi / Underdog
+NO@SA,SA,De'Aaron Fox,3PM,1.49,0,3,31.9,-3.9,lineup: starter (confirmed),book line,1.5,Less,0.586,0.621,-0.035,0.414,146,-200,4.3,Kalshi / Underdog
+NO@SA,SA,Julian Champagnie,AST,1.79,1,3,31.7,-0.4,lineup: starter (confirmed),book line,1.5,More,0.514,0.455,0.059,0.514,105,-140,,Kalshi / Underdog
+NO@SA,SA,Harrison Barnes,PTS,7.61,1,13,19.4,-3.5,,PP standard,6.5,Less,0.534,0.499,0.035,0.466,100,101,,PrizePicks / Underdog
+NO@SA,SA,Keldon Johnson,PRA,20.25,14,26,26.5,-2.4,,PP standard,18.5,More,0.563,0.167,0.396,0.563,-12,-115,,PrizePicks / Underdog
+NO@SA,SA,Luke Kornet,PRA,12.44,4,20,18.8,-4.0,,PP standard,10.5,More,0.52,0.536,-0.016,0.52,-115,116,,PrizePicks / Underdog
+NO@SA,SA,Harrison Barnes,PRA,11.04,3,18,19.4,-3.5,,PP standard,9.5,Less,0.51,0.5,0.01,0.49,-119,-119,,PrizePicks / Underdog
+NO@SA,SA,Luke Kornet,REB,5.17,2,8,18.8,-4.0,role down (last 8: 3.6),PP standard,4.5,More,0.507,0.501,0.006,0.507,100,101,,PrizePicks / Underdog
+NO@SA,SA,Keldon Johnson,3PM,0.91,0,2,26.5,-2.4,,PP standard,0.5,More,0.537,0.491,0.046,0.537,104,-103,2.7,PrizePicks / Underdog
+NO@SA,SA,Keldon Johnson,PA,14.51,9,20,26.5,-2.4,,book line,13.5,More,0.524,0.477,0.047,0.524,110,-109,,Kalshi / Underdog
+NO@SA,SA,Luke Kornet,PR,10.76,4,17,18.8,-4.0,,book line,9.5,Less,0.504,0.494,0.01,0.496,-102,103,,Kalshi / Underdog
+NO@SA,NO,Yves Missi,PRA,12.95,8,18,20.7,6.0,minutes unclear (+6); projected starter (confirmed) - minutes unclear (model 21),PP standard,14.5,Less,0.643,0.501,0.142,0.357,101,100,,PrizePicks / Underdog
+NO@SA,NO,Yves Missi,RA,6.66,4,9,20.7,6.0,minutes unclear (+6); projected starter (confirmed) - minutes unclear (model 21); role up (last 8: 9.7),book line,8.5,Less,0.736,0.529,0.206,0.264,113,-112,,Kalshi / Underdog
+NO@SA,SA,Keldon Johnson,RA,7.89,5,11,26.5,-2.4,,book line,6.5,More,0.641,0.554,0.087,0.641,-123,125,,Kalshi / Underdog
+NO@SA,SA,Luke Kornet,RA,6.85,3,11,18.8,-4.0,,book line,5.5,More,0.548,0.548,-0.0,0.548,-120,122,,Kalshi / Underdog
+NO@SA,SA,Harrison Barnes,3PM,1.37,0,3,19.4,-3.5,,book line,1.5,Less,0.641,0.638,0.003,0.359,177,-175,3.5,Kalshi / Underdog
 BOS@SAC,SAC,Domantas Sabonis,AST,4.52,2,6,30.6,-0.1,lineup: starter (expected),PP standard,4.5,Less,0.536,0.432,0.104,0.464,-154,117,,PrizePicks / Underdog
 BOS@SAC,BOS,Paul George,AST,4.92,3,7,37.4,1.2,lineup: starter (expected); role down (last 8: 3.2),PP standard,5.5,Less,0.625,0.966,-0.342,0.375,-2,-129,,PrizePicks / Underdog
 BOS@SAC,SAC,Zach LaVine,AST,2.59,1,4,31.4,0.8,lineup: starter (expected),book line,2.5,Less,0.533,0.528,0.004,0.467,-102,-130,,Kalshi / Underdog
@@ -363,104 +348,96 @@ BOS@SAC,BOS,Sam Hauser,PA,12.79,7,18,28.6,-2.4,,book line,12.5,Less,0.528,0.477,
 BOS@SAC,SAC,Keegan Murray,RA,5.98,3,8,27.6,10.5,minutes unclear (+10); lineup: starter (expected),book line,6.5,Less,0.603,0.494,0.109,0.397,-102,103,,Kalshi / Underdog
 BOS@SAC,SAC,De'Andre Hunter,RA,5.6,3,8,27.8,1.2,lineup: starter (expected),book line,5.5,Less,0.528,0.436,0.091,0.472,-128,130,,Kalshi / Underdog
 BOS@SAC,BOS,Sam Hauser,RA,6.18,4,9,28.6,-2.4,,book line,6.5,Less,0.581,0.562,0.019,0.419,129,-128,,Kalshi / Underdog
-POR@NY,POR,Damian Lillard,AST,4.42,2,6,32.5,-3.7,lineup: starter (expected),PP standard,3.5,More,0.629,0.552,0.077,0.629,-145,108,,PrizePicks / Underdog
-POR@NY,NY,Josh Hart,AST,3.58,2,5,32.6,4.1,minutes unclear (+4); lineup: starter (expected),book line,3.5,Less,0.532,0.478,0.054,0.468,-120,100,,Kalshi / Underdog
-POR@NY,NY,Jalen Brunson,AST,5.91,4,8,37.9,1.1,lineup: starter (expected),book line,6.5,Less,0.617,0.567,0.05,0.383,118,-150,,Kalshi / Underdog
-POR@NY,POR,Deni Avdija,AST,5.29,3,7,33.5,2.7,lineup: starter (expected); returning (missed 2) - minutes unclear,PP standard,5.5,Less,0.562,0.504,0.058,0.438,-114,-118,,PrizePicks / Underdog
-POR@NY,POR,Jrue Holiday,AST,4.12,2,6,28.6,-2.4,,PP standard,3.5,More,0.573,0.567,0.006,0.573,-154,116,,PrizePicks / Underdog
-POR@NY,NY,Mikal Bridges,AST,2.61,1,4,33.0,-1.5,lineup: starter (expected),book line,2.5,Less,0.531,0.48,0.051,0.469,-125,-105,,Kalshi / Underdog
-POR@NY,POR,Damian Lillard,PTS,20.42,13,27,32.5,-3.7,lineup: starter (expected),PP standard,19.5,More,0.512,0.489,0.023,0.512,-109,-120,,PrizePicks / Underdog
-POR@NY,NY,Andre Drummond,PTS,7.64,3,12,22.9,10.8,minutes unclear (+11); role down (last 8: 2.0),PP standard,8.5,Less,0.629,0.516,0.113,0.372,107,-106,,PrizePicks / Underdog
-POR@NY,NY,Landry Shamet,PTS,10.63,5,16,30.8,3.9,lineup: starter (expected),PP standard,11.5,Less,0.602,0.494,0.108,0.398,-105,100,,PrizePicks / Underdog
-POR@NY,NY,Josh Hart,PTS,9.6,5,14,32.6,4.1,minutes unclear (+4); lineup: starter (expected); role down (last 8: 4.9),book line,9.5,Less,0.548,0.155,0.393,0.452,-12,-2,,Kalshi / Underdog
-POR@NY,POR,Deni Avdija,PTS,22.0,15,29,33.5,2.7,lineup: starter (expected); returning (missed 2) - minutes unclear,PP standard,22.5,Less,0.552,0.511,0.041,0.448,-109,-120,,PrizePicks / Underdog
-POR@NY,POR,Jrue Holiday,PTS,12.68,7,18,28.6,-2.4,,PP standard,12.5,Less,0.534,0.524,0.01,0.466,-104,-128,,PrizePicks / Underdog
-POR@NY,POR,Donovan Clingan,PTS,10.44,6,15,28.2,0.1,lineup: starter (expected),PP standard,10.5,Less,0.548,0.516,0.032,0.452,-106,-122,,PrizePicks / Underdog
-POR@NY,POR,Sidy Cissoko,PTS,6.93,3,11,25.6,2.9,lineup: starter (expected); teammate back (Deni Avdija; last 8: 9.2),PP standard,7.5,Less,0.611,0.52,0.091,0.389,-105,-125,,PrizePicks / Underdog
-POR@NY,POR,Toumani Camara,PTS,12.04,6,17,33.0,-1.0,lineup: starter (expected),PP standard,11.5,Less,0.515,0.496,0.019,0.485,-118,-114,,PrizePicks / Underdog
-POR@NY,NY,Jalen Brunson,PTS,28.44,21,36,37.9,1.1,lineup: starter (expected),book line,28.5,Less,0.527,0.488,0.039,0.473,-115,-104,,Kalshi / Underdog
-POR@NY,NY,Mikal Bridges,PTS,11.31,6,16,33.0,-1.5,lineup: starter (expected),PP standard,11.5,Less,0.557,0.51,0.047,0.443,-109,-119,,PrizePicks / Underdog
-POR@NY,POR,Damian Lillard,PA,24.84,17,32,32.5,-3.7,lineup: starter (expected),PP standard,23.5,More,0.535,0.49,0.045,0.535,-110,-120,,PrizePicks / Underdog
-POR@NY,NY,Jalen Brunson,PA,34.35,26,42,37.9,1.1,lineup: starter (expected),PP standard,35.5,Less,0.567,0.515,0.053,0.433,-106,-120,,PrizePicks / Underdog
-POR@NY,NY,Josh Hart,PA,13.18,8,18,32.6,4.1,minutes unclear (+4); lineup: starter (expected); role down (last 8: 8.1),book line,13.5,Less,0.566,0.474,0.092,0.434,-125,100,,Kalshi / Underdog
-POR@NY,POR,Deni Avdija,PA,27.29,20,34,33.5,2.7,lineup: starter (expected); returning (missed 2) - minutes unclear,PP standard,27.5,Less,0.537,0.481,0.056,0.463,-125,-106,,PrizePicks / Underdog
-POR@NY,POR,Jrue Holiday,PA,16.8,11,23,28.6,-2.4,,PP standard,15.5,More,0.533,0.528,0.005,0.533,-130,-102,,PrizePicks / Underdog
-POR@NY,POR,Donovan Clingan,PA,12.13,7,17,28.2,0.1,lineup: starter (expected),PP standard,12.5,Less,0.567,0.51,0.057,0.433,-110,-120,,PrizePicks / Underdog
-POR@NY,POR,Sidy Cissoko,PA,8.72,4,13,25.6,2.9,lineup: starter (expected); teammate back (Deni Avdija; last 8: 11.1),PP standard,8.5,Less,0.55,0.459,0.091,0.45,-143,100,,PrizePicks / Underdog
-POR@NY,POR,Toumani Camara,PA,13.62,8,19,33.0,-1.0,lineup: starter (expected),PP standard,12.5,More,0.52,0.538,-0.018,0.52,-140,100,,PrizePicks / Underdog
-POR@NY,NY,Mikal Bridges,PA,13.91,8,19,33.0,-1.5,lineup: starter (expected),book line,13.5,Less,0.515,0.793,-0.278,0.485,-15,100,,Kalshi / Underdog
-POR@NY,POR,Donovan Clingan,PR,20.79,15,27,28.2,0.1,lineup: starter (expected),PP standard,21.5,Less,0.566,0.511,0.055,0.434,-105,-115,,PrizePicks / Underdog
-POR@NY,POR,Damian Lillard,PR,23.93,17,31,32.5,-3.7,lineup: starter (expected),PP standard,22.5,More,0.539,0.507,0.032,0.539,-118,-111,,PrizePicks / Underdog
-POR@NY,NY,Andre Drummond,PR,17.43,11,23,22.9,10.8,minutes unclear (+11); role down (last 8: 9.0),PP standard,21.5,Less,0.746,0.506,0.24,0.254,103,-102,,PrizePicks / Underdog
-POR@NY,NY,Josh Hart,PR,16.22,11,22,32.6,4.1,minutes unclear (+4); lineup: starter (expected); role down (last 8: 10.4),PP standard,17.5,Less,0.614,0.344,0.271,0.386,-10,-5,,PrizePicks / Underdog
-POR@NY,NY,Landry Shamet,PR,12.82,7,18,30.8,3.9,lineup: starter (expected),book line,14.5,Less,0.64,0.964,-0.324,0.36,-2,-110,,Kalshi / Underdog
-POR@NY,POR,Deni Avdija,PR,28.08,21,35,33.5,2.7,lineup: starter (expected); returning (missed 2) - minutes unclear,PP standard,28.5,Less,0.544,0.496,0.048,0.456,-116,-112,,PrizePicks / Underdog
-POR@NY,POR,Sidy Cissoko,PR,10.13,5,15,25.6,2.9,lineup: starter (expected); teammate back (Deni Avdija; last 8: 12.8),PP standard,10.5,Less,0.584,0.487,0.097,0.416,-122,-109,,PrizePicks / Underdog
-POR@NY,POR,Toumani Camara,PR,16.24,10,22,33.0,-1.0,lineup: starter (expected),PP standard,15.5,More,0.502,0.504,-0.002,0.502,-118,-114,,PrizePicks / Underdog
-POR@NY,NY,Jalen Brunson,PR,31.61,24,39,37.9,1.1,lineup: starter (expected),PP standard,32.5,Less,0.558,0.503,0.055,0.442,-110,-113,,PrizePicks / Underdog
-POR@NY,POR,Jrue Holiday,PR,16.25,10,22,28.6,-2.4,,PP standard,15.5,More,0.502,0.501,0.001,0.502,-116,-115,,PrizePicks / Underdog
-POR@NY,NY,Mikal Bridges,PR,15.07,9,21,33.0,-1.5,lineup: starter (expected),book line,14.5,Less,0.508,0.155,0.354,0.492,-12,-2,,Kalshi / Underdog
-POR@NY,POR,Damian Lillard,PRA,28.34,20,36,32.5,-3.7,lineup: starter (expected),PP standard,26.5,More,0.554,0.5,0.054,0.554,-115,-115,,PrizePicks / Underdog
-POR@NY,NY,Josh Hart,PRA,19.79,14,25,32.6,4.1,minutes unclear (+4); lineup: starter (expected); role down (last 8: 13.6),PP standard,21.5,Less,0.626,0.344,0.282,0.374,-10,-5,,PrizePicks / Underdog
-POR@NY,POR,Deni Avdija,PRA,33.38,25,41,33.5,2.7,lineup: starter (expected); returning (missed 2) - minutes unclear,PP standard,34.5,Less,0.572,0.507,0.065,0.428,-111,-118,,PrizePicks / Underdog
-POR@NY,POR,Donovan Clingan,PRA,22.47,16,28,28.2,0.1,lineup: starter (expected),PP standard,22.5,Less,0.529,0.497,0.032,0.471,-119,-116,,PrizePicks / Underdog
-POR@NY,POR,Jrue Holiday,PRA,20.37,14,26,28.6,-2.4,,PP standard,19.5,More,0.511,0.488,0.023,0.511,-108,-120,,PrizePicks / Underdog
-POR@NY,NY,Jalen Brunson,PRA,37.52,29,46,37.9,1.1,lineup: starter (expected),PP standard,38.5,Less,0.557,0.492,0.065,0.443,-118,-110,,PrizePicks / Underdog
-POR@NY,POR,Sidy Cissoko,PRA,11.92,7,17,25.6,2.9,lineup: starter (expected); teammate back (Deni Avdija; last 8: 14.6),PP standard,12.5,Less,0.594,0.495,0.099,0.406,-116,-111,,PrizePicks / Underdog
-POR@NY,NY,Mikal Bridges,PRA,17.67,11,24,33.0,-1.5,lineup: starter (expected),PP standard,17.5,Less,0.528,0.344,0.184,0.472,-10,-5,,PrizePicks / Underdog
-POR@NY,POR,Toumani Camara,PRA,17.82,11,24,33.0,-1.0,lineup: starter (expected),PP standard,17.5,Less,0.523,0.509,0.014,0.477,-109,-118,,PrizePicks / Underdog
-POR@NY,POR,Donovan Clingan,REB,10.35,7,13,28.2,0.1,lineup: starter (expected),PP standard,10.5,Less,0.54,0.504,0.036,0.46,-112,-116,,PrizePicks / Underdog
-POR@NY,POR,Damian Lillard,REB,3.5,2,5,32.5,-3.7,lineup: starter (expected); role down (last 8: 2.4),book line,3.5,Less,0.546,0.559,-0.012,0.454,112,-148,,Kalshi / Underdog
-POR@NY,NY,Josh Hart,REB,6.62,4,9,32.6,4.1,minutes unclear (+4); lineup: starter (expected),book line,7.5,Less,0.645,0.46,0.185,0.355,-119,116,,Kalshi / Underdog
-POR@NY,NY,Jalen Brunson,REB,3.17,1,5,37.9,1.1,lineup: starter (expected),book line,3.5,Less,0.615,0.543,0.072,0.385,110,-130,,Kalshi / Underdog
-POR@NY,POR,Deni Avdija,REB,6.09,4,8,33.5,2.7,lineup: starter (expected); returning (missed 2) - minutes unclear,PP standard,6.5,Less,0.592,0.535,0.058,0.408,102,-132,,PrizePicks / Underdog
-POR@NY,POR,Jrue Holiday,REB,3.57,2,5,28.6,-2.4,,PP standard,3.5,Less,0.538,0.543,-0.005,0.462,106,-136,,PrizePicks / Underdog
-POR@NY,POR,Sidy Cissoko,REB,3.2,1,5,25.6,2.9,lineup: starter (expected),PP standard,3.5,Less,0.608,0.544,0.064,0.392,104,-141,,PrizePicks / Underdog
-POR@NY,NY,Mikal Bridges,REB,3.76,2,6,33.0,-1.5,lineup: starter (expected),PP standard,3.5,More,0.5,0.504,-0.004,0.5,-110,-106,,PrizePicks / Underdog
-POR@NY,POR,Toumani Camara,REB,4.2,2,6,33.0,-1.0,lineup: starter (expected),PP standard,3.5,More,0.578,0.555,0.023,0.578,-145,111,,PrizePicks / Underdog
-POR@NY,POR,Donovan Clingan,RA,12.03,9,15,28.2,0.1,lineup: starter (expected),PP standard,12.5,Less,0.568,0.504,0.064,0.432,-106,-110,,PrizePicks / Underdog
-POR@NY,POR,Damian Lillard,RA,7.92,5,11,32.5,-3.7,lineup: starter (expected),PP standard,7.5,More,0.524,0.641,-0.118,0.524,0,-127,,PrizePicks / Underdog
-POR@NY,NY,Josh Hart,RA,10.19,7,13,32.6,4.1,minutes unclear (+4); lineup: starter (expected),book line,11.5,Less,0.661,0.364,0.297,0.339,5,-120,,Kalshi / Underdog
-POR@NY,NY,Jalen Brunson,RA,9.07,6,12,37.9,1.1,lineup: starter (expected),PP standard,9.5,Less,0.572,0.491,0.081,0.428,-113,-105,,PrizePicks / Underdog
-POR@NY,POR,Deni Avdija,RA,11.38,8,15,33.5,2.7,lineup: starter (expected); returning (missed 2) - minutes unclear,PP standard,11.5,Less,0.537,0.476,0.061,0.463,-128,-104,,PrizePicks / Underdog
-POR@NY,POR,Jrue Holiday,RA,7.69,5,10,28.6,-2.4,,PP standard,7.5,Less,0.506,0.45,0.056,0.494,-132,115,,PrizePicks / Underdog
-POR@NY,POR,Sidy Cissoko,RA,4.99,3,7,25.6,2.9,lineup: starter (expected),PP standard,4.5,More,0.519,0.573,-0.054,0.519,-160,118,,PrizePicks / Underdog
-POR@NY,NY,Mikal Bridges,RA,6.37,4,9,33.0,-1.5,lineup: starter (expected),book line,6.5,Less,0.556,0.532,0.024,0.444,105,-125,,Kalshi / Underdog
-POR@NY,POR,Toumani Camara,RA,5.79,3,8,33.0,-1.0,lineup: starter (expected),PP standard,5.5,More,0.503,0.481,0.022,0.503,101,-116,,PrizePicks / Underdog
-POR@NY,NY,Jalen Brunson,3PM,2.62,1,4,37.9,1.1,lineup: starter (expected),book line,2.5,Less,0.529,0.438,0.091,0.471,-147,116,8.0,Kalshi / Underdog
-POR@NY,POR,Damian Lillard,3PM,3.29,1,5,32.5,-3.7,lineup: starter (expected),PP standard,2.5,More,0.603,0.589,0.013,0.603,-166,130,9.0,PrizePicks / Underdog
-POR@NY,NY,Landry Shamet,3PM,2.18,1,4,30.8,3.9,lineup: starter (expected),book line,2.5,Less,0.629,0.563,0.065,0.372,116,-148,5.9,Kalshi / Underdog
-POR@NY,NY,Josh Hart,3PM,1.34,0,2,32.6,4.1,minutes unclear (+4); lineup: starter (expected),PP standard,1.5,Less,0.628,0.935,-0.307,0.372,-4,-124,4.2,PrizePicks / Underdog
-POR@NY,POR,Deni Avdija,3PM,1.9,0,3,33.5,2.7,lineup: starter (expected); returning (missed 2) - minutes unclear,book line,1.5,More,0.525,0.563,-0.038,0.525,-150,115,5.4,Kalshi / Underdog
-POR@NY,POR,Toumani Camara,3PM,2.56,1,4,33.0,-1.0,lineup: starter (expected),book line,2.5,Less,0.545,0.584,-0.039,0.455,126,-164,7.0,Kalshi / Underdog
-POR@NY,NY,Mikal Bridges,3PM,1.44,0,2,33.0,-1.5,lineup: starter (expected),book line,1.5,Less,0.596,0.563,0.033,0.404,116,-148,4.3,Kalshi / Underdog
-POR@NY,POR,Scoot Henderson,PTS,11.82,6,17,25.7,-0.2,,PP standard,10.5,More,0.526,0.519,0.006,0.526,-108,108,,PrizePicks / Underdog
-POR@NY,POR,Scoot Henderson,PRA,16.62,10,23,25.7,-0.2,,PP standard,16.5,Less,0.551,0.5,0.051,0.449,100,100,,PrizePicks / Underdog
-POR@NY,NY,Andre Drummond,PRA,18.76,12,25,22.9,10.8,minutes unclear (+11); role down (last 8: 9.8),PP standard,23.5,Less,0.761,0.523,0.238,0.239,110,-109,,PrizePicks / Underdog
-POR@NY,NY,Miles McBride,PRA,11.5,6,17,21.7,-4.8,minutes unclear (-5),PP standard,10.5,Less,0.501,0.52,-0.019,0.499,109,-108,,PrizePicks / Underdog
-POR@NY,NY,Landry Shamet,PRA,14.45,9,20,30.8,3.9,lineup: starter (expected),PP standard,15.5,Less,0.601,0.472,0.129,0.399,-111,113,,PrizePicks / Underdog
-POR@NY,NY,Andre Drummond,REB,9.8,6,13,22.9,10.8,minutes unclear (+11); role down (last 8: 7.0),PP standard,12.5,Less,0.768,0.481,0.287,0.232,-108,108,,PrizePicks / Underdog
-POR@NY,NY,Andre Drummond,RA,11.12,7,15,22.9,10.8,minutes unclear (+11); role down (last 8: 7.8),PP standard,14.5,Less,0.792,0.512,0.28,0.208,106,-104,,PrizePicks / Underdog
-POR@NY,NY,Miles McBride,3PM,1.81,0,3,21.7,-4.8,minutes unclear (-5),PP standard,1.5,Less,0.507,0.489,0.018,0.493,-104,105,4.9,PrizePicks / Underdog
-POR@NY,POR,Toumani Camara,AST,1.58,0,3,33.0,-1.0,lineup: starter (expected),PP standard,1.5,Less,0.549,0.504,0.045,0.451,-114,-118,,PrizePicks / Underdog
-POR@NY,NY,Andre Drummond,AST,1.33,0,2,22.9,10.8,minutes unclear (+11),PP standard,1.5,Less,0.634,0.5,0.134,0.366,-119,-119,,PrizePicks / Underdog
-POR@NY,POR,Scoot Henderson,3PM,1.65,0,3,25.7,-0.2,,PP standard,1.5,Less,0.543,0.5,0.043,0.457,-119,-119,4.9,PrizePicks / Underdog
-POR@NY,NY,Miles McBride,PTS,8.18,3,13,21.7,-4.8,minutes unclear (-5),book line,7.5,Less,0.52,0.52,0.0,0.48,109,-108,,Kalshi / Underdog
-POR@NY,NY,Landry Shamet,PA,12.26,7,17,30.8,3.9,lineup: starter (expected),book line,13.5,Less,0.62,0.515,0.106,0.38,107,-105,,Kalshi / Underdog
-POR@NY,POR,Scoot Henderson,PA,14.26,8,20,25.7,-0.2,,book line,12.5,More,0.546,0.525,0.021,0.546,-110,111,,Kalshi / Underdog
-POR@NY,NY,Andre Drummond,PA,8.96,4,13,22.9,10.8,minutes unclear (+11); role down (last 8: 2.8),book line,9.5,Less,0.599,0.463,0.137,0.401,-115,117,,Kalshi / Underdog
-POR@NY,POR,Scoot Henderson,RA,4.8,3,7,25.7,-0.2,,book line,4.5,Less,0.507,0.583,-0.076,0.493,140,-139,,Kalshi / Underdog
-POR@NY,NY,Landry Shamet,RA,3.82,2,6,30.8,3.9,lineup: starter (expected),book line,4.5,Less,0.662,0.557,0.105,0.338,126,-125,,Kalshi / Underdog
-POR@NY,POR,Sidy Cissoko,3PM,1.26,0,2,25.6,2.9,lineup: starter (expected); teammate back (Deni Avdija; last 8: 1.8),book line,1.5,Less,0.654,0.631,0.023,0.346,153,-208,4.2,Kalshi / Underdog
-POR@NY,POR,Jrue Holiday,3PM,2.26,1,4,28.6,-2.4,,book line,1.5,More,0.606,0.573,0.034,0.606,-160,118,6.0,Kalshi / Underdog
-POR@NY,POR,Sidy Cissoko,AST,1.79,0,3,25.6,2.9,lineup: starter (expected),book line,1.5,More,0.501,0.575,-0.074,0.501,-159,120,,Kalshi / Underdog
-POR@NY,POR,Donovan Clingan,AST,1.68,0,3,28.2,0.1,lineup: starter (expected); teammate back (Deni Avdija; last 8: 2.0),book line,1.5,Less,0.513,0.433,0.08,0.487,-154,116,,Kalshi / Underdog
-POR@NY,POR,Donovan Clingan,3PM,0.87,0,2,28.2,0.1,lineup: starter (expected),book line,0.5,More,0.518,0.604,-0.086,0.518,-185,135,2.6,Kalshi / Underdog
-POR@NY,NY,Karl-Anthony Towns,AST,3.12,1,5,35.5,-3.8,lineup: starter (expected); role up (last 8: 4.4),book line,3.5,Less,0.622,0.5,0.122,0.378,-115,-115,,Kalshi / Underdog
-POR@NY,NY,Karl-Anthony Towns,PTS,22.24,15,29,35.5,-3.8,lineup: starter (expected),book line,20.5,More,0.561,0.52,0.04,0.561,-125,-105,,Kalshi / Underdog
-POR@NY,NY,Karl-Anthony Towns,PA,25.36,18,32,35.5,-3.8,lineup: starter (expected),book line,24.5,More,0.517,0.51,0.007,0.517,-120,-110,,Kalshi / Underdog
-POR@NY,NY,Karl-Anthony Towns,PR,35.45,27,43,35.5,-3.8,lineup: starter (expected),book line,34.5,More,0.52,0.49,0.03,0.52,-110,-120,,Kalshi / Underdog
-POR@NY,NY,Karl-Anthony Towns,PRA,38.57,30,47,35.5,-3.8,lineup: starter (expected),book line,37.5,More,0.524,0.51,0.014,0.524,-120,-110,,Kalshi / Underdog
-POR@NY,NY,Karl-Anthony Towns,REB,13.2,10,17,35.5,-3.8,lineup: starter (expected),book line,12.5,More,0.548,0.531,0.017,0.548,-130,100,,Kalshi / Underdog
-POR@NY,NY,Karl-Anthony Towns,RA,16.33,12,20,35.5,-3.8,lineup: starter (expected),book line,16.5,Less,0.529,0.49,0.039,0.471,-120,-110,,Kalshi / Underdog
-POR@NY,NY,Karl-Anthony Towns,3PM,1.58,0,3,35.5,-3.8,lineup: starter (expected),book line,1.5,Less,0.559,0.446,0.114,0.441,-145,110,5.6,Kalshi / Underdog
+POR@NY,POR,Damian Lillard,AST,4.41,2,6,32.4,-3.7,lineup: starter (confirmed),PP standard,3.5,More,0.626,0.552,0.074,0.626,-145,108,,PrizePicks / Underdog
+POR@NY,NY,Josh Hart,AST,3.95,2,6,36.6,-5.7,minutes unclear (-6); lineup: starter (confirmed),book line,3.5,More,0.54,0.522,0.018,0.54,-120,100,,Kalshi / Underdog
+POR@NY,NY,Jalen Brunson,AST,5.85,4,8,38.2,-3.1,lineup: starter (confirmed),book line,6.5,Less,0.623,0.567,0.056,0.377,118,-150,,Kalshi / Underdog
+POR@NY,POR,Deni Avdija,AST,5.29,3,7,33.5,2.5,lineup: starter (confirmed); returning (missed 2) - minutes unclear,PP standard,5.5,Less,0.567,0.504,0.063,0.433,-114,-118,,PrizePicks / Underdog
+POR@NY,POR,Jrue Holiday,AST,4.11,2,6,28.6,-2.3,,PP standard,3.5,More,0.576,0.567,0.009,0.576,-154,116,,PrizePicks / Underdog
+POR@NY,NY,Mikal Bridges,AST,2.84,1,4,36.0,-8.6,minutes unclear (-9); lineup: starter (confirmed),book line,2.5,More,0.521,0.52,0.0,0.521,-125,-105,,Kalshi / Underdog
+POR@NY,POR,Damian Lillard,PTS,20.26,13,27,32.4,-3.7,lineup: starter (confirmed),PP standard,19.5,More,0.505,0.489,0.016,0.505,-109,-120,,PrizePicks / Underdog
+POR@NY,NY,Andre Drummond,PTS,9.43,5,14,25.2,3.5,lineup: starter (confirmed); role down (last 8: 2.0),PP standard,8.5,More,0.514,0.484,0.03,0.514,107,-106,,PrizePicks / Underdog
+POR@NY,NY,Landry Shamet,PTS,13.03,7,18,34.6,-4.7,minutes unclear (-5); lineup: starter (confirmed),PP standard,11.5,More,0.548,0.506,0.042,0.548,-105,100,,PrizePicks / Underdog
+POR@NY,NY,Josh Hart,PTS,11.89,6,17,36.6,-5.7,minutes unclear (-6); lineup: starter (confirmed); role down (last 8: 4.9),book line,9.5,More,0.611,0.845,-0.234,0.611,-12,-2,,Kalshi / Underdog
+POR@NY,POR,Deni Avdija,PTS,22.06,15,29,33.5,2.5,lineup: starter (confirmed); returning (missed 2) - minutes unclear,PP standard,22.5,Less,0.547,0.511,0.036,0.453,-109,-120,,PrizePicks / Underdog
+POR@NY,POR,Jrue Holiday,PTS,12.77,7,18,28.6,-2.3,,PP standard,12.5,Less,0.527,0.524,0.003,0.473,-104,-128,,PrizePicks / Underdog
+POR@NY,POR,Donovan Clingan,PTS,10.52,6,15,28.2,-0.1,lineup: starter (confirmed),PP standard,10.5,Less,0.542,0.516,0.025,0.458,-106,-122,,PrizePicks / Underdog
+POR@NY,POR,Sidy Cissoko,PTS,6.92,3,11,25.6,2.6,lineup: starter (confirmed); teammate back (Deni Avdija; last 8: 9.2),PP standard,7.5,Less,0.614,0.52,0.094,0.386,-105,-125,,PrizePicks / Underdog
+POR@NY,POR,Toumani Camara,PTS,12.01,6,17,32.9,-0.9,lineup: starter (confirmed),PP standard,11.5,Less,0.512,0.496,0.016,0.488,-118,-114,,PrizePicks / Underdog
+POR@NY,NY,Jalen Brunson,PTS,31.93,24,40,38.2,-3.1,lineup: starter (confirmed),book line,28.5,More,0.627,0.512,0.115,0.627,-115,-104,,Kalshi / Underdog
+POR@NY,NY,Mikal Bridges,PTS,13.46,8,19,36.0,-8.6,minutes unclear (-9); lineup: starter (confirmed); role down (last 8: 8.8),PP standard,11.5,More,0.575,0.49,0.085,0.575,-109,-119,,PrizePicks / Underdog
+POR@NY,POR,Damian Lillard,PA,24.67,17,32,32.4,-3.7,lineup: starter (confirmed),PP standard,23.5,More,0.527,0.49,0.037,0.527,-110,-120,,PrizePicks / Underdog
+POR@NY,NY,Jalen Brunson,PA,37.78,29,46,38.2,-3.1,lineup: starter (confirmed),PP standard,35.5,More,0.573,0.485,0.087,0.573,-106,-120,,PrizePicks / Underdog
+POR@NY,NY,Josh Hart,PA,15.85,10,21,36.6,-5.7,minutes unclear (-6); lineup: starter (confirmed); role down (last 8: 8.1),book line,13.5,More,0.601,0.526,0.075,0.601,-125,100,,Kalshi / Underdog
+POR@NY,POR,Deni Avdija,PA,27.35,20,34,33.5,2.5,lineup: starter (confirmed); returning (missed 2) - minutes unclear,PP standard,27.5,Less,0.531,0.481,0.05,0.469,-125,-106,,PrizePicks / Underdog
+POR@NY,POR,Jrue Holiday,PA,16.87,11,23,28.6,-2.3,,PP standard,15.5,More,0.537,0.528,0.009,0.537,-130,-102,,PrizePicks / Underdog
+POR@NY,POR,Donovan Clingan,PA,12.21,7,17,28.2,-0.1,lineup: starter (confirmed),PP standard,12.5,Less,0.559,0.51,0.049,0.441,-110,-120,,PrizePicks / Underdog
+POR@NY,POR,Sidy Cissoko,PA,8.72,4,13,25.6,2.6,lineup: starter (confirmed); teammate back (Deni Avdija; last 8: 11.1),PP standard,8.5,Less,0.553,0.459,0.094,0.447,-143,100,,PrizePicks / Underdog
+POR@NY,POR,Toumani Camara,PA,13.6,8,19,32.9,-0.9,lineup: starter (confirmed),PP standard,12.5,More,0.524,0.538,-0.014,0.524,-140,100,,PrizePicks / Underdog
+POR@NY,NY,Mikal Bridges,PA,16.29,10,22,36.0,-8.6,minutes unclear (-9); lineup: starter (confirmed); role down (last 8: 11.4),book line,13.5,More,0.618,0.207,0.412,0.618,-15,100,,Kalshi / Underdog
+POR@NY,POR,Donovan Clingan,PR,20.99,15,27,28.2,-0.1,lineup: starter (confirmed),PP standard,21.5,Less,0.559,0.511,0.048,0.441,-105,-115,,PrizePicks / Underdog
+POR@NY,POR,Damian Lillard,PR,23.81,16,31,32.4,-3.7,lineup: starter (confirmed),PP standard,22.5,More,0.531,0.507,0.024,0.531,-118,-111,,PrizePicks / Underdog
+POR@NY,NY,Andre Drummond,PR,22.1,16,28,25.2,3.5,lineup: starter (confirmed); role down (last 8: 9.0),PP standard,21.5,Less,0.507,0.506,0.001,0.493,103,-102,,PrizePicks / Underdog
+POR@NY,NY,Josh Hart,PR,20.7,14,27,36.6,-5.7,minutes unclear (-6); lineup: starter (confirmed); role down (last 8: 10.4),PP standard,17.5,More,0.649,0.656,-0.007,0.649,-10,-5,,PrizePicks / Underdog
+POR@NY,NY,Landry Shamet,PR,15.91,10,22,34.6,-4.7,minutes unclear (-5); lineup: starter (confirmed),book line,14.5,More,0.54,0.036,0.504,0.54,-2,-110,,Kalshi / Underdog
+POR@NY,POR,Deni Avdija,PR,28.21,21,35,33.5,2.5,lineup: starter (confirmed); returning (missed 2) - minutes unclear,PP standard,28.5,Less,0.534,0.496,0.038,0.466,-116,-112,,PrizePicks / Underdog
+POR@NY,POR,Sidy Cissoko,PR,10.14,5,15,25.6,2.6,lineup: starter (confirmed); teammate back (Deni Avdija; last 8: 12.8),PP standard,10.5,Less,0.586,0.487,0.099,0.414,-122,-109,,PrizePicks / Underdog
+POR@NY,POR,Toumani Camara,PR,16.2,10,22,32.9,-0.9,lineup: starter (confirmed),PP standard,15.5,Less,0.502,0.496,0.006,0.498,-118,-114,,PrizePicks / Underdog
+POR@NY,NY,Jalen Brunson,PR,35.74,27,44,38.2,-3.1,lineup: starter (confirmed),PP standard,32.5,More,0.612,0.497,0.116,0.612,-110,-113,,PrizePicks / Underdog
+POR@NY,POR,Jrue Holiday,PR,16.35,10,22,28.6,-2.3,,PP standard,15.5,More,0.508,0.501,0.007,0.508,-116,-115,,PrizePicks / Underdog
+POR@NY,NY,Mikal Bridges,PR,18.26,12,24,36.0,-8.6,minutes unclear (-9); lineup: starter (confirmed); role down (last 8: 13.0),book line,14.5,More,0.668,0.845,-0.178,0.668,-12,-2,,Kalshi / Underdog
+POR@NY,POR,Damian Lillard,PRA,28.22,20,36,32.4,-3.7,lineup: starter (confirmed),PP standard,26.5,More,0.551,0.5,0.051,0.551,-115,-115,,PrizePicks / Underdog
+POR@NY,NY,Josh Hart,PRA,24.66,18,31,36.6,-5.7,minutes unclear (-6); lineup: starter (confirmed); role down (last 8: 13.6),PP standard,21.5,More,0.635,0.656,-0.022,0.635,-10,-5,,PrizePicks / Underdog
+POR@NY,POR,Deni Avdija,PRA,33.5,26,41,33.5,2.5,lineup: starter (confirmed); returning (missed 2) - minutes unclear,PP standard,34.5,Less,0.562,0.507,0.054,0.438,-111,-118,,PrizePicks / Underdog
+POR@NY,POR,Donovan Clingan,PRA,22.68,16,29,28.2,-0.1,lineup: starter (confirmed),PP standard,22.5,Less,0.52,0.497,0.022,0.48,-119,-116,,PrizePicks / Underdog
+POR@NY,POR,Jrue Holiday,PRA,20.46,14,27,28.6,-2.3,,PP standard,19.5,More,0.514,0.488,0.026,0.514,-108,-120,,PrizePicks / Underdog
+POR@NY,NY,Jalen Brunson,PRA,41.59,33,50,38.2,-3.1,lineup: starter (confirmed),PP standard,38.5,More,0.601,0.508,0.093,0.601,-118,-110,,PrizePicks / Underdog
+POR@NY,POR,Sidy Cissoko,PRA,11.94,7,17,25.6,2.6,lineup: starter (confirmed); teammate back (Deni Avdija; last 8: 14.6),PP standard,12.5,Less,0.593,0.495,0.098,0.407,-116,-111,,PrizePicks / Underdog
+POR@NY,NY,Mikal Bridges,PRA,21.09,14,28,36.0,-8.6,minutes unclear (-9); lineup: starter (confirmed); role down (last 8: 15.6),PP standard,17.5,More,0.65,0.656,-0.006,0.65,-10,-5,,PrizePicks / Underdog
+POR@NY,POR,Toumani Camara,PRA,17.8,11,24,32.9,-0.9,lineup: starter (confirmed),PP standard,17.5,Less,0.522,0.509,0.013,0.478,-109,-118,,PrizePicks / Underdog
+POR@NY,POR,Donovan Clingan,REB,10.47,7,14,28.2,-0.1,lineup: starter (confirmed),PP standard,10.5,Less,0.534,0.504,0.03,0.466,-112,-116,,PrizePicks / Underdog
+POR@NY,POR,Damian Lillard,REB,3.55,2,5,32.4,-3.7,lineup: starter (confirmed); role down (last 8: 2.4),book line,3.5,Less,0.54,0.559,-0.018,0.46,112,-148,,Kalshi / Underdog
+POR@NY,NY,Josh Hart,REB,8.81,6,12,36.6,-5.7,minutes unclear (-6); lineup: starter (confirmed); role down (last 8: 5.5),book line,7.5,More,0.629,0.54,0.089,0.629,-119,116,,Kalshi / Underdog
+POR@NY,NY,Jalen Brunson,REB,3.81,2,6,38.2,-3.1,lineup: starter (confirmed),book line,3.5,More,0.508,0.457,0.05,0.508,110,-130,,Kalshi / Underdog
+POR@NY,POR,Deni Avdija,REB,6.15,4,8,33.5,2.5,lineup: starter (confirmed); returning (missed 2) - minutes unclear,PP standard,6.5,Less,0.582,0.535,0.047,0.418,102,-132,,PrizePicks / Underdog
+POR@NY,POR,Jrue Holiday,REB,3.58,2,5,28.6,-2.3,,PP standard,3.5,Less,0.527,0.543,-0.016,0.473,106,-136,,PrizePicks / Underdog
+POR@NY,POR,Sidy Cissoko,REB,3.22,1,5,25.6,2.6,lineup: starter (confirmed),PP standard,3.5,Less,0.608,0.544,0.064,0.392,104,-141,,PrizePicks / Underdog
+POR@NY,NY,Mikal Bridges,REB,4.8,3,7,36.0,-8.6,minutes unclear (-9); lineup: starter (confirmed),PP standard,3.5,More,0.671,0.504,0.166,0.671,-110,-106,,PrizePicks / Underdog
+POR@NY,POR,Toumani Camara,REB,4.2,2,6,32.9,-0.9,lineup: starter (confirmed),PP standard,3.5,More,0.577,0.555,0.021,0.577,-145,111,,PrizePicks / Underdog
+POR@NY,POR,Donovan Clingan,RA,12.16,9,16,28.2,-0.1,lineup: starter (confirmed),PP standard,12.5,Less,0.559,0.504,0.055,0.441,-106,-110,,PrizePicks / Underdog
+POR@NY,POR,Damian Lillard,RA,7.96,5,11,32.4,-3.7,lineup: starter (confirmed),PP standard,7.5,More,0.526,0.641,-0.115,0.526,0,-127,,PrizePicks / Underdog
+POR@NY,NY,Josh Hart,RA,12.77,9,16,36.6,-5.7,minutes unclear (-6); lineup: starter (confirmed); role down (last 8: 8.8),book line,11.5,More,0.601,0.636,-0.034,0.601,5,-120,,Kalshi / Underdog
+POR@NY,NY,Jalen Brunson,RA,9.66,7,13,38.2,-3.1,lineup: starter (confirmed),PP standard,9.5,Less,0.503,0.491,0.011,0.497,-113,-105,,PrizePicks / Underdog
+POR@NY,POR,Deni Avdija,RA,11.44,8,15,33.5,2.5,lineup: starter (confirmed); returning (missed 2) - minutes unclear,PP standard,11.5,Less,0.529,0.476,0.053,0.471,-128,-104,,PrizePicks / Underdog
+POR@NY,POR,Jrue Holiday,RA,7.69,5,10,28.6,-2.3,,PP standard,7.5,Less,0.505,0.45,0.055,0.495,-132,115,,PrizePicks / Underdog
+POR@NY,POR,Sidy Cissoko,RA,5.02,3,7,25.6,2.6,lineup: starter (confirmed),PP standard,4.5,More,0.527,0.573,-0.045,0.527,-160,118,,PrizePicks / Underdog
+POR@NY,NY,Mikal Bridges,RA,7.64,5,10,36.0,-8.6,minutes unclear (-9); lineup: starter (confirmed),book line,6.5,More,0.606,0.468,0.139,0.606,105,-125,,Kalshi / Underdog
+POR@NY,POR,Toumani Camara,RA,5.79,3,8,32.9,-0.9,lineup: starter (confirmed),PP standard,5.5,More,0.505,0.481,0.024,0.505,101,-116,,PrizePicks / Underdog
+POR@NY,NY,Jalen Brunson,3PM,2.73,1,4,38.2,-3.1,lineup: starter (confirmed),book line,2.5,Less,0.508,0.438,0.071,0.492,-147,116,8.0,Kalshi / Underdog
+POR@NY,POR,Damian Lillard,3PM,3.28,1,5,32.4,-3.7,lineup: starter (confirmed),PP standard,2.5,More,0.601,0.589,0.012,0.601,-166,130,9.1,PrizePicks / Underdog
+POR@NY,NY,Landry Shamet,3PM,2.55,1,4,34.6,-4.7,minutes unclear (-5); lineup: starter (confirmed),book line,2.5,Less,0.546,0.563,-0.017,0.454,116,-148,6.9,Kalshi / Underdog
+POR@NY,NY,Josh Hart,3PM,1.58,0,3,36.6,-5.7,minutes unclear (-6); lineup: starter (confirmed),PP standard,1.5,Less,0.561,0.935,-0.374,0.439,-4,-124,4.5,PrizePicks / Underdog
+POR@NY,POR,Deni Avdija,3PM,1.89,0,3,33.5,2.5,lineup: starter (confirmed); returning (missed 2) - minutes unclear,book line,1.5,More,0.525,0.563,-0.038,0.525,-150,115,5.4,Kalshi / Underdog
+POR@NY,POR,Toumani Camara,3PM,2.55,1,4,32.9,-0.9,lineup: starter (confirmed),book line,2.5,Less,0.548,0.584,-0.036,0.452,126,-164,7.0,Kalshi / Underdog
+POR@NY,NY,Mikal Bridges,3PM,1.64,0,3,36.0,-8.6,minutes unclear (-9); lineup: starter (confirmed),book line,1.5,Less,0.544,0.563,-0.019,0.456,116,-148,4.8,Kalshi / Underdog
+POR@NY,POR,Scoot Henderson,PTS,11.82,6,17,25.7,-0.0,,PP standard,10.5,More,0.521,0.519,0.002,0.521,-108,108,,PrizePicks / Underdog
+POR@NY,POR,Scoot Henderson,PRA,16.66,10,23,25.7,-0.0,,PP standard,16.5,Less,0.543,0.5,0.043,0.457,100,100,,PrizePicks / Underdog
+POR@NY,NY,Andre Drummond,PRA,23.54,17,30,25.2,3.5,lineup: starter (confirmed); role down (last 8: 9.8),PP standard,23.5,Less,0.538,0.523,0.015,0.462,110,-109,,PrizePicks / Underdog
+POR@NY,NY,Miles McBride,PRA,14.7,8,20,25.8,-11.6,minutes unclear (-12); role down (last 8: 8.8),PP standard,10.5,More,0.692,0.48,0.212,0.692,109,-108,,PrizePicks / Underdog
+POR@NY,NY,Landry Shamet,PRA,17.71,11,24,34.6,-4.7,minutes unclear (-5); lineup: starter (confirmed),PP standard,15.5,More,0.584,0.528,0.056,0.584,-111,113,,PrizePicks / Underdog
+POR@NY,NY,Andre Drummond,REB,12.67,9,16,25.2,3.5,lineup: starter (confirmed); role down (last 8: 7.0),PP standard,12.5,Less,0.518,0.481,0.037,0.482,-108,108,,PrizePicks / Underdog
+POR@NY,NY,Andre Drummond,RA,14.1,10,18,25.2,3.5,lineup: starter (confirmed); role down (last 8: 7.8),PP standard,14.5,Less,0.566,0.512,0.053,0.434,106,-104,,PrizePicks / Underdog
+POR@NY,NY,Miles McBride,3PM,2.22,1,4,25.8,-11.6,minutes unclear (-12),PP standard,1.5,More,0.598,0.511,0.087,0.598,-104,105,6.0,PrizePicks / Underdog
+POR@NY,POR,Toumani Camara,AST,1.59,0,3,32.9,-0.9,lineup: starter (confirmed),PP standard,1.5,Less,0.545,0.504,0.041,0.455,-114,-118,,PrizePicks / Underdog
+POR@NY,NY,Andre Drummond,AST,1.44,0,2,25.2,3.5,lineup: starter (confirmed),PP standard,1.5,Less,0.599,0.5,0.099,0.401,-119,-119,,PrizePicks / Underdog
+POR@NY,POR,Scoot Henderson,3PM,1.66,0,3,25.7,-0.0,,PP standard,1.5,Less,0.541,0.5,0.041,0.459,-119,-119,4.9,PrizePicks / Underdog
+POR@NY,NY,Miles McBride,PTS,10.39,5,15,25.8,-11.6,minutes unclear (-12),book line,7.5,More,0.634,0.48,0.155,0.634,109,-108,,Kalshi / Underdog
+POR@NY,NY,Landry Shamet,PA,14.83,9,20,34.6,-4.7,minutes unclear (-5); lineup: starter (confirmed),book line,13.5,More,0.534,0.485,0.049,0.534,107,-105,,Kalshi / Underdog
+POR@NY,POR,Scoot Henderson,PA,14.26,8,20,25.7,-0.0,,book line,12.5,More,0.546,0.525,0.022,0.546,-110,111,,Kalshi / Underdog
+POR@NY,NY,Andre Drummond,PA,10.87,6,15,25.2,3.5,lineup: starter (confirmed); role down (last 8: 2.8),book line,9.5,More,0.547,0.537,0.01,0.547,-115,117,,Kalshi / Underdog
+POR@NY,POR,Scoot Henderson,RA,4.84,3,7,25.7,-0.0,,book line,4.5,More,0.501,0.417,0.084,0.501,140,-139,,Kalshi / Underdog
+POR@NY,NY,Landry Shamet,RA,4.68,3,7,34.6,-4.7,minutes unclear (-5); lineup: starter (confirmed),book line,4.5,Less,0.509,0.557,-0.048,0.491,126,-125,,Kalshi / Underdog
+POR@NY,POR,Sidy Cissoko,3PM,1.26,0,2,25.6,2.6,lineup: starter (confirmed); teammate back (Deni Avdija; last 8: 1.8),book line,1.5,Less,0.655,0.631,0.024,0.345,153,-208,4.2,Kalshi / Underdog
+POR@NY,POR,Jrue Holiday,3PM,2.27,1,4,28.6,-2.3,,book line,1.5,More,0.612,0.573,0.039,0.612,-160,118,6.0,Kalshi / Underdog
+POR@NY,POR,Sidy Cissoko,AST,1.8,0,3,25.6,2.6,lineup: starter (confirmed),book line,1.5,More,0.506,0.575,-0.068,0.506,-159,120,,Kalshi / Underdog
+POR@NY,POR,Donovan Clingan,AST,1.69,0,3,28.2,-0.1,lineup: starter (confirmed); teammate back (Deni Avdija; last 8: 2.0),book line,1.5,Less,0.516,0.433,0.083,0.484,-154,116,,Kalshi / Underdog
+POR@NY,POR,Donovan Clingan,3PM,0.87,0,2,28.2,-0.1,lineup: starter (confirmed),book line,0.5,More,0.524,0.604,-0.081,0.524,-185,135,2.6,Kalshi / Underdog

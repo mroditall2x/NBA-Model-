@@ -35,7 +35,7 @@
   "prob": []
  },
  "POR": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Damian Lillard",
    "Sidy Cissoko",
@@ -54,26 +54,25 @@
   "prob": []
  },
  "NY": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Jalen Brunson",
-   "Mikal Bridges",
    "Landry Shamet",
    "Josh Hart",
-   "Karl-Anthony Towns"
+   "Mikal Bridges",
+   "Andre Drummond"
   ],
   "out": [
    "OG Anunoby",
-   "Jordan Clarkson"
-  ],
-  "ques": [
+   "Jordan Clarkson",
    "Karl-Anthony Towns"
   ],
+  "ques": [],
   "doubt": [],
   "prob": []
  },
  "LAC": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Darius Garland",
    "Max Strus",
@@ -91,35 +90,32 @@
   "prob": []
  },
  "DAL": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Kyrie Irving",
    "Caleb Martin",
    "Cooper Flagg",
-   "Naji Marshall",
+   "Zaccharie Risacher",
    "Daniel Gafford"
   ],
   "out": [
    "Tarik Biberovic",
    "Sergio de Larrea",
    "Tobi Lawal",
-   "Dereck Lively"
-  ],
-  "ques": [
-   "Walter Clayton"
-  ],
-  "doubt": [
+   "Dereck Lively",
    "P.J. Washington"
   ],
+  "ques": [],
+  "doubt": [],
   "prob": []
  },
  "MEM": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Ty Jerome",
    "Cedric Coward",
    "Jaylen Wells",
-   "Taylor Hendricks",
+   "Jahmai Mashack",
    "Zach Edey"
   ],
   "out": [
@@ -134,7 +130,7 @@
   "prob": []
  },
  "MIN": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "LaMelo Ball",
    "Ayo Dosunmu",
@@ -147,19 +143,17 @@
    "Donte DiVincenzo",
    "Anthony Edwards"
   ],
-  "ques": [
-   "Isaiah Evans"
-  ],
+  "ques": [],
   "doubt": [],
   "prob": []
  },
  "NO": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Jeremiah Fears",
    "Herbert Jones",
    "Saddiq Bey",
-   "Zion Williamson",
+   "Derik Queen",
    "Yves Missi"
   ],
   "out": [
@@ -167,14 +161,15 @@
    "Bryce McGowens",
    "Trey Murphy",
    "Dejounte Murray",
-   "Trendon Watford"
+   "Trendon Watford",
+   "Zion Williamson"
   ],
   "ques": [],
   "doubt": [],
   "prob": []
  },
  "SA": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "De'Aaron Fox",
    "Stephon Castle",
@@ -222,9 +217,7 @@
    "Ben Simmons",
    "Maxime Raynaud"
   ],
-  "ques": [
-   "Precious Achiuwa"
-  ],
+  "ques": [],
   "doubt": [],
   "prob": []
  }

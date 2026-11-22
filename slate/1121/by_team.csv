@@ -1,7 +1,4 @@
 game,team,player,stat,line,side,p,mean,min,grade,where
-BOS@SAC,BOS,Sam Hauser,PTS,12.5,Less,0.582,11.05,28.6,card,PrizePicks / Underdog
-BOS@SAC,BOS,Payton Pritchard,3PM,2.5,More,0.574,3.42,37.9,lean,Kalshi / Underdog
-BOS@SAC,BOS,Neemias Queta,REB,9.5,Less,0.552,8.99,28.9,lean,PrizePicks / Underdog
 LAC@DAL,DAL,Cooper Flagg,RA,13.5,Less,0.561,12.63,33.7,lean,PrizePicks / Underdog
 LAC@DAL,DAL,Naji Marshall,RA,7.5,Less,0.557,7.02,24.8,lean,PrizePicks / Underdog
 LAC@DAL,LAC,Brook Lopez,AST,2.5,Less,0.63,1.84,25.8,lean,Kalshi / Underdog
@@ -24,6 +21,9 @@ POR@NY,POR,Jrue Holiday,RA,7.5,Less,0.504,7.69,28.6,lean,PrizePicks / Underdog
 NO@SA,SA,Julian Champagnie,RA,6.5,More,0.548,7.36,31.8,lean,PrizePicks / Underdog
 NO@SA,SA,Harrison Barnes,PTS,6.5,Less,0.523,7.47,19.2,lean,PrizePicks / Underdog
 NO@SA,SA,Devin Vassell,PRA,19.5,More,0.522,20.89,32.4,lean,PrizePicks / Underdog
+BOS@SAC,BOS,Sam Hauser,PTS,12.5,Less,0.582,11.05,28.6,card,PrizePicks / Underdog
+BOS@SAC,BOS,Payton Pritchard,3PM,2.5,More,0.574,3.42,37.9,lean,Kalshi / Underdog
+BOS@SAC,BOS,Neemias Queta,REB,9.5,Less,0.552,8.99,28.9,lean,PrizePicks / Underdog
 BOS@SAC,SAC,Zach LaVine,PTS,18.5,Less,0.576,16.66,31.4,lean,PrizePicks / Underdog
 BOS@SAC,SAC,De'Andre Hunter,PTS,13.5,Less,0.574,12.16,27.8,lean,PrizePicks / Underdog
 BOS@SAC,SAC,Domantas Sabonis,PA,17.5,Less,0.541,16.83,30.6,lean,PrizePicks / Underdog
