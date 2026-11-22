@@ -1,24 +1,24 @@
 {
- "checked": "2026-11-22T02:22:32.478872+00:00",
+ "checked": "2026-11-22T03:22:28.291210+00:00",
  "games": {
   "POR@NY": [
    {
     "player": "Karl-Anthony Towns",
     "team": "NY",
-    "status": "Out",
+    "status": "Day-To-Day",
     "note": "Towns (illness) won't play in Saturday's game versus the Trail Blazers."
-   },
-   {
-    "player": "OG Anunoby",
-    "team": "NY",
-    "status": "Out",
-    "note": "Anunoby (calf) has been ruled out for Saturday's game against the Trail Blazers."
    },
    {
     "player": "Jordan Clarkson",
     "team": "NY",
-    "status": "Out",
+    "status": "Day-To-Day",
     "note": "Clarkson (foot) won't play in Saturday's game against Portland."
+   },
+   {
+    "player": "OG Anunoby",
+    "team": "NY",
+    "status": "Day-To-Day",
+    "note": "Anunoby (calf) has been ruled out for Saturday's game against the Trail Blazers."
    },
    {
     "player": "Chris Youngblood",
