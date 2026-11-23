@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-23T00:22:38.641236+00:00",
+ "checked": "2026-11-23T01:22:29.568462+00:00",
  "games": {
   "DET@ATL": [
    {
@@ -177,6 +177,12 @@
     "note": "Biberovic (heel) is out for Wednesday's game against the Warriors."
    },
    {
+    "player": "Jaxson Hayes",
+    "team": "UTAH",
+    "status": "Out",
+    "note": "Hayes (knee) has been ruled out for the remainder of Sunday's game against the Mavericks, Grant Afseth of DallasHoopsJournal.com reports."
+   },
+   {
     "player": "Jusuf Nurkic",
     "team": "UTAH",
     "status": "Out",
@@ -251,12 +257,6 @@
     "team": "IND",
     "status": "Out",
     "note": "McConnell (hamstring) is listed as out for Sunday's game in New York."
-   },
-   {
-    "player": "Pascal Siakam",
-    "team": "IND",
-    "status": "Day-To-Day",
-    "note": "Siakam (hip) is listed as questionable for Sunday's game against New York."
    },
    {
     "player": "Tyrese Haliburton",
