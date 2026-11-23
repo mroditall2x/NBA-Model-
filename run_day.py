@@ -77,7 +77,9 @@ if len(_v):
     _v['mkt_over']=[_imp(int(o))/(_imp(int(o))+_imp(int(u))) for o,u in zip(_v.o,_v.u)]
     _v=_v[_v.mkt_over<=0.60].sort_values('vol3',ascending=False).head(2).assign(side='More',tier='standard',p=0.60)
 card=pd.concat([std.assign(tier='standard',p=std.q.round(4)),gob.assign(tier='goblin',p=gob.model),_v.drop(columns=['mkt_over'],errors='ignore')])
-card=card.sort_values('p',ascending=False).drop_duplicates(['player','stat'])
+# 11/23: one prop per player (keep the highest-p one). Two props on one player are correlated,
+# so they tend to split (cash one, lose the other); the open spots fill from the next-best players.
+card=card.sort_values('p',ascending=False).drop_duplicates('player')
 # ---- price + EV for each play (book odds of that side, from the props pull) ----
 _AB={'Points':'PTS','Rebounds':'REB','Assists':'AST','Points + Assists':'PA','Points + Rebounds':'PR','Rebounds + Assists':'RA','Pts + Reb + Ast':'PRA','Three Pointers':'3PM','Steals':'STL','Blocks':'BLK','Steals + Blocks':'Stl+Blk'}
 _px={}
