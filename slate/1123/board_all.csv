@@ -394,8 +394,8 @@ OKC@IND,IND,Kelly Oubre Jr.,RA,5.64,3,8,28.2,1.6,,book line,5.5,Less,0.516,0.52,
 MIL@TOR,MIL,Jaime Jaquez Jr,AST,3.13,1,5,26.6,-4.3,minutes unclear (-4),book line,2.5,More,0.584,0.542,0.042,0.584,-137,105,,Kalshi / Underdog
 MIL@TOR,MIL,Tyler Herro,AST,4.19,2,6,31.8,1.2,lineup: starter (expected),book line,3.5,More,0.578,0.565,0.013,0.578,-154,114,,Kalshi / Underdog
 MIL@TOR,TOR,Immanuel Quickley,AST,6.02,4,8,33.5,-4.4,minutes unclear (-4); lineup: starter (expected),PP standard,6.5,Less,0.604,0.541,0.063,0.396,102,-140,,PrizePicks / Underdog
-MIL@TOR,MIL,Brayden Burries,AST,2.46,1,4,24.8,1.5,small sample; lineup: starter (expected),PP standard,2.5,Less,0.563,0.492,0.071,0.437,-120,-112,,PrizePicks / Underdog
-MIL@TOR,MIL,Ryan Rollins,AST,3.96,2,6,26.0,0.0,,PP standard,3.5,More,0.541,0.571,-0.03,0.541,-157,118,,PrizePicks / Underdog
+MIL@TOR,MIL,Brayden Burries,AST,2.46,1,4,24.8,1.5,small sample,PP standard,2.5,Less,0.563,0.492,0.071,0.437,-120,-112,,PrizePicks / Underdog
+MIL@TOR,MIL,Ryan Rollins,AST,3.96,2,6,26.0,0.0,lineup: starter (expected),PP standard,3.5,More,0.541,0.571,-0.03,0.541,-157,118,,PrizePicks / Underdog
 MIL@TOR,TOR,Scottie Barnes,AST,5.32,3,7,33.5,0.9,lineup: starter (expected),PP standard,5.5,Less,0.563,0.483,0.08,0.437,-125,-108,,PrizePicks / Underdog
 MIL@TOR,TOR,Ja'Kobe Walter,PTS,13.81,8,19,31.4,-1.1,lineup: starter (expected),PP standard,13.5,Less,0.525,0.496,0.029,0.475,-115,-111,,PrizePicks / Underdog
 MIL@TOR,MIL,Kyle Kuzma,PTS,11.97,6,17,27.1,0.1,lineup: starter (expected),PP standard,11.5,Less,0.516,0.48,0.036,0.484,-125,-105,,PrizePicks / Underdog
@@ -404,18 +404,18 @@ MIL@TOR,MIL,Jaime Jaquez Jr,PTS,13.07,7,18,26.6,-4.3,minutes unclear (-4),PP sta
 MIL@TOR,MIL,Tyler Herro,PTS,19.89,13,27,31.8,1.2,lineup: starter (expected),PP standard,20.5,Less,0.56,0.509,0.051,0.44,-110,-119,,PrizePicks / Underdog
 MIL@TOR,TOR,Immanuel Quickley,PTS,20.46,13,27,33.5,-4.4,minutes unclear (-4); lineup: starter (expected),PP standard,18.5,More,0.565,0.514,0.051,0.565,-124,-110,,PrizePicks / Underdog
 MIL@TOR,TOR,Jakob Poeltl,PTS,11.33,6,16,26.5,-1.4,,PP standard,10.5,More,0.507,0.483,0.024,0.507,-108,-125,,PrizePicks / Underdog
-MIL@TOR,MIL,Brayden Burries,PTS,11.68,6,17,24.8,1.5,small sample; lineup: starter (expected),PP standard,11.5,Less,0.531,0.51,0.021,0.469,-110,-120,,PrizePicks / Underdog
+MIL@TOR,MIL,Brayden Burries,PTS,11.68,6,17,24.8,1.5,small sample,PP standard,11.5,Less,0.531,0.51,0.021,0.469,-110,-120,,PrizePicks / Underdog
 MIL@TOR,MIL,Myles Turner,PTS,8.3,4,12,25.1,-1.5,lineup: starter (expected),PP standard,7.5,More,0.506,0.51,-0.004,0.506,-120,-110,,PrizePicks / Underdog
-MIL@TOR,MIL,Ryan Rollins,PTS,11.83,6,17,26.0,0.0,,PP standard,11.5,Less,0.522,0.487,0.035,0.478,-123,-110,,PrizePicks / Underdog
+MIL@TOR,MIL,Ryan Rollins,PTS,11.83,6,17,26.0,0.0,lineup: starter (expected),PP standard,11.5,Less,0.522,0.487,0.035,0.478,-123,-110,,PrizePicks / Underdog
 MIL@TOR,TOR,Allen Graves,PTS,7.95,2,13,19.4,2.3,small sample; projected starter (expected) - minutes unclear (model 19),PP standard,8.5,Less,0.617,0.483,0.134,0.383,-124,-107,,PrizePicks / Underdog
 MIL@TOR,TOR,Collin Murray-Boyles,PTS,11.73,6,17,27.0,2.4,lineup: starter (expected),book line,12.5,Less,0.589,0.531,0.058,0.411,100,-130,,Kalshi / Underdog
 MIL@TOR,MIL,Tyler Herro,PA,24.08,16,32,31.8,1.2,lineup: starter (expected),PP standard,24.5,Less,0.55,0.501,0.049,0.45,-114,-115,,PrizePicks / Underdog
 MIL@TOR,TOR,Immanuel Quickley,PA,26.48,19,34,33.5,-4.4,minutes unclear (-4); lineup: starter (expected),PP standard,25.5,More,0.516,0.482,0.034,0.516,-106,-124,,PrizePicks / Underdog
 MIL@TOR,MIL,Kyle Kuzma,PA,14.17,8,20,27.1,0.1,lineup: starter (expected),PP standard,14.5,Less,0.562,0.52,0.042,0.438,-105,-125,,PrizePicks / Underdog
 MIL@TOR,MIL,Jaime Jaquez Jr,PA,16.2,10,22,26.6,-4.3,minutes unclear (-4),PP standard,14.5,More,0.56,0.512,0.048,0.56,-122,-110,,PrizePicks / Underdog
-MIL@TOR,MIL,Brayden Burries,PA,14.14,9,19,24.8,1.5,small sample; lineup: starter (expected),PP standard,14.5,Less,0.562,0.51,0.052,0.438,-110,-120,,PrizePicks / Underdog
+MIL@TOR,MIL,Brayden Burries,PA,14.14,9,19,24.8,1.5,small sample,PP standard,14.5,Less,0.562,0.51,0.052,0.438,-110,-120,,PrizePicks / Underdog
 MIL@TOR,TOR,Scottie Barnes,PA,28.91,21,36,33.5,0.9,lineup: starter (expected),PP standard,29.5,Less,0.553,0.499,0.054,0.447,-115,-114,,PrizePicks / Underdog
-MIL@TOR,MIL,Ryan Rollins,PA,15.79,10,21,26.0,0.0,,PP standard,15.5,Less,0.524,0.48,0.044,0.476,-125,-105,,PrizePicks / Underdog
+MIL@TOR,MIL,Ryan Rollins,PA,15.79,10,21,26.0,0.0,lineup: starter (expected),PP standard,15.5,Less,0.524,0.48,0.044,0.476,-125,-105,,PrizePicks / Underdog
 MIL@TOR,TOR,Collin Murray-Boyles,PA,13.74,8,19,27.0,2.4,lineup: starter (expected),PP standard,14.5,Less,0.583,0.5,0.083,0.417,-115,-115,,PrizePicks / Underdog
 MIL@TOR,TOR,Ja'Kobe Walter,PR,18.01,12,24,31.4,-1.1,lineup: starter (expected),PP standard,17.5,Less,0.509,0.489,0.02,0.491,-120,-109,,PrizePicks / Underdog
 MIL@TOR,TOR,Scottie Barnes,PR,31.07,23,39,33.5,0.9,lineup: starter (expected),PP standard,31.5,Less,0.54,0.52,0.019,0.46,-105,-125,,PrizePicks / Underdog
@@ -424,17 +424,17 @@ MIL@TOR,MIL,Kyle Kuzma,PR,16.38,10,22,27.1,0.1,lineup: starter (expected),PP sta
 MIL@TOR,MIL,Tyler Herro,PR,24.04,16,31,31.8,1.2,lineup: starter (expected),PP standard,24.5,Less,0.549,0.502,0.047,0.451,-114,-116,,PrizePicks / Underdog
 MIL@TOR,MIL,Jaime Jaquez Jr,PR,17.26,11,23,26.6,-4.3,minutes unclear (-4),PP standard,15.5,More,0.565,0.95,-0.385,0.565,-122,-3,,PrizePicks / Underdog
 MIL@TOR,TOR,Jakob Poeltl,PR,19.21,13,25,26.5,-1.4,,PP standard,18.5,More,0.507,0.505,0.002,0.507,-117,-112,,PrizePicks / Underdog
-MIL@TOR,MIL,Brayden Burries,PR,16.7,11,22,24.8,1.5,small sample; lineup: starter (expected),PP standard,16.5,Less,0.528,0.478,0.05,0.472,-126,-104,,PrizePicks / Underdog
+MIL@TOR,MIL,Brayden Burries,PR,16.7,11,22,24.8,1.5,small sample,PP standard,16.5,Less,0.528,0.478,0.05,0.472,-126,-104,,PrizePicks / Underdog
 MIL@TOR,MIL,Myles Turner,PR,13.35,8,18,25.1,-1.5,lineup: starter (expected),PP standard,13.5,Less,0.553,0.52,0.033,0.447,-105,-125,,PrizePicks / Underdog
-MIL@TOR,MIL,Ryan Rollins,PR,15.79,10,21,26.0,0.0,,PP standard,15.5,Less,0.525,0.49,0.035,0.475,-120,-110,,PrizePicks / Underdog
+MIL@TOR,MIL,Ryan Rollins,PR,15.79,10,21,26.0,0.0,lineup: starter (expected),PP standard,15.5,Less,0.525,0.49,0.035,0.475,-120,-110,,PrizePicks / Underdog
 MIL@TOR,TOR,Allen Graves,PR,11.99,5,18,19.4,2.3,small sample; projected starter (expected) - minutes unclear (model 19),PP standard,13.5,Less,0.647,0.486,0.161,0.353,-122,-108,,PrizePicks / Underdog
 MIL@TOR,TOR,Collin Murray-Boyles,PR,17.55,11,24,27.0,2.4,lineup: starter (expected),PP standard,18.5,Less,0.582,0.51,0.072,0.418,-110,-120,,PrizePicks / Underdog
 MIL@TOR,TOR,Immanuel Quickley,PRA,30.67,23,38,33.5,-4.4,minutes unclear (-4); lineup: starter (expected),PP standard,28.5,More,0.57,0.519,0.051,0.57,-125,-106,,PrizePicks / Underdog
 MIL@TOR,MIL,Jaime Jaquez Jr,PRA,20.39,14,27,26.6,-4.3,minutes unclear (-4),PP standard,18.5,More,0.567,0.512,0.055,0.567,-121,-109,,PrizePicks / Underdog
 MIL@TOR,MIL,Kyle Kuzma,PRA,18.58,12,25,27.1,0.1,lineup: starter (expected),PP standard,18.5,Less,0.531,0.49,0.041,0.469,-120,-110,,PrizePicks / Underdog
 MIL@TOR,MIL,Tyler Herro,PRA,28.23,20,36,31.8,1.2,lineup: starter (expected),PP standard,28.5,Less,0.541,0.5,0.041,0.459,-115,-115,,PrizePicks / Underdog
-MIL@TOR,MIL,Brayden Burries,PRA,19.16,13,25,24.8,1.5,small sample; lineup: starter (expected),PP standard,19.5,Less,0.556,0.49,0.066,0.444,-120,-110,,PrizePicks / Underdog
-MIL@TOR,MIL,Ryan Rollins,PRA,19.75,13,26,26.0,0.0,,PP standard,19.5,Less,0.529,0.481,0.049,0.471,-125,-106,,PrizePicks / Underdog
+MIL@TOR,MIL,Brayden Burries,PRA,19.16,13,25,24.8,1.5,small sample,PP standard,19.5,Less,0.556,0.49,0.066,0.444,-120,-110,,PrizePicks / Underdog
+MIL@TOR,MIL,Ryan Rollins,PRA,19.75,13,26,26.0,0.0,lineup: starter (expected),PP standard,19.5,Less,0.529,0.481,0.049,0.471,-125,-106,,PrizePicks / Underdog
 MIL@TOR,TOR,Scottie Barnes,PRA,36.39,28,44,33.5,0.9,lineup: starter (expected),PP standard,36.5,Less,0.523,0.489,0.035,0.477,-120,-109,,PrizePicks / Underdog
 MIL@TOR,TOR,Collin Murray-Boyles,PRA,19.56,12,26,27.0,2.4,lineup: starter (expected),PP standard,20.5,Less,0.579,0.484,0.095,0.421,-122,-106,,PrizePicks / Underdog
 MIL@TOR,TOR,Immanuel Quickley,REB,4.2,2,6,33.5,-4.4,minutes unclear (-4); lineup: starter (expected),book line,3.5,More,0.584,0.534,0.05,0.584,-134,100,,Kalshi / Underdog
@@ -444,26 +444,26 @@ MIL@TOR,TOR,Jakob Poeltl,REB,7.88,5,11,26.5,-1.4,,PP standard,7.5,More,0.513,0.5
 MIL@TOR,TOR,Ja'Kobe Walter,REB,4.2,2,6,31.4,-1.1,lineup: starter (expected),PP standard,3.5,More,0.576,0.577,-0.001,0.576,-160,122,,PrizePicks / Underdog
 MIL@TOR,MIL,Myles Turner,REB,5.06,3,7,25.1,-1.5,lineup: starter (expected); role up (last 8: 6.8),PP standard,5.5,Less,0.609,0.552,0.057,0.391,108,-145,,PrizePicks / Underdog
 MIL@TOR,MIL,Jaime Jaquez Jr,REB,4.19,2,6,26.6,-4.3,minutes unclear (-4),book line,3.5,More,0.571,0.554,0.017,0.571,-145,110,,Kalshi / Underdog
-MIL@TOR,MIL,Brayden Burries,REB,5.01,3,7,24.8,1.5,small sample; lineup: starter (expected),PP standard,5.5,Less,0.613,0.524,0.089,0.387,-105,-129,,PrizePicks / Underdog
+MIL@TOR,MIL,Brayden Burries,REB,5.01,3,7,24.8,1.5,small sample,PP standard,5.5,Less,0.613,0.524,0.089,0.387,-105,-129,,PrizePicks / Underdog
 MIL@TOR,TOR,Scottie Barnes,REB,7.48,5,10,33.5,0.9,lineup: starter (expected),PP standard,7.5,Less,0.531,0.552,-0.021,0.469,108,-145,,PrizePicks / Underdog
 MIL@TOR,TOR,Collin Murray-Boyles,REB,5.81,3,8,27.0,2.4,lineup: starter (expected),PP standard,6.5,Less,0.625,0.555,0.07,0.375,110,-146,,PrizePicks / Underdog
-MIL@TOR,MIL,Ryan Rollins,REB,3.96,2,6,26.0,0.0,role up (last 8: 5.6),book line,3.5,More,0.537,0.538,-0.001,0.537,-136,102,,Kalshi / Underdog
+MIL@TOR,MIL,Ryan Rollins,REB,3.96,2,6,26.0,0.0,lineup: starter (expected); role up (last 8: 5.6),book line,3.5,More,0.537,0.538,-0.001,0.537,-136,102,,Kalshi / Underdog
 MIL@TOR,TOR,Allen Graves,REB,4.04,2,6,19.4,2.3,small sample; projected starter (expected) - minutes unclear (model 19),PP standard,4.5,Less,0.632,0.49,0.142,0.368,-120,-110,,PrizePicks / Underdog
 MIL@TOR,TOR,Immanuel Quickley,RA,10.21,7,13,33.5,-4.4,minutes unclear (-4); lineup: starter (expected),PP standard,10.5,Less,0.554,0.542,0.012,0.446,104,-138,,PrizePicks / Underdog
 MIL@TOR,MIL,Jaime Jaquez Jr,RA,7.32,5,10,26.6,-4.3,minutes unclear (-4),PP standard,6.5,More,0.572,0.983,-0.411,0.572,-130,-1,,PrizePicks / Underdog
 MIL@TOR,MIL,Tyler Herro,RA,8.34,5,11,31.8,1.2,lineup: starter (expected),book line,7.5,More,0.565,0.553,0.012,0.565,-144,110,,Kalshi / Underdog
 MIL@TOR,MIL,Kyle Kuzma,RA,6.6,4,9,27.1,0.1,lineup: starter (expected),PP standard,6.5,Less,0.522,0.486,0.036,0.478,-122,-108,,PrizePicks / Underdog
-MIL@TOR,MIL,Brayden Burries,RA,7.47,5,10,24.8,1.5,small sample; lineup: starter (expected),PP standard,8.5,Less,0.655,0.538,0.117,0.345,100,-140,,PrizePicks / Underdog
-MIL@TOR,MIL,Ryan Rollins,RA,7.92,5,11,26.0,0.0,,PP standard,7.5,More,0.518,0.363,0.155,0.518,-133,0,,PrizePicks / Underdog
+MIL@TOR,MIL,Brayden Burries,RA,7.47,5,10,24.8,1.5,small sample,PP standard,8.5,Less,0.655,0.538,0.117,0.345,100,-140,,PrizePicks / Underdog
+MIL@TOR,MIL,Ryan Rollins,RA,7.92,5,11,26.0,0.0,lineup: starter (expected),PP standard,7.5,More,0.518,0.363,0.155,0.518,-133,0,,PrizePicks / Underdog
 MIL@TOR,TOR,Collin Murray-Boyles,RA,7.83,5,11,27.0,2.4,lineup: starter (expected),PP standard,8.5,Less,0.606,0.502,0.104,0.394,-114,-116,,PrizePicks / Underdog
 MIL@TOR,TOR,Scottie Barnes,RA,12.8,9,16,33.5,0.9,lineup: starter (expected),book line,12.5,More,0.504,0.531,-0.027,0.504,-130,100,,Kalshi / Underdog
 MIL@TOR,MIL,Jaime Jaquez Jr,3PM,1.14,0,2,26.6,-4.3,minutes unclear (-4),book line,1.5,Less,0.688,0.616,0.072,0.312,144,-192,4.8,Kalshi / Underdog
 MIL@TOR,MIL,Kyle Kuzma,3PM,1.42,0,2,27.1,0.1,lineup: starter (expected),PP standard,1.5,Less,0.604,0.517,0.086,0.396,-107,-124,5.7,PrizePicks / Underdog
 MIL@TOR,MIL,Tyler Herro,3PM,2.48,1,4,31.8,1.2,lineup: starter (expected),book line,2.5,Less,0.566,0.545,0.021,0.434,106,-139,7.4,Kalshi / Underdog
 MIL@TOR,TOR,Immanuel Quickley,3PM,3.24,1,5,33.5,-4.4,minutes unclear (-4); lineup: starter (expected),book line,2.5,More,0.598,0.532,0.066,0.598,-132,100,8.6,Kalshi / Underdog
-MIL@TOR,MIL,Brayden Burries,3PM,1.28,0,2,24.8,1.5,small sample; lineup: starter (expected),book line,1.5,Less,0.642,0.59,0.052,0.358,128,-172,4.1,Kalshi / Underdog
+MIL@TOR,MIL,Brayden Burries,3PM,1.28,0,2,24.8,1.5,small sample,book line,1.5,Less,0.642,0.59,0.052,0.358,128,-172,4.1,Kalshi / Underdog
 MIL@TOR,MIL,Myles Turner,3PM,1.32,0,2,25.1,-1.5,lineup: starter (expected),book line,1.5,Less,0.633,0.552,0.081,0.367,109,-143,4.7,Kalshi / Underdog
-MIL@TOR,MIL,Ryan Rollins,3PM,1.59,0,3,26.0,0.0,,PP standard,1.5,Less,0.553,0.501,0.052,0.447,-115,-116,4.4,PrizePicks / Underdog
+MIL@TOR,MIL,Ryan Rollins,3PM,1.59,0,3,26.0,0.0,lineup: starter (expected),PP standard,1.5,Less,0.553,0.501,0.052,0.447,-115,-116,4.4,PrizePicks / Underdog
 MIL@TOR,TOR,Ja'Kobe Walter,3PM,2.9,1,4,31.4,-1.1,lineup: starter (expected),book line,2.5,More,0.528,0.553,-0.025,0.528,-144,110,7.6,Kalshi / Underdog
 MIL@TOR,TOR,Jakob Poeltl,AST,1.95,1,3,26.5,-1.4,,book line,1.5,More,0.551,0.598,-0.047,0.551,-179,132,,Kalshi / Underdog
 MIL@TOR,TOR,Ja'Kobe Walter,AST,2.04,1,3,31.4,-1.1,lineup: starter (expected),book line,2.5,Less,0.666,0.599,0.067,0.334,134,-177,,Kalshi / Underdog

@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-23T16:22:36.319796+00:00",
+ "checked": "2026-11-23T17:22:36.389260+00:00",
  "games": {
   "MEM@CHA": [
    {
@@ -64,6 +64,12 @@
    }
   ],
   "POR@PHI": [
+   {
+    "player": "Joel Embiid",
+    "team": "PHI",
+    "status": "Day-To-Day",
+    "note": "Embiid (knee) has been downgraded to questionable for Monday's game against Portland."
+   },
    {
     "player": "Adem Bona",
     "team": "PHI",
