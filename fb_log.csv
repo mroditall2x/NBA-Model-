@@ -491,7 +491,10 @@ date,game,team,player,p_first_fg,fair_odds,book,ev,first_scorer,hit,profit
 2026-11-22,DEN@CHI,DEN,Jamal Murray,0.1751,471,400,-0.12449999999999994,Buddy Hield,False,-1.0
 2026-11-22,IND@NY,NY,Jalen Brunson,0.1639,510,425,-0.139525,Ivica Zubac,False,-1.0
 2026-11-22,DAL@UTAH,DAL,Daniel Gafford,0.1552,544,750,0.31919999999999993,Keyonte George,False,-1.0
+2026-11-22,BOS@GS,BOS,Neemias Queta,0.1489,571,625,0.07952500000000007,Draymond Green,False,-1.0
+2026-11-22,BOS@GS,GS,Yaxel Lendeborg,0.1474,578,600,0.03180000000000005,Draymond Green,False,-1.0
 2026-11-22,DAL@UTAH,DAL,Cooper Flagg,0.144,594,600,0.008000000000000007,Keyonte George,False,-1.0
+2026-11-22,BOS@GS,BOS,Jayson Tatum,0.1374,628,550,-0.1069,Draymond Green,False,-1.0
 2026-11-22,ORL@WSH,ORL,Wendell Carter Jr,0.1289,676,675,-0.0010250000000000536,Anthony Davis,False,-1.0
 2026-11-22,ORL@WSH,ORL,Desmond Bane,0.1284,679,760,0.10423999999999989,Anthony Davis,False,-1.0
 2026-11-22,DET@ATL,DET,John Collins,0.1259,694,700,0.007200000000000095,John Collins,True,7.0
@@ -508,6 +511,7 @@ date,game,team,player,p_first_fg,fair_odds,book,ev,first_scorer,hit,profit
 2026-11-22,OKC@MIA,OKC,Jared McCain,0.1109,802,850,0.053549999999999986,Bam Adebayo,False,-1.0
 2026-11-22,OKC@MIA,MIA,Andrew Wiggins,0.1108,803,775,-0.030500000000000083,Bam Adebayo,False,-1.0
 2026-11-22,ORL@WSH,WSH,Anthony Davis,0.1089,818,538,-0.305218,Anthony Davis,True,5.38
+2026-11-22,BOS@GS,GS,Brandin Podziemski,0.1076,829,550,-0.3006,Draymond Green,False,-1.0
 2026-11-22,ORL@WSH,WSH,Alex Sarr,0.1061,843,725,-0.12467499999999998,Anthony Davis,False,-1.0
 2026-11-22,OKC@MIA,OKC,Ajay Mitchell,0.1014,886,625,-0.2648499999999999,Bam Adebayo,False,-1.0
 2026-11-22,DEN@CHI,CHI,Matas Buzelis,0.0995,905,900,-0.004999999999999893,Buddy Hield,False,-1.0
