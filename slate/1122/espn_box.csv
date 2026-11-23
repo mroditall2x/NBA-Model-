@@ -61,16 +61,36 @@ ORL@WSH,WSH,Bub Carrington,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 ORL@WSH,WSH,Bilal Coulibaly,25.0,12.0,3.0,1.0,4.0,6.0,0.0,1.0,1.0
 ORL@WSH,WSH,Will Riley,9.0,4.0,3.0,1.0,0.0,1.0,0.0,0.0,0.0
 ORL@WSH,WSH,Tre Johnson,15.0,11.0,2.0,0.0,3.0,3.0,0.0,0.0,1.0
+DEN@CHI,DEN,Aaron Gordon,33.0,18.0,8.0,5.0,1.0,5.0,2.0,1.0,6.0
+DEN@CHI,DEN,Cameron Johnson,36.0,16.0,2.0,5.0,4.0,5.0,2.0,0.0,1.0
+DEN@CHI,DEN,Nikola Jokic,42.0,37.0,18.0,11.0,1.0,3.0,1.0,1.0,5.0
+DEN@CHI,DEN,Jamal Murray,45.0,45.0,5.0,7.0,6.0,11.0,3.0,2.0,1.0
+DEN@CHI,DEN,Christian Braun,38.0,21.0,8.0,3.0,3.0,6.0,1.0,0.0,2.0
+DEN@CHI,DEN,Marvin Bagley III,11.0,2.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0
+DEN@CHI,DEN,Spencer Jones,20.0,0.0,4.0,0.0,0.0,1.0,0.0,2.0,0.0
+DEN@CHI,DEN,Trevon Brazile,15.0,8.0,0.0,0.0,2.0,2.0,0.0,1.0,0.0
+DEN@CHI,DEN,DeMar DeRozan,18.0,4.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+DEN@CHI,DEN,Tyus Jones,8.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+DEN@CHI,CHI,Jalen Smith,34.0,26.0,4.0,1.0,6.0,7.0,2.0,2.0,3.0
+DEN@CHI,CHI,Isaac Okoro,42.0,11.0,1.0,2.0,2.0,8.0,1.0,1.0,1.0
+DEN@CHI,CHI,Matas Buzelis,38.0,21.0,5.0,3.0,4.0,12.0,0.0,2.0,1.0
+DEN@CHI,CHI,Buddy Hield,40.0,33.0,7.0,6.0,7.0,13.0,1.0,0.0,1.0
+DEN@CHI,CHI,Josh Giddey,41.0,23.0,14.0,22.0,2.0,5.0,0.0,1.0,1.0
+DEN@CHI,CHI,Zach Collins,17.0,5.0,1.0,0.0,1.0,3.0,0.0,1.0,0.0
+DEN@CHI,CHI,Patrick Williams,16.0,2.0,2.0,0.0,0.0,1.0,1.0,0.0,0.0
+DEN@CHI,CHI,Noa Essengue,11.0,9.0,4.0,0.0,1.0,2.0,0.0,0.0,1.0
+DEN@CHI,CHI,Tre Jones,12.0,9.0,2.0,4.0,0.0,0.0,0.0,0.0,1.0
+DEN@CHI,CHI,Jordan Hawkins,14.0,6.0,1.0,1.0,2.0,4.0,0.0,0.0,0.0
 DAL@UTAH,DAL,Caleb Martin,29.0,13.0,6.0,4.0,3.0,5.0,4.0,0.0,2.0
 DAL@UTAH,DAL,Daniel Gafford,28.0,10.0,4.0,4.0,0.0,0.0,2.0,0.0,1.0
 DAL@UTAH,DAL,Cooper Flagg,31.0,28.0,3.0,4.0,3.0,7.0,1.0,0.0,2.0
-DAL@UTAH,DAL,Zaccharie Risacher,28.0,15.0,8.0,2.0,0.0,5.0,1.0,0.0,1.0
+DAL@UTAH,DAL,Zaccharie Risacher,28.0,15.0,8.0,2.0,0.0,5.0,0.0,0.0,1.0
 DAL@UTAH,DAL,Kyrie Irving,27.0,16.0,1.0,8.0,4.0,8.0,1.0,0.0,0.0
 DAL@UTAH,DAL,Naji Marshall,25.0,6.0,0.0,4.0,1.0,4.0,5.0,0.0,0.0
 DAL@UTAH,DAL,Santi Aldama,16.0,9.0,4.0,1.0,1.0,3.0,0.0,0.0,0.0
 DAL@UTAH,DAL,Morez Johnson Jr.,20.0,7.0,6.0,2.0,1.0,1.0,2.0,0.0,1.0
 DAL@UTAH,DAL,Max Christie,16.0,3.0,2.0,0.0,1.0,5.0,1.0,0.0,0.0
-DAL@UTAH,DAL,Walter Clayton Jr.,21.0,9.0,0.0,3.0,2.0,4.0,0.0,1.0,0.0
+DAL@UTAH,DAL,Walter Clayton Jr.,21.0,9.0,0.0,3.0,2.0,4.0,0.0,0.0,0.0
 DAL@UTAH,UTAH,Jaxson Hayes,12.0,8.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0
 DAL@UTAH,UTAH,Josh Green,23.0,0.0,1.0,0.0,0.0,3.0,1.0,0.0,1.0
 DAL@UTAH,UTAH,Keyonte George,26.0,15.0,5.0,7.0,2.0,6.0,0.0,0.0,0.0
@@ -83,3 +103,25 @@ DAL@UTAH,UTAH,Mo Bamba,23.0,6.0,10.0,1.0,0.0,1.0,0.0,1.0,3.0
 DAL@UTAH,UTAH,Svi Mykhailiuk,32.0,39.0,5.0,3.0,10.0,15.0,0.0,0.0,1.0
 DAL@UTAH,UTAH,Josh Okogie,14.0,1.0,4.0,0.0,0.0,2.0,1.0,0.0,2.0
 DAL@UTAH,UTAH,Isaiah Collier,13.0,10.0,2.0,7.0,1.0,1.0,1.0,1.0,1.0
+IND@NY,IND,Pascal Siakam,33.0,25.0,6.0,1.0,3.0,6.0,2.0,0.0,1.0
+IND@NY,IND,Ivica Zubac,31.0,10.0,14.0,1.0,0.0,0.0,0.0,0.0,3.0
+IND@NY,IND,Kelly Oubre Jr.,27.0,15.0,5.0,0.0,0.0,4.0,0.0,0.0,1.0
+IND@NY,IND,Andrew Nembhard,32.0,16.0,2.0,8.0,2.0,3.0,0.0,0.0,0.0
+IND@NY,IND,Aaron Nesmith,32.0,9.0,2.0,2.0,0.0,3.0,1.0,0.0,1.0
+IND@NY,IND,Larry Nance Jr.,11.0,5.0,3.0,0.0,1.0,1.0,1.0,0.0,0.0
+IND@NY,IND,Obi Toppin,22.0,9.0,5.0,1.0,0.0,2.0,0.0,0.0,0.0
+IND@NY,IND,Jalen Slawson,14.0,7.0,3.0,0.0,0.0,1.0,1.0,3.0,1.0
+IND@NY,IND,Jarace Walker,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+IND@NY,IND,Jay Huff,1.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+IND@NY,IND,Quenton Jackson,17.0,2.0,1.0,3.0,0.0,2.0,2.0,0.0,0.0
+IND@NY,IND,Braden Smith,18.0,6.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0
+IND@NY,NY,Karl-Anthony Towns,29.0,30.0,13.0,5.0,4.0,4.0,3.0,2.0,4.0
+IND@NY,NY,Josh Hart,39.0,10.0,11.0,10.0,0.0,4.0,1.0,0.0,0.0
+IND@NY,NY,Mikal Bridges,31.0,8.0,3.0,1.0,2.0,8.0,1.0,0.0,0.0
+IND@NY,NY,Landry Shamet,32.0,17.0,2.0,3.0,3.0,9.0,1.0,0.0,0.0
+IND@NY,NY,Jalen Brunson,32.0,22.0,3.0,7.0,1.0,6.0,1.0,0.0,0.0
+IND@NY,NY,Pacome Dadiet,17.0,5.0,2.0,0.0,1.0,2.0,0.0,0.0,1.0
+IND@NY,NY,Mohamed Diawara,8.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,1.0
+IND@NY,NY,Andre Drummond,19.0,2.0,10.0,1.0,0.0,0.0,0.0,1.0,3.0
+IND@NY,NY,Jose Alvarado,22.0,11.0,1.0,3.0,3.0,6.0,0.0,1.0,1.0
+IND@NY,NY,Tyler Kolek,11.0,8.0,3.0,0.0,1.0,3.0,0.0,0.0,2.0

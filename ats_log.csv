@@ -160,6 +160,8 @@ date,game,home,away,home_score,away_score,open_spread,home_spread,cover_home,ats
 2026-11-21,NO@SA,SA,NO,114.0,91.0,-18.0,-18.75,4.2,home,228.5,228.5,205.0,under,1,0,home,0.6,W,,espn
 2026-11-21,POR@NY,NY,POR,97.0,96.0,-5.0,1.0,2.0,home,216.5,213.5,193.0,under,1,1,home,2.8,W,follow market: spread -5 -> +1 vs model,espn
 2026-11-22,DAL@UTAH,UTAH,DAL,114.0,116.0,1.0,2.25,0.2,home,225.5,226.0,230.0,over,1,0,home,2.0,W,follow market: spread +1 -> +2.25 vs model,espn
+2026-11-22,DEN@CHI,CHI,DEN,145.0,151.0,9.5,10.0,4.0,home,236.0,237.0,296.0,over,1,1,home,5.7,W,,espn
 2026-11-22,DET@ATL,ATL,DET,107.0,97.0,1.75,-5.75,4.2,home,224.0,204.5,204.0,under,1,1,away,-7.5,L,skip: model >6 off market,espn
+2026-11-22,IND@NY,NY,IND,113.0,106.0,-8.5,-7.5,-0.5,away,213.75,213.0,219.0,over,0,1,home,4.5,L,follow market: spread -8.5 -> -7.5 vs model,espn
 2026-11-22,OKC@MIA,MIA,OKC,123.0,113.0,-3.5,-4.5,5.5,home,231.5,226.5,236.0,over,3,1,away,-6.8,L,skip: model >6 off market,espn
 2026-11-22,ORL@WSH,WSH,ORL,116.0,96.0,4.75,4.5,24.5,home,219.5,219.5,212.0,under,1,1,,0.0,,,espn
