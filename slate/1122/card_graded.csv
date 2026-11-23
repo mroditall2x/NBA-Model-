@@ -1,0 +1,5 @@
+game,team,player,stat,tier,line,side,p,price,ev,top,mean,lo,hi,min,gap,where,vol3,actual,result,group
+DAL@UTAH,UTAH,Ace Bailey,3PM,standard,1.5,More,0.6,-167,-0.041,True,1.98,1,3,30.3,-3.8,Kalshi / Underdog,6.4,3.0,Win,other
+DAL@UTAH,DAL,Cooper Flagg,AST,standard,6.5,Less,0.5707,-146,-0.038,True,5.74,3,8,35.5,-0.7,PrizePicks / Underdog,,4.0,Win,reb/ast
+DAL@UTAH,DAL,Naji Marshall,RA,standard,7.5,Less,0.5608,-147,-0.058,True,6.96,4,9,25.7,-0.5,PrizePicks / Underdog,,4.0,Win,reb/ast
+DAL@UTAH,DAL,Naji Marshall,AST,standard,3.5,Less,0.5577,-140,-0.044,False,3.18,1,5,25.7,-0.5,Kalshi / Underdog,,4.0,Loss,reb/ast

@@ -1,0 +1,21 @@
+game,team,player,stat,line,side,p,mean,min,grade,where,actual,result
+DET@ATL,ATL,Jalen Johnson,RA,16.5,Less,0.557,15.59,34.3,lean,PrizePicks / Underdog,11.0,Win
+DET@ATL,ATL,Onyeka Okongwu,REB,7.5,More,0.55,8.39,33.5,lean,PrizePicks / Underdog,9.0,Win
+DET@ATL,ATL,Dyson Daniels,AST,5.5,Less,0.517,5.54,33.7,lean,Kalshi / Underdog,8.0,Loss
+DET@ATL,DET,John Collins,3PM,1.5,Less,0.614,1.14,28.0,lean,Kalshi / Underdog,4.0,Loss
+DET@ATL,DET,Ausar Thompson,PA,16.5,Less,0.553,15.62,29.4,lean,PrizePicks / Underdog,23.0,Loss
+OKC@MIA,MIA,Pelle Larsson,RA,6.5,More,0.559,7.6,27.6,lean,Kalshi / Underdog,8.0,Win
+OKC@MIA,MIA,Klay Thompson,REB,2.5,Less,0.546,2.45,24.7,lean,Kalshi / Underdog,6.0,Loss
+OKC@MIA,MIA,Davion Mitchell,REB,3.5,More,0.522,3.95,37.9,lean,Kalshi / Underdog,4.0,Win
+DAL@UTAH,DAL,Naji Marshall,AST,3.5,Less,0.568,3.18,25.7,lean,Kalshi / Underdog,4.0,Loss
+DAL@UTAH,DAL,Kyrie Irving,REB,3.5,More,0.561,4.36,33.3,lean,PrizePicks / Underdog,1.0,Loss
+DAL@UTAH,DAL,Cooper Flagg,REB,6.5,More,0.524,7.03,35.5,lean,PrizePicks / Underdog,3.0,Loss
+ORL@WSH,ORL,Desmond Bane,AST,2.5,More,0.588,3.46,34.2,lean,Kalshi / Underdog,5.0,Win
+ORL@WSH,ORL,Goga Bitadze,PRA,11.5,Less,0.575,10.5,13.9,lean,PrizePicks / Underdog,6.0,Win
+ORL@WSH,ORL,Wendell Carter Jr,RA,10.5,Less,0.559,9.89,31.5,lean,PrizePicks / Underdog,9.0,Win
+ORL@WSH,ORL,Tristan da Silva,RA,5.5,Less,0.54,5.31,26.3,lean,Kalshi / Underdog,3.0,Win
+DAL@UTAH,UTAH,Keyonte George,REB,3.5,More,0.571,4.44,35.7,lean,PrizePicks / Underdog,5.0,Win
+DAL@UTAH,UTAH,Ace Bailey,PTS,14.5,Less,0.518,14.69,30.3,lean,PrizePicks / Underdog,16.0,Loss
+DAL@UTAH,UTAH,Brice Sensabaugh,PRA,18.5,Less,0.517,18.77,21.7,lean,PrizePicks / Underdog,15.0,Win
+ORL@WSH,WSH,Alex Sarr,3PM,1.5,Less,0.636,1.02,24.2,lean,Kalshi / Underdog,2.0,Loss
+ORL@WSH,WSH,Trae Young,3PM,2.5,Less,0.589,2.11,31.2,lean,Kalshi / Underdog,3.0,Loss
