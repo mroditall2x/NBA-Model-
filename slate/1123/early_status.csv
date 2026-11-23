@@ -1,3 +1,3 @@
 game,team,player,stat,side,line,p,where,line_now,p_now,move,news,status
-CLE@CHI,CHI,Jalen Smith,3PM,More,1.5,0.6,Kalshi / Underdog,1.5,0.562,,False,Lean
-OKC@IND,OKC,Shai Gilgeous-Alexander,3PM,More,1.5,0.6,Kalshi / Underdog,1.5,0.564,,False,Lean
+CLE@CHI,CHI,Jalen Smith,3PM,More,1.5,0.6,Kalshi / Underdog,1.5,0.562,,True,Lean
+OKC@IND,OKC,Shai Gilgeous-Alexander,3PM,More,1.5,0.6,Kalshi / Underdog,1.5,0.577,,True,Lean

@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-23T18:22:32.648748+00:00",
+ "checked": "2026-11-23T19:22:28.551491+00:00",
  "games": {
   "MEM@CHA": [
    {
@@ -147,22 +147,22 @@
   ],
   "OKC@IND": [
    {
-    "player": "Aaron Nesmith",
-    "team": "IND",
-    "status": "Out",
-    "note": "Nesmith finished with two points (1-7 FG, 0-3 3Pt), three rebounds, three assists, one block and one steal in 29 minutes during Wednesday's 119-104 loss to Houston."
-   },
-   {
     "player": "T.J. McConnell",
     "team": "IND",
     "status": "Out",
-    "note": "McConnell (hamstring) is listed as out for Sunday's game in New York."
+    "note": "McConnell is out for Monday's game against the Thunder due to left hamstring soreness."
+   },
+   {
+    "player": "Aaron Nesmith",
+    "team": "IND",
+    "status": "Out",
+    "note": "Nesmith is out for Monday's game against the Thunder due to right foot soreness."
    },
    {
     "player": "Pascal Siakam",
     "team": "IND",
     "status": "Day-To-Day",
-    "note": "Siakam supplied 25 points (9-22 FG, 3-6 3Pt, 4-4 FT), six rebounds, one assist and two steals over 33 minutes during Sunday's 113-106 loss to the Knicks."
+    "note": "Siakam is questionable for Monday's game against Oklahoma City due to left hip injury management, according to the NBA's injury report."
    },
    {
     "player": "Tyrese Haliburton",
@@ -183,34 +183,34 @@
     "note": "Head coach Rick Carlise confirmed Sheppard will miss \"months\" after undergoing surgery to repair a torn meniscus in his left knee, Tony East of Forbes.com reports."
    },
    {
-    "player": "Aday Mara",
-    "team": "OKC",
-    "status": "Day-To-Day",
-    "note": "Mara (shin) is listed as out for Sunday's game versus Miami."
-   },
-   {
     "player": "Jaylin Williams",
     "team": "OKC",
-    "status": "Day-To-Day",
-    "note": "Williams (back) is listed as out for Sunday's game against Miami."
+    "status": "Out",
+    "note": "Williams (back) has been ruled out for Monday's game against the Pacers"
    },
    {
     "player": "Nikola Topic",
     "team": "OKC",
-    "status": "Day-To-Day",
-    "note": "Topic (hip) is listed as out for Sunday's game versus the Heat."
+    "status": "Out",
+    "note": "Topic (hip) has been ruled out for Monday's game against the Pacers, according to the NBA's official injury report."
    },
    {
-    "player": "Shai Gilgeous-Alexander",
+    "player": "Aday Mara",
     "team": "OKC",
-    "status": "Day-To-Day",
-    "note": "Gilgeous-Alexander (back/neck) is listed as out for Sunday's game against the Heat."
+    "status": "Out",
+    "note": "Mara (shin) has been ruled out for Monday's game against the Pacers."
+   },
+   {
+    "player": "Jalen Williams",
+    "team": "OKC",
+    "status": "Out",
+    "note": "Williams (ankle) has been ruled out for Monday's game against the Pacers, according to the NBA's official injury report."
    },
    {
     "player": "Alex Caruso",
     "team": "OKC",
-    "status": "Day-To-Day",
-    "note": "Caruso (hip) won't play Sunday against the Heat."
+    "status": "Out",
+    "note": "Caruso (hip) has been ruled out for Monday's game against the Pacers, according to the NBA's official injury report."
    },
    {
     "player": "Thomas Sorber",
@@ -229,12 +229,6 @@
     "team": "OKC",
     "status": "Out",
     "note": "Holmgren underwent a biological treatment Friday to address a small patellar tendon tear and will miss at least 8-10 weeks, Nick Crain of Slam reports."
-   },
-   {
-    "player": "Jalen Williams",
-    "team": "OKC",
-    "status": "Out",
-    "note": "Williams (leg) underwent successful surgery Wednesday to \"address a fractured left fibula and reconstruction of ankle ligaments following a fracture and dislocation.\" He will be re-evaluated before the end of the regular season, Tim MacMahon of ESPN.com reports."
    }
   ],
   "MIL@TOR": [
@@ -271,10 +265,16 @@
   ],
   "CLE@CHI": [
    {
+    "player": "Jalen Smith",
+    "team": "CHI",
+    "status": "Day-To-Day",
+    "note": "Smith (illness) is probable for Monday's game against Cleveland."
+   },
+   {
     "player": "Nic Claxton",
     "team": "CHI",
     "status": "Day-To-Day",
-    "note": "Claxton (illness) won't play in Sunday's game against the Nuggets."
+    "note": "Claxton (illness) is questionable for Monday's game against Cleveland."
    },
    {
     "player": "Norman Powell",
@@ -309,18 +309,6 @@
   ],
   "PHX@NO": [
    {
-    "player": "Trey Murphy III",
-    "team": "NO",
-    "status": "Day-To-Day",
-    "note": "Murphy (knees) is listed as probable for Monday's game against the Suns."
-   },
-   {
-    "player": "Bryce McGowens",
-    "team": "NO",
-    "status": "Out",
-    "note": "McGowens (elbow) is listed as probable for Monday's game against Phoenix."
-   },
-   {
     "player": "Zion Williamson",
     "team": "NO",
     "status": "Day-To-Day",
@@ -343,12 +331,6 @@
     "team": "NO",
     "status": "Out",
     "note": "Murray (ankle) is out for Friday's game against Memphis."
-   },
-   {
-    "player": "Ryan Dunn",
-    "team": "PHX",
-    "status": "Day-To-Day",
-    "note": "Dunn (quadriceps) is listed as questionable for Monday's game against the Pelicans."
    },
    {
     "player": "Mark Williams",

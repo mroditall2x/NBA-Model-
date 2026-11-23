@@ -86,22 +86,20 @@
    "Shai Gilgeous-Alexander",
    "Jared McCain",
    "Ajay Mitchell",
-   "Aday Mara",
+   "Kenrich Williams",
    "Isaiah Hartenstein"
   ],
   "out": [
-   "Chet Holmgren",
-   "Thomas Sorber",
-   "Cason Wallace",
-   "Jalen Williams"
-  ],
-  "ques": [
    "Alex Caruso",
-   "Shai Gilgeous-Alexander",
+   "Chet Holmgren",
    "Aday Mara",
+   "Thomas Sorber",
    "Nikola Topic",
+   "Cason Wallace",
+   "Jalen Williams",
    "Jaylin Williams"
   ],
+  "ques": [],
   "doubt": [],
   "prob": []
  },
@@ -208,9 +206,7 @@
   "out": [
    "Mark Williams"
   ],
-  "ques": [
-   "Ryan Dunn"
-  ],
+  "ques": [],
   "doubt": [],
   "prob": []
  },
@@ -231,8 +227,6 @@
   "ques": [],
   "doubt": [],
   "prob": [
-   "Bryce McGowens",
-   "Trey Murphy",
    "Zion Williamson"
   ]
  },
@@ -272,7 +266,9 @@
    "Nic Claxton"
   ],
   "doubt": [],
-  "prob": []
+  "prob": [
+   "Jalen Smith"
+  ]
  },
  "LAC": {
   "status": "expected",
