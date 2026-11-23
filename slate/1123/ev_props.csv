@@ -1,9 +1,9 @@
 game,team,player,stat,line,side,p,price,ev,mean,where
-LAC@HOU,LAC,Kris Dunn,RA,4.5,More,0.702,-118,0.297,7.84,Kalshi / Underdog
-LAC@HOU,LAC,Kris Dunn,AST,2.5,More,0.628,-101,0.249,3.93,PrizePicks / Underdog
-BKN@MIN,BKN,Moritz Wagner,3PM,0.5,Less,0.548,120,0.206,0.64,Kalshi / Novig / books
-BKN@MIN,MIN,Bones Hyland,AST,2.5,Less,0.502,136,0.184,2.81,Kalshi / Novig / books
-BKN@MIN,MIN,Trey Lyles,3PM,0.5,Less,0.373,206,0.142,1.19,Kalshi / Novig / books
-POR@PHI,POR,Damian Lillard,AST,4.5,More,0.516,116,0.115,4.87,Kalshi / Novig / books
+LAC@HOU,LAC,Kris Dunn,RA,4.5,More,0.704,-118,0.301,7.83,Kalshi / Underdog
+LAC@HOU,LAC,Kris Dunn,AST,2.5,More,0.63,-101,0.254,3.93,PrizePicks / Underdog
+BKN@MIN,BKN,Moritz Wagner,3PM,0.5,Less,0.551,120,0.212,0.63,Kalshi / Novig / books
+BKN@MIN,MIN,Bones Hyland,AST,2.5,Less,0.505,136,0.191,2.79,Kalshi / Novig / books
+BKN@MIN,MIN,Trey Lyles,3PM,0.5,Less,0.371,206,0.137,1.19,Kalshi / Novig / books
+BKN@MIN,MIN,Bones Hyland,RA,4.5,Less,0.551,102,0.113,4.34,Kalshi / Novig / books
 CLE@CHI,CLE,Donovan Mitchell,AST,5.5,More,0.503,120,0.107,5.79,Kalshi / Novig / books
-BKN@MIN,MIN,Bones Hyland,RA,4.5,Less,0.547,102,0.106,4.36,Kalshi / Novig / books
+UTAH@LAL,UTAH,Keyonte George,RA,10.5,Less,0.538,104,0.098,10.12,Kalshi / Novig / books

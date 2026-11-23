@@ -25,18 +25,15 @@
    "VJ Edgecombe",
    "Jaylen Brown",
    "LeBron James",
-   "Joel Embiid"
+   "Dominick Barlow"
   ],
   "out": [
-   "Ariel Hukporti"
-  ],
-  "ques": [
+   "Ariel Hukporti",
    "Joel Embiid"
   ],
+  "ques": [],
   "doubt": [],
   "prob": [
-   "Adem Bona",
-   "Jaylen Brown",
    "Dean Wade"
   ]
  },
@@ -117,16 +114,14 @@
    "Aaron Nesmith",
    "Ben Sheppard"
   ],
-  "ques": [
-   "Pascal Siakam"
-  ],
+  "ques": [],
   "doubt": [],
   "prob": []
  },
  "BKN": {
   "status": "expected",
   "starters": [
-   "Egor Demin",
+   "Mikel Brown",
    "Michael Porter",
    "Danny Wolf",
    "Julius Randle",
@@ -184,13 +179,9 @@
    "RJ Barrett",
    "Kawhi Leonard"
   ],
-  "ques": [
-   "Jaden Bradley"
-  ],
+  "ques": [],
   "doubt": [],
-  "prob": [
-   "Collin Murray-Boyles"
-  ]
+  "prob": []
  },
  "PHX": {
   "status": "expected",
@@ -260,13 +251,9 @@
    "Norman Powell",
    "Caleb Wilson"
   ],
-  "ques": [
-   "Nic Claxton"
-  ],
+  "ques": [],
   "doubt": [],
-  "prob": [
-   "Jalen Smith"
-  ]
+  "prob": []
  },
  "LAC": {
   "status": "expected",

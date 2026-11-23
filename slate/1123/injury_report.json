@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-23T22:22:28.307494+00:00",
+ "checked": "2026-11-23T23:22:33.896181+00:00",
  "games": {
   "MEM@CHA": [
    {
@@ -27,16 +27,16 @@
     "note": "Schroder has been diagnosed with a left hamstring strain and will be reevaluated in two weeks, Michael Scotto of HoopsHype.com reports."
    },
    {
+    "player": "Cameron Boozer",
+    "team": "MEM",
+    "status": "Out",
+    "note": "Boozer (ankle) will be re-evaluated in four weeks, Brett Siegel of ClutchPoints.com reports."
+   },
+   {
     "player": "Jerami Grant",
     "team": "MEM",
     "status": "Out",
     "note": "Grant was diagnosed with a grade 1 left calf strain and will be re-evaluated in two weeks."
-   },
-   {
-    "player": "Cameron Boozer",
-    "team": "MEM",
-    "status": "Out",
-    "note": "Boozer (ankle) won't play Monday's game against the Hornets."
    },
    {
     "player": "GG Jackson",
@@ -61,8 +61,8 @@
    {
     "player": "Joel Embiid",
     "team": "PHI",
-    "status": "Day-To-Day",
-    "note": "Embiid (knee) has been downgraded to questionable for Monday's game against Portland."
+    "status": "Out",
+    "note": "Embiid (illness) is out for Monday's game against Portland, Austin Krell of OnPattison.com reports."
    },
    {
     "player": "Adem Bona",
@@ -153,12 +153,6 @@
     "note": "Nesmith is out for Monday's game against the Thunder due to right foot soreness."
    },
    {
-    "player": "Pascal Siakam",
-    "team": "IND",
-    "status": "Day-To-Day",
-    "note": "Siakam is questionable for Monday's game against Oklahoma City due to left hip injury management, according to the NBA's injury report."
-   },
-   {
     "player": "Tyrese Haliburton",
     "team": "IND",
     "status": "Out",
@@ -226,18 +220,6 @@
    }
   ],
   "MIL@TOR": [
-   {
-    "player": "Jaden Bradley",
-    "team": "TOR",
-    "status": "Day-To-Day",
-    "note": "Bradley is questionable for Monday's game against the Bucks due to an ankle sprain, Blake Murphy of Sportsnet.ca reports."
-   },
-   {
-    "player": "Collin Murray-Boyles",
-    "team": "TOR",
-    "status": "Day-To-Day",
-    "note": "Murray-Boyles (concussion) is listed as probable for Monday's game against Milwaukee, Blake Murphy of Sportsnet.ca reports."
-   },
    {
     "player": "Nate Bittle",
     "team": "TOR",
