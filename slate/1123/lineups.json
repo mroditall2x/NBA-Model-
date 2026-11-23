@@ -109,18 +109,20 @@
   "status": "expected",
   "starters": [
    "Andrew Nembhard",
+   "Quenton Jackson",
    "Kelly Oubre",
-   "Aaron Nesmith",
    "Pascal Siakam",
    "Ivica Zubac"
   ],
   "out": [
    "Johnny Furphy",
    "Tyrese Haliburton",
+   "T.J. McConnell",
+   "Aaron Nesmith",
    "Ben Sheppard"
   ],
   "ques": [
-   "T.J. McConnell"
+   "Pascal Siakam"
   ],
   "doubt": [],
   "prob": []
@@ -139,9 +141,7 @@
   ],
   "ques": [],
   "doubt": [],
-  "prob": [
-   "Grant Nelson"
-  ]
+  "prob": []
  },
  "MIN": {
   "status": "expected",
@@ -171,9 +171,7 @@
    "Myles Turner"
   ],
   "out": [],
-  "ques": [
-   "Ousmane Dieng"
-  ],
+  "ques": [],
   "doubt": [],
   "prob": []
  },
@@ -190,7 +188,9 @@
    "RJ Barrett",
    "Kawhi Leonard"
   ],
-  "ques": [],
+  "ques": [
+   "Jaden Bradley"
+  ],
   "doubt": [],
   "prob": [
    "Collin Murray-Boyles"
