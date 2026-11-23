@@ -1,0 +1,9 @@
+game,team,player,stat,line,side,p,price,ev,mean,where
+LAC@HOU,LAC,Kris Dunn,RA,4.5,More,0.702,-118,0.297,7.84,Kalshi / Underdog
+LAC@HOU,LAC,Kris Dunn,AST,2.5,More,0.628,-101,0.249,3.93,PrizePicks / Underdog
+BKN@MIN,BKN,Moritz Wagner,3PM,0.5,Less,0.55,120,0.21,0.64,Kalshi / Novig / books
+BKN@MIN,MIN,Bones Hyland,AST,2.5,Less,0.5,136,0.18,2.83,Kalshi / Novig / books
+BKN@MIN,MIN,Trey Lyles,3PM,0.5,Less,0.37,206,0.134,1.19,Kalshi / Novig / books
+CLE@CHI,CLE,Donovan Mitchell,AST,5.5,More,0.507,120,0.115,5.8,Kalshi / Novig / books
+POR@PHI,POR,Damian Lillard,AST,4.5,More,0.514,116,0.11,4.86,Kalshi / Novig / books
+BKN@MIN,MIN,Bones Hyland,RA,4.5,Less,0.548,102,0.107,4.36,Kalshi / Novig / books
