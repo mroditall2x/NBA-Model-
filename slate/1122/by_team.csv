@@ -7,10 +7,6 @@ DET@ATL,DET,Ausar Thompson,PA,16.5,Less,0.553,15.62,29.4,lean,PrizePicks / Under
 OKC@MIA,MIA,Pelle Larsson,RA,6.5,More,0.559,7.6,27.6,lean,Kalshi / Underdog
 OKC@MIA,MIA,Klay Thompson,REB,2.5,Less,0.546,2.45,24.7,lean,Kalshi / Underdog
 OKC@MIA,MIA,Davion Mitchell,REB,3.5,More,0.522,3.95,37.9,lean,Kalshi / Underdog
-BOS@GS,BOS,Baylor Scheierman,AST,2.5,Less,0.634,1.79,23.2,card,Kalshi / Underdog
-BOS@GS,BOS,Sam Hauser,PR,11.5,More,0.563,14.03,27.1,lean,PrizePicks / Underdog
-BOS@GS,BOS,Derrick White,AST,5.5,Less,0.561,5.08,34.7,lean,PrizePicks / Underdog
-BOS@GS,BOS,Neemias Queta,REB,7.5,More,0.549,8.45,26.1,lean,PrizePicks / Underdog
 DEN@CHI,CHI,Isaac Okoro,AST,2.5,Less,0.616,1.93,30.8,lean,Kalshi / Underdog
 DEN@CHI,CHI,Jalen Smith,REB,8.5,Less,0.576,7.67,27.2,lean,Kalshi / Underdog
 DAL@UTAH,DAL,Naji Marshall,AST,3.5,Less,0.568,3.18,25.7,lean,Kalshi / Underdog
@@ -19,14 +15,6 @@ DAL@UTAH,DAL,Cooper Flagg,REB,6.5,More,0.524,7.03,35.5,lean,PrizePicks / Underdo
 DEN@CHI,DEN,Aaron Gordon,REB,5.5,Less,0.565,5.05,28.5,lean,PrizePicks / Underdog
 DEN@CHI,DEN,Jamal Murray,AST,6.5,Less,0.559,6.07,34.5,lean,PrizePicks / Underdog
 DEN@CHI,DEN,Christian Braun,PTS,13.5,Less,0.538,13.09,32.8,lean,PrizePicks / Underdog
-BOS@GS,GS,Brandin Podziemski,AST,4.5,Less,0.609,3.71,33.4,lean,PrizePicks / Underdog
-BOS@GS,GS,Gui Santos,AST,2.5,Less,0.607,2.01,21.3,card,Kalshi / Underdog
-BOS@GS,GS,Will Richard,PA,9.5,Less,0.568,8.65,23.4,lean,Kalshi / Underdog
-BOS@GS,GS,De'Anthony Melton,RA,6.5,Less,0.543,6.25,25.1,lean,PrizePicks / Underdog
-IND@NY,IND,Pascal Siakam,AST,2.5,More,0.589,3.46,31.9,lean,Kalshi / Underdog
-IND@NY,IND,Andrew Nembhard,PTS,14.5,Less,0.581,12.85,29.5,lean,PrizePicks / Underdog
-IND@NY,NY,Mikal Bridges,RA,5.5,More,0.567,6.59,32.6,lean,Kalshi / Underdog
-IND@NY,NY,Karl-Anthony Towns,PTS,20.5,More,0.519,21.66,33.9,lean,Kalshi / Underdog
 ORL@WSH,ORL,Desmond Bane,AST,2.5,More,0.588,3.46,34.2,lean,Kalshi / Underdog
 ORL@WSH,ORL,Goga Bitadze,PRA,11.5,Less,0.575,10.5,13.9,lean,PrizePicks / Underdog
 ORL@WSH,ORL,Wendell Carter Jr,RA,10.5,Less,0.559,9.89,31.5,lean,PrizePicks / Underdog
@@ -36,3 +24,16 @@ DAL@UTAH,UTAH,Ace Bailey,PTS,14.5,Less,0.518,14.69,30.3,lean,PrizePicks / Underd
 DAL@UTAH,UTAH,Brice Sensabaugh,PRA,18.5,Less,0.517,18.77,21.7,lean,PrizePicks / Underdog
 ORL@WSH,WSH,Alex Sarr,3PM,1.5,Less,0.636,1.02,24.2,lean,Kalshi / Underdog
 ORL@WSH,WSH,Trae Young,3PM,2.5,Less,0.589,2.11,31.2,lean,Kalshi / Underdog
+BOS@GS,BOS,Baylor Scheierman,AST,2.5,Less,0.634,1.79,23.2,card,Kalshi / Underdog
+BOS@GS,BOS,Sam Hauser,PR,11.5,More,0.563,14.03,27.1,lean,PrizePicks / Underdog
+BOS@GS,BOS,Derrick White,AST,5.5,Less,0.561,5.08,34.7,lean,PrizePicks / Underdog
+BOS@GS,BOS,Neemias Queta,REB,7.5,More,0.549,8.45,26.1,lean,PrizePicks / Underdog
+BOS@GS,GS,Brandin Podziemski,AST,4.5,Less,0.609,3.71,33.4,lean,PrizePicks / Underdog
+BOS@GS,GS,Gui Santos,AST,2.5,Less,0.607,2.01,21.3,card,Kalshi / Underdog
+BOS@GS,GS,Will Richard,PA,9.5,Less,0.568,8.65,23.4,lean,Kalshi / Underdog
+BOS@GS,GS,De'Anthony Melton,RA,6.5,Less,0.543,6.25,25.1,lean,PrizePicks / Underdog
+IND@NY,IND,Pascal Siakam,AST,2.5,More,0.589,3.47,31.9,lean,Kalshi / Underdog
+IND@NY,IND,Andrew Nembhard,PTS,14.5,Less,0.584,12.78,29.4,lean,PrizePicks / Underdog
+IND@NY,NY,Landry Shamet,RA,4.5,Less,0.569,4.07,33.2,lean,Kalshi / Underdog
+IND@NY,NY,Josh Hart,AST,3.5,More,0.542,4.13,35.3,lean,Kalshi / Underdog
+IND@NY,NY,Jalen Brunson,3PM,2.5,More,0.54,3.1,38.1,lean,Kalshi / Underdog

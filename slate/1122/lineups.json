@@ -82,7 +82,7 @@
   "prob": []
  },
  "DEN": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Jamal Murray",
    "Christian Braun",
@@ -98,7 +98,7 @@
   "prob": []
  },
  "CHI": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Josh Giddey",
    "Buddy Hield",
@@ -116,7 +116,7 @@
   "prob": []
  },
  "DAL": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Kyrie Irving",
    "Caleb Martin",
@@ -136,7 +136,7 @@
   "prob": []
  },
  "UTAH": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Keyonte George",
    "Darryn Peterson",
@@ -154,7 +154,7 @@
   "prob": []
  },
  "ORL": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Jalen Suggs",
    "Anthony Black",
@@ -173,7 +173,7 @@
   "prob": []
  },
  "WSH": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Trae Young",
    "Kyshawn George",
@@ -223,11 +223,10 @@
   ],
   "out": [
    "OG Anunoby",
-   "Jordan Clarkson"
+   "Jordan Clarkson",
+   "Miles McBride"
   ],
-  "ques": [
-   "Karl-Anthony Towns"
-  ],
+  "ques": [],
   "doubt": [],
   "prob": []
  },
