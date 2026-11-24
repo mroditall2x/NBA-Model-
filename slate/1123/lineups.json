@@ -1,6 +1,6 @@
 {
  "POR": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Damian Lillard",
    "Sidy Cissoko",
@@ -19,13 +19,13 @@
   "prob": []
  },
  "PHI": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Tyrese Maxey",
    "VJ Edgecombe",
    "Jaylen Brown",
    "LeBron James",
-   "Dominick Barlow"
+   "Jabari Walker"
   ],
   "out": [
    "Ariel Hukporti",
@@ -33,17 +33,15 @@
   ],
   "ques": [],
   "doubt": [],
-  "prob": [
-   "Dean Wade"
-  ]
+  "prob": []
  },
  "MEM": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Ty Jerome",
-   "Jahmai Mashack",
    "Cedric Coward",
    "Jaylen Wells",
+   "Kris Murray",
    "Zach Edey"
   ],
   "out": [
@@ -57,7 +55,7 @@
   "prob": []
  },
  "CHA": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Coby White",
    "Brandon Miller",
@@ -76,12 +74,12 @@
   "prob": []
  },
  "OKC": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Shai Gilgeous-Alexander",
    "Jared McCain",
    "Ajay Mitchell",
-   "Kenrich Williams",
+   "Micah Peavy",
    "Isaiah Hartenstein"
   ],
   "out": [
@@ -99,10 +97,10 @@
   "prob": []
  },
  "IND": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
+   "Braden Smith",
    "Andrew Nembhard",
-   "Quenton Jackson",
    "Kelly Oubre",
    "Pascal Siakam",
    "Ivica Zubac"
@@ -119,7 +117,7 @@
   "prob": []
  },
  "BKN": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Mikel Brown",
    "Michael Porter",
@@ -135,7 +133,7 @@
   "prob": []
  },
  "MIN": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "LaMelo Ball",
    "Ayo Dosunmu",
@@ -153,7 +151,7 @@
   "prob": []
  },
  "MIL": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Ryan Rollins",
    "Tyler Herro",
@@ -167,13 +165,13 @@
   "prob": []
  },
  "TOR": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Immanuel Quickley",
    "Ja'Kobe Walter",
    "Allen Graves",
    "Scottie Barnes",
-   "Collin Murray-Boyles"
+   "Jakob Poeltl"
   ],
   "out": [
    "RJ Barrett",
@@ -256,11 +254,11 @@
   "prob": []
  },
  "LAC": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Darius Garland",
-   "Max Strus",
    "Brandon Ingram",
+   "Derrick Jones",
    "Rui Hachimura",
    "Brook Lopez"
   ],
