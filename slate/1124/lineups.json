@@ -1,0 +1,112 @@
+{
+ "DET": {
+  "status": "expected",
+  "starters": [
+   "Cade Cunningham",
+   "Daniss Jenkins",
+   "Kevin Huerter",
+   "Ausar Thompson",
+   "John Collins"
+  ],
+  "out": [
+   "Jalen Duren",
+   "Ebuka Okorie",
+   "Taurean Prince",
+   "Duncan Robinson"
+  ],
+  "ques": [],
+  "doubt": [],
+  "prob": [
+   "Cade Cunningham"
+  ]
+ },
+ "ORL": {
+  "status": "expected",
+  "starters": [
+   "Jalen Suggs",
+   "Anthony Black",
+   "Desmond Bane",
+   "Franz Wagner",
+   "Wendell Carter"
+  ],
+  "out": [
+   "Paolo Banchero",
+   "Jonathan Isaac",
+   "Izaiyah Nelson",
+   "Noah Penda"
+  ],
+  "ques": [],
+  "doubt": [],
+  "prob": []
+ },
+ "BOS": {
+  "status": "expected",
+  "starters": [
+   "Derrick White",
+   "Jordan Walsh",
+   "Jayson Tatum",
+   "Paul George",
+   "Neemias Queta"
+  ],
+  "out": [
+   "Mitchell Robinson"
+  ],
+  "ques": [],
+  "doubt": [],
+  "prob": []
+ },
+ "WSH": {
+  "status": "expected",
+  "starters": [
+   "Trae Young",
+   "Kyshawn George",
+   "AJ Dybantsa",
+   "Anthony Davis",
+   "Alex Sarr"
+  ],
+  "out": [
+   "Reece Beekman",
+   "Justin Champagnie",
+   "Tristan Vukcevic",
+   "Jamir Watkins"
+  ],
+  "ques": [],
+  "doubt": [],
+  "prob": []
+ },
+ "DAL": {
+  "status": "expected",
+  "starters": [
+   "Kyrie Irving",
+   "Caleb Martin",
+   "Cooper Flagg",
+   "P.J. Washington",
+   "Daniel Gafford"
+  ],
+  "out": [
+   "Tarik Biberovic",
+   "Sergio de Larrea",
+   "Tobi Lawal",
+   "Dereck Lively"
+  ],
+  "ques": [
+   "P.J. Washington"
+  ],
+  "doubt": [],
+  "prob": []
+ },
+ "DEN": {
+  "status": "expected",
+  "starters": [
+   "Jamal Murray",
+   "Christian Braun",
+   "Cameron Johnson",
+   "Aaron Gordon",
+   "Nikola Jokic"
+  ],
+  "out": [],
+  "ques": [],
+  "doubt": [],
+  "prob": []
+ }
+}

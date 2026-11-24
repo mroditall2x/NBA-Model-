@@ -1,0 +1,19 @@
+game,team,player,stat,line,side,p,mean,min,grade,where
+BOS@WSH,BOS,Jayson Tatum,RA,14.5,Less,0.567,13.53,33.7,lean,Kalshi / Underdog
+BOS@WSH,BOS,Neemias Queta,PA,13.5,Less,0.548,12.94,25.0,lean,Kalshi / Underdog
+DAL@DEN,DAL,Walter Clayton Jr.,3PM,1.5,Less,0.589,1.27,18.8,card,Kalshi / Underdog
+DAL@DEN,DAL,Naji Marshall,REB,3.5,Less,0.578,3.08,23.3,lean,Kalshi / Underdog
+DAL@DEN,DAL,Zaccharie Risacher,PTS,8.5,Less,0.52,8.75,22.2,lean,PrizePicks / Underdog
+DAL@DEN,DEN,Spencer Jones,3PM,0.5,Less,0.582,0.54,14.0,card,PrizePicks / Underdog
+DAL@DEN,DEN,Aaron Gordon,REB,5.5,Less,0.556,5.13,29.0,lean,Kalshi / Underdog
+DAL@DEN,DEN,Jamal Murray,3PM,2.5,More,0.539,3.08,35.6,lean,PrizePicks / Underdog
+DAL@DEN,DEN,Christian Braun,PTS,13.5,Less,0.538,13.08,33.4,lean,PrizePicks / Underdog
+DET@ORL,DET,Kevin Huerter,RA,6.5,Less,0.566,5.94,29.0,lean,PrizePicks / Underdog
+DET@ORL,DET,John Collins,RA,6.5,Less,0.504,6.69,27.8,lean,PrizePicks / Underdog
+DET@ORL,ORL,Tristan da Silva,PR,14.5,Less,0.565,13.4,26.6,lean,PrizePicks / Underdog
+DET@ORL,ORL,Desmond Bane,AST,2.5,More,0.561,3.22,33.8,lean,Kalshi / Underdog
+DET@ORL,ORL,Wendell Carter Jr,REB,8.5,Less,0.559,7.93,31.1,lean,PrizePicks / Underdog
+BOS@WSH,WSH,Alex Sarr,3PM,1.5,Less,0.617,1.12,25.2,lean,Kalshi / Underdog
+BOS@WSH,WSH,Bilal Coulibaly,AST,1.5,Less,0.595,1.23,22.9,card,Kalshi / Underdog
+BOS@WSH,WSH,Kyshawn George,REB,3.5,More,0.567,4.43,32.3,lean,PrizePicks / Underdog
+BOS@WSH,WSH,Trae Young,PA,23.5,Less,0.541,22.72,29.9,lean,PrizePicks / Underdog
