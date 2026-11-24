@@ -1,10 +1,19 @@
 game,team,player,stat,line,side,p,mean,min,grade,where
-BKN@MIN,BKN,Michael Porter Jr,AST,2.5,Less,0.586,2.14,33.3,card,Kalshi / Underdog
-BKN@MIN,BKN,Day'Ron Sharpe,RA,11.5,Less,0.57,10.66,24.9,lean,PrizePicks / Underdog
-BKN@MIN,BKN,Moritz Wagner,PR,12.5,Less,0.534,12.36,18.5,lean,PrizePicks / Underdog
 MEM@CHA,CHA,Sion James,PTS,7.5,Less,0.534,7.53,30.2,lean,PrizePicks / Underdog
 MEM@CHA,CHA,Naz Reid,PTS,18.5,More,0.524,20.01,35.2,lean,PrizePicks / Underdog
 MEM@CHA,CHA,Moussa Diabate,PRA,21.5,More,0.516,22.42,31.0,lean,PrizePicks / Underdog
+MEM@CHA,MEM,Cam Spencer,REB,3.5,Less,0.561,3.24,28.8,lean,Kalshi / Underdog
+MEM@CHA,MEM,Isaiah Stewart,3PM,0.5,Less,0.559,0.61,20.2,lean,Kalshi / Underdog
+MEM@CHA,MEM,Cedric Coward,PR,23.5,More,0.539,25.4,34.3,lean,PrizePicks / Underdog
+POR@PHI,PHI,Kentavious Caldwell-Pope,3PM,1.5,Less,0.622,1.1,22.8,lean,Kalshi / Underdog
+POR@PHI,PHI,Tyrese Maxey,AST,4.5,More,0.576,5.5,37.9,lean,PrizePicks / Underdog
+POR@PHI,POR,Donovan Clingan,AST,2.5,Less,0.618,1.93,28.8,lean,Kalshi / Underdog
+POR@PHI,POR,Jrue Holiday,REB,4.5,Less,0.586,3.93,29.4,card,PrizePicks / Underdog
+POR@PHI,POR,Sidy Cissoko,REB,3.5,Less,0.583,3.06,24.2,lean,Kalshi / Underdog
+POR@PHI,POR,Toumani Camara,PA,12.5,More,0.531,14.09,32.8,lean,PrizePicks / Underdog
+BKN@MIN,BKN,Michael Porter Jr,AST,2.5,Less,0.586,2.14,33.3,card,Kalshi / Underdog
+BKN@MIN,BKN,Day'Ron Sharpe,RA,11.5,Less,0.57,10.66,24.9,lean,PrizePicks / Underdog
+BKN@MIN,BKN,Moritz Wagner,PR,12.5,Less,0.534,12.36,18.5,lean,PrizePicks / Underdog
 CLE@CHI,CHI,Jalen Smith,3PM,1.5,More,0.565,2.3,27.3,lean,Kalshi / Underdog
 CLE@CHI,CHI,Isaac Okoro,RA,5.5,Less,0.562,5.07,30.8,lean,Kalshi / Underdog
 CLE@CHI,CLE,Peyton Watson,3PM,1.5,Less,0.573,1.36,28.8,lean,Kalshi / Underdog
@@ -25,9 +34,6 @@ UTAH@LAL,LAL,Collin Sexton,3PM,1.5,Less,0.595,1.24,20.6,card,Kalshi / Underdog
 UTAH@LAL,LAL,Luka Doncic,AST,7.5,More,0.559,8.41,37.1,lean,PrizePicks / Underdog
 UTAH@LAL,LAL,Walker Kessler,REB,10.5,More,0.546,11.45,32.6,lean,PrizePicks / Underdog
 UTAH@LAL,LAL,Jake LaRavia,3PM,0.5,Less,0.506,0.81,25.7,lean,Kalshi / Underdog
-MEM@CHA,MEM,Cam Spencer,REB,3.5,Less,0.561,3.24,28.8,lean,Kalshi / Underdog
-MEM@CHA,MEM,Isaiah Stewart,3PM,0.5,Less,0.559,0.61,20.2,lean,Kalshi / Underdog
-MEM@CHA,MEM,Cedric Coward,PR,23.5,More,0.539,25.4,34.3,lean,PrizePicks / Underdog
 MIL@TOR,MIL,Kyle Kuzma,AST,2.5,Less,0.578,2.2,27.3,lean,Kalshi / Underdog
 MIL@TOR,MIL,Kel'el Ware,RA,7.5,Less,0.551,7.11,19.5,lean,PrizePicks / Underdog
 MIL@TOR,MIL,Tyler Herro,PTS,20.5,Less,0.541,19.77,31.9,lean,PrizePicks / Underdog
@@ -40,16 +46,10 @@ PHX@NO,NO,Zion Williamson,PR,28.5,Less,0.579,26.13,31.3,lean,PrizePicks / Underd
 PHX@NO,NO,Jeremiah Fears,RA,10.5,Less,0.553,9.9,31.2,lean,PrizePicks / Underdog
 PHX@NO,NO,Saddiq Bey,REB,4.5,Less,0.502,4.74,31.4,lean,PrizePicks / Underdog
 OKC@IND,OKC,Jared McCain,PR,18.5,More,0.541,20.48,31.9,lean,PrizePicks / Underdog
-POR@PHI,PHI,Kentavious Caldwell-Pope,3PM,1.5,Less,0.622,1.1,22.8,lean,Kalshi / Underdog
-POR@PHI,PHI,Tyrese Maxey,AST,4.5,More,0.576,5.5,37.9,lean,PrizePicks / Underdog
 PHX@NO,PHX,Jalen Green,REB,4.5,Less,0.613,3.64,26.6,lean,PrizePicks / Underdog
 PHX@NO,PHX,Devin Booker,3PM,2.5,Less,0.597,2.06,34.0,lean,Kalshi / Underdog
 PHX@NO,PHX,Collin Gillespie,REB,3.5,Less,0.568,3.17,25.5,lean,Kalshi / Underdog
 PHX@NO,PHX,Miles Bridges,REB,6.5,Less,0.547,6.19,28.9,lean,Kalshi / Underdog
-POR@PHI,POR,Donovan Clingan,AST,2.5,Less,0.618,1.93,28.8,lean,Kalshi / Underdog
-POR@PHI,POR,Jrue Holiday,REB,4.5,Less,0.586,3.93,29.4,card,PrizePicks / Underdog
-POR@PHI,POR,Sidy Cissoko,REB,3.5,Less,0.583,3.06,24.2,lean,Kalshi / Underdog
-POR@PHI,POR,Toumani Camara,PA,12.5,More,0.531,14.09,32.8,lean,PrizePicks / Underdog
 SA@SAC,SA,De'Aaron Fox,AST,6.5,Less,0.547,6.17,31.3,lean,Kalshi / Underdog
 SA@SAC,SA,Victor Wembanyama,PRA,45.5,Less,0.525,44.84,31.7,lean,PrizePicks / Underdog
 SA@SAC,SAC,Zach LaVine,3PM,2.5,Less,0.592,2.08,30.4,lean,Kalshi / Underdog

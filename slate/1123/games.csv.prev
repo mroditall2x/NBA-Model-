@@ -1,6 +1,6 @@
 game,model_spread_home,mkt_spread_home,p_home_cover,mkt_home_cover,model_total,mkt_total,p_over,mkt_over,p_home_win,mkt_home_win,poss,full_game_note,ev_tag
 MEM@CHA,4.0,3.0,0.448,0.502,222.0,214.0,0.658,0.5,0.386,0.422,98.9,skip: model >6 off market,
-POR@PHI,-0.6,-1.25,0.478,0.5,227.0,231.0,0.394,0.502,0.511,0.522,101.4,follow market: spread -3.5 -> -1.25 vs model,
+POR@PHI,-0.7,-1.25,0.486,0.5,227.3,231.0,0.397,0.502,0.517,0.522,101.4,follow market: spread -3.5 -> -1.25 vs model,
 BKN@MIN,-16.5,-10.5,0.68,0.503,219.8,223.0,0.41,0.5,0.881,0.808,100.7,follow market: spread -11.5 -> -10.5 vs model,
 OKC@IND,6.7,4.5,0.42,0.5,224.4,225.75,0.468,0.5,0.328,0.373,101.9,,
 MIL@TOR,-14.1,-10.5,0.605,0.5,223.3,222.5,0.513,0.5,0.858,0.783,98.9,,EV+ TOR ML (fav) 82% vs mkt 78%

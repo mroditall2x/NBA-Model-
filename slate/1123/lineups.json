@@ -69,7 +69,9 @@
    "Dennis Schroder",
    "Grant Williams"
   ],
-  "ques": [],
+  "ques": [
+   "Ryan Kalkbrenner"
+  ],
   "doubt": [],
   "prob": []
  },
@@ -112,7 +114,9 @@
    "Aaron Nesmith",
    "Ben Sheppard"
   ],
-  "ques": [],
+  "ques": [
+   "Larry Nance"
+  ],
   "doubt": [],
   "prob": []
  },
@@ -182,7 +186,7 @@
   "prob": []
  },
  "PHX": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Devin Booker",
    "Jalen Green",
@@ -198,11 +202,11 @@
   "prob": []
  },
  "NO": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Jeremiah Fears",
    "Herbert Jones",
-   "Saddiq Bey",
+   "Trey Murphy",
    "Zion Williamson",
    "Yves Missi"
   ],
@@ -213,16 +217,14 @@
   ],
   "ques": [],
   "doubt": [],
-  "prob": [
-   "Zion Williamson"
-  ]
+  "prob": []
  },
  "CLE": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "James Harden",
    "Donovan Mitchell",
-   "Jaylon Tyson",
+   "Sam Merrill",
    "Peyton Watson",
    "Jarrett Allen"
   ],
@@ -232,12 +234,10 @@
   ],
   "ques": [],
   "doubt": [],
-  "prob": [
-   "Jaylon Tyson"
-  ]
+  "prob": []
  },
  "CHI": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Josh Giddey",
    "Buddy Hield",
@@ -271,7 +271,7 @@
   "prob": []
  },
  "HOU": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Fred VanVleet",
    "Amen Thompson",
@@ -320,24 +320,22 @@
   "prob": []
  },
  "SA": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
-   "De'Aaron Fox",
    "Stephon Castle",
-   "Julian Champagnie",
    "Devin Vassell",
-   "Victor Wembanyama"
+   "Julian Champagnie",
+   "Harrison Barnes",
+   "Luke Kornet"
   ],
   "out": [
+   "De'Aaron Fox",
    "Dylan Harper",
    "Tobias Harris",
-   "Jayden Quaintance"
-  ],
-  "ques": [
-   "De'Aaron Fox",
-   "Jordan McLaughlin",
+   "Jayden Quaintance",
    "Victor Wembanyama"
   ],
+  "ques": [],
   "doubt": [],
   "prob": []
  },
