@@ -1,0 +1,125 @@
+{
+ "checked": "2026-11-24T16:22:36.615412+00:00",
+ "games": {
+  "DET@ORL": [
+   {
+    "player": "Ebuka Okorie",
+    "team": "DET",
+    "status": "Out",
+    "note": "Okorie (oblique) won't play Tuesday in Orlando."
+   },
+   {
+    "player": "Jalen Duren",
+    "team": "DET",
+    "status": "Out",
+    "note": "Duren (hamstring) has been ruled out for Tuesday's game against the Magic."
+   },
+   {
+    "player": "Cade Cunningham",
+    "team": "DET",
+    "status": "Day-To-Day",
+    "note": "Cunningham (knee) is probable for Tuesday's game against the Orlando."
+   },
+   {
+    "player": "Taurean Prince",
+    "team": "DET",
+    "status": "Out",
+    "note": "Prince (knee) underwent surgery to address lingering issues and has no timeline for a return, Hunter Patterson of The Athletic reports."
+   },
+   {
+    "player": "Duncan Robinson",
+    "team": "DET",
+    "status": "Out",
+    "note": "Robinson will be re-evaluated in one week due to a left quadriceps strain, Coty M. Davis of The Detroit News reports."
+   },
+   {
+    "player": "Jonathan Isaac",
+    "team": "ORL",
+    "status": "Out",
+    "note": "Isaac (knee) is out for Sunday's game against the Wizards."
+   },
+   {
+    "player": "Izaiyah Nelson",
+    "team": "ORL",
+    "status": "Out",
+    "note": "Head coach Sean Sweeney said Wednesday that Nelson (ankle) has been doing \"some on-court stuff,\" though Sweeney added that the work has been \"minimal,\" Jason Beede of the Orlando Sentinel reports."
+   },
+   {
+    "player": "Noah Penda",
+    "team": "ORL",
+    "status": "Out",
+    "note": "Penda (hamstring) is making progress but remains without a timetable to return to game action, Jason Beede of the Orlando Sentinel reports."
+   },
+   {
+    "player": "Paolo Banchero",
+    "team": "ORL",
+    "status": "Out",
+    "note": "Banchero is expected to be sidelined for the next four-to-six weeks due to a right high-ankle sprain, Shams Charania of ESPN reports."
+   }
+  ],
+  "BOS@WSH": [
+   {
+    "player": "Mitchell Robinson",
+    "team": "BOS",
+    "status": "Out",
+    "note": "Robinson (illness) is out for Tuesday's game against Washington, Taylor Snow of the Celtics' official site reports."
+   },
+   {
+    "player": "Tristan Vukcevic",
+    "team": "WSH",
+    "status": "Out",
+    "note": "Vukcevic (hip) has been ruled out for Tuesday's game against Boston."
+   },
+   {
+    "player": "Reece Beekman",
+    "team": "WSH",
+    "status": "Out",
+    "note": "The Wizards announced Monday that Beekman sustained a right acromioclavicular joint injury and will be re-evaluated in approximately three weeks."
+   },
+   {
+    "player": "Justin Champagnie",
+    "team": "WSH",
+    "status": "Out",
+    "note": "Champagnie (foot) is expected to miss several months, per Josh Robbins of The Athletic."
+   },
+   {
+    "player": "Jamir Watkins",
+    "team": "WSH",
+    "status": "Out",
+    "note": "The Wizards announced Thursday that Watkins has undergone surgery for a torn ACL."
+   }
+  ],
+  "DAL@DEN": [
+   {
+    "player": "Tobi Lawal",
+    "team": "DAL",
+    "status": "Out",
+    "note": "Lawal (groin) is out for Tuesday's game against Denver."
+   },
+   {
+    "player": "P.J. Washington",
+    "team": "DAL",
+    "status": "Day-To-Day",
+    "note": "Washington (illness) is questionable for Tuesday's game against the Nuggets."
+   },
+   {
+    "player": "Dereck Lively II",
+    "team": "DAL",
+    "status": "Out",
+    "note": "Head coach Dusty May said Friday that Lively (foot) is moving well and progressing in his recovery, and the big man told May he's \"close\" to returning, Mike Curtis of The Dallas Morning News reports."
+   },
+   {
+    "player": "Sergio de Larrea",
+    "team": "DAL",
+    "status": "Out",
+    "note": "De Larrea (knee) is listed as out for Wednesday's game against the Warriors."
+   },
+   {
+    "player": "Tarik Biberovic",
+    "team": "DAL",
+    "status": "Out",
+    "note": "Biberovic (heel) is out for Wednesday's game against the Warriors."
+   }
+  ]
+ }
+}
