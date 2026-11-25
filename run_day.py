@@ -36,6 +36,7 @@ sh(f'python3 slate1021.py {DATE} {D} --blend > {D}/p2.log'); sh(f'python3 dvp.py
 subprocess.run(f'python3 boom.py {D}', shell=True)
 subprocess.run(f'python3 longshot.py {D} > {D}/longshot.log', shell=True)   # separate long-shot section (same-player alt combos)
 subprocess.run(f'python3 style.py {D} {DATE} > {D}/style.log 2>&1', shell=True)   # play-style tracking (notes + log only, never changes the card)
+subprocess.run(f'python3 reb_ast_check.py {D} {DATE} > {D}/reb_ast.log 2>&1', shell=True)   # REB/AST/RA last-10 + matchup check for the daily review (11/25; never changes the card)
 if os.path.exists(f'{D}/fb_odds.json'):
     _fbold=pd.read_csv(f'{D}/fb_priced.csv') if os.path.exists(f'{D}/fb_priced.csv') else None
     subprocess.run(f'python3 fb_price.py {D} > {D}/fb.log', shell=True)
