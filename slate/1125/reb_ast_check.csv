@@ -170,26 +170,23 @@ date,game,team,player,stat,line,side,l10_games,l10_cleared,l10_avg,season_clear,
 2026-11-25,SAC@GS,SAC,Domantas Sabonis,AST,5.5,Less,10,2.0,4.4,0.438,F,GS,0.982,False,True,OK,teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 5.5 AST in 2 of last 10
 2026-11-25,SAC@GS,GS,Brandin Podziemski,AST,4.5,Less,10,0.0,2.5,0.267,G,SAC,1.0,False,True,OK,teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 4.5 AST in 0 of last 10
 2026-11-25,SAC@GS,GS,Yaxel Lendeborg,AST,3.5,More,10,5.0,3.6,0.529,F,SAC,0.956,False,True,,,cleared 3.5 AST in 5 of last 10
-2026-11-25,SAC@GS,SAC,Zach LaVine,AST,2.5,Less,10,3.0,2.3,0.438,G,GS,0.996,False,False,OK,,cleared 2.5 AST in 3 of last 10
 2026-11-25,SAC@GS,SAC,De'Andre Hunter,AST,1.5,More,10,8.0,2.5,0.6,F,GS,0.982,False,False,,,cleared 1.5 AST in 8 of last 10
 2026-11-25,SAC@GS,SAC,Keegan Murray,AST,1.5,Less,10,4.0,1.6,0.4,F,GS,0.982,False,False,OK,,cleared 1.5 AST in 4 of last 10
 2026-11-25,SAC@GS,SAC,Domantas Sabonis,REB,12.5,Less,10,5.0,12.1,0.688,F,GS,0.982,False,True,OK,,cleared 12.5 REB in 5 of last 10
 2026-11-25,SAC@GS,GS,Charles Bassey,REB,8.5,Less,10,3.0,7.0,0.267,C,SAC,1.042,True,True,OK,SAC gives up a lot of REB to Cs (lean against Under),cleared 8.5 REB in 3 of last 10
 2026-11-25,SAC@GS,GS,Yaxel Lendeborg,REB,7.5,Less,10,6.0,7.4,0.588,F,SAC,0.956,False,True,OK,,cleared 7.5 REB in 6 of last 10
 2026-11-25,SAC@GS,GS,Brandin Podziemski,REB,4.5,More,10,5.0,4.6,0.6,G,SAC,1.0,False,True,,,cleared 4.5 REB in 5 of last 10
-2026-11-25,SAC@GS,SAC,Keegan Murray,REB,4.5,More,10,4.0,4.5,0.4,F,GS,0.982,False,False,,,cleared 4.5 REB in 4 of last 10
+2026-11-25,SAC@GS,SAC,Keegan Murray,REB,4.5,Less,10,4.0,4.5,0.4,F,GS,0.982,False,False,OK,,cleared 4.5 REB in 4 of last 10
 2026-11-25,SAC@GS,GS,Draymond Green,REB,4.5,Less,10,5.0,4.5,0.5,F,SAC,0.956,False,True,OK,,cleared 4.5 REB in 5 of last 10
 2026-11-25,SAC@GS,SAC,De'Andre Hunter,REB,4.5,Less,10,5.0,4.4,0.6,F,GS,0.982,False,False,OK,,cleared 4.5 REB in 5 of last 10
-2026-11-25,SAC@GS,SAC,Zach LaVine,REB,3.5,Less,10,7.0,4.3,0.562,G,GS,0.996,False,False,SKIP,clears this line often: 7 of 10,cleared 3.5 REB in 7 of last 10
 2026-11-25,SAC@GS,SAC,Darius Acuff Jr.,REB,3.5,Less,10,5.0,3.1,0.471,G,GS,0.996,False,True,OK,,cleared 3.5 REB in 5 of last 10
 2026-11-25,SAC@GS,SAC,Domantas Sabonis,RA,17.5,Less,10,4.0,16.5,0.625,F,GS,0.982,False,True,OK,teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 17.5 RA in 4 of last 10
 2026-11-25,SAC@GS,GS,Yaxel Lendeborg,RA,11.5,Less,10,2.0,11.0,0.294,F,SAC,0.956,False,True,OK,teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 11.5 RA in 2 of last 10
-2026-11-25,SAC@GS,GS,Draymond Green,RA,10.5,Less,10,5.0,10.6,0.643,F,SAC,0.956,False,True,OK,teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 10.5 RA in 5 of last 10
+2026-11-25,SAC@GS,GS,Draymond Green,RA,10.5,More,10,5.0,10.6,0.643,F,SAC,0.956,False,True,,,cleared 10.5 RA in 5 of last 10
 2026-11-25,SAC@GS,SAC,Darius Acuff Jr.,RA,10.5,Less,10,5.0,10.9,0.412,G,GS,0.996,False,True,OK,teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 10.5 RA in 5 of last 10
 2026-11-25,SAC@GS,GS,Brandin Podziemski,RA,9.5,Less,10,1.0,7.1,0.333,G,SAC,1.0,False,True,OK,teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 9.5 RA in 1 of last 10
 2026-11-25,SAC@GS,SAC,De'Andre Hunter,RA,6.5,Less,10,5.0,6.9,0.467,F,GS,0.982,False,False,OK,,cleared 6.5 RA in 5 of last 10
 2026-11-25,SAC@GS,SAC,Keegan Murray,RA,6.5,Less,10,4.0,6.1,0.4,F,GS,0.982,False,False,OK,,cleared 6.5 RA in 4 of last 10
-2026-11-25,SAC@GS,SAC,Zach LaVine,RA,5.5,More,10,6.0,6.6,0.688,G,GS,0.996,False,False,,,cleared 5.5 RA in 6 of last 10
 2026-11-25,SAC@GS,GS,Charles Bassey,AST,1.5,Less,10,2.0,0.8,0.2,C,SAC,1.042,True,True,OK,teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 1.5 AST in 2 of last 10
 2026-11-25,SAC@GS,GS,De'Anthony Melton,AST,3.5,Less,10,3.0,3.0,0.235,G,SAC,1.0,False,True,OK,teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 3.5 AST in 3 of last 10
 2026-11-25,SAC@GS,GS,De'Anthony Melton,REB,3.5,Less,10,5.0,3.4,0.588,G,SAC,1.0,False,True,OK,,cleared 3.5 REB in 5 of last 10
@@ -259,9 +256,9 @@ date,game,team,player,stat,line,side,l10_games,l10_cleared,l10_avg,season_clear,
 2026-11-25,MIA@PHI,MIA,Davion Mitchell,AST,8.5,Less,10,5.0,8.9,0.562,G,PHI,1.166,True,False,OK,,cleared 8.5 AST in 5 of last 10
 2026-11-25,MIA@PHI,PHI,LeBron James,AST,7.5,Less,10,4.0,6.4,0.357,F,MIA,1.075,True,False,OK,,cleared 7.5 AST in 4 of last 10
 2026-11-25,MIA@PHI,MIA,Giannis Antetokounmpo,AST,5.5,Less,10,6.0,5.9,0.467,F,PHI,0.956,False,True,SKIP,clears this line often: 6 of 10; teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 5.5 AST in 6 of last 10
-2026-11-25,MIA@PHI,PHI,Tyrese Maxey,AST,5.5,Less,10,6.0,6.5,0.412,G,MIA,1.059,True,False,SKIP,clears this line often: 6 of 10,cleared 5.5 AST in 6 of last 10
+2026-11-25,MIA@PHI,PHI,Tyrese Maxey,AST,5.5,More,10,6.0,6.5,0.412,G,MIA,1.059,True,False,,,cleared 5.5 AST in 6 of last 10
 2026-11-25,MIA@PHI,PHI,VJ Edgecombe,AST,3.5,More,10,7.0,5.0,0.529,G,MIA,1.059,True,False,,,cleared 3.5 AST in 7 of last 10
-2026-11-25,MIA@PHI,PHI,Jaylen Brown,AST,3.5,Less,10,6.0,3.3,0.667,G,MIA,1.059,True,True,SKIP,clears this line often: 6 of 10; teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 3.5 AST in 6 of last 10
+2026-11-25,MIA@PHI,PHI,Jaylen Brown,AST,3.5,More,10,6.0,3.3,0.667,G,MIA,1.059,True,True,,,cleared 3.5 AST in 6 of last 10
 2026-11-25,MIA@PHI,MIA,Bam Adebayo,AST,3.5,Less,10,6.0,3.9,0.5,C,PHI,0.992,False,False,SKIP,clears this line often: 6 of 10,cleared 3.5 AST in 6 of last 10
 2026-11-25,MIA@PHI,MIA,Pelle Larsson,AST,3.5,Less,10,5.0,3.7,0.538,G,PHI,1.166,True,False,OK,,cleared 3.5 AST in 5 of last 10
 2026-11-25,MIA@PHI,PHI,Dean Wade,AST,1.5,Less,10,4.0,2.2,0.286,F,MIA,1.075,True,False,OK,,cleared 1.5 AST in 4 of last 10
@@ -290,8 +287,8 @@ date,game,team,player,stat,line,side,l10_games,l10_cleared,l10_avg,season_clear,
 2026-11-25,MIA@PHI,MIA,Andrew Wiggins,RA,4.5,More,10,4.0,4.4,0.312,F,PHI,0.956,False,False,,,cleared 4.5 RA in 4 of last 10
 2026-11-25,CHI@CHA,CHI,Josh Giddey,AST,8.5,More,10,5.0,10.4,0.529,G,CHA,1.028,False,False,,,cleared 8.5 AST in 5 of last 10
 2026-11-25,CHI@CHA,CHA,Coby White,AST,4.5,Less,9,2.0,3.78,0.222,G,CHI,1.051,True,True,OK,teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 4.5 AST in 2 of last 9
-2026-11-25,CHI@CHA,CHA,Brandon Miller,AST,3.5,More,10,5.0,3.2,0.429,F,CHI,1.03,False,True,,,cleared 3.5 AST in 5 of last 10
-2026-11-25,CHI@CHA,CHA,Sion James,AST,3.5,Less,10,5.0,2.9,0.5,G,CHI,1.051,True,True,OK,teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 3.5 AST in 5 of last 10
+2026-11-25,CHI@CHA,CHA,Brandon Miller,AST,3.5,Less,10,5.0,3.2,0.429,F,CHI,1.03,False,True,OK,teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 3.5 AST in 5 of last 10
+2026-11-25,CHI@CHA,CHA,Sion James,AST,3.5,More,10,5.0,2.9,0.5,G,CHI,1.051,True,True,,,cleared 3.5 AST in 5 of last 10
 2026-11-25,CHI@CHA,CHA,Naz Reid,AST,2.5,More,10,6.0,2.8,0.438,C,CHI,1.076,True,True,,,cleared 2.5 AST in 6 of last 10
 2026-11-25,CHI@CHA,CHA,Christian Anderson,AST,2.5,More,10,4.0,2.4,0.267,G,CHI,1.051,True,True,,,cleared 2.5 AST in 4 of last 10
 2026-11-25,CHI@CHA,CHI,Nic Claxton,AST,2.5,Less,7,1.0,1.43,0.143,C,CHA,0.788,False,False,OK,,cleared 2.5 AST in 1 of last 7
