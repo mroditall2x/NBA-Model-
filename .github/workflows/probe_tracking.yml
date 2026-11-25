@@ -1,0 +1,28 @@
+name: probe-tracking
+# One-off test (11/25): can the GitHub runner pull NBA.com tracking stats
+# (potential assists, passes, rebound chances)? Manual only; never touches the card.
+on:
+  workflow_dispatch:
+    inputs:
+      season: {description: "season string", required: false, default: "2026-27"}
+permissions: {contents: write}
+env:
+  TZ: America/Chicago
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install nba_api pandas
+      - name: probe NBA.com tracking
+        run: python3 research/probe_tracking.py "${{ github.event.inputs.season || '2026-27' }}"
+      - name: commit results
+        if: always()
+        run: |
+          git config user.name "nba-bot"; git config user.email "nba-bot@users.noreply.github.com"
+          git add research/tracking_probe* || true
+          git commit -m "tracking probe $(date '+%F %H:%M')" || echo "nothing to commit"
+          git pull --rebase -q && git push
