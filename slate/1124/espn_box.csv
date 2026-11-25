@@ -1,0 +1,71 @@
+game,team,player,minutes,PTS,REB,AST,3PM,3PA,STL,BLK,OREB
+DET@ORL,DET,John Collins,26.0,12.0,4.0,0.0,2.0,4.0,0.0,2.0,0.0
+DET@ORL,DET,Kevin Huerter,32.0,13.0,6.0,5.0,1.0,3.0,1.0,0.0,0.0
+DET@ORL,DET,Isaiah Joe,30.0,21.0,4.0,0.0,5.0,11.0,1.0,0.0,0.0
+DET@ORL,DET,Ausar Thompson,31.0,6.0,10.0,7.0,0.0,0.0,1.0,4.0,2.0
+DET@ORL,DET,Daniss Jenkins,35.0,15.0,4.0,10.0,1.0,6.0,2.0,0.0,2.0
+DET@ORL,DET,Paul Reed,22.0,9.0,6.0,1.0,0.0,0.0,2.0,0.0,2.0
+DET@ORL,DET,Ronald Holland II,17.0,13.0,3.0,1.0,2.0,5.0,1.0,0.0,0.0
+DET@ORL,DET,Javonte Green,27.0,6.0,2.0,1.0,2.0,4.0,4.0,0.0,0.0
+DET@ORL,DET,Elijah Harkless,14.0,7.0,1.0,2.0,2.0,3.0,0.0,0.0,1.0
+DET@ORL,DET,Chaz Lanier,7.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0
+DET@ORL,ORL,Franz Wagner,38.0,20.0,9.0,6.0,0.0,5.0,0.0,1.0,1.0
+DET@ORL,ORL,Wendell Carter Jr.,38.0,9.0,13.0,2.0,1.0,3.0,3.0,0.0,2.0
+DET@ORL,ORL,Desmond Bane,34.0,21.0,1.0,5.0,4.0,7.0,1.0,0.0,0.0
+DET@ORL,ORL,Jalen Suggs,33.0,4.0,3.0,5.0,0.0,2.0,2.0,0.0,0.0
+DET@ORL,ORL,Anthony Black,28.0,5.0,4.0,2.0,0.0,2.0,0.0,1.0,2.0
+DET@ORL,ORL,Jamal Cain,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+DET@ORL,ORL,Tristan da Silva,33.0,16.0,3.0,1.0,4.0,11.0,0.0,0.0,1.0
+DET@ORL,ORL,Goga Bitadze,13.0,2.0,8.0,1.0,0.0,0.0,0.0,1.0,4.0
+DET@ORL,ORL,Jevon Carter,19.0,9.0,0.0,0.0,3.0,6.0,2.0,1.0,0.0
+DET@ORL,ORL,Alex Morales,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+DET@ORL,ORL,Jase Richardson,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BOS@WSH,BOS,Paul George,33.0,28.0,4.0,9.0,6.0,9.0,1.0,0.0,0.0
+BOS@WSH,BOS,Jayson Tatum,37.0,41.0,6.0,8.0,6.0,15.0,1.0,2.0,0.0
+BOS@WSH,BOS,Sam Hauser,22.0,4.0,3.0,1.0,1.0,3.0,1.0,1.0,1.0
+BOS@WSH,BOS,Neemias Queta,25.0,21.0,5.0,2.0,0.0,0.0,1.0,2.0,3.0
+BOS@WSH,BOS,Derrick White,30.0,6.0,7.0,5.0,2.0,6.0,1.0,0.0,0.0
+BOS@WSH,BOS,Chris Cenac Jr.,6.0,0.0,2.0,1.0,0.0,0.0,1.0,0.0,2.0
+BOS@WSH,BOS,Luka Garza,18.0,7.0,4.0,0.0,1.0,1.0,1.0,0.0,2.0
+BOS@WSH,BOS,Payton Pritchard,28.0,14.0,4.0,2.0,4.0,11.0,1.0,0.0,0.0
+BOS@WSH,BOS,Ron Harper Jr.,8.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+BOS@WSH,BOS,Baylor Scheierman,19.0,8.0,4.0,1.0,2.0,4.0,0.0,0.0,2.0
+BOS@WSH,BOS,Jordan Walsh,5.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,1.0
+BOS@WSH,BOS,Hugo Gonzalez,9.0,0.0,5.0,0.0,0.0,0.0,0.0,1.0,2.0
+BOS@WSH,WSH,Anthony Davis,37.0,33.0,13.0,1.0,1.0,3.0,2.0,1.0,5.0
+BOS@WSH,WSH,AJ Dybantsa,41.0,20.0,11.0,7.0,2.0,6.0,0.0,0.0,3.0
+BOS@WSH,WSH,Kyshawn George,38.0,24.0,9.0,3.0,4.0,12.0,1.0,0.0,0.0
+BOS@WSH,WSH,Alex Sarr,24.0,7.0,2.0,0.0,1.0,3.0,0.0,1.0,1.0
+BOS@WSH,WSH,Trae Young,35.0,17.0,0.0,12.0,1.0,2.0,2.0,0.0,0.0
+BOS@WSH,WSH,Khris Middleton,18.0,0.0,5.0,0.0,0.0,1.0,0.0,0.0,1.0
+BOS@WSH,WSH,Deandre Ayton,5.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0
+BOS@WSH,WSH,Tre Mann,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+BOS@WSH,WSH,Bub Carrington,7.0,0.0,2.0,0.0,0.0,1.0,0.0,1.0,1.0
+BOS@WSH,WSH,Bilal Coulibaly,22.0,10.0,3.0,1.0,2.0,5.0,0.0,0.0,1.0
+BOS@WSH,WSH,Will Riley,5.0,5.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+BOS@WSH,WSH,Tre Johnson,8.0,0.0,1.0,0.0,0.0,2.0,0.0,0.0,1.0
+DAL@DEN,DAL,Caleb Martin,30.0,13.0,4.0,4.0,3.0,6.0,5.0,2.0,2.0
+DAL@DEN,DAL,Daniel Gafford,27.0,13.0,6.0,3.0,0.0,0.0,1.0,2.0,2.0
+DAL@DEN,DAL,Cooper Flagg,31.0,24.0,6.0,12.0,1.0,4.0,0.0,0.0,0.0
+DAL@DEN,DAL,Zaccharie Risacher,21.0,12.0,6.0,1.0,1.0,2.0,1.0,1.0,3.0
+DAL@DEN,DAL,Kyrie Irving,34.0,11.0,5.0,6.0,1.0,8.0,1.0,1.0,1.0
+DAL@DEN,DAL,P.J. Washington,25.0,14.0,6.0,0.0,1.0,3.0,2.0,1.0,1.0
+DAL@DEN,DAL,Naji Marshall,22.0,14.0,1.0,2.0,1.0,5.0,1.0,0.0,0.0
+DAL@DEN,DAL,Santi Aldama,10.0,3.0,1.0,0.0,1.0,2.0,0.0,0.0,1.0
+DAL@DEN,DAL,Morez Johnson Jr.,19.0,9.0,10.0,1.0,1.0,4.0,1.0,0.0,3.0
+DAL@DEN,DAL,Moussa Cisse,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+DAL@DEN,DAL,Max Christie,4.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+DAL@DEN,DAL,Walter Clayton Jr.,14.0,5.0,2.0,2.0,1.0,3.0,1.0,0.0,0.0
+DAL@DEN,DEN,Aaron Gordon,24.0,1.0,3.0,3.0,0.0,3.0,0.0,1.0,1.0
+DAL@DEN,DEN,Cameron Johnson,34.0,17.0,5.0,3.0,4.0,11.0,0.0,0.0,2.0
+DAL@DEN,DEN,Nikola Jokic,33.0,18.0,11.0,5.0,1.0,4.0,1.0,0.0,2.0
+DAL@DEN,DEN,Jamal Murray,36.0,20.0,2.0,3.0,2.0,8.0,0.0,2.0,0.0
+DAL@DEN,DEN,Christian Braun,29.0,15.0,2.0,4.0,3.0,6.0,1.0,1.0,0.0
+DAL@DEN,DEN,Alpha Diallo,3.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+DAL@DEN,DEN,Marvin Bagley III,12.0,9.0,3.0,0.0,1.0,1.0,0.0,0.0,3.0
+DAL@DEN,DEN,Zeke Nnaji,3.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+DAL@DEN,DEN,DaRon Holmes II,3.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+DAL@DEN,DEN,Spencer Jones,22.0,7.0,3.0,1.0,1.0,3.0,1.0,0.0,0.0
+DAL@DEN,DEN,Trevon Brazile,12.0,0.0,3.0,0.0,0.0,0.0,0.0,1.0,1.0
+DAL@DEN,DEN,DeMar DeRozan,17.0,9.0,5.0,1.0,0.0,1.0,1.0,0.0,1.0
+DAL@DEN,DEN,Tyus Jones,12.0,2.0,2.0,1.0,0.0,1.0,0.0,1.0,1.0
