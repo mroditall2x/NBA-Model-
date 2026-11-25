@@ -1,6 +1,6 @@
 {
  "MIA": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Davion Mitchell",
    "Klay Thompson",
@@ -14,7 +14,7 @@
   "prob": []
  },
  "PHI": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Tyrese Maxey",
    "VJ Edgecombe",
@@ -37,15 +37,14 @@
    "Buddy Hield",
    "Isaac Okoro",
    "Matas Buzelis",
-   "Jalen Smith"
+   "Nic Claxton"
   ],
   "out": [
    "Norman Powell",
+   "Jalen Smith",
    "Caleb Wilson"
   ],
-  "ques": [
-   "Jalen Smith"
-  ],
+  "ques": [],
   "doubt": [],
   "prob": []
  },
@@ -66,9 +65,7 @@
   ],
   "ques": [],
   "doubt": [],
-  "prob": [
-   "Sion James"
-  ]
+  "prob": []
  },
  "CLE": {
   "status": "expected",
@@ -101,13 +98,12 @@
    "Jordan Clarkson",
    "Miles McBride"
   ],
-  "ques": [
-   "Jalen Brunson"
-  ],
+  "ques": [],
   "doubt": [],
   "prob": [
    "Josh Hart",
-   "Karl-Anthony Towns"
+   "Karl-Anthony Towns",
+   "Jalen Brunson"
   ]
  },
  "MIN": {

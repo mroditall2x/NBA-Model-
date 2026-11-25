@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-25T21:22:32.108524+00:00",
+ "checked": "2026-11-25T22:22:32.290321+00:00",
  "games": {
   "MIA@PHI": [
    {
@@ -49,8 +49,8 @@
    {
     "player": "Jalen Smith",
     "team": "CHI",
-    "status": "Day-To-Day",
-    "note": "Smith (illness) is listed as questionable for Wednesday's game against the Hornets."
+    "status": "Out",
+    "note": "Smith (illness) is listed as out for Wednesday's game against Charlotte."
    },
    {
     "player": "Norman Powell",
@@ -79,6 +79,12 @@
     "note": "Mobley will receive treatment and participate in rehab after the team confirmed a diagnosis of a right great toe sprain, and he'll be re-evaluated in the next 7-to-10 days."
    },
    {
+    "player": "Jalen Brunson",
+    "team": "NY",
+    "status": "Day-To-Day",
+    "note": "Brunson (illness) is probable for Wednesday's game against Cleveland."
+   },
+   {
     "player": "Josh Hart",
     "team": "NY",
     "status": "Day-To-Day",
@@ -95,12 +101,6 @@
     "team": "NY",
     "status": "Day-To-Day",
     "note": "Towns (knee) is probable for Wednesday's game against Cleveland."
-   },
-   {
-    "player": "Jalen Brunson",
-    "team": "NY",
-    "status": "Day-To-Day",
-    "note": "Brunson (illness) has been downgraded to questionable for Wednesday's game against the Cavaliers."
    },
    {
     "player": "Jordan Clarkson",
@@ -275,16 +275,16 @@
     "note": "Butler (knee) could return sometime between January and February as he continues recovering from a torn right ACL, Anthony Slater of ESPN reports."
    },
    {
+    "player": "Maxime Raynaud",
+    "team": "SAC",
+    "status": "Out",
+    "note": "Raynaud (knee) was recalled from the G League's Stockton Kings on Wednesday, Marc J. Spears of ESPN.com reports."
+   },
+   {
     "player": "Zach LaVine",
     "team": "SAC",
     "status": "Day-To-Day",
     "note": "LaVine (knee) has been downgraded to questionable for Wednesday's game against Golden State."
-   },
-   {
-    "player": "Maxime Raynaud",
-    "team": "SAC",
-    "status": "Out",
-    "note": "Raynaud (knee) was assigned to the G League's Stockton Kings on Wednesday, James Ham of ESPN 1320 Sacramento reports."
    },
    {
     "player": "Ben Simmons",
