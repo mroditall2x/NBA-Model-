@@ -1,13 +1,7 @@
 {
- "checked": "2026-11-25T20:22:29.630762+00:00",
+ "checked": "2026-11-25T21:22:32.108524+00:00",
  "games": {
   "MIA@PHI": [
-   {
-    "player": "Giannis Antetokounmpo",
-    "team": "MIA",
-    "status": "Day-To-Day",
-    "note": "Antetokounmpo (groin) is questionable for Wednesday's game in Philadelphia."
-   },
    {
     "player": "Joel Embiid",
     "team": "PHI",
@@ -279,6 +273,12 @@
     "team": "GS",
     "status": "Out",
     "note": "Butler (knee) could return sometime between January and February as he continues recovering from a torn right ACL, Anthony Slater of ESPN reports."
+   },
+   {
+    "player": "Zach LaVine",
+    "team": "SAC",
+    "status": "Day-To-Day",
+    "note": "LaVine (knee) has been downgraded to questionable for Wednesday's game against Golden State."
    },
    {
     "player": "Maxime Raynaud",

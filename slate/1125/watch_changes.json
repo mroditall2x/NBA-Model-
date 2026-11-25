@@ -1,1 +1,1 @@
-{"games": ["MIA@PHI"], "refreshed": ["MIA@PHI"], "capped": [], "changes": [{"game": "MIA@PHI", "team": "PHI", "player": "Joel Embiid", "status": "Out", "text": "Joel Embiid Day-To-Day -> Out"}]}
+{"games": ["MIA@PHI", "SAC@GS"], "refreshed": [], "capped": [], "changes": [{"game": "SAC@GS", "team": "SAC", "player": "Zach LaVine", "status": "Day-To-Day", "text": "Zach LaVine Active -> Day-To-Day"}, {"game": "MIA@PHI", "team": "MIA", "player": "Giannis Antetokounmpo", "status": "Active", "text": "Giannis Antetokounmpo Day-To-Day -> Active"}]}

@@ -11,9 +11,7 @@
   "out": [],
   "ques": [],
   "doubt": [],
-  "prob": [
-   "Giannis Antetokounmpo"
-  ]
+  "prob": []
  },
  "PHI": {
   "status": "expected",
@@ -261,7 +259,9 @@
    "Ben Simmons",
    "Maxime Raynaud"
   ],
-  "ques": [],
+  "ques": [
+   "Zach LaVine"
+  ],
   "doubt": [],
   "prob": []
  },
