@@ -9,11 +9,11 @@
    "Bam Adebayo"
   ],
   "out": [],
-  "ques": [
-   "Giannis Antetokounmpo"
-  ],
+  "ques": [],
   "doubt": [],
-  "prob": []
+  "prob": [
+   "Giannis Antetokounmpo"
+  ]
  },
  "PHI": {
   "status": "expected",
@@ -25,12 +25,11 @@
    "Jabari Walker"
   ],
   "out": [
-   "Ariel Hukporti"
-  ],
-  "ques": [],
-  "doubt": [
+   "Ariel Hukporti",
    "Joel Embiid"
   ],
+  "ques": [],
+  "doubt": [],
   "prob": []
  },
  "CHI": {
