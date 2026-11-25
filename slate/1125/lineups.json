@@ -62,15 +62,13 @@
    "Moussa Diabate"
   ],
   "out": [
+   "Grayson Allen",
+   "Ryan Kalkbrenner",
    "Kon Knueppel",
    "Dennis Schroder"
   ],
-  "ques": [
-   "Grayson Allen"
-  ],
-  "doubt": [
-   "Ryan Kalkbrenner"
-  ],
+  "ques": [],
+  "doubt": [],
   "prob": [
    "Sion James"
   ]
@@ -103,15 +101,17 @@
   ],
   "out": [
    "OG Anunoby",
-   "Jordan Clarkson"
+   "Jordan Clarkson",
+   "Miles McBride"
   ],
   "ques": [
-   "Josh Hart",
-   "Miles McBride",
-   "Karl-Anthony Towns"
+   "Jalen Brunson"
   ],
   "doubt": [],
-  "prob": []
+  "prob": [
+   "Josh Hart",
+   "Karl-Anthony Towns"
+  ]
  },
  "MIN": {
   "status": "expected",

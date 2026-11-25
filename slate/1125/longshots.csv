@@ -1,13 +1,13 @@
 game,team,player,combo,chance,fair_odds,min,min_bump,why,avg,size,special
-CHI@CHA,CHI,Jalen Smith,15+ pts & 8+ reb,0.171,+484,27.1,1.5,"Caleb Wilson, Norman Powell out",7.0 reb / 1.7 ast / 13.3 pts,23,True
 MIA@PHI,PHI,Joel Embiid,20+ pts & 9+ reb,0.167,+500,27.7,4.4,+4 min,7.6 reb / 3.2 ast / 19.6 pts,29,True
 SA@POR,SA,Victor Wembanyama,30+ pts & 13+ reb,0.162,+519,31.7,1.8,Dylan Harper out,11.3 reb / 3.1 ast / 28.8 pts,43,True
 MIA@PHI,MIA,Davion Mitchell,15+ pts & 9+ ast,0.157,+537,35.6,7.0,+7 min,3.0 reb / 8.0 ast / 13.1 pts,24,True
-MIN@OKC,MIN,Rudy Gobert,10+ pts & 12+ reb,0.156,+539,30.1,-2.5,Anthony Edwards out,10.6 reb / 1.6 ast / 9.0 pts,22,True
 MIN@OKC,OKC,Isaiah Hartenstein,10+ pts & 15+ reb,0.156,+541,30.0,-4.2,Jalen Williams out,12.8 reb / 4.0 ast / 10.1 pts,25,True
+MIN@OKC,MIN,Rudy Gobert,10+ pts & 12+ reb,0.156,+539,30.1,-2.5,Anthony Edwards out,10.6 reb / 1.6 ast / 9.0 pts,22,True
 MIN@OKC,MIN,Ayo Dosunmu,20+ pts & 5+ reb,0.134,+645,33.0,2.4,Anthony Edwards out,4.3 reb / 3.7 ast / 16.7 pts,25,True
 MIA@PHI,MIA,Giannis Antetokounmpo,30+ pts & 13+ reb,0.132,+657,31.7,4.0,+4 min,11.3 reb / 5.5 ast / 27.4 pts,43,True
+CHI@CHA,CHI,Jalen Smith,15+ pts & 9+ reb,0.13,+671,27.1,1.7,"Caleb Wilson, Norman Powell out",7.1 reb / 1.7 ast / 13.3 pts,24,True
 SA@POR,POR,Scoot Henderson,15+ pts & 3+ ast,0.129,+676,24.1,-3.7,Ja Morant out,2.2 reb / 2.4 ast / 11.3 pts,18,True
 SA@POR,SA,Keldon Johnson,15+ pts & 6+ reb,0.127,+690,25.4,0.0,Dylan Harper out,5.2 reb / 2.1 ast / 11.3 pts,21,True
-SA@POR,SA,Julian Champagnie,15+ pts & 2+ ast,0.125,+697,30.8,3.5,Dylan Harper out; +4 min,5.2 reb / 1.7 ast / 11.1 pts,17,True
 SA@POR,POR,Sidy Cissoko,10+ pts & 2+ ast,0.125,+699,24.5,0.2,Ja Morant out,3.0 reb / 1.7 ast / 6.8 pts,12,True
+SA@POR,SA,Julian Champagnie,15+ pts & 2+ ast,0.125,+697,30.8,3.5,Dylan Harper out; +4 min,5.2 reb / 1.7 ast / 11.1 pts,17,True
