@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-26T01:22:34.042352+00:00",
+ "checked": "2026-11-26T02:22:33.999994+00:00",
  "games": {
   "MIA@PHI": [
    {
@@ -221,22 +221,16 @@
   ],
   "SAC@GS": [
    {
-    "player": "Yaxel Lendeborg",
+    "player": "Stephen Curry",
     "team": "GS",
-    "status": "Day-To-Day",
-    "note": "Lendeborg is questionable for Wednesday's game against the Kings with an illness."
+    "status": "Out",
+    "note": "Curry (abdomen) will be re-evaluated Friday after Thanksgiving, Anthony Slater of ESPN.com reports."
    },
    {
     "player": "Brandon Williams",
     "team": "GS",
     "status": "Out",
     "note": "Head coach Steve Kerr said Tuesday that Williams (hamstring) is questionable to play Wednesday against the Kings, per Dalton Johnson of NBC Sports Bay Area."
-   },
-   {
-    "player": "Stephen Curry",
-    "team": "GS",
-    "status": "Out",
-    "note": "Curry has been diagnosed with an oblique abdominal tear and will be re-evaluated in two weeks, Shams Charania of ESPN reports."
    },
    {
     "player": "Kristaps Porzingis",

@@ -23,15 +23,17 @@
    "Jabari Walker"
   ],
   "out": [
-   "Ariel Hukporti",
+   "Ariel Hukporti"
+  ],
+  "ques": [
+   "Jaylen Brown",
    "Joel Embiid"
   ],
-  "ques": [],
   "doubt": [],
   "prob": []
  },
  "CHI": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Josh Giddey",
    "Buddy Hield",
@@ -49,7 +51,7 @@
   "prob": []
  },
  "CHA": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Coby White",
    "Brandon Miller",
@@ -68,7 +70,7 @@
   "prob": []
  },
  "CLE": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "James Harden",
    "Donovan Mitchell",
@@ -85,7 +87,7 @@
   "prob": []
  },
  "NY": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Jalen Brunson",
    "Landry Shamet",
@@ -103,7 +105,7 @@
   "prob": []
  },
  "MIN": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "LaMelo Ball",
    "Ayo Dosunmu",
@@ -121,10 +123,10 @@
   "prob": []
  },
  "OKC": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Shai Gilgeous-Alexander",
-   "Jared McCain",
+   "Bennett Stirtz",
    "Ajay Mitchell",
    "Micah Peavy",
    "Isaiah Hartenstein"
@@ -143,7 +145,7 @@
   "prob": []
  },
  "BKN": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Mikel Brown",
    "Michael Porter",
@@ -159,7 +161,7 @@
   "prob": []
  },
  "MIL": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Ryan Rollins",
    "Tyler Herro",
@@ -173,7 +175,7 @@
   "prob": []
  },
  "LAC": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Darius Garland",
    "Brandon Ingram",
@@ -190,7 +192,7 @@
   "prob": []
  },
  "MEM": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Ty Jerome",
    "Cedric Coward",
@@ -209,7 +211,7 @@
   "prob": []
  },
  "PHX": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Devin Booker",
    "Jalen Green",
@@ -225,7 +227,7 @@
   "prob": []
  },
  "HOU": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Fred VanVleet",
    "Amen Thompson",
@@ -272,7 +274,6 @@
    "Kristaps Porzingis"
   ],
   "ques": [
-   "Yaxel Lendeborg",
    "Brandon Williams"
   ],
   "doubt": [],
@@ -281,21 +282,19 @@
  "SA": {
   "status": "expected",
   "starters": [
-   "De'Aaron Fox",
    "Stephon Castle",
-   "Julian Champagnie",
    "Devin Vassell",
+   "Julian Champagnie",
+   "Harrison Barnes",
    "Victor Wembanyama"
   ],
   "out": [
+   "De'Aaron Fox",
    "Dylan Harper",
    "Tobias Harris",
    "Jayden Quaintance"
   ],
-  "ques": [
-   "De'Aaron Fox",
-   "Victor Wembanyama"
-  ],
+  "ques": [],
   "doubt": [],
   "prob": []
  },
