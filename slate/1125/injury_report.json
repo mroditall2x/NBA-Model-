@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-26T02:22:33.999994+00:00",
+ "checked": "2026-11-26T03:22:31.300210+00:00",
  "games": {
   "MIA@PHI": [
    {
@@ -79,6 +79,12 @@
     "note": "Mobley will receive treatment and participate in rehab after the team confirmed a diagnosis of a right great toe sprain, and he'll be re-evaluated in the next 7-to-10 days."
    },
    {
+    "player": "Andre Drummond",
+    "team": "NY",
+    "status": "Day-To-Day",
+    "note": "Drummond is questionable to return to Wednesday's game against Cleveland due to a head injury, Stefan Bondy of The New York Post reports."
+   },
+   {
     "player": "OG Anunoby",
     "team": "NY",
     "status": "Out",
@@ -98,6 +104,12 @@
    }
   ],
   "MIN@OKC": [
+   {
+    "player": "LaMelo Ball",
+    "team": "MIN",
+    "status": "Day-To-Day",
+    "note": "Ball finished with 17 points (6-16 FG, 2-10 3Pt, 3-3 FT), two rebounds, three assists, one block and one steal across 30 minutes during Monday's 142-116 victory over the Nets."
+   },
    {
     "player": "Donte DiVincenzo",
     "team": "MIN",
@@ -161,6 +173,12 @@
   ],
   "BKN@MIL": [
    {
+    "player": "Moritz Wagner",
+    "team": "BKN",
+    "status": "Out",
+    "note": "Wagner (knee) will not return to Wednesday's game against the Bucks, C.J. Holmes of the New York Daily News reports."
+   },
+   {
     "player": "Nolan Traore",
     "team": "BKN",
     "status": "Out",
@@ -179,6 +197,12 @@
     "team": "LAC",
     "status": "Out",
     "note": "Miller underwent surgery Wednesday to repair a torn left rotator cuff and will be re-evaluated in six months, per Law Murray of The Athletic."
+   },
+   {
+    "player": "Zach Edey",
+    "team": "MEM",
+    "status": "Day-To-Day",
+    "note": "Edey (ankle) is doubtful to return to Wednesday's game against the Clippers."
    },
    {
     "player": "Scotty Pippen Jr.",
@@ -225,12 +249,6 @@
     "team": "GS",
     "status": "Out",
     "note": "Curry (abdomen) will be re-evaluated Friday after Thanksgiving, Anthony Slater of ESPN.com reports."
-   },
-   {
-    "player": "Brandon Williams",
-    "team": "GS",
-    "status": "Out",
-    "note": "Head coach Steve Kerr said Tuesday that Williams (hamstring) is questionable to play Wednesday against the Kings, per Dalton Johnson of NBC Sports Bay Area."
    },
    {
     "player": "Kristaps Porzingis",
@@ -297,14 +315,8 @@
    {
     "player": "De'Aaron Fox",
     "team": "SA",
-    "status": "Day-To-Day",
-    "note": "Fox (shin) is questionable to play Wednesday's game against the Trail Blazers."
-   },
-   {
-    "player": "Victor Wembanyama",
-    "team": "SA",
-    "status": "Day-To-Day",
-    "note": "Wembanyama (back) is questionable for Wednesday's game in Portland."
+    "status": "Out",
+    "note": "Fox (shin) has been ruled out for Wednesday's game against Portland, Jeff McDonald of the San Antonio Express-News reports."
    },
    {
     "player": "Dylan Harper",
