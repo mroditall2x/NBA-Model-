@@ -1,7 +1,13 @@
 {
- "checked": "2026-11-25T23:22:34.360744+00:00",
+ "checked": "2026-11-26T00:22:26.113537+00:00",
  "games": {
   "MIA@PHI": [
+   {
+    "player": "Jaylen Brown",
+    "team": "PHI",
+    "status": "Out",
+    "note": "Brown (hamstring) won't return to Wednesday's game against Miami, Kyle Neubeck of AllPHLY.com reports. He finished with six points (2-8 FG, 0-1 3Pt, 2-2 FT), one rebound and one assist over 17 minutes."
+   },
    {
     "player": "Joel Embiid",
     "team": "PHI",
@@ -73,6 +79,12 @@
     "note": "Mobley will receive treatment and participate in rehab after the team confirmed a diagnosis of a right great toe sprain, and he'll be re-evaluated in the next 7-to-10 days."
    },
    {
+    "player": "OG Anunoby",
+    "team": "NY",
+    "status": "Out",
+    "note": "Anunoby (calf) participated in on-court work for the first time since sustaining the injury, Ian Begley of SportsNet New York reports."
+   },
+   {
     "player": "Miles McBride",
     "team": "NY",
     "status": "Out",
@@ -83,12 +95,6 @@
     "team": "NY",
     "status": "Out",
     "note": "Clarkson (foot) is out for Wednesday's game against Cleveland."
-   },
-   {
-    "player": "OG Anunoby",
-    "team": "NY",
-    "status": "Out",
-    "note": "Anunoby (calf) is out for Wednesday's game against Cleveland."
    }
   ],
   "MIN@OKC": [
