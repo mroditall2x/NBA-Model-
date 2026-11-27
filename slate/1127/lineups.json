@@ -12,8 +12,7 @@
   "ques": [],
   "doubt": [],
   "prob": [
-   "Giannis Antetokounmpo",
-   "Andrew Wiggins"
+   "Giannis Antetokounmpo"
   ]
  },
  "NY": {
@@ -25,11 +24,13 @@
    "Josh Hart",
    "Karl-Anthony Towns"
   ],
-  "out": [],
+  "out": [
+   "Andre Drummond"
+  ],
   "ques": [
    "Jordan Clarkson",
-   "Andre Drummond",
-   "Miles McBride"
+   "Miles McBride",
+   "Karl-Anthony Towns"
   ],
   "doubt": [
    "OG Anunoby"
@@ -176,10 +177,10 @@
    "Paul George",
    "Neemias Queta"
   ],
-  "out": [],
-  "ques": [
+  "out": [
    "Mitchell Robinson"
   ],
+  "ques": [],
   "doubt": [],
   "prob": []
  },
@@ -189,7 +190,7 @@
    "Ty Jerome",
    "Cedric Coward",
    "Jaylen Wells",
-   "Jahmai Mashack",
+   "Kris Murray",
    "Zach Edey"
   ],
   "out": [
@@ -265,7 +266,7 @@
   "starters": [
    "Jeremiah Fears",
    "Herbert Jones",
-   "Saddiq Bey",
+   "Trey Murphy",
    "Zion Williamson",
    "Yves Missi"
   ],
@@ -285,7 +286,7 @@
   "starters": [
    "Darius Garland",
    "Brandon Ingram",
-   "Max Strus",
+   "Derrick Jones",
    "Rui Hachimura",
    "Brook Lopez"
   ],
@@ -355,8 +356,8 @@
   "status": "expected",
   "starters": [
    "De'Aaron Fox",
+   "Dylan Harper",
    "Stephon Castle",
-   "Julian Champagnie",
    "Devin Vassell",
    "Victor Wembanyama"
   ],
@@ -399,6 +400,7 @@
    "Lauri Markkanen"
   ],
   "ques": [
+   "Mo Bamba",
    "Jaxson Hayes",
    "Jusuf Nurkic"
   ],

@@ -5,8 +5,8 @@ date,game,team,player,stat,line,side,l10_games,l10_cleared,l10_avg,season_clear,
 2026-11-27,MIA@NY,MIA,Giannis Antetokounmpo,AST,5.5,Less,10,5.0,5.3,0.438,F,NY,0.932,False,True,OK,teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 5.5 AST in 5 of last 10
 2026-11-27,MIA@NY,NY,Karl-Anthony Towns,AST,3.5,Less,10,6.0,4.7,0.529,C,MIA,1.031,False,True,SKIP,clears this line often: 6 of 10; teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 3.5 AST in 6 of last 10
 2026-11-27,MIA@NY,MIA,Bam Adebayo,AST,3.5,Less,10,5.0,3.8,0.471,C,NY,0.864,False,False,OK,,cleared 3.5 AST in 5 of last 10
-2026-11-27,MIA@NY,MIA,Pelle Larsson,AST,2.5,Less,10,6.0,3.4,0.643,G,NY,0.969,False,False,SKIP,clears this line often: 6 of 10,cleared 2.5 AST in 6 of last 10
-2026-11-27,MIA@NY,NY,Mikal Bridges,AST,2.5,Less,10,5.0,2.3,0.444,G,MIA,1.041,True,True,OK,teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 2.5 AST in 5 of last 10
+2026-11-27,MIA@NY,MIA,Pelle Larsson,AST,2.5,More,10,6.0,3.4,0.643,G,NY,0.969,False,False,,,cleared 2.5 AST in 6 of last 10
+2026-11-27,MIA@NY,NY,Mikal Bridges,AST,2.5,More,10,5.0,2.3,0.444,G,MIA,1.041,True,True,,,cleared 2.5 AST in 5 of last 10
 2026-11-27,MIA@NY,NY,Landry Shamet,AST,1.5,More,10,5.0,1.7,0.5,G,MIA,1.041,True,False,,,cleared 1.5 AST in 5 of last 10
 2026-11-27,MIA@NY,MIA,Klay Thompson,AST,1.5,Less,10,7.0,2.5,0.625,G,NY,0.969,False,False,SKIP,clears this line often: 7 of 10,cleared 1.5 AST in 7 of last 10
 2026-11-27,MIA@NY,NY,Karl-Anthony Towns,REB,12.5,More,10,6.0,13.5,0.588,C,MIA,1.031,False,True,,,cleared 12.5 REB in 6 of last 10
@@ -20,11 +20,11 @@ date,game,team,player,stat,line,side,l10_games,l10_cleared,l10_avg,season_clear,
 2026-11-27,MIA@NY,MIA,Pelle Larsson,REB,2.5,More,10,8.0,3.5,0.714,G,NY,0.969,False,False,,,cleared 2.5 REB in 8 of last 10
 2026-11-27,MIA@NY,MIA,Andrew Wiggins,REB,2.5,More,10,5.0,2.9,0.412,F,NY,0.932,False,False,,,cleared 2.5 REB in 5 of last 10
 2026-11-27,MIA@NY,MIA,Giannis Antetokounmpo,RA,17.5,Less,10,7.0,18.2,0.625,F,NY,0.932,False,True,SKIP,clears this line often: 7 of 10; teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 17.5 RA in 7 of last 10
-2026-11-27,MIA@NY,NY,Karl-Anthony Towns,RA,16.5,Less,10,7.0,18.2,0.647,C,MIA,1.031,False,True,SKIP,clears this line often: 7 of 10; teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 16.5 RA in 7 of last 10
+2026-11-27,MIA@NY,NY,Karl-Anthony Towns,RA,16.5,More,10,7.0,18.2,0.647,C,MIA,1.031,False,True,,,cleared 16.5 RA in 7 of last 10
 2026-11-27,MIA@NY,NY,Josh Hart,RA,13.5,Less,10,3.0,11.2,0.267,G,MIA,1.041,True,False,OK,MIA gives up a lot of REB to Gs (lean against Under),cleared 13.5 RA in 3 of last 10
 2026-11-27,MIA@NY,MIA,Davion Mitchell,RA,10.5,Less,10,7.0,12.6,0.647,G,NY,0.969,False,False,SKIP,clears this line often: 7 of 10,cleared 10.5 RA in 7 of last 10
 2026-11-27,MIA@NY,MIA,Bam Adebayo,RA,11.5,More,10,6.0,12.4,0.588,C,NY,0.864,False,False,,,cleared 11.5 RA in 6 of last 10
-2026-11-27,MIA@NY,NY,Jalen Brunson,RA,9.5,Less,10,6.0,10.0,0.389,G,MIA,1.041,True,True,SKIP,clears this line often: 6 of 10; MIA gives up a lot of REB to Gs (lean against Under); teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 9.5 RA in 6 of last 10
+2026-11-27,MIA@NY,NY,Jalen Brunson,RA,9.5,More,10,6.0,10.0,0.389,G,MIA,1.041,True,True,,,cleared 9.5 RA in 6 of last 10
 2026-11-27,MIA@NY,MIA,Pelle Larsson,RA,5.5,More,10,6.0,6.9,0.571,G,NY,0.969,False,False,,,cleared 5.5 RA in 6 of last 10
 2026-11-27,MIA@NY,NY,Mikal Bridges,RA,5.5,More,10,7.0,6.6,0.611,G,MIA,1.041,True,True,,,cleared 5.5 RA in 7 of last 10
 2026-11-27,MIA@NY,NY,Landry Shamet,RA,3.5,More,10,5.0,3.5,0.5,G,MIA,1.041,True,False,,,cleared 3.5 RA in 5 of last 10

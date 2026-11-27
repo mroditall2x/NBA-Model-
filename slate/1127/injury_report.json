@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-27T16:22:35.760898+00:00",
+ "checked": "2026-11-27T17:22:37.388592+00:00",
  "games": {
   "MIA@NY": [
    {
@@ -9,10 +9,10 @@
     "note": "Antetokounmpo is probable for Friday's game against the Knicks due to right groin tendinitis."
    },
    {
-    "player": "Andrew Wiggins",
-    "team": "MIA",
+    "player": "Karl-Anthony Towns",
+    "team": "NY",
     "status": "Day-To-Day",
-    "note": "Wiggins is probable for Friday's game against the Knicks due to a right ankle sprain."
+    "note": "Towns is questionable for Friday's game against the Heat due to a right abdominal contusion."
    },
    {
     "player": "Andre Drummond",
@@ -111,6 +111,12 @@
   ],
   "PHI@IND": [
    {
+    "player": "Tyrese Haliburton",
+    "team": "IND",
+    "status": "Out",
+    "note": "Haliburton (hamstring) has been ruled out per Scott Agness of FieldhouseFiles.com for Friday's game against the 76ers. The guard participated in practice activities earlier this week as he continues working toward his return."
+   },
+   {
     "player": "Kelly Oubre Jr.",
     "team": "IND",
     "status": "Day-To-Day",
@@ -129,12 +135,6 @@
     "note": "McConnell (hamstring) is questionable for Friday's game against the 76ers."
    },
    {
-    "player": "Tyrese Haliburton",
-    "team": "IND",
-    "status": "Out",
-    "note": "Haliburton (hamstring) was recalled from the G League's Noblesville Boom on Tuesday, Tony East of Forbes.com reports."
-   },
-   {
     "player": "Ben Sheppard",
     "team": "IND",
     "status": "Out",
@@ -144,7 +144,7 @@
     "player": "Joel Embiid",
     "team": "PHI",
     "status": "Day-To-Day",
-    "note": "Embiid (illness) is questionable for Friday's game against the Pacers."
+    "note": "Embiid (illness) was at shootaround for the 76ers on Friday, Chris Hine of The Philly Inquirer reports."
    },
    {
     "player": "Jaylen Brown",
@@ -298,6 +298,12 @@
    }
   ],
   "DEN@UTAH": [
+   {
+    "player": "Mo Bamba",
+    "team": "UTAH",
+    "status": "Day-To-Day",
+    "note": "Bamba (illness) is listed as questionable for Friday's game against the Nuggets, according to the Jazz's injury report."
+   },
    {
     "player": "Jaxson Hayes",
     "team": "UTAH",
