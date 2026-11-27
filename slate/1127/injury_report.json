@@ -1,13 +1,7 @@
 {
- "checked": "2026-11-27T22:22:27.791566+00:00",
+ "checked": "2026-11-27T23:22:26.031294+00:00",
  "games": {
   "MIA@NY": [
-   {
-    "player": "Giannis Antetokounmpo",
-    "team": "MIA",
-    "status": "Day-To-Day",
-    "note": "Antetokounmpo is probable for Friday's game against the Knicks due to right groin tendinitis."
-   },
    {
     "player": "Miles McBride",
     "team": "NY",
@@ -51,12 +45,6 @@
     "team": "BKN",
     "status": "Out",
     "note": "Traore will be re-evaluated in approximately 8-10 weeks due to a right hamstring strain, Michael Scotto of HoopsHype.com reports."
-   },
-   {
-    "player": "Alijah Martin",
-    "team": "TOR",
-    "status": "Day-To-Day",
-    "note": "Martin is questionable for Friday's game against the Nets due to left knee soreness."
    },
    {
     "player": "Kawhi Leonard",
@@ -117,6 +105,12 @@
   ],
   "PHI@IND": [
    {
+    "player": "T.J. McConnell",
+    "team": "IND",
+    "status": "Out",
+    "note": "McConnell (hamstring) has been ruled out for Friday's game against the 76ers, Alex Golden of SI.com reports."
+   },
+   {
     "player": "Larry Nance Jr.",
     "team": "IND",
     "status": "Day-To-Day",
@@ -127,18 +121,6 @@
     "team": "IND",
     "status": "Out",
     "note": "Haliburton (hamstring) has been ruled out per Scott Agness of FieldhouseFiles.com for Friday's game against the 76ers. The guard participated in practice activities earlier this week as he continues working toward his return."
-   },
-   {
-    "player": "Kelly Oubre Jr.",
-    "team": "IND",
-    "status": "Day-To-Day",
-    "note": "Oubre is questionable for Friday's game against the 76ers due to a right hand laceration."
-   },
-   {
-    "player": "T.J. McConnell",
-    "team": "IND",
-    "status": "Day-To-Day",
-    "note": "McConnell (hamstring) is questionable for Friday's game against the 76ers."
    },
    {
     "player": "Ben Sheppard",
