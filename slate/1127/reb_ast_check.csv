@@ -233,16 +233,17 @@ date,game,team,player,stat,line,side,l10_games,l10_cleared,l10_avg,season_clear,
 2026-11-27,NO@LAC,LAC,Keaton Wagler,REB,3.5,Less,10,3.0,2.7,0.529,G,NO,0.824,False,False,OK,,cleared 3.5 REB in 3 of last 10
 2026-11-27,NO@LAC,NO,Jordan Poole,RA,5.5,Less,10,4.0,4.3,0.385,G,LAC,0.977,False,True,OK,teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 5.5 RA in 4 of last 10
 2026-11-27,NO@LAC,LAC,Keaton Wagler,RA,5.5,More,10,4.0,4.9,0.647,G,NO,0.824,False,False,,,cleared 5.5 RA in 4 of last 10
-2026-11-27,LAL@SA,LAL,Luka Doncic,AST,7.5,More,10,5.0,7.9,0.438,G,SA,1.151,True,False,,,cleared 7.5 AST in 5 of last 10
+2026-11-27,LAL@SA,LAL,Luka Doncic,AST,7.5,Less,10,5.0,7.9,0.438,G,SA,1.151,True,False,OK,,cleared 7.5 AST in 5 of last 10
 2026-11-27,LAL@SA,SA,Stephon Castle,AST,6.5,More,10,6.0,7.5,0.474,G,LAL,1.009,False,False,,,cleared 6.5 AST in 6 of last 10
 2026-11-27,LAL@SA,SA,De'Aaron Fox,AST,5.5,Less,10,4.0,5.0,0.562,G,LAL,1.009,False,False,OK,,cleared 5.5 AST in 4 of last 10
+2026-11-27,LAL@SA,LAL,Austin Reaves,AST,3.5,More,10,8.0,4.1,0.833,G,SA,1.151,True,False,,,cleared 3.5 AST in 8 of last 10
 2026-11-27,LAL@SA,SA,Victor Wembanyama,AST,3.5,Less,10,3.0,3.2,0.333,F,LAL,0.984,False,True,OK,teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 3.5 AST in 3 of last 10
 2026-11-27,LAL@SA,SA,Devin Vassell,AST,2.5,Less,10,4.0,2.5,0.353,G,LAL,1.009,False,False,OK,,cleared 2.5 AST in 4 of last 10
-2026-11-27,LAL@SA,LAL,Quentin Grimes,AST,2.5,More,10,7.0,3.5,0.625,G,SA,1.151,True,False,,,cleared 2.5 AST in 7 of last 10
+2026-11-27,LAL@SA,LAL,Quentin Grimes,AST,2.5,Less,10,7.0,3.5,0.625,G,SA,1.151,True,False,SKIP,clears this line often: 7 of 10,cleared 2.5 AST in 7 of last 10
 2026-11-27,LAL@SA,LAL,Collin Sexton,AST,2.5,Less,10,6.0,2.8,0.529,G,SA,1.151,True,False,SKIP,clears this line often: 6 of 10,cleared 2.5 AST in 6 of last 10
-2026-11-27,LAL@SA,LAL,Jake LaRavia,AST,1.5,More,10,8.0,2.4,0.647,F,SA,0.92,False,False,,,cleared 1.5 AST in 8 of last 10
+2026-11-27,LAL@SA,LAL,Jake LaRavia,AST,1.5,Less,10,8.0,2.4,0.647,F,SA,0.92,False,False,SKIP,clears this line often: 8 of 10,cleared 1.5 AST in 8 of last 10
 2026-11-27,LAL@SA,SA,Julian Champagnie,AST,1.5,Less,10,5.0,1.6,0.474,F,LAL,0.984,False,False,OK,,cleared 1.5 AST in 5 of last 10
-2026-11-27,LAL@SA,LAL,Walker Kessler,AST,1.5,More,10,7.0,2.1,0.529,C,SA,0.9,False,False,,,cleared 1.5 AST in 7 of last 10
+2026-11-27,LAL@SA,LAL,Walker Kessler,AST,1.5,Less,10,7.0,2.1,0.529,C,SA,0.9,False,False,SKIP,clears this line often: 7 of 10,cleared 1.5 AST in 7 of last 10
 2026-11-27,LAL@SA,SA,Victor Wembanyama,REB,12.5,Less,10,4.0,12.6,0.444,F,LAL,0.984,False,True,OK,,cleared 12.5 REB in 4 of last 10
 2026-11-27,LAL@SA,LAL,Walker Kessler,REB,10.5,More,10,7.0,11.4,0.529,C,SA,0.9,False,False,,,cleared 10.5 REB in 7 of last 10
 2026-11-27,LAL@SA,LAL,Luka Doncic,REB,6.5,Less,10,4.0,5.7,0.5,G,SA,1.151,True,False,OK,SA gives up a lot of REB to Gs (lean against Under),cleared 6.5 REB in 4 of last 10
@@ -251,23 +252,25 @@ date,game,team,player,stat,line,side,l10_games,l10_cleared,l10_avg,season_clear,
 2026-11-27,LAL@SA,SA,Devin Vassell,REB,3.5,More,10,6.0,4.1,0.647,G,LAL,1.009,False,False,,,cleared 3.5 REB in 6 of last 10
 2026-11-27,LAL@SA,LAL,Jake LaRavia,REB,3.5,More,10,5.0,5.0,0.471,F,SA,0.92,False,False,,,cleared 3.5 REB in 5 of last 10
 2026-11-27,LAL@SA,SA,De'Aaron Fox,REB,3.5,Less,10,3.0,3.4,0.438,G,LAL,1.009,False,False,OK,,cleared 3.5 REB in 3 of last 10
+2026-11-27,LAL@SA,LAL,Austin Reaves,REB,2.5,More,10,8.0,3.4,0.75,G,SA,1.151,True,False,,,cleared 2.5 REB in 8 of last 10
 2026-11-27,LAL@SA,LAL,Quentin Grimes,REB,2.5,More,10,6.0,3.4,0.625,G,SA,1.151,True,False,,,cleared 2.5 REB in 6 of last 10
 2026-11-27,LAL@SA,LAL,Matisse Thybulle,REB,2.5,Less,10,4.0,2.9,0.333,G,SA,1.151,True,False,OK,SA gives up a lot of REB to Gs (lean against Under),cleared 2.5 REB in 4 of last 10
 2026-11-27,LAL@SA,SA,Victor Wembanyama,RA,15.5,Less,10,6.0,15.8,0.556,F,LAL,0.984,False,True,SKIP,clears this line often: 6 of 10; teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 15.5 RA in 6 of last 10
 2026-11-27,LAL@SA,LAL,Luka Doncic,RA,13.5,More,10,4.0,13.6,0.5,G,SA,1.151,True,False,,,cleared 13.5 RA in 4 of last 10
 2026-11-27,LAL@SA,SA,Stephon Castle,RA,12.5,Less,10,5.0,12.4,0.368,G,LAL,1.009,False,False,OK,,cleared 12.5 RA in 5 of last 10
-2026-11-27,LAL@SA,LAL,Walker Kessler,RA,12.5,More,10,6.0,13.5,0.471,C,SA,0.9,False,False,,,cleared 12.5 RA in 6 of last 10
+2026-11-27,LAL@SA,LAL,Walker Kessler,RA,12.5,Less,10,6.0,13.5,0.471,C,SA,0.9,False,False,SKIP,clears this line often: 6 of 10,cleared 12.5 RA in 6 of last 10
 2026-11-27,LAL@SA,SA,De'Aaron Fox,RA,8.5,More,10,4.0,8.4,0.562,G,LAL,1.009,False,False,,,cleared 8.5 RA in 4 of last 10
+2026-11-27,LAL@SA,LAL,Austin Reaves,RA,6.5,More,10,8.0,7.5,0.833,G,SA,1.151,True,False,,,cleared 6.5 RA in 8 of last 10
 2026-11-27,LAL@SA,SA,Devin Vassell,RA,6.5,Less,10,5.0,6.6,0.529,G,LAL,1.009,False,False,OK,,cleared 6.5 RA in 5 of last 10
 2026-11-27,LAL@SA,SA,Julian Champagnie,RA,6.5,Less,10,2.0,6.0,0.263,F,LAL,0.984,False,False,OK,,cleared 6.5 RA in 2 of last 10
 2026-11-27,LAL@SA,LAL,Quentin Grimes,RA,5.5,More,10,6.0,6.9,0.562,G,SA,1.151,True,False,,,cleared 5.5 RA in 6 of last 10
-2026-11-27,LAL@SA,LAL,Jake LaRavia,RA,5.5,More,10,7.0,7.4,0.588,F,SA,0.92,False,False,,,cleared 5.5 RA in 7 of last 10
+2026-11-27,LAL@SA,LAL,Jake LaRavia,RA,5.5,Less,10,7.0,7.4,0.588,F,SA,0.92,False,False,SKIP,clears this line often: 7 of 10,cleared 5.5 RA in 7 of last 10
 2026-11-27,LAL@SA,LAL,Collin Sexton,RA,3.5,More,10,7.0,4.3,0.647,G,SA,1.151,True,False,,,cleared 3.5 RA in 7 of last 10
 2026-11-27,LAL@SA,SA,Keldon Johnson,RA,7.5,Less,10,9.0,9.1,0.684,F,LAL,0.984,False,False,SKIP,clears this line often: 9 of 10,cleared 7.5 RA in 9 of last 10
-2026-11-27,LAL@SA,LAL,Collin Sexton,REB,1.5,More,10,5.0,1.5,0.529,G,SA,1.151,True,False,,,cleared 1.5 REB in 5 of last 10
+2026-11-27,LAL@SA,LAL,Collin Sexton,REB,1.5,Less,10,5.0,1.5,0.529,G,SA,1.151,True,False,OK,SA gives up a lot of REB to Gs (lean against Under),cleared 1.5 REB in 5 of last 10
 2026-11-27,LAL@SA,SA,Keldon Johnson,REB,5.5,Less,10,4.0,5.9,0.526,F,LAL,0.984,False,False,OK,,cleared 5.5 REB in 4 of last 10
 2026-11-27,LAL@SA,LAL,Sandro Mamukelashvili,REB,3.5,More,10,4.0,4.4,0.5,F,SA,0.92,False,False,,,cleared 3.5 REB in 4 of last 10
-2026-11-27,LAL@SA,LAL,Sandro Mamukelashvili,RA,5.5,More,10,4.0,6.0,0.556,F,SA,0.92,False,False,,,cleared 5.5 RA in 4 of last 10
+2026-11-27,LAL@SA,LAL,Sandro Mamukelashvili,RA,5.5,Less,10,4.0,6.0,0.556,F,SA,0.92,False,False,OK,,cleared 5.5 RA in 4 of last 10
 2026-11-27,MIL@DET,MIL,Tyler Herro,AST,4.5,More,10,5.0,5.1,0.389,G,DET,0.8,False,True,,,cleared 4.5 AST in 5 of last 10
 2026-11-27,MIL@DET,MIL,Kyle Kuzma,AST,2.5,Less,10,3.0,1.8,0.556,F,DET,1.15,True,True,OK,teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 2.5 AST in 3 of last 10
 2026-11-27,MIL@DET,MIL,Ryan Rollins,AST,3.5,More,10,4.0,3.3,0.529,G,DET,0.8,False,True,,,cleared 3.5 AST in 4 of last 10

@@ -2,12 +2,12 @@ game,team,player,combo,chance,fair_odds,min,min_bump,why,avg,size,special
 MIL@DET,DET,Paul Reed,15+ pts & 9+ reb,0.177,+465,27.5,0.0,Cade Cunningham out,7.9 reb / 2.5 ast / 14.1 pts,24,True
 MEM@MIN,MIN,Rudy Gobert,10+ pts & 13+ reb,0.163,+514,32.0,-8.0,"Anthony Edwards, LaMelo Ball out",10.9 reb / 1.9 ast / 10.8 pts,23,True
 MIL@DET,DET,John Collins,15+ pts & 8+ reb,0.162,+518,30.0,-10.0,Cade Cunningham out,6.6 reb / 1.1 ast / 14.8 pts,23,True
-LAL@SA,LAL,Walker Kessler,15+ pts & 13+ reb,0.155,+544,34.4,-0.7,Austin Reaves out,11.5 reb / 1.9 ast / 13.7 pts,28,True
 BKN@TOR,BKN,Mikel Brown Jr.,15+ pts & 4+ ast,0.154,+550,24.9,6.0,+6 min,2.1 reb / 3.5 ast / 12.5 pts,19,True
 ATL@BOS,ATL,Onyeka Okongwu,15+ pts & 10+ reb,0.15,+568,32.5,-3.3,CJ McCollum out,8.3 reb / 2.3 ast / 14.5 pts,25,True
 PHI@IND,IND,Andrew Nembhard,15+ pts & 10+ ast,0.145,+589,31.1,2.3,Tyrese Haliburton out,2.6 reb / 8.1 ast / 14.8 pts,25,True
 PHI@IND,IND,Aaron Nesmith,15+ pts & 4+ reb,0.135,+639,28.2,2.2,Tyrese Haliburton out,3.4 reb / 2.3 ast / 12.0 pts,19,True
 NO@LAC,NO,Jeremiah Fears,20+ pts & 7+ ast,0.131,+661,31.6,3.0,+3 min,4.5 reb / 5.8 ast / 17.1 pts,27,True
 MIA@NY,MIA,Davion Mitchell,15+ pts & 9+ ast,0.13,+669,36.5,6.0,+6 min,3.1 reb / 7.6 ast / 12.6 pts,24,True
-LAL@SA,SA,Julian Champagnie,15+ pts & 2+ ast,0.129,+676,30.0,-0.9,Dylan Harper out,4.9 reb / 1.6 ast / 11.4 pts,17,True
 BKN@TOR,TOR,Collin Murray-Boyles,15+ pts & 2+ ast,0.128,+678,24.4,-1.1,"Kawhi Leonard, RJ Barrett out",5.2 reb / 1.8 ast / 10.6 pts,17,True
+PHI@IND,PHI,Joel Embiid,25+ pts & 10+ reb,0.126,+691,30.5,1.8,Jaylen Brown out,8.2 reb / 3.6 ast / 23.0 pts,35,True
+DEN@UTAH,DEN,Cameron Johnson,15+ pts & 3+ ast,0.125,+700,28.4,4.4,+4 min,3.7 reb / 2.2 ast / 12.4 pts,18,True
