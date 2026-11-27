@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-27T17:22:37.388592+00:00",
+ "checked": "2026-11-27T18:22:30.801786+00:00",
  "games": {
   "MIA@NY": [
    {
@@ -107,9 +107,21 @@
     "team": "DET",
     "status": "Out",
     "note": "Prince underwent arthroscopic right knee surgery Nov. 18 and will be re-evaluated in four weeks, Eric Vincent of ClutchPoints.com reports."
+   },
+   {
+    "player": "Kasparas Jakucionis",
+    "team": "MIL",
+    "status": "Out",
+    "note": "Jakucionis (ankle) won't play Friday's game against the Pistons."
    }
   ],
   "PHI@IND": [
+   {
+    "player": "Larry Nance Jr.",
+    "team": "IND",
+    "status": "Day-To-Day",
+    "note": "Nance (ankle) is probable for Friday's game against the 76ers."
+   },
    {
     "player": "Tyrese Haliburton",
     "team": "IND",
@@ -121,12 +133,6 @@
     "team": "IND",
     "status": "Day-To-Day",
     "note": "Oubre is questionable for Friday's game against the 76ers due to a right hand laceration."
-   },
-   {
-    "player": "Larry Nance Jr.",
-    "team": "IND",
-    "status": "Day-To-Day",
-    "note": "Nance (ankle) is questionable for Friday's game against the 76ers."
    },
    {
     "player": "T.J. McConnell",
@@ -194,7 +200,7 @@
     "player": "Mitchell Robinson",
     "team": "BOS",
     "status": "Out",
-    "note": "Robinson (illness) is questionable for Friday's game against the Hawks."
+    "note": "Robinson has been ruled out Marc D'Amico of the Celtics' official sitefor Friday's game."
    }
   ],
   "MEM@MIN": [
@@ -244,7 +250,7 @@
     "player": "LaMelo Ball",
     "team": "MIN",
     "status": "Day-To-Day",
-    "note": "Ball (ankle) is questionable for Friday's game against the Grizzlies."
+    "note": "Ball (ankle) wasn't present at shootaround Friday, Jon Krawczynski of The Athletic reports."
    },
    {
     "player": "Donte DiVincenzo",

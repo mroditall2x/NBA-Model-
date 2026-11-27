@@ -1,11 +1,11 @@
-game,team,player,stat,tier,line,side,p,price,ev,top,mean,lo,hi,min,gap,where,vol3,line_open,line_now,move,line_move,keep
-MIL@DET,MIL,Kyle Kuzma,3PM,standard,1.5,More,0.6,-110.0,0.145,True,1.46,0,3,28.0,1.6,PrizePicks / Underdog,6.0,,,,,True
-DAL@PHX,PHX,Devin Booker,3PM,standard,1.5,More,0.6,-157.0,-0.018,True,2.02,1,3,34.5,0.0,Kalshi / Underdog,6.2,,,,,True
-NO@LAC,NO,Jordan Poole,RA,standard,5.5,Less,0.5908,-128.0,0.052,True,4.36,2,6,19.3,0.2,Kalshi / Underdog,,5.5,5.5,0.0,,True
-BKN@TOR,BKN,Day'Ron Sharpe,AST,standard,4.5,Less,0.5848,-150.0,-0.025,True,3.69,2,5,26.9,0.5,PrizePicks / Underdog,,4.5,4.5,0.0,,True
-DEN@UTAH,UTAH,Keyonte George,AST,standard,7.5,Less,0.5642,-138.0,-0.027,True,6.64,4,9,34.7,-1.8,Kalshi / Underdog,,7.5,7.5,0.0,,True
-PHI@IND,PHI,Dean Wade,PR,standard,10.5,Less,0.5637,-128.0,0.004,False,8.77,4,13,22.6,0.9,PrizePicks / Underdog,,10.5,10.5,0.0,,True
-DAL@PHX,DAL,Cooper Flagg,AST,standard,6.5,Less,0.5586,-143.0,-0.051,False,6.0,4,8,34.2,1.5,PrizePicks / Underdog,,6.5,6.5,0.0,,True
-DEN@UTAH,DEN,Aaron Gordon,AST,standard,2.5,Less,0.5579,-137.0,-0.035,False,2.21,1,3,28.3,0.3,Kalshi / Underdog,,2.5,2.5,0.0,,True
-MEM@MIN,MIN,Rudy Gobert,RA,standard,12.5,Less,0.5539,-136.0,-0.039,False,11.66,8,15,29.5,-3.6,PrizePicks / Underdog,,12.5,12.5,0.0,,True
-BKN@TOR,BKN,Julius Randle,RA,standard,11.5,Less,0.5529,-134.0,-0.034,False,10.55,7,14,35.8,-0.2,PrizePicks / Underdog,,11.5,11.5,0.0,,True
+game,team,player,stat,tier,line,side,p,price,ev,top,mean,lo,hi,min,gap,where,vol3
+DAL@PHX,PHX,Devin Booker,3PM,standard,1.5,More,0.6,-157.0,-0.018,True,2.02,1,3,34.5,0.0,Kalshi / Underdog,6.2
+MIL@DET,MIL,Kyle Kuzma,3PM,standard,1.5,More,0.6,-110.0,0.145,True,1.46,0,3,28.0,1.6,PrizePicks / Underdog,6.0
+NO@LAC,NO,Jordan Poole,RA,standard,5.5,Less,0.5908,-128.0,0.052,True,4.36,2,6,19.3,0.2,Kalshi / Underdog,
+BKN@TOR,BKN,Day'Ron Sharpe,AST,standard,4.5,Less,0.5848,-150.0,-0.025,True,3.69,2,5,26.9,0.5,PrizePicks / Underdog,
+MIA@NY,NY,Josh Hart,AST,standard,5.5,Less,0.5718,-134.0,-0.001,True,4.57,3,6,35.0,0.8,PrizePicks / Underdog,
+DEN@UTAH,UTAH,Keyonte George,AST,standard,7.5,Less,0.5642,-138.0,-0.027,False,6.64,4,9,34.7,-1.8,Kalshi / Underdog,
+PHI@IND,PHI,Dean Wade,PR,standard,10.5,Less,0.5637,-128.0,0.004,False,8.77,4,13,22.6,0.9,PrizePicks / Underdog,
+DAL@PHX,DAL,Cooper Flagg,AST,standard,6.5,Less,0.5586,-143.0,-0.051,False,6.0,4,8,34.2,1.5,PrizePicks / Underdog,
+DEN@UTAH,DEN,Aaron Gordon,AST,standard,2.5,Less,0.5579,-137.0,-0.035,False,2.21,1,3,28.3,0.3,Kalshi / Underdog,
+MEM@MIN,MIN,Rudy Gobert,RA,standard,12.5,Less,0.5539,-136.0,-0.039,False,11.66,8,15,29.5,-3.6,PrizePicks / Underdog,

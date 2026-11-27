@@ -25,16 +25,15 @@
    "Karl-Anthony Towns"
   ],
   "out": [
-   "Andre Drummond"
+   "OG Anunoby",
+   "Jordan Clarkson",
+   "Andre Drummond",
+   "Miles McBride"
   ],
   "ques": [
-   "Jordan Clarkson",
-   "Miles McBride",
    "Karl-Anthony Towns"
   ],
-  "doubt": [
-   "OG Anunoby"
-  ],
+  "doubt": [],
   "prob": []
  },
  "MIL": {
@@ -46,7 +45,9 @@
    "Kyle Kuzma",
    "Myles Turner"
   ],
-  "out": [],
+  "out": [
+   "Kasparas Jakucionis"
+  ],
   "ques": [],
   "doubt": [],
   "prob": []
@@ -106,11 +107,12 @@
   ],
   "ques": [
    "T.J. McConnell",
-   "Larry Nance",
    "Kelly Oubre"
   ],
   "doubt": [],
-  "prob": []
+  "prob": [
+   "Larry Nance"
+  ]
  },
  "BKN": {
   "status": "expected",
