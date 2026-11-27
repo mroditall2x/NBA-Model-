@@ -211,20 +211,19 @@
  "MIN": {
   "status": "expected",
   "starters": [
-   "LaMelo Ball",
    "Ayo Dosunmu",
+   "Terrence Shannon",
    "Jonathan Kuminga",
    "Jaden McDaniels",
    "Rudy Gobert"
   ],
   "out": [
+   "LaMelo Ball",
    "Jaylen Clark",
    "Donte DiVincenzo",
    "Anthony Edwards"
   ],
-  "ques": [
-   "LaMelo Ball"
-  ],
+  "ques": [],
   "doubt": [],
   "prob": []
  },
@@ -243,7 +242,9 @@
    "Tobi Lawal",
    "Dereck Lively"
   ],
-  "ques": [],
+  "ques": [
+   "Kyrie Irving"
+  ],
   "doubt": [],
   "prob": []
  },
@@ -322,7 +323,7 @@
  "POR": {
   "status": "expected",
   "starters": [
-   "Damian Lillard",
+   "Jrue Holiday",
    "Sidy Cissoko",
    "Toumani Camara",
    "Deni Avdija",
@@ -330,6 +331,7 @@
   ],
   "out": [
    "Vit Krejci",
+   "Damian Lillard",
    "Ja Morant",
    "Shaedon Sharpe",
    "Chris Youngblood"
@@ -348,9 +350,7 @@
    "Walker Kessler"
   ],
   "out": [],
-  "ques": [
-   "Austin Reaves"
-  ],
+  "ques": [],
   "doubt": [],
   "prob": []
  },

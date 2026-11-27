@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-27T18:22:30.801786+00:00",
+ "checked": "2026-11-27T19:22:30.677168+00:00",
  "games": {
   "MIA@NY": [
    {
@@ -7,6 +7,24 @@
     "team": "MIA",
     "status": "Day-To-Day",
     "note": "Antetokounmpo is probable for Friday's game against the Knicks due to right groin tendinitis."
+   },
+   {
+    "player": "Miles McBride",
+    "team": "NY",
+    "status": "Out",
+    "note": "McBride (groin) is out for Friday's game against the Heat."
+   },
+   {
+    "player": "OG Anunoby",
+    "team": "NY",
+    "status": "Out",
+    "note": "Anunoby (calf) has been ruled out for Friday's game against the Heat. The forward was previously listed as doubtful and will miss his third consecutive contest due to a left calf strain."
+   },
+   {
+    "player": "Jordan Clarkson",
+    "team": "NY",
+    "status": "Out",
+    "note": "Clarkson (foot) is out for Friday's game against the Heat."
    },
    {
     "player": "Karl-Anthony Towns",
@@ -19,24 +37,6 @@
     "team": "NY",
     "status": "Out",
     "note": "Drummond (concussion) has been ruled out for Friday's game against the Heat."
-   },
-   {
-    "player": "Miles McBride",
-    "team": "NY",
-    "status": "Day-To-Day",
-    "note": "McBride (groin) is questionable for Friday's game against the Heat."
-   },
-   {
-    "player": "Jordan Clarkson",
-    "team": "NY",
-    "status": "Out",
-    "note": "Clarkson (foot) is questionable for Friday's game against the Heat."
-   },
-   {
-    "player": "OG Anunoby",
-    "team": "NY",
-    "status": "Out",
-    "note": "Anunoby (calf) is doubtful for Friday's game against the Heat."
    }
   ],
   "BKN@TOR": [
@@ -249,8 +249,8 @@
    {
     "player": "LaMelo Ball",
     "team": "MIN",
-    "status": "Day-To-Day",
-    "note": "Ball (ankle) wasn't present at shootaround Friday, Jon Krawczynski of The Athletic reports."
+    "status": "Out",
+    "note": "Ball (ankle) has been ruled out for Friday's game against the Grizzlies. The guard was previously questionable after spraining his left ankle during Wednesday's win over Oklahoma City."
    },
    {
     "player": "Donte DiVincenzo",
@@ -272,6 +272,12 @@
    }
   ],
   "DAL@PHX": [
+   {
+    "player": "Kyrie Irving",
+    "team": "DAL",
+    "status": "Day-To-Day",
+    "note": "Irving (knee) is listed as questionable for Friday's game against the Suns due to left knee injury management."
+   },
    {
     "player": "Tobi Lawal",
     "team": "DAL",
@@ -361,6 +367,12 @@
     "note": "Butler (knee) could return sometime between January and February as he continues recovering from a torn right ACL, Anthony Slater of ESPN reports."
    },
    {
+    "player": "Damian Lillard",
+    "team": "POR",
+    "status": "Out",
+    "note": "Lillard (calf) has been ruled out for Friday's game against the Warriors. The veteran guard is dealing with right calf tightness and soreness."
+   },
+   {
     "player": "Chris Youngblood",
     "team": "POR",
     "status": "Out",
@@ -434,7 +446,7 @@
     "player": "Dylan Harper",
     "team": "SA",
     "status": "Out",
-    "note": "Harper (hip) is questionable for Friday's game against the Lakers."
+    "note": "Harper (hip) participated in Friday's morning shootaround, per Matt Guzman of SI.com."
    },
    {
     "player": "De'Aaron Fox",
