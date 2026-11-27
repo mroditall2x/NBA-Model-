@@ -86,7 +86,7 @@ date,game,team,player,stat,line,side,l10_games,l10_cleared,l10_avg,season_clear,
 2026-11-27,ATL@BOS,ATL,Jalen Johnson,REB,9.5,Less,10,4.0,8.9,0.357,F,BOS,1.103,True,True,OK,BOS gives up a lot of REB to Fs (lean against Under),cleared 9.5 REB in 4 of last 10
 2026-11-27,ATL@BOS,BOS,Derrick White,REB,3.5,More,10,4.0,3.3,0.412,G,ATL,0.98,False,True,,,cleared 3.5 REB in 4 of last 10
 2026-11-27,ATL@BOS,BOS,Paul George,REB,5.5,Less,10,4.0,5.3,0.467,F,ATL,1.073,True,True,OK,ATL gives up a lot of REB to Fs (lean against Under),cleared 5.5 REB in 4 of last 10
-2026-11-27,ATL@BOS,BOS,Sam Hauser,REB,3.5,Less,10,3.0,3.3,0.333,F,ATL,1.073,True,True,OK,ATL gives up a lot of REB to Fs (lean against Under),cleared 3.5 REB in 3 of last 10
+2026-11-27,ATL@BOS,BOS,Sam Hauser,REB,3.5,More,10,3.0,3.3,0.333,F,ATL,1.073,True,True,,,cleared 3.5 REB in 3 of last 10
 2026-11-27,ATL@BOS,BOS,Jayson Tatum,REB,8.5,Less,10,2.0,7.3,0.188,F,ATL,1.073,True,True,OK,ATL gives up a lot of REB to Fs (lean against Under),cleared 8.5 REB in 2 of last 10
 2026-11-27,ATL@BOS,BOS,Neemias Queta,REB,7.5,More,10,5.0,8.0,0.353,C,ATL,0.971,False,True,,,cleared 7.5 REB in 5 of last 10
 2026-11-27,ATL@BOS,ATL,Onyeka Okongwu,REB,7.5,More,10,7.0,8.9,0.588,F,BOS,1.103,True,True,,,cleared 7.5 REB in 7 of last 10
@@ -174,7 +174,7 @@ date,game,team,player,stat,line,side,l10_games,l10_cleared,l10_avg,season_clear,
 2026-11-27,DEN@UTAH,DEN,Aaron Gordon,RA,7.5,Less,10,2.0,6.0,0.375,F,UTAH,1.002,False,False,OK,,cleared 7.5 RA in 2 of last 10
 2026-11-27,DEN@UTAH,DEN,Nikola Jokic,RA,21.5,Less,10,3.0,20.6,0.312,C,UTAH,1.03,False,False,OK,,cleared 21.5 RA in 3 of last 10
 2026-11-27,DEN@UTAH,UTAH,Keyonte George,RA,10.5,More,10,8.0,11.5,0.611,G,DEN,1.035,True,False,,,cleared 10.5 RA in 8 of last 10
-2026-11-27,DEN@UTAH,UTAH,Darryn Peterson,RA,8.5,Less,10,6.0,9.3,0.474,G,DEN,1.035,True,True,SKIP,clears this line often: 6 of 10; DEN gives up a lot of REB to Gs (lean against Under); teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 8.5 RA in 6 of last 10
+2026-11-27,DEN@UTAH,UTAH,Darryn Peterson,RA,8.5,More,10,6.0,9.3,0.474,G,DEN,1.035,True,True,,,cleared 8.5 RA in 6 of last 10
 2026-11-27,DEN@UTAH,DEN,Christian Braun,RA,6.5,More,10,6.0,7.5,0.5,G,UTAH,0.989,False,False,,,cleared 6.5 RA in 6 of last 10
 2026-11-27,DEN@UTAH,DEN,Jamal Murray,RA,10.5,Less,10,5.0,10.1,0.562,G,UTAH,0.989,False,False,OK,,cleared 10.5 RA in 5 of last 10
 2026-11-27,DEN@UTAH,UTAH,Svi Mykhailiuk,RA,4.5,Less,10,7.0,5.5,0.421,G,DEN,1.035,True,False,SKIP,clears this line often: 7 of 10; DEN gives up a lot of REB to Gs (lean against Under),cleared 4.5 RA in 7 of last 10
@@ -191,7 +191,7 @@ date,game,team,player,stat,line,side,l10_games,l10_cleared,l10_avg,season_clear,
 2026-11-27,DEN@UTAH,DEN,Spencer Jones,REB,2.5,Less,9,4.0,2.44,0.444,F,UTAH,1.002,False,False,OK,,cleared 2.5 REB in 4 of last 9
 2026-11-27,DEN@UTAH,DEN,DeMar DeRozan,REB,1.5,More,10,5.0,1.9,0.6,G,UTAH,0.989,False,False,,,cleared 1.5 REB in 5 of last 10
 2026-11-27,DEN@UTAH,DEN,DeMar DeRozan,RA,4.5,Less,10,5.0,4.0,0.6,G,UTAH,0.989,False,False,OK,,cleared 4.5 RA in 5 of last 10
-2026-11-27,DEN@UTAH,UTAH,Brice Sensabaugh,AST,1.5,More,10,5.0,1.9,0.474,F,DEN,0.871,False,False,,,cleared 1.5 AST in 5 of last 10
+2026-11-27,DEN@UTAH,UTAH,Brice Sensabaugh,AST,1.5,Less,10,5.0,1.9,0.474,F,DEN,0.871,False,False,OK,,cleared 1.5 AST in 5 of last 10
 2026-11-27,DEN@UTAH,UTAH,Brice Sensabaugh,REB,3.5,Less,10,4.0,4.4,0.263,F,DEN,0.871,False,False,OK,,cleared 3.5 REB in 4 of last 10
 2026-11-27,NO@LAC,NO,Jeremiah Fears,AST,6.5,Less,10,5.0,6.6,0.421,G,LAC,0.977,False,True,OK,teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 6.5 AST in 5 of last 10
 2026-11-27,NO@LAC,NO,Trey Murphy III,AST,2.5,More,10,8.0,3.4,0.727,F,LAC,1.076,True,False,,,cleared 2.5 AST in 8 of last 10
@@ -226,7 +226,7 @@ date,game,team,player,stat,line,side,l10_games,l10_cleared,l10_avg,season_clear,
 2026-11-27,NO@LAC,NO,Yves Missi,RA,9.5,Less,8,3.0,10.25,0.375,C,LAC,0.96,False,True,OK,teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 9.5 RA in 3 of last 8
 2026-11-27,NO@LAC,LAC,Rui Hachimura,AST,1.5,Less,10,6.0,2.5,0.467,F,NO,1.155,True,False,SKIP,clears this line often: 6 of 10,cleared 1.5 AST in 6 of last 10
 2026-11-27,NO@LAC,NO,Yves Missi,AST,1.5,Less,8,2.0,1.25,0.25,C,LAC,0.96,False,True,OK,teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 1.5 AST in 2 of last 8
-2026-11-27,NO@LAC,NO,Jordan Poole,AST,2.5,Less,10,5.0,2.9,0.538,G,LAC,0.977,False,True,OK,teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 2.5 AST in 5 of last 10
+2026-11-27,NO@LAC,NO,Jordan Poole,AST,2.5,More,10,5.0,2.9,0.538,G,LAC,0.977,False,True,,,cleared 2.5 AST in 5 of last 10
 2026-11-27,NO@LAC,NO,Derik Queen,AST,2.5,Less,10,3.0,1.4,0.368,C,LAC,0.96,False,False,OK,,cleared 2.5 AST in 3 of last 10
 2026-11-27,NO@LAC,LAC,Darius Garland,REB,2.5,More,10,5.0,2.4,0.412,G,NO,0.824,False,False,,,cleared 2.5 REB in 5 of last 10
 2026-11-27,NO@LAC,LAC,Brook Lopez,RA,5.5,More,10,7.0,7.6,0.647,C,NO,1.077,True,False,,,cleared 5.5 RA in 7 of last 10
@@ -379,7 +379,7 @@ date,game,team,player,stat,line,side,l10_games,l10_cleared,l10_avg,season_clear,
 2026-11-27,MEM@MIN,MIN,Bones Hyland,AST,4.5,Less,10,3.0,3.1,0.211,G,MEM,0.942,False,False,OK,,cleared 4.5 AST in 3 of last 10
 2026-11-27,MEM@MIN,MIN,Bones Hyland,REB,2.5,Less,10,1.0,1.4,0.105,G,MEM,0.942,False,False,OK,,cleared 2.5 REB in 1 of last 10
 2026-11-27,MEM@MIN,MEM,Kris Murray,RA,4.5,Less,10,2.0,2.2,0.2,F,MIN,0.916,False,False,OK,,cleared 4.5 RA in 2 of last 10
-2026-11-27,MEM@MIN,MEM,Javon Small,AST,3.5,Less,10,8.0,5.1,0.818,G,MIN,1.047,True,False,SKIP,clears this line often: 8 of 10,cleared 3.5 AST in 8 of last 10
+2026-11-27,MEM@MIN,MEM,Javon Small,AST,3.5,More,10,8.0,5.1,0.818,G,MIN,1.047,True,False,,,cleared 3.5 AST in 8 of last 10
 2026-11-27,MEM@MIN,MEM,Javon Small,RA,6.5,Less,10,7.0,8.3,0.636,G,MIN,1.047,True,False,SKIP,clears this line often: 7 of 10; MIN gives up a lot of REB to Gs (lean against Under),cleared 6.5 RA in 7 of last 10
 2026-11-27,GS@POR,POR,Sidy Cissoko,AST,2.5,Less,10,3.0,1.5,0.389,G,GS,0.982,False,True,OK,teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 2.5 AST in 3 of last 10
 2026-11-27,GS@POR,POR,Deni Avdija,AST,6.5,More,10,5.0,6.5,0.438,F,GS,0.977,False,True,,,cleared 6.5 AST in 5 of last 10
