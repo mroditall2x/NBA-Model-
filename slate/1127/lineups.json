@@ -52,9 +52,9 @@
   "status": "confirmed",
   "starters": [
    "Daniss Jenkins",
-   "Isaiah Joe",
    "Kevin Huerter",
    "Ausar Thompson",
+   "Javonte Green",
    "John Collins"
   ],
   "out": [
@@ -140,7 +140,7 @@
   "prob": []
  },
  "ATL": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Kingston Flemings",
    "Nickeil Alexander-Walker",
@@ -160,10 +160,10 @@
   "prob": []
  },
  "BOS": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Derrick White",
-   "Jordan Walsh",
+   "Hugo Gonzalez",
    "Jayson Tatum",
    "Paul George",
    "Neemias Queta"
@@ -176,7 +176,7 @@
   "prob": []
  },
  "MEM": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Ty Jerome",
    "Cedric Coward",
@@ -191,14 +191,12 @@
    "Scotty Pippen",
    "Isaiah Stewart"
   ],
-  "ques": [
-   "Zach Edey"
-  ],
+  "ques": [],
   "doubt": [],
   "prob": []
  },
  "MIN": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Ayo Dosunmu",
    "Terrence Shannon",
@@ -219,7 +217,7 @@
  "DAL": {
   "status": "expected",
   "starters": [
-   "Kyrie Irving",
+   "Walter Clayton",
    "Caleb Martin",
    "Cooper Flagg",
    "P.J. Washington",
@@ -228,12 +226,11 @@
   "out": [
    "Tarik Biberovic",
    "Sergio de Larrea",
+   "Kyrie Irving",
    "Tobi Lawal",
    "Dereck Lively"
   ],
-  "ques": [
-   "Kyrie Irving"
-  ],
+  "ques": [],
   "doubt": [],
   "prob": []
  },
@@ -263,15 +260,12 @@
    "Yves Missi"
   ],
   "out": [
+   "Bennedict Mathurin",
    "Dejounte Murray"
   ],
   "ques": [],
-  "doubt": [
-   "Bennedict Mathurin"
-  ],
-  "prob": [
-   "Trendon Watford"
-  ]
+  "doubt": [],
+  "prob": []
  },
  "LAC": {
   "status": "expected",
