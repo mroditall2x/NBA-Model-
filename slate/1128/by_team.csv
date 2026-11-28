@@ -1,0 +1,34 @@
+game,team,player,stat,line,side,p,mean,min,grade,where
+BKN@CHA,BKN,Michael Porter Jr,AST,1.5,More,0.56,2.12,34.5,lean,Kalshi / Underdog
+BKN@CHA,BKN,Day'Ron Sharpe,RA,11.5,Less,0.553,10.87,26.1,lean,PrizePicks / Underdog
+BKN@CHA,BKN,Julius Randle,PA,24.5,More,0.514,25.6,35.7,lean,PrizePicks / Underdog
+BKN@CHA,CHA,Moussa Diabate,AST,1.5,More,0.61,2.51,31.4,lean,Kalshi / Underdog
+BKN@CHA,CHA,Naz Reid,REB,8.5,Less,0.565,7.84,33.9,lean,PrizePicks / Underdog
+BKN@CHA,CHA,Brandon Miller,RA,8.5,Less,0.559,7.94,31.9,lean,Kalshi / Underdog
+BKN@CHA,CHA,Sion James,RA,7.5,Less,0.538,7.26,27.8,lean,PrizePicks / Underdog
+IND@CHI,CHI,Nic Claxton,REB,5.5,Less,0.588,4.81,21.3,card,PrizePicks / Underdog
+IND@CHI,CHI,Isaac Okoro,PA,13.5,Less,0.54,13.2,31.3,lean,PrizePicks / Underdog
+PHI@HOU,HOU,Marcus Smart,REB,2.5,Less,0.573,2.27,19.1,lean,Kalshi / Underdog
+PHI@HOU,HOU,Tari Eason,PTS,9.5,Less,0.534,9.63,22.9,lean,PrizePicks / Underdog
+PHI@HOU,HOU,Amen Thompson,PR,23.5,Less,0.521,23.33,32.2,lean,PrizePicks / Underdog
+PHI@HOU,HOU,Jabari Smith Jr,AST,1.5,Less,0.515,1.68,32.0,lean,Kalshi / Underdog
+IND@CHI,IND,Aaron Nesmith,AST,1.5,More,0.576,2.27,28.5,lean,Kalshi / Underdog
+IND@CHI,IND,Kelly Oubre Jr.,REB,4.5,Less,0.564,4.11,27.7,lean,PrizePicks / Underdog
+IND@CHI,IND,Andrew Nembhard,PR,18.5,Less,0.562,17.2,30.5,lean,PrizePicks / Underdog
+IND@CHI,IND,Pascal Siakam,REB,6.5,Less,0.559,6.02,33.0,lean,PrizePicks / Underdog
+OKC@MIL,MIL,Tyler Herro,REB,3.5,More,0.552,4.29,31.9,lean,Kalshi / Underdog
+OKC@MIL,MIL,Ryan Rollins,RA,8.5,Less,0.547,8.06,25.6,lean,Kalshi / Underdog
+OKC@MIL,MIL,Jaime Jaquez Jr,PR,18.5,Less,0.525,18.43,28.2,lean,PrizePicks / Underdog
+OKC@MIL,MIL,Myles Turner,PA,10.5,Less,0.522,10.73,25.7,lean,PrizePicks / Underdog
+OKC@MIL,OKC,Jared McCain,REB,2.5,More,0.612,3.75,28.7,card,Kalshi / Underdog
+OKC@MIL,OKC,Ajay Mitchell,REB,3.5,More,0.585,4.59,32.3,lean,PrizePicks / Underdog
+OKC@MIL,OKC,Kenrich Williams,RA,7.5,Less,0.559,7.03,23.8,lean,PrizePicks / Underdog
+OKC@MIL,OKC,Alex Caruso,PRA,14.5,Less,0.546,14.1,20.6,lean,PrizePicks / Underdog
+ORL@WSH,ORL,Desmond Bane,PTS,19.5,Less,0.564,18.09,34.1,lean,PrizePicks / Underdog
+ORL@WSH,ORL,Anthony Black,PRA,23.5,Less,0.55,22.54,29.6,lean,PrizePicks / Underdog
+ORL@WSH,ORL,Wendell Carter Jr,PA,13.5,Less,0.544,12.99,30.6,lean,PrizePicks / Underdog
+ORL@WSH,ORL,Tristan da Silva,REB,3.5,More,0.534,4.07,27.6,lean,PrizePicks / Underdog
+PHI@HOU,PHI,Kentavious Caldwell-Pope,3PM,1.5,Less,0.577,1.36,29.7,lean,PrizePicks / Underdog
+PHI@HOU,PHI,Anfernee Simons,PTS,15.5,Less,0.535,15.12,30.5,lean,PrizePicks / Underdog
+PHI@HOU,PHI,Tyrese Maxey,PR,30.5,More,0.519,31.8,37.1,lean,PrizePicks / Underdog
+ORL@WSH,WSH,Trae Young,AST,8.5,Less,0.576,7.7,30.0,lean,Kalshi / Underdog

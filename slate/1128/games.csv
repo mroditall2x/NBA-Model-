@@ -1,0 +1,6 @@
+game,model_spread_home,mkt_spread_home,p_home_cover,mkt_home_cover,model_total,mkt_total,p_over,mkt_over,p_home_win,mkt_home_win,poss,full_game_note,ev_tag
+ORL@WSH,2.2,4.0,0.55,0.5,222.2,219.5,0.553,0.5,0.453,0.393,100.1,,
+BKN@CHA,-6.5,-6.0,0.513,0.511,216.4,212.5,0.579,0.5,0.667,0.685,97.1,,
+IND@CHI,-3.8,-2.5,0.548,0.496,234.8,233.25,0.517,0.5,0.61,0.553,104.1,,
+OKC@MIL,9.4,12.0,0.582,0.5,224.1,228.5,0.396,0.5,0.259,0.185,100.4,,
+PHI@HOU,-6.0,-12.75,0.29,0.5,226.6,220.0,0.635,0.5,0.655,0.813,99.0,skip: model >6 off market,

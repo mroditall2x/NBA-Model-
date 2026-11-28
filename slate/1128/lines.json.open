@@ -1,0 +1,94 @@
+{
+ "games": [
+  {
+   "away": "ORL",
+   "home": "WSH",
+   "id": "2f2c60fafdc3fd106d71517a9de4f2b1",
+   "commence": "2026-11-28T22:10:00Z",
+   "home_spread": 4.0,
+   "spread_odds": [
+    -110,
+    -110
+   ],
+   "ml_home": 145,
+   "ml_away": -170,
+   "total": 219.5,
+   "total_odds": [
+    -110,
+    -110
+   ]
+  },
+  {
+   "away": "BKN",
+   "home": "CHA",
+   "id": "a05c295062d5e2b8e9fa633c2797880e",
+   "commence": "2026-11-28T23:10:00Z",
+   "home_spread": -6.0,
+   "spread_odds": [
+    -115,
+    -105
+   ],
+   "ml_home": -250,
+   "ml_away": 205,
+   "total": 212.5,
+   "total_odds": [
+    -110,
+    -110
+   ]
+  },
+  {
+   "away": "IND",
+   "home": "CHI",
+   "id": "1ef1f5b9c8c88c584772f64a0d9a9435",
+   "commence": "2026-11-29T01:10:00Z",
+   "home_spread": -2.5,
+   "spread_odds": [
+    -108,
+    -112
+   ],
+   "ml_home": -135,
+   "ml_away": 115,
+   "total": 233.25,
+   "total_odds": [
+    -110,
+    -110
+   ]
+  },
+  {
+   "away": "OKC",
+   "home": "MIL",
+   "id": "638cefeed67cdd691e1686e024981563",
+   "commence": "2026-11-29T01:10:00Z",
+   "home_spread": 12.0,
+   "spread_odds": [
+    -110,
+    -110
+   ],
+   "ml_home": 420,
+   "ml_away": -560,
+   "total": 228.5,
+   "total_odds": [
+    -110,
+    -110
+   ]
+  },
+  {
+   "away": "PHI",
+   "home": "HOU",
+   "id": "c4b53c6aebbd7b81fd821526ad9503e8",
+   "commence": "2026-11-29T01:40:00Z",
+   "home_spread": -12.75,
+   "spread_odds": [
+    -110,
+    -110
+   ],
+   "ml_home": -550,
+   "ml_away": 413,
+   "total": 220.0,
+   "total_odds": [
+    -110,
+    -110
+   ]
+  }
+ ]
+}

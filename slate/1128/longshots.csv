@@ -1,0 +1,13 @@
+game,team,player,combo,chance,fair_odds,min,min_bump,why,avg,size,special
+ORL@WSH,WSH,Anthony Davis,20+ pts & 11+ reb,0.171,+486,32.1,4.7,+5 min,9.1 reb / 2.0 ast / 20.7 pts,31,True
+IND@CHI,CHI,Jalen Smith,15+ pts & 9+ reb,0.162,+518,27.3,4.2,"Caleb Wilson, Norman Powell out; +4 min",7.4 reb / 1.9 ast / 14.5 pts,24,True
+IND@CHI,IND,Andrew Nembhard,15+ pts & 10+ ast,0.146,+585,30.5,1.9,Tyrese Haliburton out,2.6 reb / 8.0 ast / 14.6 pts,25,True
+IND@CHI,IND,Aaron Nesmith,15+ pts & 4+ reb,0.146,+585,28.5,3.7,Tyrese Haliburton out; +4 min,3.5 reb / 2.3 ast / 12.2 pts,19,True
+ORL@WSH,WSH,AJ Dybantsa,15+ pts & 8+ reb,0.142,+602,31.9,13.6,+14 min,6.2 reb / 2.5 ast / 15.0 pts,23,True
+IND@CHI,CHI,Isaac Okoro,15+ pts & 4+ reb,0.119,+741,31.3,0.4,"Caleb Wilson, Norman Powell out",3.3 reb / 1.9 ast / 11.3 pts,19,True
+IND@CHI,IND,Ivica Zubac,15+ pts & 11+ reb,0.114,+774,25.9,3.5,Tyrese Haliburton out; +4 min,9.2 reb / 2.1 ast / 12.2 pts,26,True
+ORL@WSH,ORL,Jalen Suggs,15+ pts & 5+ ast,0.113,+789,24.9,7.6,+8 min,3.9 reb / 4.1 ast / 10.5 pts,20,True
+IND@CHI,IND,Ivica Zubac,15+ pts & 3+ ast,0.111,+797,25.9,3.5,Tyrese Haliburton out; +4 min,9.2 reb / 2.1 ast / 12.2 pts,18,True
+ORL@WSH,ORL,Jalen Suggs,15+ pts & 5+ reb,0.105,+850,24.9,7.6,+8 min,3.9 reb / 4.1 ast / 10.5 pts,20,True
+IND@CHI,CHI,Josh Giddey,20+ pts & 12+ ast,0.104,+864,33.0,-6.4,"Caleb Wilson, Norman Powell out",7.2 reb / 10.0 ast / 16.0 pts,32,True
+IND@CHI,CHI,Tre Jones,20+ pts & 6+ ast,0.1,+898,24.4,-5.7,"Caleb Wilson, Norman Powell out",2.7 reb / 5.0 ast / 14.6 pts,26,True

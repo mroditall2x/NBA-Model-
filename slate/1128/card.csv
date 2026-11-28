@@ -1,0 +1,10 @@
+game,team,player,stat,tier,line,side,p,price,ev,top,mean,lo,hi,min,gap,where,vol3,line_open,line_now,move,line_move,keep
+ORL@WSH,WSH,Trae Young,3PM,standard,1.5,More,0.6,-167,-0.041,True,2.06,1,3,30.0,-0.5,Kalshi / Underdog,5.7,,,,,True
+OKC@MIL,MIL,Kyle Kuzma,3PM,standard,1.5,More,0.6,-150,-0.0,True,1.84,0,3,28.1,2.1,Kalshi / Underdog,6.6,,,,,True
+ORL@WSH,ORL,Franz Wagner,AST,standard,7.5,Less,0.5749,-134,0.004,True,6.3,4,9,35.1,0.8,Kalshi / Underdog,,7.5,7.5,0.0,,True
+BKN@CHA,BKN,Julius Randle,REB,standard,6.5,Less,0.5683,-145,-0.04,True,5.73,3,8,35.7,-1.5,PrizePicks / Underdog,,6.5,6.5,0.0,,True
+PHI@HOU,HOU,Marcus Smart,REB,standard,2.5,Less,0.5666,-150,-0.056,True,2.27,1,4,19.1,-0.1,Kalshi / Underdog,,2.5,2.5,0.0,,True
+IND@CHI,IND,Kelly Oubre Jr.,REB,standard,4.5,Less,0.5636,-150,-0.061,False,4.11,2,6,27.7,1.6,PrizePicks / Underdog,,4.5,4.5,0.0,,True
+IND@CHI,CHI,Nic Claxton,RA,standard,7.5,Less,0.5433,-120,-0.004,False,6.76,4,9,21.3,0.7,PrizePicks / Underdog,,7.5,7.5,0.0,,True
+ORL@WSH,ORL,Desmond Bane,PTS,standard,19.5,Less,0.5398,-124,-0.025,False,18.09,11,24,34.1,0.3,PrizePicks / Underdog,,19.5,19.5,0.0,,True
+IND@CHI,IND,Andrew Nembhard,PR,standard,18.5,Less,0.5369,-121,-0.019,False,17.2,11,23,30.5,1.9,PrizePicks / Underdog,,18.5,18.5,0.0,,True

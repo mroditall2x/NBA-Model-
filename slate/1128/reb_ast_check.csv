@@ -1,0 +1,171 @@
+date,game,team,player,stat,line,side,l10_games,l10_cleared,l10_avg,season_clear,pos,opp,opp_reb_pos,soft_reb_vs_pos,teammates_cold,under_check,note,summary
+2026-11-28,ORL@WSH,ORL,Jalen Suggs,AST,4.5,Less,9,4.0,4.11,0.444,G,WSH,1.061,True,False,OK,,cleared 4.5 AST in 4 of last 9
+2026-11-28,ORL@WSH,ORL,Anthony Black,AST,4.5,Less,10,8.0,5.3,0.714,G,WSH,1.061,True,False,SKIP,clears this line often: 8 of 10,cleared 4.5 AST in 8 of last 10
+2026-11-28,ORL@WSH,WSH,Anthony Davis,AST,1.5,More,10,5.0,2.0,0.471,F,ORL,0.901,False,True,,,cleared 1.5 AST in 5 of last 10
+2026-11-28,ORL@WSH,WSH,Trae Young,AST,8.5,Less,10,4.0,8.4,0.579,G,ORL,1.007,False,False,OK,,cleared 8.5 AST in 4 of last 10
+2026-11-28,ORL@WSH,ORL,Franz Wagner,AST,7.5,Less,10,5.0,8.5,0.471,F,WSH,1.072,True,True,OK,teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 7.5 AST in 5 of last 10
+2026-11-28,ORL@WSH,WSH,Kyshawn George,AST,4.5,Less,10,3.0,3.7,0.368,F,ORL,0.901,False,True,OK,teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 4.5 AST in 3 of last 10
+2026-11-28,ORL@WSH,ORL,Desmond Bane,AST,3.5,Less,10,4.0,3.3,0.375,G,WSH,1.061,True,True,OK,teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 3.5 AST in 4 of last 10
+2026-11-28,ORL@WSH,WSH,AJ Dybantsa,AST,3.5,Less,10,4.0,3.5,0.267,F,ORL,0.901,False,True,OK,teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 3.5 AST in 4 of last 10
+2026-11-28,ORL@WSH,ORL,Tristan da Silva,REB,3.5,More,10,5.0,4.4,0.333,F,WSH,1.072,True,False,,,cleared 3.5 REB in 5 of last 10
+2026-11-28,ORL@WSH,WSH,Trae Young,REB,2.5,Less,10,3.0,2.1,0.421,G,ORL,1.007,False,False,OK,,cleared 2.5 REB in 3 of last 10
+2026-11-28,ORL@WSH,ORL,Wendell Carter Jr,REB,8.5,More,0,,,,,WSH,,False,False,NO DATA,,no recent games
+2026-11-28,ORL@WSH,WSH,Alex Sarr,REB,6.5,Less,10,6.0,6.8,0.556,C,ORL,0.955,False,False,OK,,cleared 6.5 REB in 6 of last 10
+2026-11-28,ORL@WSH,WSH,AJ Dybantsa,REB,7.5,Less,10,6.0,7.9,0.467,F,ORL,0.901,False,True,OK,,cleared 7.5 REB in 6 of last 10
+2026-11-28,ORL@WSH,ORL,Anthony Black,REB,4.5,Less,10,6.0,5.1,0.571,G,WSH,1.061,True,False,OK,WSH gives up a lot of REB to Gs (lean against Under),cleared 4.5 REB in 6 of last 10
+2026-11-28,ORL@WSH,WSH,Anthony Davis,REB,10.5,Less,10,6.0,10.8,0.471,F,ORL,0.901,False,True,OK,,cleared 10.5 REB in 6 of last 10
+2026-11-28,ORL@WSH,ORL,Franz Wagner,REB,6.5,More,10,8.0,7.6,0.529,F,WSH,1.072,True,True,,,cleared 6.5 REB in 8 of last 10
+2026-11-28,ORL@WSH,ORL,Jalen Suggs,REB,4.5,Less,9,5.0,4.89,0.556,G,WSH,1.061,True,False,OK,WSH gives up a lot of REB to Gs (lean against Under),cleared 4.5 REB in 5 of last 9
+2026-11-28,ORL@WSH,WSH,Kyshawn George,REB,4.5,Less,10,5.0,4.9,0.368,F,ORL,0.901,False,True,OK,,cleared 4.5 REB in 5 of last 10
+2026-11-28,ORL@WSH,ORL,Desmond Bane,REB,3.5,More,10,4.0,3.8,0.438,G,WSH,1.061,True,True,,,cleared 3.5 REB in 4 of last 10
+2026-11-28,ORL@WSH,WSH,Bilal Coulibaly,REB,3.5,Less,10,7.0,4.9,0.611,G,ORL,1.007,False,False,SKIP,clears this line often: 7 of 10,cleared 3.5 REB in 7 of last 10
+2026-11-28,ORL@WSH,ORL,Franz Wagner,RA,14.5,Less,10,6.0,16.1,0.529,F,WSH,1.072,True,True,SKIP,clears this line often: 6 of 10; WSH gives up a lot of REB to Fs (lean against Under); teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 14.5 RA in 6 of last 10
+2026-11-28,ORL@WSH,ORL,Wendell Carter Jr,RA,10.5,Less,0,,,,,WSH,,False,False,NO DATA,,no recent games
+2026-11-28,ORL@WSH,ORL,Desmond Bane,RA,7.5,More,10,3.0,7.1,0.375,G,WSH,1.061,True,True,,,cleared 7.5 RA in 3 of last 10
+2026-11-28,ORL@WSH,WSH,Trae Young,RA,10.5,Less,10,4.0,10.5,0.632,G,ORL,1.007,False,False,OK,,cleared 10.5 RA in 4 of last 10
+2026-11-28,ORL@WSH,ORL,Anthony Black,RA,8.5,Less,10,6.0,10.4,0.571,G,WSH,1.061,True,False,SKIP,clears this line often: 6 of 10; WSH gives up a lot of REB to Gs (lean against Under),cleared 8.5 RA in 6 of last 10
+2026-11-28,ORL@WSH,WSH,Anthony Davis,RA,12.5,Less,10,8.0,12.8,0.588,F,ORL,0.901,False,True,SKIP,clears this line often: 8 of 10; teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 12.5 RA in 8 of last 10
+2026-11-28,ORL@WSH,WSH,Kyshawn George,RA,8.5,Less,10,4.0,8.6,0.474,F,ORL,0.901,False,True,OK,teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 8.5 RA in 4 of last 10
+2026-11-28,ORL@WSH,ORL,Jalen Suggs,RA,9.5,Less,9,4.0,9.0,0.444,G,WSH,1.061,True,False,OK,WSH gives up a lot of REB to Gs (lean against Under),cleared 9.5 RA in 4 of last 9
+2026-11-28,ORL@WSH,WSH,AJ Dybantsa,RA,10.5,Less,10,5.0,11.4,0.4,F,ORL,0.901,False,True,OK,teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 10.5 RA in 5 of last 10
+2026-11-28,ORL@WSH,ORL,Wendell Carter Jr,AST,1.5,Less,0,,,,,WSH,,False,False,NO DATA,,no recent games
+2026-11-28,ORL@WSH,WSH,Alex Sarr,AST,1.5,Less,10,4.0,1.1,0.5,C,ORL,0.955,False,False,OK,,cleared 1.5 AST in 4 of last 10
+2026-11-28,ORL@WSH,WSH,Alex Sarr,RA,7.5,Less,10,6.0,7.9,0.611,C,ORL,0.955,False,False,SKIP,clears this line often: 6 of 10,cleared 7.5 RA in 6 of last 10
+2026-11-28,ORL@WSH,ORL,Tristan da Silva,RA,5.5,Less,10,5.0,6.0,0.333,F,WSH,1.072,True,False,OK,WSH gives up a lot of REB to Fs (lean against Under),cleared 5.5 RA in 5 of last 10
+2026-11-28,ORL@WSH,WSH,Bilal Coulibaly,RA,4.5,More,10,7.0,5.5,0.556,G,ORL,1.007,False,False,,,cleared 4.5 RA in 7 of last 10
+2026-11-28,BKN@CHA,BKN,Day'Ron Sharpe,AST,3.5,Less,10,7.0,5.1,0.5,C,CHA,0.756,False,False,SKIP,clears this line often: 7 of 10,cleared 3.5 AST in 7 of last 10
+2026-11-28,BKN@CHA,CHA,Naz Reid,AST,2.5,More,10,6.0,2.8,0.412,C,BKN,0.886,False,True,,,cleared 2.5 AST in 6 of last 10
+2026-11-28,BKN@CHA,CHA,Sion James,AST,3.5,Less,10,5.0,3.0,0.471,G,BKN,1.011,False,True,OK,teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 3.5 AST in 5 of last 10
+2026-11-28,BKN@CHA,CHA,Coby White,AST,4.5,Less,10,3.0,4.0,0.3,G,BKN,1.011,False,True,OK,teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 4.5 AST in 3 of last 10
+2026-11-28,BKN@CHA,BKN,Julius Randle,AST,4.5,More,10,5.0,4.5,0.5,F,CHA,0.88,False,True,,,cleared 4.5 AST in 5 of last 10
+2026-11-28,BKN@CHA,CHA,Brandon Miller,AST,3.5,Less,10,5.0,3.0,0.4,F,BKN,0.936,False,True,OK,teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 3.5 AST in 5 of last 10
+2026-11-28,BKN@CHA,CHA,Moussa Diabate,REB,9.5,Less,10,7.0,11.5,0.533,F,BKN,0.936,False,True,SKIP,clears this line often: 7 of 10,cleared 9.5 REB in 7 of last 10
+2026-11-28,BKN@CHA,BKN,Day'Ron Sharpe,REB,7.5,Less,10,5.0,7.7,0.444,C,CHA,0.756,False,False,OK,,cleared 7.5 REB in 5 of last 10
+2026-11-28,BKN@CHA,CHA,Sion James,REB,4.5,Less,10,4.0,4.5,0.353,G,BKN,1.011,False,True,OK,,cleared 4.5 REB in 4 of last 10
+2026-11-28,BKN@CHA,BKN,Danny Wolf,REB,4.5,Less,10,6.0,5.0,0.615,F,CHA,0.88,False,False,OK,,cleared 4.5 REB in 6 of last 10
+2026-11-28,BKN@CHA,CHA,Coby White,REB,2.5,Less,10,6.0,2.6,0.6,G,BKN,1.011,False,True,OK,,cleared 2.5 REB in 6 of last 10
+2026-11-28,BKN@CHA,BKN,Michael Porter Jr,REB,6.5,Less,0,,,,,CHA,,False,False,NO DATA,,no recent games
+2026-11-28,BKN@CHA,CHA,Naz Reid,REB,8.5,Less,10,4.0,8.1,0.471,C,BKN,0.886,False,True,OK,,cleared 8.5 REB in 4 of last 10
+2026-11-28,BKN@CHA,CHA,Brandon Miller,REB,4.5,Less,10,3.0,3.7,0.4,F,BKN,0.936,False,True,OK,,cleared 4.5 REB in 3 of last 10
+2026-11-28,BKN@CHA,BKN,Julius Randle,REB,6.5,Less,10,2.0,5.1,0.389,F,CHA,0.88,False,True,OK,,cleared 6.5 REB in 2 of last 10
+2026-11-28,BKN@CHA,BKN,Day'Ron Sharpe,RA,11.5,Less,10,6.0,12.8,0.444,C,CHA,0.756,False,False,SKIP,clears this line often: 6 of 10,cleared 11.5 RA in 6 of last 10
+2026-11-28,BKN@CHA,CHA,Moussa Diabate,RA,12.5,Less,10,7.0,13.6,0.533,F,BKN,0.936,False,True,SKIP,clears this line often: 7 of 10; teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 12.5 RA in 7 of last 10
+2026-11-28,BKN@CHA,CHA,Sion James,RA,7.5,Less,10,5.0,7.5,0.412,G,BKN,1.011,False,True,OK,teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 7.5 RA in 5 of last 10
+2026-11-28,BKN@CHA,BKN,Michael Porter Jr,RA,8.5,Less,0,,,,,CHA,,False,False,NO DATA,,no recent games
+2026-11-28,BKN@CHA,CHA,Coby White,RA,7.5,Less,10,3.0,6.6,0.3,G,BKN,1.011,False,True,OK,teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 7.5 RA in 3 of last 10
+2026-11-28,BKN@CHA,CHA,Naz Reid,RA,11.5,Less,10,3.0,10.9,0.353,C,BKN,0.886,False,True,OK,teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 11.5 RA in 3 of last 10
+2026-11-28,BKN@CHA,CHA,Brandon Miller,RA,8.5,Less,10,3.0,6.7,0.333,F,BKN,0.936,False,True,OK,teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 8.5 RA in 3 of last 10
+2026-11-28,BKN@CHA,BKN,Julius Randle,RA,10.5,Less,10,3.0,9.6,0.556,F,CHA,0.88,False,True,OK,teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 10.5 RA in 3 of last 10
+2026-11-28,BKN@CHA,CHA,Moussa Diabate,AST,1.5,More,10,9.0,2.1,0.8,F,BKN,0.936,False,True,,,cleared 1.5 AST in 9 of last 10
+2026-11-28,BKN@CHA,BKN,Michael Porter Jr,AST,1.5,More,0,,,,,CHA,,False,False,NO DATA,,no recent games
+2026-11-28,BKN@CHA,BKN,Danny Wolf,RA,5.5,Less,10,6.0,7.1,0.615,F,CHA,0.88,False,False,SKIP,clears this line often: 6 of 10,cleared 5.5 RA in 6 of last 10
+2026-11-28,IND@CHI,CHI,Tre Jones,AST,4.5,More,10,5.0,5.1,0.333,G,IND,1.032,False,False,,,cleared 4.5 AST in 5 of last 10
+2026-11-28,IND@CHI,CHI,Matas Buzelis,AST,1.5,More,10,6.0,1.6,0.667,F,IND,1.021,False,False,,,cleared 1.5 AST in 6 of last 10
+2026-11-28,IND@CHI,CHI,Isaac Okoro,AST,1.5,More,10,7.0,2.3,0.5,F,IND,1.021,False,False,,,cleared 1.5 AST in 7 of last 10
+2026-11-28,IND@CHI,IND,Pascal Siakam,AST,3.5,More,10,4.0,3.5,0.444,F,CHI,1.034,False,False,,,cleared 3.5 AST in 4 of last 10
+2026-11-28,IND@CHI,CHI,Buddy Hield,AST,2.5,Less,10,4.0,2.3,0.25,G,IND,1.032,False,False,OK,,cleared 2.5 AST in 4 of last 10
+2026-11-28,IND@CHI,CHI,Josh Giddey,AST,8.5,More,10,5.0,10.5,0.5,G,IND,1.032,False,False,,,cleared 8.5 AST in 5 of last 10
+2026-11-28,IND@CHI,IND,Andrew Nembhard,AST,8.5,Less,10,2.0,6.9,0.333,G,CHI,1.051,True,True,OK,teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 8.5 AST in 2 of last 10
+2026-11-28,IND@CHI,CHI,Tre Jones,REB,2.5,Less,10,2.0,1.8,0.444,G,IND,1.032,False,False,OK,,cleared 2.5 REB in 2 of last 10
+2026-11-28,IND@CHI,CHI,Jalen Smith,REB,7.5,Less,10,4.0,7.2,0.467,F,IND,1.021,False,False,OK,,cleared 7.5 REB in 4 of last 10
+2026-11-28,IND@CHI,CHI,Nic Claxton,REB,5.5,Less,8,4.0,4.62,0.5,C,IND,1.204,True,False,OK,IND gives up a lot of REB to Cs (lean against Under),cleared 5.5 REB in 4 of last 8
+2026-11-28,IND@CHI,IND,Kelly Oubre Jr.,REB,4.5,Less,10,4.0,4.0,0.235,G,CHI,1.051,True,False,OK,CHI gives up a lot of REB to Gs (lean against Under),cleared 4.5 REB in 4 of last 10
+2026-11-28,IND@CHI,CHI,Matas Buzelis,REB,5.5,More,10,3.0,5.2,0.222,F,IND,1.021,False,False,,,cleared 5.5 REB in 3 of last 10
+2026-11-28,IND@CHI,IND,Ivica Zubac,REB,10.5,Less,10,6.0,10.3,0.571,C,CHI,1.057,True,True,OK,CHI gives up a lot of REB to Cs (lean against Under),cleared 10.5 REB in 6 of last 10
+2026-11-28,IND@CHI,CHI,Isaac Okoro,REB,2.5,More,10,7.0,3.8,0.5,F,IND,1.021,False,False,,,cleared 2.5 REB in 7 of last 10
+2026-11-28,IND@CHI,CHI,Buddy Hield,REB,3.5,Less,10,6.0,3.4,0.375,G,IND,1.032,False,False,OK,,cleared 3.5 REB in 6 of last 10
+2026-11-28,IND@CHI,IND,Pascal Siakam,REB,6.5,Less,10,4.0,5.1,0.444,F,CHI,1.034,False,False,OK,,cleared 6.5 REB in 4 of last 10
+2026-11-28,IND@CHI,CHI,Josh Giddey,REB,7.5,Less,10,5.0,7.8,0.389,G,IND,1.032,False,False,OK,,cleared 7.5 REB in 5 of last 10
+2026-11-28,IND@CHI,IND,Andrew Nembhard,REB,2.5,Less,10,5.0,2.6,0.4,G,CHI,1.051,True,True,OK,CHI gives up a lot of REB to Gs (lean against Under),cleared 2.5 REB in 5 of last 10
+2026-11-28,IND@CHI,CHI,Josh Giddey,RA,16.5,More,10,5.0,18.3,0.389,G,IND,1.032,False,False,,,cleared 16.5 RA in 5 of last 10
+2026-11-28,IND@CHI,CHI,Nic Claxton,RA,7.5,Less,8,3.0,5.88,0.375,C,IND,1.204,True,False,OK,IND gives up a lot of REB to Cs (lean against Under),cleared 7.5 RA in 3 of last 8
+2026-11-28,IND@CHI,CHI,Jalen Smith,RA,9.5,Less,10,6.0,9.6,0.533,F,IND,1.021,False,False,SKIP,clears this line often: 6 of 10,cleared 9.5 RA in 6 of last 10
+2026-11-28,IND@CHI,CHI,Matas Buzelis,RA,7.5,More,10,4.0,6.8,0.389,F,IND,1.021,False,False,,,cleared 7.5 RA in 4 of last 10
+2026-11-28,IND@CHI,CHI,Isaac Okoro,RA,4.5,More,10,7.0,6.1,0.5,F,IND,1.021,False,False,,,cleared 4.5 RA in 7 of last 10
+2026-11-28,IND@CHI,IND,Pascal Siakam,RA,10.5,Less,10,3.0,8.6,0.333,F,CHI,1.034,False,False,OK,,cleared 10.5 RA in 3 of last 10
+2026-11-28,IND@CHI,CHI,Buddy Hield,RA,6.5,Less,10,2.0,5.7,0.125,G,IND,1.032,False,False,OK,,cleared 6.5 RA in 2 of last 10
+2026-11-28,IND@CHI,CHI,Tre Jones,RA,7.5,Less,10,5.0,6.9,0.389,G,IND,1.032,False,False,OK,,cleared 7.5 RA in 5 of last 10
+2026-11-28,IND@CHI,IND,Andrew Nembhard,RA,10.5,Less,10,3.0,9.5,0.4,G,CHI,1.051,True,True,OK,CHI gives up a lot of REB to Gs (lean against Under); teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 10.5 RA in 3 of last 10
+2026-11-28,IND@CHI,CHI,Jalen Smith,AST,1.5,More,10,7.0,2.4,0.533,F,IND,1.021,False,False,,,cleared 1.5 AST in 7 of last 10
+2026-11-28,IND@CHI,CHI,Nic Claxton,AST,1.5,More,8,2.0,1.25,0.25,C,IND,1.204,True,False,,,cleared 1.5 AST in 2 of last 8
+2026-11-28,IND@CHI,IND,Aaron Nesmith,AST,1.5,More,10,6.0,2.3,0.562,G,CHI,1.051,True,False,,,cleared 1.5 AST in 6 of last 10
+2026-11-28,IND@CHI,IND,Kelly Oubre Jr.,AST,1.5,Less,10,3.0,0.7,0.353,G,CHI,1.051,True,False,OK,,cleared 1.5 AST in 3 of last 10
+2026-11-28,IND@CHI,IND,Aaron Nesmith,REB,3.5,Less,10,5.0,3.9,0.375,G,CHI,1.051,True,False,OK,CHI gives up a lot of REB to Gs (lean against Under),cleared 3.5 REB in 5 of last 10
+2026-11-28,IND@CHI,IND,Ivica Zubac,AST,2.5,Less,10,2.0,1.9,0.143,C,CHI,1.057,True,True,OK,teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 2.5 AST in 2 of last 10
+2026-11-28,IND@CHI,IND,Ivica Zubac,RA,12.5,Less,10,6.0,12.2,0.571,C,CHI,1.057,True,True,SKIP,clears this line often: 6 of 10; CHI gives up a lot of REB to Cs (lean against Under); teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 12.5 RA in 6 of last 10
+2026-11-28,IND@CHI,IND,Aaron Nesmith,RA,5.5,More,10,5.0,6.2,0.375,G,CHI,1.051,True,False,,,cleared 5.5 RA in 5 of last 10
+2026-11-28,IND@CHI,IND,Kelly Oubre Jr.,RA,5.5,Less,10,4.0,4.7,0.235,G,CHI,1.051,True,False,OK,CHI gives up a lot of REB to Gs (lean against Under),cleared 5.5 RA in 4 of last 10
+2026-11-28,OKC@MIL,OKC,Shai Gilgeous-Alexander,AST,5.5,Less,10,3.0,4.8,0.278,G,MIL,1.036,True,False,OK,,cleared 5.5 AST in 3 of last 10
+2026-11-28,OKC@MIL,OKC,Ajay Mitchell,AST,3.5,More,10,5.0,3.6,0.529,G,MIL,1.036,True,False,,,cleared 3.5 AST in 5 of last 10
+2026-11-28,OKC@MIL,OKC,Bennett Stirtz,AST,2.5,Less,10,2.0,2.0,0.211,G,MIL,1.036,True,False,OK,,cleared 2.5 AST in 2 of last 10
+2026-11-28,OKC@MIL,OKC,Isaiah Hartenstein,AST,4.5,Less,10,6.0,4.8,0.368,C,MIL,1.165,True,True,SKIP,clears this line often: 6 of 10; teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 4.5 AST in 6 of last 10
+2026-11-28,OKC@MIL,OKC,Alex Caruso,AST,2.5,Less,10,5.0,2.4,0.538,G,MIL,1.036,True,False,OK,,cleared 2.5 AST in 5 of last 10
+2026-11-28,OKC@MIL,MIL,Ryan Rollins,AST,3.5,More,10,4.0,3.4,0.556,G,OKC,0.966,False,True,,,cleared 3.5 AST in 4 of last 10
+2026-11-28,OKC@MIL,MIL,Tyler Herro,AST,4.5,Less,10,4.0,4.5,0.368,G,OKC,0.966,False,True,OK,teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 4.5 AST in 4 of last 10
+2026-11-28,OKC@MIL,MIL,Jaime Jaquez Jr,AST,3.5,Less,0,,,,,OKC,,False,False,NO DATA,,no recent games
+2026-11-28,OKC@MIL,MIL,Kyle Kuzma,AST,2.5,Less,10,3.0,1.8,0.579,F,OKC,1.106,True,True,OK,teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 2.5 AST in 3 of last 10
+2026-11-28,OKC@MIL,OKC,Isaiah Hartenstein,REB,11.5,More,10,4.0,11.9,0.474,C,MIL,1.165,True,True,,,cleared 11.5 REB in 4 of last 10
+2026-11-28,OKC@MIL,OKC,Kenrich Williams,REB,5.5,Less,10,2.0,4.2,0.263,G,MIL,1.036,True,False,OK,MIL gives up a lot of REB to Gs (lean against Under),cleared 5.5 REB in 2 of last 10
+2026-11-28,OKC@MIL,OKC,Jared McCain,REB,2.5,More,10,7.0,3.3,0.632,G,MIL,1.036,True,False,,,cleared 2.5 REB in 7 of last 10
+2026-11-28,OKC@MIL,OKC,Bennett Stirtz,REB,2.5,Less,10,3.0,2.4,0.158,G,MIL,1.036,True,False,OK,MIL gives up a lot of REB to Gs (lean against Under),cleared 2.5 REB in 3 of last 10
+2026-11-28,OKC@MIL,OKC,Ajay Mitchell,REB,3.5,More,10,4.0,3.6,0.471,G,MIL,1.036,True,False,,,cleared 3.5 REB in 4 of last 10
+2026-11-28,OKC@MIL,MIL,Kyle Kuzma,REB,4.5,Less,10,5.0,4.1,0.579,F,OKC,1.106,True,True,OK,OKC gives up a lot of REB to Fs (lean against Under),cleared 4.5 REB in 5 of last 10
+2026-11-28,OKC@MIL,MIL,Myles Turner,REB,5.5,More,10,8.0,7.4,0.611,C,OKC,0.966,False,False,,,cleared 5.5 REB in 8 of last 10
+2026-11-28,OKC@MIL,MIL,Ryan Rollins,REB,3.5,More,10,6.0,4.4,0.611,G,OKC,0.966,False,True,,,cleared 3.5 REB in 6 of last 10
+2026-11-28,OKC@MIL,OKC,Shai Gilgeous-Alexander,REB,4.5,More,10,3.0,3.9,0.333,G,MIL,1.036,True,False,,,cleared 4.5 REB in 3 of last 10
+2026-11-28,OKC@MIL,MIL,Tyler Herro,REB,3.5,More,10,4.0,3.7,0.526,G,OKC,0.966,False,True,,,cleared 3.5 REB in 4 of last 10
+2026-11-28,OKC@MIL,OKC,Alex Caruso,REB,3.5,Less,10,3.0,2.9,0.462,G,MIL,1.036,True,False,OK,MIL gives up a lot of REB to Gs (lean against Under),cleared 3.5 REB in 3 of last 10
+2026-11-28,OKC@MIL,MIL,Jaime Jaquez Jr,REB,4.5,More,0,,,,,OKC,,False,False,NO DATA,,no recent games
+2026-11-28,OKC@MIL,OKC,Kenrich Williams,RA,7.5,Less,10,2.0,6.2,0.211,G,MIL,1.036,True,False,OK,MIL gives up a lot of REB to Gs (lean against Under),cleared 7.5 RA in 2 of last 10
+2026-11-28,OKC@MIL,OKC,Jared McCain,RA,4.5,More,10,6.0,4.9,0.579,G,MIL,1.036,True,False,,,cleared 4.5 RA in 6 of last 10
+2026-11-28,OKC@MIL,OKC,Ajay Mitchell,RA,7.5,More,10,3.0,7.2,0.353,G,MIL,1.036,True,False,,,cleared 7.5 RA in 3 of last 10
+2026-11-28,OKC@MIL,OKC,Alex Caruso,RA,5.5,More,10,4.0,5.3,0.538,G,MIL,1.036,True,False,,,cleared 5.5 RA in 4 of last 10
+2026-11-28,OKC@MIL,OKC,Isaiah Hartenstein,RA,15.5,More,10,5.0,16.7,0.474,C,MIL,1.165,True,True,,,cleared 15.5 RA in 5 of last 10
+2026-11-28,OKC@MIL,OKC,Bennett Stirtz,RA,4.5,Less,10,3.0,4.4,0.158,G,MIL,1.036,True,False,OK,MIL gives up a lot of REB to Gs (lean against Under),cleared 4.5 RA in 3 of last 10
+2026-11-28,OKC@MIL,OKC,Shai Gilgeous-Alexander,RA,9.5,More,10,4.0,8.7,0.444,G,MIL,1.036,True,False,,,cleared 9.5 RA in 4 of last 10
+2026-11-28,OKC@MIL,MIL,Myles Turner,RA,7.5,Less,10,8.0,10.0,0.667,C,OKC,0.966,False,False,SKIP,clears this line often: 8 of 10,cleared 7.5 RA in 8 of last 10
+2026-11-28,OKC@MIL,MIL,Kyle Kuzma,RA,7.5,Less,10,3.0,5.9,0.421,F,OKC,1.106,True,True,OK,OKC gives up a lot of REB to Fs (lean against Under); teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 7.5 RA in 3 of last 10
+2026-11-28,OKC@MIL,MIL,Ryan Rollins,RA,8.5,Less,10,5.0,7.8,0.556,G,OKC,0.966,False,True,OK,teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 8.5 RA in 5 of last 10
+2026-11-28,OKC@MIL,MIL,Tyler Herro,RA,8.5,Less,10,3.0,8.2,0.474,G,OKC,0.966,False,True,OK,teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 8.5 RA in 3 of last 10
+2026-11-28,OKC@MIL,MIL,Jaime Jaquez Jr,RA,7.5,More,0,,,,,OKC,,False,False,NO DATA,,no recent games
+2026-11-28,OKC@MIL,OKC,Kenrich Williams,AST,1.5,More,10,7.0,2.0,0.526,G,MIL,1.036,True,False,,,cleared 1.5 AST in 7 of last 10
+2026-11-28,OKC@MIL,MIL,Myles Turner,AST,1.5,More,10,6.0,2.6,0.667,C,OKC,0.966,False,False,,,cleared 1.5 AST in 6 of last 10
+2026-11-28,OKC@MIL,OKC,Jared McCain,AST,1.5,More,10,5.0,1.6,0.526,G,MIL,1.036,True,False,,,cleared 1.5 AST in 5 of last 10
+2026-11-28,OKC@MIL,OKC,Micah Peavy,REB,4.5,Less,10,3.0,4.2,0.308,G,MIL,1.036,True,False,OK,MIL gives up a lot of REB to Gs (lean against Under),cleared 4.5 REB in 3 of last 10
+2026-11-28,OKC@MIL,OKC,Micah Peavy,RA,5.5,Less,10,3.0,4.7,0.231,G,MIL,1.036,True,False,OK,MIL gives up a lot of REB to Gs (lean against Under),cleared 5.5 RA in 3 of last 10
+2026-11-28,PHI@HOU,HOU,Amen Thompson,AST,3.5,Less,10,4.0,3.0,0.444,G,PHI,1.134,True,False,OK,,cleared 3.5 AST in 4 of last 10
+2026-11-28,PHI@HOU,PHI,VJ Edgecombe,AST,4.5,More,10,8.0,5.7,0.526,G,HOU,0.845,False,False,,,cleared 4.5 AST in 8 of last 10
+2026-11-28,PHI@HOU,HOU,Kevin Durant,AST,3.5,Less,10,6.0,4.3,0.474,F,PHI,0.982,False,False,SKIP,clears this line often: 6 of 10,cleared 3.5 AST in 6 of last 10
+2026-11-28,PHI@HOU,PHI,Tyrese Maxey,AST,6.5,Less,10,3.0,5.9,0.263,G,HOU,0.845,False,False,OK,,cleared 6.5 AST in 3 of last 10
+2026-11-28,PHI@HOU,HOU,Alperen Sengun,AST,6.5,Less,10,6.0,6.6,0.706,C,PHI,1.006,False,False,SKIP,clears this line often: 6 of 10,cleared 6.5 AST in 6 of last 10
+2026-11-28,PHI@HOU,HOU,Fred VanVleet,AST,4.5,Less,10,5.0,4.9,0.688,G,PHI,1.134,True,False,OK,,cleared 4.5 AST in 5 of last 10
+2026-11-28,PHI@HOU,HOU,Jabari Smith Jr,REB,6.5,Less,0,,,,,PHI,,False,False,NO DATA,,no recent games
+2026-11-28,PHI@HOU,PHI,Tyrese Maxey,REB,3.5,Less,10,4.0,2.6,0.579,G,HOU,0.845,False,False,OK,,cleared 3.5 REB in 4 of last 10
+2026-11-28,PHI@HOU,PHI,Jabari Walker,REB,6.5,Less,10,4.0,5.8,0.25,F,HOU,0.973,False,False,OK,,cleared 6.5 REB in 4 of last 10
+2026-11-28,PHI@HOU,HOU,Kevin Durant,REB,5.5,More,10,4.0,6.0,0.368,F,PHI,0.982,False,False,,,cleared 5.5 REB in 4 of last 10
+2026-11-28,PHI@HOU,HOU,Alperen Sengun,REB,9.5,Less,10,5.0,9.4,0.471,C,PHI,1.006,False,False,OK,,cleared 9.5 REB in 5 of last 10
+2026-11-28,PHI@HOU,HOU,Marcus Smart,REB,2.5,Less,10,4.0,2.6,0.385,G,PHI,1.134,True,False,OK,PHI gives up a lot of REB to Gs (lean against Under),cleared 2.5 REB in 4 of last 10
+2026-11-28,PHI@HOU,PHI,Kentavious Caldwell-Pope,REB,3.5,Less,10,4.0,3.0,0.25,G,HOU,0.845,False,False,OK,,cleared 3.5 REB in 4 of last 10
+2026-11-28,PHI@HOU,HOU,Tari Eason,REB,5.5,Less,10,5.0,5.6,0.526,F,PHI,0.982,False,False,OK,,cleared 5.5 REB in 5 of last 10
+2026-11-28,PHI@HOU,PHI,VJ Edgecombe,REB,6.5,Less,10,4.0,6.0,0.474,G,HOU,0.845,False,False,OK,,cleared 6.5 REB in 4 of last 10
+2026-11-28,PHI@HOU,HOU,Fred VanVleet,REB,2.5,More,10,4.0,2.4,0.5,G,PHI,1.134,True,False,,,cleared 2.5 REB in 4 of last 10
+2026-11-28,PHI@HOU,HOU,Amen Thompson,REB,6.5,More,10,8.0,7.8,0.611,G,PHI,1.134,True,False,,,cleared 6.5 REB in 8 of last 10
+2026-11-28,PHI@HOU,HOU,Amen Thompson,RA,10.5,More,10,6.0,10.8,0.5,G,PHI,1.134,True,False,,,cleared 10.5 RA in 6 of last 10
+2026-11-28,PHI@HOU,PHI,Kentavious Caldwell-Pope,RA,5.5,Less,10,3.0,5.1,0.25,G,HOU,0.845,False,False,OK,,cleared 5.5 RA in 3 of last 10
+2026-11-28,PHI@HOU,PHI,Anfernee Simons,RA,4.5,More,10,3.0,2.9,0.2,G,HOU,0.845,False,False,,,cleared 4.5 RA in 3 of last 10
+2026-11-28,PHI@HOU,HOU,Kevin Durant,RA,9.5,Less,10,4.0,10.3,0.316,F,PHI,0.982,False,False,OK,,cleared 9.5 RA in 4 of last 10
+2026-11-28,PHI@HOU,HOU,Marcus Smart,RA,4.5,Less,10,5.0,4.9,0.462,G,PHI,1.134,True,False,OK,PHI gives up a lot of REB to Gs (lean against Under),cleared 4.5 RA in 5 of last 10
+2026-11-28,PHI@HOU,PHI,VJ Edgecombe,RA,11.5,Less,10,5.0,11.7,0.368,G,HOU,0.845,False,False,OK,,cleared 11.5 RA in 5 of last 10
+2026-11-28,PHI@HOU,HOU,Alperen Sengun,RA,16.5,Less,10,5.0,16.0,0.588,C,PHI,1.006,False,False,OK,,cleared 16.5 RA in 5 of last 10
+2026-11-28,PHI@HOU,PHI,Tyrese Maxey,RA,9.5,More,10,5.0,8.5,0.316,G,HOU,0.845,False,False,,,cleared 9.5 RA in 5 of last 10
+2026-11-28,PHI@HOU,HOU,Fred VanVleet,RA,7.5,Less,10,5.0,7.3,0.688,G,PHI,1.134,True,False,OK,PHI gives up a lot of REB to Gs (lean against Under),cleared 7.5 RA in 5 of last 10
+2026-11-28,PHI@HOU,HOU,Jabari Smith Jr,AST,1.5,Less,0,,,,,PHI,,False,False,NO DATA,,no recent games
+2026-11-28,PHI@HOU,PHI,Kentavious Caldwell-Pope,AST,2.5,Less,10,4.0,2.1,0.3,G,HOU,0.845,False,False,OK,,cleared 2.5 AST in 4 of last 10
+2026-11-28,PHI@HOU,HOU,Marcus Smart,AST,1.5,More,10,7.0,2.3,0.692,G,PHI,1.134,True,False,,,cleared 1.5 AST in 7 of last 10
+2026-11-28,PHI@HOU,PHI,Anfernee Simons,AST,2.5,Less,10,1.0,1.3,0.1,G,HOU,0.845,False,False,OK,,cleared 2.5 AST in 1 of last 10
+2026-11-28,PHI@HOU,PHI,Dominick Barlow,REB,4.5,Less,4,2.0,5.5,0.5,F,HOU,0.973,False,False,NO DATA,,cleared 4.5 REB in 2 of last 4
+2026-11-28,PHI@HOU,PHI,Anfernee Simons,REB,2.5,Less,10,3.0,1.6,0.3,G,HOU,0.845,False,False,OK,,cleared 2.5 REB in 3 of last 10
+2026-11-28,PHI@HOU,HOU,Jabari Smith Jr,RA,7.5,More,0,,,,,PHI,,False,False,NO DATA,,no recent games
+2026-11-28,PHI@HOU,PHI,Jabari Walker,RA,7.5,Less,10,4.0,7.1,0.25,F,HOU,0.973,False,False,OK,,cleared 7.5 RA in 4 of last 10
+2026-11-28,PHI@HOU,PHI,Dominick Barlow,RA,5.5,Less,4,2.0,6.0,0.5,F,HOU,0.973,False,False,NO DATA,,cleared 5.5 RA in 2 of last 4
+2026-11-28,PHI@HOU,HOU,Tari Eason,RA,6.5,More,10,8.0,7.4,0.684,F,PHI,0.982,False,False,,,cleared 6.5 RA in 8 of last 10
