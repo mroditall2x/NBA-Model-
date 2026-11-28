@@ -1,47 +1,47 @@
 # Model performance
 
-_Updated 2026-11-26 01:45 CT from `bet_ledger.csv`. Flat 1 unit per pick. Rows are never deleted or edited, losses and voids included._
+_Updated 2026-11-28 01:00 CT from `bet_ledger.csv`. Flat 1 unit per pick. Rows are never deleted or edited, losses and voids included._
 
 ## Live (logged at grading, from the day this tracker started)
 
-**43-58-0 (2 void)**, win rate 42.6%, **-27.85 units**, ROI -27.6%, max drawdown 28.96u
+**48-63-0 (2 void)**, win rate 43.2%, **-29.16 units**, ROI -26.3%, max drawdown 29.58u
 
-Cumulative units by day: 11-14 -1.99, 11-15 -1.85, 11-16 -8.19, 11-17 -14.19, 11-18 -15.79, 11-19 -21.17, 11-20 -16.74, 11-21 -20.12, 11-22 -21.67, 11-23 -23.11, 11-24 -25.67, 11-25 -27.85
+Cumulative units by day: 11-14 -1.99, 11-15 -1.85, 11-16 -8.19, 11-17 -14.19, 11-18 -15.79, 11-19 -21.17, 11-20 -16.74, 11-21 -20.12, 11-22 -21.67, 11-23 -23.11, 11-24 -25.67, 11-25 -27.85, 11-27 -29.16
 
 ### By price basis
 
 | price_basis | picks | record | win_pct | units | roi | max_dd |
 |---|---|---|---|---|---|---|
 | DFS (-120 assumed) | 1 | 0-0-0 (1 void) | - | +0.00 | - | - |
-| real book price | 102 | 43-58-0 (1 void) | 42.6% | -27.85 | -27.6% | 28.96u |
+| real book price | 112 | 48-63-0 (1 void) | 43.2% | -29.16 | -26.3% | 29.58u |
 
 ### By tier
 
 | tier | picks | record | win_pct | units | roi | max_dd |
 |---|---|---|---|---|---|---|
-| standard | 103 | 43-58-0 (2 void) | 42.6% | -27.85 | -27.6% | 28.96u |
+| standard | 113 | 48-63-0 (2 void) | 43.2% | -29.16 | -26.3% | 29.58u |
 
 ### By stat group
 
 | stat_group | picks | record | win_pct | units | roi | max_dd |
 |---|---|---|---|---|---|---|
-| other | 29 | 14-14-0 (1 void) | 50.0% | -4.64 | -16.6% | 5.37u |
-| points | 11 | 3-8-0 | 27.3% | -5.61 | -51.0% | 5.61u |
-| reb/ast | 63 | 26-36-0 (1 void) | 41.9% | -17.59 | -28.4% | 18.02u |
+| other | 31 | 16-14-0 (1 void) | 53.3% | -3.09 | -10.3% | 5.37u |
+| points | 12 | 3-9-0 | 25.0% | -6.61 | -55.1% | 6.61u |
+| reb/ast | 70 | 29-40-0 (1 void) | 42.0% | -19.46 | -28.2% | 19.88u |
 
 ### Over vs Under
 
 | side | picks | record | win_pct | units | roi | max_dd |
 |---|---|---|---|---|---|---|
-| Less | 82 | 34-47-0 (1 void) | 42.0% | -22.75 | -28.1% | 23.86u |
-| More | 21 | 9-11-0 (1 void) | 45.0% | -5.10 | -25.5% | 5.10u |
+| Less | 90 | 37-52-0 (1 void) | 41.6% | -25.62 | -28.8% | 26.04u |
+| More | 23 | 11-11-0 (1 void) | 50.0% | -3.54 | -16.1% | 5.10u |
 
 ### Top-5 vs rest
 
 | top | picks | record | win_pct | units | roi | max_dd |
 |---|---|---|---|---|---|---|
-| False | 43 | 19-24-0 | 44.2% | -9.71 | -22.6% | 9.71u |
-| True | 60 | 24-34-0 (2 void) | 41.4% | -18.13 | -31.3% | 19.45u |
+| False | 48 | 20-28-0 | 41.7% | -12.97 | -27.0% | 12.97u |
+| True | 65 | 28-35-0 (2 void) | 44.4% | -16.19 | -25.7% | 19.45u |
 
 ## History (backfilled from graded_log.csv; posting times and some prices unknown)
 
