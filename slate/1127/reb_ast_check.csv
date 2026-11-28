@@ -48,14 +48,13 @@ date,game,team,player,stat,line,side,l10_games,l10_cleared,l10_avg,season_clear,
 2026-11-27,PHI@IND,IND,Pascal Siakam,AST,3.5,More,10,4.0,3.5,0.471,F,PHI,0.977,False,False,,,cleared 3.5 AST in 4 of last 10
 2026-11-27,PHI@IND,IND,Andrew Nembhard,AST,7.5,More,10,6.0,7.5,0.571,G,PHI,1.137,True,False,,,cleared 7.5 AST in 6 of last 10
 2026-11-27,PHI@IND,PHI,VJ Edgecombe,REB,6.5,Less,10,4.0,5.8,0.5,G,IND,1.061,True,False,OK,IND gives up a lot of REB to Gs (lean against Under),cleared 6.5 REB in 4 of last 10
-2026-11-27,PHI@IND,PHI,LeBron James,REB,6.5,Less,10,6.0,6.9,0.6,F,IND,1.006,False,False,OK,,cleared 6.5 REB in 6 of last 10
+2026-11-27,PHI@IND,PHI,LeBron James,REB,6.5,More,10,6.0,6.9,0.6,F,IND,1.006,False,False,,,cleared 6.5 REB in 6 of last 10
 2026-11-27,PHI@IND,IND,Pascal Siakam,REB,6.5,Less,10,4.0,5.4,0.471,F,PHI,0.977,False,False,OK,,cleared 6.5 REB in 4 of last 10
-2026-11-27,PHI@IND,PHI,Tyrese Maxey,REB,3.5,Less,10,4.0,2.6,0.611,G,IND,1.061,True,False,OK,IND gives up a lot of REB to Gs (lean against Under),cleared 3.5 REB in 4 of last 10
+2026-11-27,PHI@IND,PHI,Tyrese Maxey,REB,3.5,More,10,4.0,2.6,0.611,G,IND,1.061,True,False,,,cleared 3.5 REB in 4 of last 10
 2026-11-27,PHI@IND,IND,Aaron Nesmith,REB,3.5,Less,10,4.0,3.8,0.333,G,PHI,1.137,True,False,OK,PHI gives up a lot of REB to Gs (lean against Under),cleared 3.5 REB in 4 of last 10
 2026-11-27,PHI@IND,IND,Obi Toppin,REB,4.5,Less,10,4.0,3.7,0.533,F,PHI,0.977,False,False,OK,,cleared 4.5 REB in 4 of last 10
-2026-11-27,PHI@IND,PHI,Dean Wade,REB,4.5,Less,10,6.0,5.1,0.533,F,IND,1.006,False,False,OK,,cleared 4.5 REB in 6 of last 10
 2026-11-27,PHI@IND,IND,Ivica Zubac,REB,9.5,Less,10,6.0,9.1,0.615,C,PHI,0.993,False,False,OK,,cleared 9.5 REB in 6 of last 10
-2026-11-27,PHI@IND,PHI,Joel Embiid,REB,8.5,Less,10,3.0,8.5,0.429,C,IND,1.215,True,False,OK,IND gives up a lot of REB to Cs (lean against Under),cleared 8.5 REB in 3 of last 10
+2026-11-27,PHI@IND,PHI,Joel Embiid,REB,8.5,More,10,3.0,8.5,0.429,C,IND,1.215,True,False,,,cleared 8.5 REB in 3 of last 10
 2026-11-27,PHI@IND,PHI,VJ Edgecombe,RA,10.5,Less,10,5.0,11.0,0.444,G,IND,1.061,True,False,OK,IND gives up a lot of REB to Gs (lean against Under),cleared 10.5 RA in 5 of last 10
 2026-11-27,PHI@IND,IND,Pascal Siakam,RA,9.5,More,10,3.0,8.9,0.412,F,PHI,0.977,False,False,,,cleared 9.5 RA in 3 of last 10
 2026-11-27,PHI@IND,PHI,Tyrese Maxey,RA,8.5,More,10,5.0,8.6,0.556,G,IND,1.061,True,False,,,cleared 8.5 RA in 5 of last 10
@@ -71,7 +70,6 @@ date,game,team,player,stat,line,side,l10_games,l10_cleared,l10_avg,season_clear,
 2026-11-27,PHI@IND,IND,Ivica Zubac,AST,1.5,More,10,5.0,1.9,0.538,C,PHI,0.993,False,False,,,cleared 1.5 AST in 5 of last 10
 2026-11-27,PHI@IND,IND,Obi Toppin,RA,6.5,Less,10,2.0,5.5,0.267,F,PHI,0.977,False,False,OK,,cleared 6.5 RA in 2 of last 10
 2026-11-27,PHI@IND,PHI,Dominick Barlow,RA,5.5,Less,3,1.0,5.0,0.333,F,IND,1.006,False,False,NO DATA,,cleared 5.5 RA in 1 of last 3
-2026-11-27,PHI@IND,PHI,Dean Wade,RA,5.5,Less,10,6.0,6.3,0.533,F,IND,1.006,False,False,SKIP,clears this line often: 6 of 10,cleared 5.5 RA in 6 of last 10
 2026-11-27,PHI@IND,IND,Kelly Oubre Jr.,REB,3.5,More,10,7.0,3.9,0.5,G,PHI,1.137,True,False,,,cleared 3.5 REB in 7 of last 10
 2026-11-27,PHI@IND,IND,Kelly Oubre Jr.,RA,4.5,More,10,6.0,4.7,0.5,G,PHI,1.137,True,False,,,cleared 4.5 RA in 6 of last 10
 2026-11-27,ATL@BOS,BOS,Derrick White,AST,4.5,More,10,7.0,5.1,0.588,G,ATL,0.98,False,True,,,cleared 4.5 AST in 7 of last 10
@@ -352,7 +350,7 @@ date,game,team,player,stat,line,side,l10_games,l10_cleared,l10_avg,season_clear,
 2026-11-27,MEM@MIN,MIN,Rudy Gobert,AST,1.5,More,10,6.0,1.7,0.5,C,MEM,0.88,False,False,,,cleared 1.5 AST in 6 of last 10
 2026-11-27,MEM@MIN,MEM,Ty Jerome,AST,5.5,Less,10,3.0,4.8,0.429,G,MIN,1.047,True,True,OK,teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 5.5 AST in 3 of last 10
 2026-11-27,MEM@MIN,MEM,Cedric Coward,REB,7.5,More,10,5.0,7.7,0.556,F,MIN,0.916,False,False,,,cleared 7.5 REB in 5 of last 10
-2026-11-27,MEM@MIN,MEM,Jaylen Wells,REB,3.5,Less,10,5.0,3.4,0.421,F,MIN,0.916,False,False,OK,,cleared 3.5 REB in 5 of last 10
+2026-11-27,MEM@MIN,MEM,Jaylen Wells,REB,3.5,More,10,5.0,3.4,0.421,F,MIN,0.916,False,False,,,cleared 3.5 REB in 5 of last 10
 2026-11-27,MEM@MIN,MIN,Terrence Shannon Jr.,REB,3.5,Less,10,3.0,3.0,0.438,G,MEM,0.942,False,False,OK,,cleared 3.5 REB in 3 of last 10
 2026-11-27,MEM@MIN,MIN,Ayo Dosunmu,REB,4.5,More,10,1.0,3.3,0.316,G,MEM,0.942,False,False,,,cleared 4.5 REB in 1 of last 10
 2026-11-27,MEM@MIN,MIN,Jaden McDaniels,REB,5.5,More,10,6.0,6.6,0.737,F,MEM,0.954,False,True,,,cleared 5.5 REB in 6 of last 10
@@ -370,7 +368,7 @@ date,game,team,player,stat,line,side,l10_games,l10_cleared,l10_avg,season_clear,
 2026-11-27,MEM@MIN,MIN,Rudy Gobert,RA,11.5,More,10,4.0,10.9,0.5,C,MEM,0.88,False,False,,,cleared 11.5 RA in 4 of last 10
 2026-11-27,MEM@MIN,MEM,Ty Jerome,RA,8.5,Less,10,4.0,8.4,0.5,G,MIN,1.047,True,True,OK,MIN gives up a lot of REB to Gs (lean against Under); teammates shooting cold lately - assists due to bounce back (lean against Under),cleared 8.5 RA in 4 of last 10
 2026-11-27,MEM@MIN,MEM,Kris Murray,AST,1.5,Less,10,2.0,0.8,0.133,F,MIN,0.916,False,False,OK,,cleared 1.5 AST in 2 of last 10
-2026-11-27,MEM@MIN,MEM,Javon Small,REB,2.5,Less,10,5.0,3.2,0.455,G,MIN,1.047,True,False,OK,MIN gives up a lot of REB to Gs (lean against Under),cleared 2.5 REB in 5 of last 10
+2026-11-27,MEM@MIN,MEM,Javon Small,REB,2.5,More,10,5.0,3.2,0.455,G,MIN,1.047,True,False,,,cleared 2.5 REB in 5 of last 10
 2026-11-27,MEM@MIN,MEM,Cam Spencer,REB,2.5,More,10,3.0,2.3,0.421,G,MIN,1.047,True,False,,,cleared 2.5 REB in 3 of last 10
 2026-11-27,MEM@MIN,MEM,Zach Edey,RA,8.5,More,10,5.0,8.0,0.467,C,MIN,0.926,False,False,,,cleared 8.5 RA in 5 of last 10
 2026-11-27,MEM@MIN,MEM,Jaylen Wells,RA,5.5,Less,10,4.0,4.5,0.368,F,MIN,0.916,False,False,OK,,cleared 5.5 RA in 4 of last 10

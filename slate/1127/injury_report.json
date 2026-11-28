@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-27T23:22:26.031294+00:00",
+ "checked": "2026-11-28T00:22:39.702736+00:00",
  "games": {
   "MIA@NY": [
    {
@@ -19,12 +19,6 @@
     "team": "NY",
     "status": "Out",
     "note": "Clarkson (foot) is out for Friday's game against the Heat."
-   },
-   {
-    "player": "Karl-Anthony Towns",
-    "team": "NY",
-    "status": "Day-To-Day",
-    "note": "Towns is questionable for Friday's game against the Heat due to a right abdominal contusion."
    },
    {
     "player": "Andre Drummond",
@@ -111,12 +105,6 @@
     "note": "McConnell (hamstring) has been ruled out for Friday's game against the 76ers, Alex Golden of SI.com reports."
    },
    {
-    "player": "Larry Nance Jr.",
-    "team": "IND",
-    "status": "Day-To-Day",
-    "note": "Nance (ankle) is probable for Friday's game against the 76ers."
-   },
-   {
     "player": "Tyrese Haliburton",
     "team": "IND",
     "status": "Out",
@@ -129,16 +117,16 @@
     "note": "Head coach Rick Carlise confirmed Sheppard will miss \"months\" after undergoing surgery to repair a torn meniscus in his left knee, Tony East of Forbes.com reports."
    },
    {
-    "player": "Joel Embiid",
+    "player": "Dean Wade",
     "team": "PHI",
-    "status": "Day-To-Day",
-    "note": "Embiid (illness) was at shootaround for the 76ers on Friday, Chris Hine of The Philly Inquirer reports."
+    "status": "Out",
+    "note": "Wade (hamstring) is out for Friday's game against the Pacers, Austin Krell of Vertical 76 reports."
    },
    {
     "player": "Jaylen Brown",
     "team": "PHI",
     "status": "Out",
-    "note": "Brown (hamstring) is out for Friday's game against the Pacers."
+    "note": "Brown (hamstring) underwent an MRI that showed no signs of a new injury or re-aggravation, but he didn't travel with the team for the road trip, so he will miss the team's next two games, Kris Rhim of ESPN reports."
    },
    {
     "player": "Ariel Hukporti",
@@ -189,7 +177,7 @@
    {
     "player": "Isaiah Stewart",
     "team": "MEM",
-    "status": "Day-To-Day",
+    "status": "Out",
     "note": "Stewart is questionable for Friday's game against the Timberwolves due to right hip soreness."
    },
    {

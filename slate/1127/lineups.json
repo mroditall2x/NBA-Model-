@@ -1,6 +1,6 @@
 {
  "MIA": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Davion Mitchell",
    "Klay Thompson",
@@ -14,7 +14,7 @@
   "prob": []
  },
  "NY": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Jalen Brunson",
    "Mikal Bridges",
@@ -28,14 +28,12 @@
    "Andre Drummond",
    "Miles McBride"
   ],
-  "ques": [
-   "Karl-Anthony Towns"
-  ],
+  "ques": [],
   "doubt": [],
   "prob": []
  },
  "MIL": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Ryan Rollins",
    "Tyler Herro",
@@ -51,7 +49,7 @@
   "prob": []
  },
  "DET": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Daniss Jenkins",
    "Isaiah Joe",
@@ -71,26 +69,25 @@
   "prob": []
  },
  "PHI": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Tyrese Maxey",
    "VJ Edgecombe",
-   "Kentavious Caldwell-Pope",
    "LeBron James",
+   "Dominick Barlow",
    "Joel Embiid"
   ],
   "out": [
    "Ariel Hukporti",
-   "Jaylen Brown"
+   "Jaylen Brown",
+   "Dean Wade"
   ],
-  "ques": [
-   "Joel Embiid"
-  ],
+  "ques": [],
   "doubt": [],
   "prob": []
  },
  "IND": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Andrew Nembhard",
    "Kelly Oubre",
@@ -106,14 +103,12 @@
   ],
   "ques": [],
   "doubt": [],
-  "prob": [
-   "Larry Nance"
-  ]
+  "prob": []
  },
  "BKN": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
-   "Egor Demin",
+   "Mikel Brown",
    "Michael Porter",
    "Danny Wolf",
    "Julius Randle",
@@ -128,13 +123,13 @@
   "prob": []
  },
  "TOR": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Immanuel Quickley",
    "Ja'Kobe Walter",
    "Allen Graves",
    "Scottie Barnes",
-   "Collin Murray-Boyles"
+   "Jakob Poeltl"
   ],
   "out": [
    "RJ Barrett",
@@ -193,11 +188,11 @@
    "Cameron Boozer",
    "Jerami Grant",
    "GG Jackson",
-   "Scotty Pippen"
+   "Scotty Pippen",
+   "Isaiah Stewart"
   ],
   "ques": [
-   "Zach Edey",
-   "Isaiah Stewart"
+   "Zach Edey"
   ],
   "doubt": [],
   "prob": []
