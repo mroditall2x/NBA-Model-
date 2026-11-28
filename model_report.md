@@ -1,6 +1,6 @@
 # Model error report
 
-_Updated 2026-11-28 01:00 CT. 387 graded picks with a model probability (2026-10-21 to 2026-11-27). Report only: nothing here changes the model._
+_Updated 2026-11-28 01:15 CT. 387 graded picks with a model probability (2026-10-21 to 2026-11-27). Report only: nothing here changes the model._
 
 **Overall:** model said 65.2%, picks hit 57.1% (221-166). z = -3.4 -> LIKELY REAL (model too high).
 
