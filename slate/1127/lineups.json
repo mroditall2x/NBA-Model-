@@ -215,11 +215,11 @@
   "prob": []
  },
  "DAL": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
-   "Walter Clayton",
-   "Caleb Martin",
    "Cooper Flagg",
+   "Caleb Martin",
+   "Zaccharie Risacher",
    "P.J. Washington",
    "Daniel Gafford"
   ],
@@ -235,7 +235,7 @@
   "prob": []
  },
  "PHX": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Devin Booker",
    "Jalen Green",
@@ -251,7 +251,7 @@
   "prob": []
  },
  "NO": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Jeremiah Fears",
    "Herbert Jones",
@@ -268,7 +268,7 @@
   "prob": []
  },
  "LAC": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Darius Garland",
    "Brandon Ingram",
@@ -285,7 +285,7 @@
   "prob": []
  },
  "GS": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "De'Anthony Melton",
    "Brandin Podziemski",
@@ -304,7 +304,7 @@
   "prob": []
  },
  "POR": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Jrue Holiday",
    "Sidy Cissoko",
@@ -324,12 +324,12 @@
   "prob": []
  },
  "LAL": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Luka Doncic",
    "Austin Reaves",
    "Matisse Thybulle",
-   "Ziaire Williams",
+   "Jake LaRavia",
    "Walker Kessler"
   ],
   "out": [],
@@ -338,27 +338,24 @@
   "prob": []
  },
  "SA": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "De'Aaron Fox",
-   "Dylan Harper",
-   "Stephon Castle",
    "Devin Vassell",
+   "Stephon Castle",
+   "Julian Champagnie",
    "Victor Wembanyama"
   ],
   "out": [
    "Tobias Harris",
    "Jayden Quaintance"
   ],
-  "ques": [
-   "De'Aaron Fox",
-   "Dylan Harper"
-  ],
+  "ques": [],
   "doubt": [],
   "prob": []
  },
  "DEN": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Jamal Murray",
    "Christian Braun",
@@ -372,23 +369,20 @@
   "prob": []
  },
  "UTAH": {
-  "status": "expected",
+  "status": "confirmed",
   "starters": [
    "Keyonte George",
    "Darryn Peterson",
    "Josh Green",
    "Ace Bailey",
-   "Jaxson Hayes"
+   "Jusuf Nurkic"
   ],
   "out": [
+   "Mo Bamba",
    "Jaren Jackson",
    "Lauri Markkanen"
   ],
-  "ques": [
-   "Mo Bamba",
-   "Jaxson Hayes",
-   "Jusuf Nurkic"
-  ],
+  "ques": [],
   "doubt": [],
   "prob": []
  }

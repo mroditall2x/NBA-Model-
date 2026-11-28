@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-28T01:22:32.183088+00:00",
+ "checked": "2026-11-28T02:22:30.096934+00:00",
  "games": {
   "MIA@NY": [
    {
@@ -277,20 +277,8 @@
    {
     "player": "Mo Bamba",
     "team": "UTAH",
-    "status": "Day-To-Day",
-    "note": "Bamba (illness) is listed as questionable for Friday's game against the Nuggets, according to the Jazz's injury report."
-   },
-   {
-    "player": "Jaxson Hayes",
-    "team": "UTAH",
-    "status": "Day-To-Day",
-    "note": "Hayes (knee) is questionable for Friday's game against the Nuggets."
-   },
-   {
-    "player": "Jusuf Nurkic",
-    "team": "UTAH",
     "status": "Out",
-    "note": "Nurkic (foot) is questionable for Friday's game against the Nuggets."
+    "note": "Bamba (illness) has been ruled out for Friday's game against the Nuggets."
    },
    {
     "player": "Lauri Markkanen",
@@ -375,16 +363,10 @@
     "note": "Miller underwent surgery Wednesday to repair a torn left rotator cuff and will be re-evaluated in six months, per Law Murray of The Athletic."
    },
    {
-    "player": "Trendon Watford",
-    "team": "NO",
-    "status": "Out",
-    "note": "Watford (ankle) is probable for Friday's game against the Clippers."
-   },
-   {
     "player": "Bennedict Mathurin",
     "team": "NO",
     "status": "Out",
-    "note": "Mathurin (foot) is doubtful for Friday's game against the Clippers."
+    "note": "Mathurin (foot) is out for Friday's game against the Clippers."
    },
    {
     "player": "Julian Reese",
@@ -400,18 +382,6 @@
    }
   ],
   "LAL@SA": [
-   {
-    "player": "Dylan Harper",
-    "team": "SA",
-    "status": "Out",
-    "note": "Harper (hip) participated in Friday's morning shootaround, per Matt Guzman of SI.com."
-   },
-   {
-    "player": "De'Aaron Fox",
-    "team": "SA",
-    "status": "Day-To-Day",
-    "note": "Fox (shin) is questionable for Friday's game against the Lakers."
-   },
    {
     "player": "Tobias Harris",
     "team": "SA",
