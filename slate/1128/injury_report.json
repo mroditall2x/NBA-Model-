@@ -1,0 +1,249 @@
+{
+ "checked": "2026-11-28T16:22:33.444199+00:00",
+ "games": {
+  "ORL@WSH": [
+   {
+    "player": "Colin Castleton",
+    "team": "ORL",
+    "status": "Out",
+    "note": "Castleton totaled five points (2-4 FG, 1-1 3Pt) and four rebounds in seven minutes during Tuesday's 132-116 preseason win over the Cavaliers."
+   },
+   {
+    "player": "Kevin Porter Jr.",
+    "team": "ORL",
+    "status": "Out",
+    "note": "Porter won't play Saturday against the Wizards as he's still in the process of getting up to speed on his conditioning."
+   },
+   {
+    "player": "Anthony Black",
+    "team": "ORL",
+    "status": "Day-To-Day",
+    "note": "Black (back) is questionable for Saturday's game against the Wizards."
+   },
+   {
+    "player": "Jonathan Isaac",
+    "team": "ORL",
+    "status": "Out",
+    "note": "Isaac (knee) is out for Sunday's game against the Wizards."
+   },
+   {
+    "player": "Izaiyah Nelson",
+    "team": "ORL",
+    "status": "Out",
+    "note": "Head coach Sean Sweeney said Wednesday that Nelson (ankle) has been doing \"some on-court stuff,\" though Sweeney added that the work has been \"minimal,\" Jason Beede of the Orlando Sentinel reports."
+   },
+   {
+    "player": "Noah Penda",
+    "team": "ORL",
+    "status": "Out",
+    "note": "Penda (hamstring) is making progress but remains without a timetable to return to game action, Jason Beede of the Orlando Sentinel reports."
+   },
+   {
+    "player": "Paolo Banchero",
+    "team": "ORL",
+    "status": "Out",
+    "note": "Banchero is expected to be sidelined for the next four-to-six weeks due to a right high-ankle sprain, Shams Charania of ESPN reports."
+   },
+   {
+    "player": "Tristan Vukcevic",
+    "team": "WSH",
+    "status": "Out",
+    "note": "Vukcevic (hip) has been ruled out for Tuesday's game against Boston."
+   },
+   {
+    "player": "Reece Beekman",
+    "team": "WSH",
+    "status": "Out",
+    "note": "The Wizards announced Monday that Beekman sustained a right acromioclavicular joint injury and will be re-evaluated in approximately three weeks."
+   },
+   {
+    "player": "Justin Champagnie",
+    "team": "WSH",
+    "status": "Out",
+    "note": "Champagnie (foot) is expected to miss several months, per Josh Robbins of The Athletic."
+   },
+   {
+    "player": "Jamir Watkins",
+    "team": "WSH",
+    "status": "Out",
+    "note": "The Wizards announced Thursday that Watkins has undergone surgery for a torn ACL."
+   }
+  ],
+  "BKN@CHA": [
+   {
+    "player": "Moritz Wagner",
+    "team": "BKN",
+    "status": "Day-To-Day",
+    "note": "Wagner (knee) won't be available for Friday's game against Toronto."
+   },
+   {
+    "player": "Nolan Traore",
+    "team": "BKN",
+    "status": "Out",
+    "note": "Traore will be re-evaluated in approximately 8-10 weeks due to a right hamstring strain, Michael Scotto of HoopsHype.com reports."
+   },
+   {
+    "player": "Michael Ajayi",
+    "team": "CHA",
+    "status": "Day-To-Day",
+    "note": "Charlotte transferred Ajayi to the G League on Tuesday."
+   },
+   {
+    "player": "Grayson Allen",
+    "team": "CHA",
+    "status": "Out",
+    "note": "Allen (concussion) is questionable for Saturday's game against the Nets."
+   },
+   {
+    "player": "Ryan Kalkbrenner",
+    "team": "CHA",
+    "status": "Day-To-Day",
+    "note": "Kalkbrenner (hip) is probable for Saturday's matchup with Brooklyn."
+   },
+   {
+    "player": "Dennis Schroder",
+    "team": "CHA",
+    "status": "Out",
+    "note": "Schroder (hamstring) is out for Wednesday's game the Bulls."
+   },
+   {
+    "player": "Kon Knueppel",
+    "team": "CHA",
+    "status": "Out",
+    "note": "Knueppel (hamstring) was diagnosed with a left hamstring strain Sunday and will be re-evaluated in four weeks."
+   }
+  ],
+  "IND@CHI": [
+   {
+    "player": "Norman Powell",
+    "team": "CHI",
+    "status": "Out",
+    "note": "Powell (hamstring) is out for Saturday's game against the Pacers."
+   },
+   {
+    "player": "Noa Essengue",
+    "team": "CHI",
+    "status": "Day-To-Day",
+    "note": "Essengue (thumb) is probable to play Saturday against the Pacers."
+   },
+   {
+    "player": "Jalen Smith",
+    "team": "CHI",
+    "status": "Day-To-Day",
+    "note": "Smith (illness) is listed as probable for Saturday's game against Indiana."
+   },
+   {
+    "player": "Caleb Wilson",
+    "team": "CHI",
+    "status": "Out",
+    "note": "Wilson (hand) is expected to miss four to six weeks, Shams Charania of ESPN reports."
+   },
+   {
+    "player": "Tyrese Haliburton",
+    "team": "IND",
+    "status": "Out",
+    "note": "The Pacers recalled Haliburton (hamstring) from the G League's Noblesville Boom on Friday, per the NBA G League transaction report."
+   },
+   {
+    "player": "T.J. McConnell",
+    "team": "IND",
+    "status": "Out",
+    "note": "McConnell (hamstring) has been ruled out for Friday's game against the 76ers, Alex Golden of SI.com reports."
+   },
+   {
+    "player": "Ben Sheppard",
+    "team": "IND",
+    "status": "Out",
+    "note": "Head coach Rick Carlise confirmed Sheppard will miss \"months\" after undergoing surgery to repair a torn meniscus in his left knee, Tony East of Forbes.com reports."
+   }
+  ],
+  "OKC@MIL": [
+   {
+    "player": "Kasparas Jakucionis",
+    "team": "MIL",
+    "status": "Day-To-Day",
+    "note": "Jakucionis (ankle) won't play Friday's game against the Pistons."
+   },
+   {
+    "player": "Nikola Topic",
+    "team": "OKC",
+    "status": "Out",
+    "note": "Topic (hip) is out for Saturday's game against the Bucks, Brandon Rahbar of DailyThunder.com reports."
+   },
+   {
+    "player": "Aday Mara",
+    "team": "OKC",
+    "status": "Out",
+    "note": "Mara (leg) is out for Saturday's game versus the Bucks, per Clemente Almanza of USA Today."
+   },
+   {
+    "player": "Jaylin Williams",
+    "team": "OKC",
+    "status": "Out",
+    "note": "Williams (back) is listed as out for Wednesday's game against Minnesota."
+   },
+   {
+    "player": "Jalen Williams",
+    "team": "OKC",
+    "status": "Out",
+    "note": "Williams (ankle) has been ruled out for Monday's game against the Pacers, according to the NBA's official injury report."
+   },
+   {
+    "player": "Thomas Sorber",
+    "team": "OKC",
+    "status": "Out",
+    "note": "Sorber underwent an arthroscopic knee procedure Tuesday to address inflammation at the patellofemoral joint in his right knee, and he's expected to return to on-court activities in 6-8 weeks, Steve McGehee of News 9 Oklahoma City reports."
+   },
+   {
+    "player": "Cason Wallace",
+    "team": "OKC",
+    "status": "Out",
+    "note": "Wallace underwent surgery Friday to repair a torn labrum in his left shoulder and will be re-evaluated before the end of the regular season, Clemente Almanza of USA Today reports."
+   },
+   {
+    "player": "Chet Holmgren",
+    "team": "OKC",
+    "status": "Out",
+    "note": "Holmgren underwent a biological treatment Friday to address a small patellar tendon tear and will miss at least 8-10 weeks, Nick Crain of Slam reports."
+   }
+  ],
+  "PHI@HOU": [
+   {
+    "player": "Steven Adams",
+    "team": "HOU",
+    "status": "Day-To-Day",
+    "note": "Adams (knee) is questionable for Saturday's game against the 76ers."
+   },
+   {
+    "player": "Dean Wade",
+    "team": "PHI",
+    "status": "Day-To-Day",
+    "note": "Wade (hamstring) is out for Friday's game against the Pacers, Austin Krell of Vertical 76 reports."
+   },
+   {
+    "player": "Joel Embiid",
+    "team": "PHI",
+    "status": "Out",
+    "note": "Embiid has been ruled out for Saturday's game against the Rockets due to right foot plantar fasciitis management, Kris Rhim of ESPN.com reports."
+   },
+   {
+    "player": "LeBron James",
+    "team": "PHI",
+    "status": "Out",
+    "note": "James (back injury management) won't be available for Saturday's game against the Rockets, according to Kris Rhim of ESPN."
+   },
+   {
+    "player": "Jaylen Brown",
+    "team": "PHI",
+    "status": "Out",
+    "note": "Brown (hamstring) underwent an MRI that showed no signs of a new injury or re-aggravation, but he didn't travel with the team for the road trip, so he will miss the team's next two games, Kris Rhim of ESPN reports."
+   },
+   {
+    "player": "Ariel Hukporti",
+    "team": "PHI",
+    "status": "Out",
+    "note": "Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania of ESPN."
+   }
+  ]
+ }
+}
