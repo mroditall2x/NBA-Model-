@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-28T03:22:33.354855+00:00",
+ "checked": "2026-11-28T04:22:29.992687+00:00",
  "games": {
   "MIA@NY": [
    {
@@ -301,6 +301,12 @@
   ],
   "GS@POR": [
    {
+    "player": "Gui Santos",
+    "team": "GS",
+    "status": "Out",
+    "note": "Santos registered 22 points (8-11 FG, 2-4 3Pt, 4-4 FT), three rebounds, one assist and two steals across 24 minutes off the bench during Wednesday's 129-110 win over Sacramento."
+   },
+   {
     "player": "Stephen Curry",
     "team": "GS",
     "status": "Out",
@@ -356,6 +362,12 @@
    }
   ],
   "NO@LAC": [
+   {
+    "player": "Yanic Konan Niederhauser",
+    "team": "LAC",
+    "status": "Out",
+    "note": "Niederhauser ended with six points (2-3 FG, 2-2 FT), six rebounds, one assist, two blocks and one steal over 16 minutes during Saturday's 110-100 loss to Dallas."
+   },
    {
     "player": "Bradley Beal",
     "team": "LAC",
